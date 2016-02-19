@@ -1,0 +1,186 @@
+<templateSet group="JavaFX (Gluon)">
+  <template name="fxprop-boolean-readonly" value="// $NAME$Property&#10;private final ReadOnlyBooleanWrapper $NAME$Property = new ReadOnlyBooleanWrapper(this, &quot;$NAME$&quot;);&#10;public final ReadOnlyBooleanProperty $NAME$Property() {&#10;   return $NAME$Property.getReadOnlyProperty();&#10;}&#10;public final boolean is$SNAME$() {&#10;   return $NAME$Property.get();&#10;}" description="Creates a read-only JavaFX BooleanProperty" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="decapitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="SNAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="fxprop-string-readonly" value="// $NAME$Property&#10;private final ReadOnlyStringWrapper $NAME$Property = new ReadOnlyStringWrapper(this, &quot;$NAME$&quot;);&#10;public final ReadOnlyStringProperty $NAME$Property() {&#10;   return $NAME$Property.getReadOnlyProperty();&#10;}&#10;public final String get$SNAME$() {&#10;   return $NAME$Property.get();&#10;}&#10;" description="Creates a read-only JavaFX StringProperty" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="decapitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="SNAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="fxprop-string" value="// $NAME$Property&#10;private final StringProperty $NAME$Property = new SimpleStringProperty(this, &quot;$NAME$&quot;);&#10;public final StringProperty $NAME$Property() {&#10;   return $NAME$Property;&#10;}&#10;public final String get$SNAME$() {&#10;   return $NAME$Property.get();&#10;}&#10;public final void set$SNAME$(String value) {&#10;    $NAME$Property.set(value);&#10;}&#10;" description="Creates a JavaFX StringProperty" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="decapitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="SNAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="fxprop-boolean" value="// $NAME$Property&#10;private final BooleanProperty $NAME$Property = new SimpleBooleanProperty(this, &quot;$NAME$&quot;);&#10;public final BooleanProperty $NAME$Property() {&#10;   return $NAME$Property;&#10;}&#10;public final boolean is$SNAME$() {&#10;   return $NAME$Property.get();&#10;}&#10;public final void set$SNAME$(boolean value) {&#10;    $NAME$Property.set(value);&#10;}&#10;" description="Creates a JavaFX BooleanProperty" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="decapitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="SNAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="fxprop-integer" value="// $NAME$Property&#10;private final IntegerProperty $NAME$Property = new SimpleIntegerProperty(this, &quot;$NAME$&quot;);&#10;public final IntegerProperty $NAME$Property() {&#10;   return $NAME$Property;&#10;}&#10;public final int get$SNAME$() {&#10;   return $NAME$Property.get();&#10;}&#10;public final void set$SNAME$(int value) {&#10;    $NAME$Property.set(value);&#10;}&#10;" description="Creates a JavaFX IntegerProperty" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="decapitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="SNAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="fxprop-integer-readonly" value="// $NAME$Property&#10;private final ReadOnlyIntegerWrapper $NAME$Property = new ReadOnlyIntegerWrapper(this, &quot;$NAME$&quot;);&#10;public final ReadOnlyIntegerProperty $NAME$Property() {&#10;   return $NAME$Property.getReadOnlyProperty();&#10;}&#10;public final int get$SNAME$() {&#10;   return $NAME$Property.get();&#10;}" description="Creates a read-only JavaFX IntegerProperty" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="decapitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="SNAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="fxprop-float" value="// $NAME$Property&#10;private final FloatProperty $NAME$Property = new SimpleFloatProperty(this, &quot;$NAME$&quot;);&#10;public final FloatProperty $NAME$Property() {&#10;   return $NAME$Property;&#10;}&#10;public final float get$SNAME$() {&#10;   return $NAME$Property.get();&#10;}&#10;public final void set$SNAME$(float value) {&#10;    $NAME$Property.set(value);&#10;}&#10;" description="Creates a JavaFX FloatProperty" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="decapitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="SNAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="fxprop-float-readonly" value="// $NAME$Property&#10;private final ReadOnlyFloatWrapper $NAME$Property = new ReadOnlyFloatWrapper(this, &quot;$NAME$&quot;);&#10;public final ReadOnlyFloatProperty $NAME$Property() {&#10;   return $NAME$Property.getReadOnlyProperty();&#10;}&#10;public final float get$SNAME$() {&#10;   return $NAME$Property.get();&#10;}" description="Creates a read-only JavaFX FloatProperty" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="decapitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="SNAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="fxprop-double" value="// $NAME$Property&#10;private final DoubleProperty $NAME$Property = new SimpleDoubleProperty(this, &quot;$NAME$&quot;);&#10;public final DoubleProperty $NAME$Property() {&#10;   return $NAME$Property;&#10;}&#10;public final double get$SNAME$() {&#10;   return $NAME$Property.get();&#10;}&#10;public final void set$SNAME$(double value) {&#10;    $NAME$Property.set(value);&#10;}&#10;" description="Creates a JavaFX DoubleProperty" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="decapitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="SNAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="fxprop-double-readonly" value="// $NAME$Property&#10;private final ReadOnlyDoubleWrapper $NAME$Property = new ReadOnlyDoubleWrapper(this, &quot;$NAME$&quot;);&#10;public final ReadOnlyDoubleProperty $NAME$Property() {&#10;   return $NAME$Property.getReadOnlyProperty();&#10;}&#10;public final double get$SNAME$() {&#10;   return $NAME$Property.get();&#10;}" description="Creates a read-only JavaFX DoubleProperty" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="decapitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="SNAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="fxprop-object" value="// $NAME$Property&#10;private final ObjectProperty&lt;$TYPE$&gt; $NAME$$END$Property = new SimpleObjectProperty&lt;&gt;(this, &quot;$NAME$&quot;);&#10;public final ObjectProperty&lt;$TYPE$&gt; $NAME$Property() {&#10;   return $NAME$Property;&#10;}&#10;public final $TYPE$ get$SNAME$() {&#10;   return $NAME$Property.get();&#10;}&#10;public final void set$SNAME$($TYPE$ value) {&#10;    $NAME$Property.set(value);&#10;}&#10;" description="Creates a JavaFX ObjectProperty" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="decapitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="SNAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="fxprop-object-readonly" value="// $NAME$Property&#10;private final ReadOnlyObjectWrapper&lt;$TYPE$&gt; $NAME$Property = new ReadOnlyObjectWrapper&lt;&gt;(this, &quot;$NAME$&quot;);&#10;public final ReadOnlyObjectProperty&lt;$TYPE$&gt; $NAME$Property() {&#10;   return $NAME$Property.getReadOnlyProperty();&#10;}&#10;public final $TYPE$ get$SNAME$() {&#10;   return $NAME$Property.get();&#10;}" description="Creates a read-only JavaFX ObjectProperty" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="decapitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="SNAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="fxprop-long" value="// $NAME$Property&#10;private final LongProperty $NAME$Property = new SimpleLongProperty(this, &quot;$NAME$&quot;);&#10;public final LongProperty $NAME$Property() {&#10;   return $NAME$Property;&#10;}&#10;public final long get$SNAME$() {&#10;   return $NAME$Property.get();&#10;}&#10;public final void set$SNAME$(long value) {&#10;    $NAME$Property.set(value);&#10;}&#10;" description="Creates a JavaFX LongProperty" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="decapitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="SNAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+  <template name="fxprop-long-readonly" value="// $NAME$Property&#10;private final ReadOnlyLongWrapper $NAME$Property = new ReadOnlyLongWrapper(this, &quot;$NAME$&quot;);&#10;public final ReadOnlyLongProperty $NAME$Property() {&#10;   return $NAME$Property.getReadOnlyProperty();&#10;}&#10;public final long get$SNAME$() {&#10;   return $NAME$Property.get();&#10;}" description="Creates a read-only JavaFX LongProperty" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="decapitalize(NAME)" defaultValue="" alwaysStopAt="true" />
+    <variable name="SNAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+</templateSet>
