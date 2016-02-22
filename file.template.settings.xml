@@ -5,5 +5,8 @@
       <template name="HTML4 File.html" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="XHTML File.xhtml" reformat="true" live-template-enabled="true" enabled="true" />
     </internal_templates>
+    <includes_templates>
+      <template name="File Header.java" reformat="true" live-template-enabled="true" enabled="true" />
+    </includes_templates>
   </component>
 </application>
