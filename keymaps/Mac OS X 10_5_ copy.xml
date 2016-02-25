@@ -24,4 +24,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="template.create.ActivityEmpty Activity">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
 </keymap>
