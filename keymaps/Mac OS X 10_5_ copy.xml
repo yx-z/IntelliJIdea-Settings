@@ -3,11 +3,20 @@
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="CheckinProject" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="alt 4" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
