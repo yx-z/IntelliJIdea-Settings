@@ -2,7 +2,9 @@
   <action id="AddInjectionsAction">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
-  <action id="CheckinProject" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
