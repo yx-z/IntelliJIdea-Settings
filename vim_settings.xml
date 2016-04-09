@@ -3,36 +3,80 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" timestamp="1460166034448" />
+      <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/Main.java" timestamp="1460217847904">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" timestamp="1460218004684">
+        <mark key="'" line="26" column="15" />
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="26" column="15" />
+        <mark key="." line="26" column="15" />
+        <mark key="^" line="26" column="15" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
+      <jump line="26" column="15" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByID0gbnVsbDsK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByID0gbnVsbDsK</text>
-      </register>
-      <register name="2" type="4">
+      <register name="&quot;" type="4">
         <text>t</text>
-      </register>
-      <register name="3" type="4">
-        <text>o</text>
-      </register>
-      <register name="4" type="4">
-        <text>o</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
       </register>
+      <register name="/" type="4">
+        <text>Object</text>
+      </register>
+      <register name="1" type="4">
+        <text>t</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>;</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByID0gbnVsbDsK</text>
+      </register>
+      <register name="8" type="4">
+        <text>t</text>
+      </register>
+      <register name="9" type="4">
+        <text>o</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/Object/int</text>
+      </register>
     </registers>
     <search>
+      <last-pattern>Object</last-pattern>
+      <last-replace>int</last-replace>
+      <last-substitute>Object</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>Object</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%sObject/int</entry>
+        <entry>%s/Object/int</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
