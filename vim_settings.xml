@@ -12,15 +12,17 @@
       <file name="/Dummy.txt" timestamp="1460307218776">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/Main.java" timestamp="1460217847904">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/Main.java" timestamp="1460383608796">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" timestamp="1460218004684">
-        <mark key="'" line="26" column="15" />
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="26" column="15" />
-        <mark key="." line="26" column="15" />
-        <mark key="^" line="26" column="15" />
+      <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" timestamp="1460383564379">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="47" />
+        <mark key="^" line="4" column="47" />
+        <mark key="." line="4" column="47" />
       </file>
     </filemarks>
     <jumps>
@@ -29,13 +31,14 @@
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
       <jump line="26" column="15" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
+      <jump line="1" column="17" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text encoding="base64">ICBSZWRCbGFja1RyZWUgdHJlZSA9IG5ldyBSZWRCbGFja1RyZWUobmV3IE5vZGUoNTApKTsKIA==</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>Object</text>
@@ -44,31 +47,66 @@
         <text encoding="base64">ICAgICAgICBwcmltZS5zZXQoMCwgZmFsc2UpOwogICAgICAgIAo=</text>
       </register>
       <register name="1" type="4">
-        <text>m</text>
+        <text encoding="base64">ICBSZWRCbGFja1RyZWUgdHJlZSA9IG5ldyBSZWRCbGFja1RyZWUobmV3IE5vZGUoNTApKTsKIA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IHsKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCA=</text>
+        <text encoding="base64">CiAgICAgICAgcHVibGljIHZvaWQgc2V0VmFsKFYgdmFsKSB7CiAgICAgICAgICAgIHRoaXMudmFsID0gdmFsOwogICAgICAgIH0=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkgKyAiOiAiICsgdGVzdFtpXSk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHRoaXMudmFsID0gdmFsOwogICAgICAgIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkLy9hbGwgbXVsdGlwbGVzIG9mIGkqaSwgZXhjZXB0IGksIGFyZSBub3QgcHJpbWVDYW5kaWRhdGVzCg==</text>
-      </register>
-      <register name="5" type="4">
+      <register name="4" type="4">
         <text>}</text>
       </register>
-      <register name="6" type="4">
-        <text />
+      <register name="5" type="4">
+        <text>int</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRhdGE7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IDI7</text>
+        <text>class Node {
+    private Node left;
+    private Node right;
+    private int data;
+    private boolean type;
+
+    public boolean getType() {
+        return type;
+    }
+
+    public void setType(boolean type) {
+        this.type = type;
+    }
+
+    public Node() {
+
+    }
+
+    public Node(int data) {
+        this.data = data;
+    }
+
+    public Node getLeft() {
+        return left;
+    }
+
+    public Node getRight() {
+        return right;
+    }
+
+    public int getData() {
+        return data;
+    }
+}</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>public class Main {
+    public static void main(String[] args) {
+        RedBlackTree tree = new RedBlackTree(new Node(5</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGJvb2xlYW4gYjogcHJpbWUpIFN5c3RlbS5vdXQucHJpbnQoYik7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">bmV3IE5vZGUoNTApKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/Object/int</text>
