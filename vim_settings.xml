@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/Github/Playground/Sieve/src/edu/illinois/cs/Main.java" timestamp="1460311094520">
@@ -9,17 +9,17 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/Main.java" timestamp="1460383608796">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="6" />
-        <mark key="." line="2" column="6" />
+      <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/Main.java" timestamp="1460385145533">
+        <mark key="[" line="1" column="44" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" timestamp="1460383564379">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="47" />
-        <mark key="^" line="4" column="47" />
-        <mark key="." line="4" column="47" />
+      <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" timestamp="1460385130631">
+        <mark key="[" line="120" column="15" />
+        <mark key="]" line="120" column="15" />
+        <mark key="^" line="77" column="20" />
+        <mark key="." line="120" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -32,10 +32,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICBSZWRCbGFja1RyZWUgdHJlZSA9IG5ldyBSZWRCbGFja1RyZWUobmV3IE5vZGUoNTApKTsKIA==</text>
+        <text encoding="base64">IlJlZEJsYWNrVHJlZXsiIA==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IlJlZEJsYWNrVHJlZXsiIA==</text>
       </register>
       <register name="/" type="4">
         <text>Object</text>
@@ -44,66 +44,31 @@
         <text encoding="base64">ICAgICAgICBwcmltZS5zZXQoMCwgZmFsc2UpOwogICAgICAgIAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICBSZWRCbGFja1RyZWUgdHJlZSA9IG5ldyBSZWRCbGFja1RyZWUobmV3IE5vZGUoNTApKTsKIA==</text>
+        <text encoding="base64">IlJlZEJsYWNrVHJlZXsiIA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIHZvaWQgc2V0VmFsKFYgdmFsKSB7CiAgICAgICAgICAgIHRoaXMudmFsID0gdmFsOwogICAgICAgIH0=</text>
+        <text encoding="base64">IHJldHVybiAiTm9kZXsiICsKICAgICAgICAgICAgICAgICAgICAia2V5PSIgKyBrZXkgKwogICAgICAgICAgICAgICAgICAgICIsIHZhbD0iICsgdmFsICsKICAgICAgICAgICAgICAgICAgICAiLCBsZWZ0PSIgKyBsZWZ0ICsKICAgICAgICAgICAgICAgICAgICAiLCByaWdodD0iICsgcmlnaHQgKwogICAgICAgICAgICAgICAgICAgICd9Jzs=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHRoaXMudmFsID0gdmFsOwogICAgICAgIH0K</text>
+        <text encoding="base64">QE92ZXJyaWRlCiAgICAgICAgcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvKSB7CiAgICAgICAgICAgIGlmICh0aGlzID09IG8pIHJldHVybiB0cnVlOwogICAgICAgICAgICBpZiAobyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpKSByZXR1cm4gZmFsc2U7CgogICAgICAgICAgICBOb2RlPD8sID8+IG5vZGUgPSAoTm9kZTw/LCA/PikgbzsKCiAgICAgICAgICAgIGlmICgha2V5LmVxdWFscyhub2RlLmtleSkpIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgcmV0dXJuIHZhbC5lcXVhbHMobm9kZS52YWwpOwoKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBpbnQgaGFzaENvZGUoKSB7CiAgICAgICAgICAgIGludCByZXN1bHQgPSBrZXkuaGFzaENvZGUoKTsKICAgICAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyB2YWwuaGFzaENvZGUoKTsKICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgICAgICB9</text>
       </register>
       <register name="4" type="4">
-        <text>}</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="5" type="4">
-        <text>int</text>
+        <text>V</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRhdGE7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>class Node {
-    private Node left;
-    private Node right;
-    private int data;
-    private boolean type;
-
-    public boolean getType() {
-        return type;
-    }
-
-    public void setType(boolean type) {
-        this.type = type;
-    }
-
-    public Node() {
-
-    }
-
-    public Node(int data) {
-        this.data = data;
-    }
-
-    public Node getLeft() {
-        return left;
-    }
-
-    public Node getRight() {
-        return right;
-    }
-
-    public int getData() {
-        return data;
-    }
-}</text>
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text>public class Main {
-    public static void main(String[] args) {
-        RedBlackTree tree = new RedBlackTree(new Node(5</text>
+        <text>K</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bmV3IE5vZGUoNTApKTsKICAgIH0K</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/Object/int</text>
@@ -130,6 +95,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
