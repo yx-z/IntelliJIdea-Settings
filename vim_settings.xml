@@ -9,63 +9,69 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/Main.java" timestamp="1460385145533">
-        <mark key="[" line="1" column="44" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="4" column="6" />
-        <mark key="^" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1460398983880">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" timestamp="1460391879130">
-        <mark key="[" line="261" column="35" />
-        <mark key="]" line="261" column="35" />
-        <mark key="^" line="262" column="39" />
-        <mark key="." line="261" column="35" />
+      <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/Main.java" timestamp="1460397990835">
+        <mark key="[" line="6" column="44" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" timestamp="1460398980212">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="11" column="0" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
       <jump line="26" column="15" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
       <jump line="1" column="17" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/Main.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
+      <jump line="55" column="58" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
+      <jump line="58" column="30" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
+      <jump line="65" column="38" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>eturn insert(key, root</text>
       </register>
       <register name="/" type="4">
-        <text>pointer</text>
+        <text>that</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmltZS5zZXQoMCwgZmFsc2UpOwogICAgICAgIAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="4">
-        <text />
+      <register name="1" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>etLe</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>true</text>
+        <text encoding="base64">IC8vIGhlbHBlciBtZXRob2Qgd2l0aCBleHRyYSBwYXJhbWV0ZXIgTm9kZSBuCiAgICBwcml2YXRlIGJvb2xlYW4gaW5zZXJ0KFQga2V5LCBOb2RlIG4pIHsKICAgICAgICBOb2RlIHggPSB0aGlzLnJvb3Q7CiAgICAgICAgCiAgICB9</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IlJlZEJsYWNrVHJlZXsiIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IHJldHVybiAiTm9kZXsiICsKICAgICAgICAgICAgICAgICAgICAia2V5PSIgKyBrZXkgKwogICAgICAgICAgICAgICAgICAgICIsIHZhbD0iICsgdmFsICsKICAgICAgICAgICAgICAgICAgICAiLCBsZWZ0PSIgKyBsZWZ0ICsKICAgICAgICAgICAgICAgICAgICAiLCByaWdodD0iICsgcmlnaHQgKwogICAgICAgICAgICAgICAgICAgICd9Jzs=</text>
+        <text>eturn insert(key, root</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICAgICAgcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvKSB7CiAgICAgICAgICAgIGlmICh0aGlzID09IG8pIHJldHVybiB0cnVlOwogICAgICAgICAgICBpZiAobyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpKSByZXR1cm4gZmFsc2U7CgogICAgICAgICAgICBOb2RlPD8sID8+IG5vZGUgPSAoTm9kZTw/LCA/PikgbzsKCiAgICAgICAgICAgIGlmICgha2V5LmVxdWFscyhub2RlLmtleSkpIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgcmV0dXJuIHZhbC5lcXVhbHMobm9kZS52YWwpOwoKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBpbnQgaGFzaENvZGUoKSB7CiAgICAgICAgICAgIGludCByZXN1bHQgPSBrZXkuaGFzaENvZGUoKTsKICAgICAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyB2YWwuaGFzaENvZGUoKTsKICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgbGVmdFJvdGF0ZSgpIHsKICAgICAgICAgICAgTm9kZSB5ID0gdGhpcy5yaWdodDsKICAgICAgICAgICAgCiAgICAgICAgICAgIHRoaXMucmlnaHQgPSB5LmxlZnQ7CiAgICAgICAgICAgIGlmICh5LmxlZnQgIT0gbnVsbCkKICAgICAgICAgICAgICAgIHkubGVmdC5wYXJlbnQgPSB0aGlzOwogICAgICAgICAgICAKICAgICAgICAgICAgeS5wYXJlbnQgPSB0aGlzLnBhcmVudDsKICAgICAgICAgICAgaWYgKHRoaXMucGFyZW50ID09IG51bGwpCiAgICAgICAgICAgICAgICAKICAgICAgICB9</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobiA9PSBudWxsKSB7CiAgICAgICAgICAgIG4KICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>V</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
         <text encoding="base64">IA==</text>
@@ -75,9 +81,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pointer</last-search>
+      <last-search>that</last-search>
       <last-offset />
-      <last-pattern>pointer</last-pattern>
+      <last-pattern>that</last-pattern>
       <last-replace>int</last-replace>
       <last-substitute>Object</last-substitute>
       <last-dir>1</last-dir>
@@ -87,6 +93,7 @@
       <history-search>
         <entry>Object</entry>
         <entry>pointer</entry>
+        <entry>that</entry>
       </history-search>
       <history-cmd>
         <entry>%sObject/int</entry>
