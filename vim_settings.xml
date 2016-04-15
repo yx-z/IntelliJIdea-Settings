@@ -23,6 +23,12 @@
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/Playground/Misc/src/edu/illinois/cs/TestModifiers.java" timestamp="1460733783304">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="23" column="8" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="11" column="0" filename="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" />
@@ -38,10 +44,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>eturn insert(key, root</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>that</text>
@@ -50,31 +56,31 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IFRlc3RPYmooKS50ZXN0SW50KTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IC8vIGhlbHBlciBtZXRob2Qgd2l0aCBleHRyYSBwYXJhbWV0ZXIgTm9kZSBuCiAgICBwcml2YXRlIGJvb2xlYW4gaW5zZXJ0KFQga2V5LCBOb2RlIG4pIHsKICAgICAgICBOb2RlIHggPSB0aGlzLnJvb3Q7CiAgICAgICAgCiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNsYXNzIFRlc3RPYmogewogICAgICAgIHB1YmxpYyBpbnQgdGVzdEludCA9IDEwOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
-      <register name="5" type="4">
-        <text>eturn insert(key, root</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWN0YXRpYyBpbnQgdGVzdEludCA9IDEwOwo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgbGVmdFJvdGF0ZSgpIHsKICAgICAgICAgICAgTm9kZSB5ID0gdGhpcy5yaWdodDsKICAgICAgICAgICAgCiAgICAgICAgICAgIHRoaXMucmlnaHQgPSB5LmxlZnQ7CiAgICAgICAgICAgIGlmICh5LmxlZnQgIT0gbnVsbCkKICAgICAgICAgICAgICAgIHkubGVmdC5wYXJlbnQgPSB0aGlzOwogICAgICAgICAgICAKICAgICAgICAgICAgeS5wYXJlbnQgPSB0aGlzLnBhcmVudDsKICAgICAgICAgICAgaWYgKHRoaXMucGFyZW50ID09IG51bGwpCiAgICAgICAgICAgICAgICAKICAgICAgICB9</text>
+        <text>s</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobiA9PSBudWxsKSB7CiAgICAgICAgICAgIG4KICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oVGVzdE1vZGlmaWVycy5UZXN0T2JqLnRlc3RJbnQpOwo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>static</text>
       </register>
       <register name=":" type="4">
         <text>%s/Object/int</text>
@@ -103,11 +109,17 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
