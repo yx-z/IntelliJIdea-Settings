@@ -3,14 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1460992757472">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/Main.java" timestamp="1460397990835">
         <mark key="[" line="6" column="44" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler4ChiHuo/src/edu/illinois/cs/ChiHuo.java" timestamp="1461012460845">
+        <mark key="'" line="15" column="11" />
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+        <mark key="^" line="16" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler*/src/edu/illinois/cs/Main.java" timestamp="1460869320275">
         <mark key="[" line="4" column="44" />
@@ -18,14 +22,25 @@
         <mark key="." line="5" column="14" />
         <mark key="^" line="5" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler4ChiHuo/src/edu/illinois/cs/ArticleGetter.java" timestamp="1461012182010">
+        <mark key="[" line="6" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/Playground/SortingAlgorithm/src/edu/illinois/cs/SleepSort.java" timestamp="1460860901778">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler4ChiHuo/src/edu/illinois/cs/LinkGetter.java" timestamp="1461007771352">
-        <mark key="[" line="23" column="59" />
+      <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler4ChiHuo/src/edu/illinois/cs/LinkGetter.java" timestamp="1461012428673">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="8" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="12" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler4ChiHuo/src/edu/illinois/cs/Main.java" timestamp="1461011978011">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/myApp/src/edu/illinois/cs/Main.java" timestamp="1460992267751">
         <mark key="'" line="7" column="97" />
@@ -91,13 +106,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Github/Playground/SortingAlgorithm/src/edu/illinois/cs/HeapSort.java" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/Github/Playground/SortingAlgorithm/src/edu/illinois/cs/HeapSort.java" />
       <jump line="7" column="97" filename="$USER_HOME$/Documents/Github/myApp/src/edu/illinois/cs/Main.java" />
+      <jump line="20" column="6" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler4ChiHuo/src/edu/illinois/cs/LinkGetter.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler4ChiHuo/src/edu/illinois/cs/LinkGetter.java" />
+      <jump line="16" column="11" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler4ChiHuo/src/edu/illinois/cs/ChiHuo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;\n&quot;</text>
+        <text>refactored</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;\n&quot;</text>
+        <text>refactored</text>
       </register>
       <register name="/" type="4">
         <text>Comparable</text>
@@ -106,31 +124,31 @@
         <text>trim(link.text(), 35);</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;\n&quot;</text>
+        <text>refactored</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZGVzYyA9IHRyaW0obGluay50ZXh0KCksIDM1KTsK</text>
+      <register name="2" type="4">
+        <text>separate classes</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
-      </register>
-      <register name="4" type="4">
-        <text>o</text>
-      </register>
-      <register name="5" type="4">
-        <text>c</text>
-      </register>
-      <register name="6" type="4">
-        <text>.</text>
-      </register>
-      <register name="7" type="4">
-        <text>c</text>
-      </register>
-      <register name="8" type="4">
         <text>s</text>
       </register>
+      <register name="4" type="4">
+        <text>i</text>
+      </register>
+      <register name="5" type="4">
+        <text>L</text>
+      </register>
+      <register name="6" type="4">
+        <text>y</text>
+      </register>
+      <register name="7" type="4">
+        <text>a</text>
+      </register>
+      <register name="8" type="4">
+        <text>r</text>
+      </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
