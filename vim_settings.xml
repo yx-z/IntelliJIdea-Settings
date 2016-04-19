@@ -58,6 +58,11 @@
         <mark key="^" line="17" column="22" />
         <mark key="." line="17" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/LinkGetter.java" timestamp="1461088562502">
+        <mark key="[" line="49" column="35" />
+        <mark key="]" line="49" column="35" />
+        <mark key="." line="49" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/Playground/Sieve/src/edu/illinois/cs/Main.java" timestamp="1460311094520">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="19" />
@@ -69,6 +74,12 @@
         <mark key="]" line="4" column="10" />
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/JsoupGetter.java" timestamp="1461088494348">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/Misc/src/edu/illinois/cs/SleepSort.java" timestamp="1460735114837">
         <mark key="[" line="15" column="43" />
@@ -82,6 +93,11 @@
         <mark key="." line="44" column="22" />
         <mark key="^" line="61" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" timestamp="1461088586574">
+        <mark key="[" line="37" column="55" />
+        <mark key="]" line="37" column="56" />
+        <mark key="." line="37" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/Playground/SortingAlgorithm/src/edu/illinois/cs/HeapSort.java" timestamp="1460934812434">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="12" column="9" />
@@ -89,15 +105,15 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ImgGetter.java" timestamp="1461086552732">
-        <mark key="[" line="54" column="53" />
-        <mark key="]" line="54" column="53" />
-        <mark key="." line="54" column="53" />
+      <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ImgGetter.java" timestamp="1461088912515">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/Main.java" timestamp="1461086490047">
-        <mark key="[" line="253" column="46" />
-        <mark key="]" line="246" column="0" />
-        <mark key="." line="246" column="0" />
+      <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/Main.java" timestamp="1461088923673">
+        <mark key="[" line="253" column="53" />
+        <mark key="]" line="253" column="53" />
+        <mark key="." line="253" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/RedBlackTree.java" timestamp="1460398980212">
         <mark key="[" line="139" column="0" />
@@ -140,10 +156,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>Comparable</text>
@@ -152,31 +168,37 @@
         <text>trim(link.text(), 35);</text>
       </register>
       <register name="1" type="4">
-        <text>s</text>
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZm9sZGVyID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBGaWxlIHBhcmVudCA9IG5ldyBGaWxlKGZvbGRlclBhdGgpOwogICAgICAgIGlmICghcGFyZW50Lm1rZGlyKCkpIHsKICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJFcnJvciBpbiBNYWtpbmcgRGlyZWN0b3JpZXMhIik7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>+</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBGaWxlIHBhcmVudCA9IG5ldyBGaWxlKGZvbGRlclBhdGgpOwogICAgICAgIGlmICghcGFyZW50Lm1rZGlyKCkpIHsKICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJFcnJvciBpbiBNYWtpbmcgRGlyZWN0b3JpZXMhIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;Mozilla/5.0 &quot; +
+                    &quot;(Macintosh; Intel Mac OS X 10_9_2) &quot; +
+                    &quot;AppleWebKit/537.36 (KHTML, like Gecko) &quot; +
+                    &quot;Chrome/33.0.1750.152 Safari/537.36&quot;)</text>
       </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>&quot;Mozilla/5.0 &quot; +
+                                &quot;(Macintosh; Intel Mac OS X 10_9_2) &quot; +
+                                &quot;AppleWebKit/537.36 (KHTML, like Gecko) &quot; +
+                                &quot;Chrome/33.0.1750.152 Safari/537.36</text>
       </register>
       <register name="8" type="4">
-        <text>h</text>
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>J</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
