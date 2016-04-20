@@ -70,16 +70,16 @@
       <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/assets/articles.txt" timestamp="1461086297250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461109985021">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/Main.java" timestamp="1460397990835">
         <mark key="[" line="6" column="44" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/crawler4j-master/src/test/java/edu/uci/ics/crawler4j/examples/shutdown/ControllerWithShutdown.java" timestamp="1461127240750">
+        <mark key="[" line="48" column="32" />
+        <mark key="]" line="48" column="32" />
+        <mark key="." line="48" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler4ChiHuo/src/edu/illinois/cs/ChiHuo.java" timestamp="1461085677505">
         <mark key="'" line="11" column="11" />
@@ -203,10 +203,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmVmYWN0b3JlZCAmIGFkZCBJbWdHZXR0ZXI=</text>
+        <text>args</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVmYWN0b3JlZCAmIGFkZCBJbWdHZXR0ZXI=</text>
+        <text>args</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -215,28 +215,28 @@
         <text>trim(link.text(), 35);</text>
       </register>
       <register name="1" type="4">
+        <text>args</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">cmVmYWN0b3JlZCAmIGFkZCBJbWdHZXR0ZXI=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBkZWJ1ZzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBkZWJ1ZzsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWNkIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgU3RyaW5nIHVybCA9ICJodHRwOi8vY2hpaHVvLm9yZy8yNS1kZWdyZWVzLWhvbGx5d29vZC8iOwogICAgICAgIEFydGljbGVHZXR0ZXIgYXJ0aWNsZUdldHRlciA9IG5ldyBBcnRpY2xlR2V0dGVyKHVybCk7CiAgICAgICAgU3RyaW5nIGFydGljbGUgPSBhcnRpY2xlR2V0dGVyLnJ1bigpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihhcnRpY2xlKTsKICAgIH0K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>c</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
-      </register>
       <register name="8" type="4">
-        <text>w</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
         <text>w</text>
