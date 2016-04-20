@@ -47,11 +47,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" timestamp="1461172484186">
+      <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" timestamp="1461173905935">
         <mark key="'" line="63" column="20" />
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="23" />
-        <mark key="." line="22" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/SortingAlgorithm/src/edu/illinois/cs/HeapSort.java" timestamp="1460934812434">
         <mark key="'" line="39" column="0" />
@@ -60,7 +57,7 @@
         <mark key="." line="12" column="18" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/Main.java" timestamp="1461172733225">
+      <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/Main.java" timestamp="1461173863682">
         <mark key="'" line="55" column="23" />
         <mark key="[" line="33" column="31" />
         <mark key="]" line="32" column="0" />
@@ -220,7 +217,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>throws IOException</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgLy8gY2FsY3VsYXRlIGFjdHVhbCBydW5uaW5nIHRpbWUKICAgICAgICBsb25nIHN0YXJ0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDApOwogICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CgogICAgICAgIC8vIHByaW50IGR1cmF0aW9uCiAgICAgICAgbG9uZyBlbmQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICBsb25nIGQgPSBlbmQgLSBzdGFydDsKICAgICAgICBTdHJpbmcgc3RyID0gU3RyaW5nLmZvcm1hdCgiJWQgbWluLCAlZCBzZWMiLAogICAgICAgICAgICAgICAgVGltZVVuaXQuTUlMTElTRUNPTkRTLnRvTWludXRlcyhkKSwKICAgICAgICAgICAgICAgIFRpbWVVbml0Lk1JTExJU0VDT05EUy50b1NlY29uZHMoZCkgLQogICAgICAgICAgICAgICAgICAgICAgICBUaW1lVW5pdC5NSU5VVEVTLnRvU2Vjb25kcygKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1lVW5pdC5NSUxMSVNFQ09ORFMudG9NaW51dGVzKGQpKQogICAgICAgICk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJcblRvdGFsIHRpbWUgdXNlZDogIiArIHN0cik7CiAgICB9</text>
       </register>
       <register name="-" type="4">
         <text>throws IOException</text>
@@ -232,31 +229,31 @@
         <text>trim(link.text(), 35);</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgLy8gY2FsY3VsYXRlIGFjdHVhbCBydW5uaW5nIHRpbWUKICAgICAgICBsb25nIHN0YXJ0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDApOwogICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CgogICAgICAgIC8vIHByaW50IGR1cmF0aW9uCiAgICAgICAgbG9uZyBlbmQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICBsb25nIGQgPSBlbmQgLSBzdGFydDsKICAgICAgICBTdHJpbmcgc3RyID0gU3RyaW5nLmZvcm1hdCgiJWQgbWluLCAlZCBzZWMiLAogICAgICAgICAgICAgICAgVGltZVVuaXQuTUlMTElTRUNPTkRTLnRvTWludXRlcyhkKSwKICAgICAgICAgICAgICAgIFRpbWVVbml0Lk1JTExJU0VDT05EUy50b1NlY29uZHMoZCkgLQogICAgICAgICAgICAgICAgICAgICAgICBUaW1lVW5pdC5NSU5VVEVTLnRvU2Vjb25kcygKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUaW1lVW5pdC5NSUxMSVNFQ09ORFMudG9NaW51dGVzKGQpKQogICAgICAgICk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJcblRvdGFsIHRpbWUgdXNlZDogIiArIHN0cik7CiAgICB9</text>
+      </register>
+      <register name="2" type="4">
         <text>throws IOException</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBkZi5zZXRSb3VuZGluZ01vZGUoUm91bmRpbmdNb2RlLkRPV04pOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBEZWNpbWFsRm9ybWF0IGRmID0gbmV3IERlY2ltYWxGb3JtYXQoIiMjLiMjIik7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>,</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>&quot;</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>p</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>m</text>
       </register>
-      <register name="8" type="4">
-        <text>b</text>
-      </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>b</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
