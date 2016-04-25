@@ -73,12 +73,16 @@
       <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/assets/articles.txt" timestamp="1461086297250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/CommandLineCal/src/edu/illinois/cs/CommandLineCalculator.java" timestamp="1461607198804">
+      <file name="$USER_HOME$/Documents/Github/Playground/CommandLineCal/src/edu/illinois/cs/CommandLineCalculator.java" timestamp="1461607600566">
         <mark key="'" line="314" column="11" />
-        <mark key="[" line="316" column="34" />
-        <mark key="]" line="316" column="43" />
-        <mark key="." line="316" column="43" />
-        <mark key="^" line="316" column="43" />
+        <mark key="j" line="20" column="13" />
+        <mark key="[" line="123" column="28" />
+        <mark key="]" line="123" column="47" />
+        <mark key="." line="123" column="47" />
+        <mark key="^" line="123" column="47" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1461607206662">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/Main.java" timestamp="1460397990835">
         <mark key="[" line="6" column="44" />
@@ -239,11 +243,11 @@
       <jump line="295" column="11" filename="$USER_HOME$/Documents/Github/Playground/CommandLineCal/src/edu/illinois/cs/CommandLineCalculator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIGlmIChsZWZ0SW5kZXggPT0gMCkgewogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKCFpc051bSh1c3JJbnB1dC5jaGFyQXQobGVmdEluZGV4KSkpIHsKICAgICAgICAgICAgICAgICAgICBsZWZ0SW5kZXgrKzsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGxlZnRJbmRleC0tOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICA=</text>
@@ -251,32 +255,32 @@
       <register name="0" type="4">
         <text>!isNum(usrInput.charAt(rightIndex + 1)</text>
       </register>
-      <register name="1" type="4">
-        <text>e</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIGlmIChsZWZ0SW5kZXggPT0gMCkgewogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKCFpc051bSh1c3JJbnB1dC5jaGFyQXQobGVmdEluZGV4KSkpIHsKICAgICAgICAgICAgICAgICAgICBsZWZ0SW5kZXgrKzsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGxlZnRJbmRleC0tOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>g</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>n</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>i</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>-</text>
       </register>
       <register name="7" type="4">
-        <text>u</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>x</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>!git add .</text>
