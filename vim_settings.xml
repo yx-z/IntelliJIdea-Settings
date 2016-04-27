@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/ImgGetter.java" timestamp="1461770359135">
+        <mark key="[" line="35" column="27" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="35" column="26" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler*/src/edu/illinois/cs/Main.java" timestamp="1460869320275">
         <mark key="[" line="4" column="44" />
         <mark key="]" line="5" column="14" />
@@ -21,6 +27,9 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="62" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" timestamp="1461769861156">
+        <mark key="[" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Github/myApp/src/edu/illinois/cs/Main.java" timestamp="1460992267751">
         <mark key="'" line="7" column="97" />
@@ -70,6 +79,9 @@
         <mark key="^" line="33" column="45" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/LinkGetter.java" timestamp="1461771338624">
+        <mark key="[" line="10" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/assets/articles.txt" timestamp="1461086297250">
         <mark key="[" line="0" column="0" />
       </file>
@@ -81,8 +93,14 @@
         <mark key="." line="123" column="47" />
         <mark key="^" line="123" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461765813746">
+      <file name="/Dummy.txt" timestamp="1461771448554">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/String2Txt.java" timestamp="1461771257489">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="62" column="14" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/Main.java" timestamp="1460397990835">
         <mark key="[" line="6" column="44" />
@@ -102,7 +120,12 @@
         <mark key="." line="254" column="63" />
         <mark key="^" line="254" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/Main.java" timestamp="1461765695209" />
+      <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/Main.java" timestamp="1461771278242">
+        <mark key="'" line="64" column="22" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/JpgGetter.java" timestamp="1461169289142">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -131,6 +154,9 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/JsoupGetter.java" timestamp="1461771136845">
+        <mark key="[" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/Sieve/src/edu/illinois/cs/Main.java" timestamp="1460311094520">
         <mark key="[" line="2" column="19" />
@@ -242,55 +268,62 @@
       <jump line="11" column="21" filename="$USER_HOME$/Documents/Github/Playground/CommandLineCal/src/edu/illinois/cs/CommandLineCalculator.java" />
       <jump line="44" column="23" filename="$USER_HOME$/Documents/Github/Playground/CommandLineCal/src/edu/illinois/cs/CommandLineCalculator.java" />
       <jump line="295" column="11" filename="$USER_HOME$/Documents/Github/Playground/CommandLineCal/src/edu/illinois/cs/CommandLineCalculator.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/Main.java" />
+      <jump line="56" column="28" filename="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/Main.java" />
+      <jump line="75" column="35" filename="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/Main.java" />
+      <jump line="32" column="19" filename="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/Main.java" />
+      <jump line="53" column="28" filename="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/Main.java" />
+      <jump line="58" column="16" filename="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/Main.java" />
+      <jump line="66" column="22" filename="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIGlmIChsZWZ0SW5kZXggPT0gMCkgewogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKCFpc051bSh1c3JJbnB1dC5jaGFyQXQobGVmdEluZGV4KSkpIHsKICAgICAgICAgICAgICAgICAgICBsZWZ0SW5kZXgrKzsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGxlZnRJbmRleC0tOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF0ZHh0LnJ1bigpKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIkVycm9yIGluIENyZWF0aW5nIFRleHQgRmlsZSIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>setDebug</text>
       </register>
       <register name="0" type="4">
         <text>!isNum(usrInput.charAt(rightIndex + 1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIGlmIChsZWZ0SW5kZXggPT0gMCkgewogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaWYgKCFpc051bSh1c3JJbnB1dC5jaGFyQXQobGVmdEluZGV4KSkpIHsKICAgICAgICAgICAgICAgICAgICBsZWZ0SW5kZXgrKzsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGxlZnRJbmRleC0tOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF0ZHh0LnJ1bigpKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIkVycm9yIGluIENyZWF0aW5nIFRleHQgRmlsZSIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>true</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>-</text>
+        <text>u</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>x</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>u</text>
       </register>
       <register name=":" type="4">
         <text>!git add .</text>
       </register>
     </registers>
     <search>
-      <last-search>static</last-search>
+      <last-search>setDebug</last-search>
       <last-offset />
-      <last-pattern encoding="base64">ICA=</last-pattern>
+      <last-pattern>setDebug</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute encoding="base64">ICA=</last-substitute>
       <last-dir>1</last-dir>
@@ -312,6 +345,7 @@
         <entry>String</entry>
         <entry>static</entry>
         <entry encoding="base64">ICA=</entry>
+        <entry>setDebug</entry>
       </history-search>
       <history-cmd>
         <entry>%sObject/int</entry>
