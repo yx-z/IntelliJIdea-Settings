@@ -120,11 +120,12 @@
         <mark key="." line="254" column="63" />
         <mark key="^" line="254" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/Main.java" timestamp="1461771278242">
+      <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/Main.java" timestamp="1461773347853">
         <mark key="'" line="64" column="22" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+        <mark key="[" line="75" column="50" />
+        <mark key="]" line="75" column="24" />
+        <mark key="^" line="75" column="24" />
+        <mark key="." line="75" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/JpgGetter.java" timestamp="1461169289142">
         <mark key="[" line="15" column="0" />
@@ -278,7 +279,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF0ZHh0LnJ1bigpKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIkVycm9yIGluIENyZWF0aW5nIFRleHQgRmlsZSIpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWYubWtkaXIoKSkK</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -290,31 +291,31 @@
         <text>!isNum(usrInput.charAt(rightIndex + 1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF0ZHh0LnJ1bigpKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIkVycm9yIGluIENyZWF0aW5nIFRleHQgRmlsZSIpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWYubWtkaXIoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF0ZHh0LnJ1bigpKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIkVycm9yIGluIENyZWF0aW5nIFRleHQgRmlsZSIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>true</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>e</text>
       </register>
-      <register name="6" type="4">
-        <text>u</text>
-      </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>u</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>!git add .</text>
