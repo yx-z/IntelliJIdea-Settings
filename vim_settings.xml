@@ -80,13 +80,12 @@
       <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/assets/articles.txt" timestamp="1461086297250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/CommandLineCal/src/edu/illinois/cs/CommandLineCalculator.java" timestamp="1461804778693">
-        <mark key="'" line="316" column="11" />
+      <file name="$USER_HOME$/Documents/Github/Playground/CommandLineCal/src/edu/illinois/cs/CommandLineCalculator.java" timestamp="1461805027959">
+        <mark key="'" line="315" column="11" />
         <mark key="j" line="20" column="13" />
-        <mark key="[" line="128" column="9" />
-        <mark key="]" line="319" column="73" />
-        <mark key="." line="319" column="73" />
-        <mark key="^" line="319" column="72" />
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1461804946700">
         <mark key="[" line="0" column="0" />
@@ -273,8 +272,8 @@
       <jump line="66" column="22" filename="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;9*16*3-3*64-12+8&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXNySW5wdXQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;9*16*3-3*64-12+8&quot;</text>
@@ -285,32 +284,32 @@
       <register name="0" type="4">
         <text>!isNum(usrInput.charAt(rightIndex + 1)</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXNySW5wdXQpOwo=</text>
+      </register>
+      <register name="2" type="4">
         <text>&quot;9*16*3-3*64-12+8&quot;</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIWYubWtkaXIoKSkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCF0ZHh0LnJ1bigpKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIkVycm9yIGluIENyZWF0aW5nIFRleHQgRmlsZSIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>true</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
-      </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
