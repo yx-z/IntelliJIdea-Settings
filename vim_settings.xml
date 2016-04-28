@@ -80,13 +80,12 @@
       <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/assets/articles.txt" timestamp="1461086297250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/CommandLineCal/src/edu/illinois/cs/CommandLineCalculator.java" timestamp="1461809990674">
-        <mark key="'" line="340" column="11" />
-        <mark key="j" line="20" column="13" />
-        <mark key="[" line="141" column="54" />
-        <mark key="]" line="140" column="67" />
-        <mark key="^" line="140" column="67" />
-        <mark key="." line="140" column="67" />
+      <file name="$USER_HOME$/Documents/Github/Playground/CommandLineCal/src/edu/illinois/cs/CommandLineCalculator.java" timestamp="1461810173672">
+        <mark key="'" line="339" column="11" />
+        <mark key="j" line="19" column="13" />
+        <mark key="[" line="191" column="25" />
+        <mark key="]" line="348" column="0" />
+        <mark key="." line="348" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/String2Txt.java" timestamp="1461771257489">
         <mark key="[" line="78" column="0" />
@@ -271,7 +270,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoaGFzT3BlcmF0b3IoJysnKSkgewogICAgICAgICAgICBjYWwoJysnKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oRG91YmxlLk1JTl9WQUxVRSAgICApOwo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;9*16*3-3*64-12+8&quot;</text>
@@ -283,31 +282,31 @@
         <text>!isNum(usrInput.charAt(rightIndex + 1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoaGFzT3BlcmF0b3IoJysnKSkgewogICAgICAgICAgICBjYWwoJysnKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oRG91YmxlLk1JTl9WQUxVRSAgICApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoaGFzT3BlcmF0b3IoJy8nKSkgewogICAgICAgICAgICBjYWwoJy8nKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoaGFzT3BlcmF0b3IoJysnKSkgewogICAgICAgICAgICBjYWwoJysnKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoaGFzT3BlcmF0b3IoJy8nKSkgewogICAgICAgICAgICBjYWwoJy8nKTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXNySW5wdXQpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>&quot;9*16*3-3*64-12+8&quot;</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoIWYubWtkaXIoKSkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCF0ZHh0LnJ1bigpKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIkVycm9yIGluIENyZWF0aW5nIFRleHQgRmlsZSIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
