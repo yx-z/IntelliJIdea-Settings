@@ -8,7 +8,7 @@
         <mark key="]" line="30" column="13" />
         <mark key="." line="30" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1462110827115">
+      <file name="/a.dummy" timestamp="1462159760217">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/ImgGetter.java" timestamp="1461770359135">
@@ -65,9 +65,6 @@
         <mark key="^" line="8" column="25" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" timestamp="1461173905935">
-        <mark key="'" line="63" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/Playground/SortingAlgorithm/src/edu/illinois/cs/HeapSort.java" timestamp="1460934812434">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="12" column="9" />
@@ -81,6 +78,7 @@
         <mark key="^" line="16" column="32" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/ChiHuoArticleGetter.java" timestamp="1462159921472" />
       <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/Main.java" timestamp="1461184216815">
         <mark key="'" line="55" column="23" />
         <mark key="[" line="83" column="65" />
@@ -104,11 +102,11 @@
         <mark key="]" line="348" column="0" />
         <mark key="." line="348" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/String2Txt.java" timestamp="1461771257489">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="62" column="14" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/String2Txt.java" timestamp="1462160857217">
+        <mark key="[" line="67" column="12" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="61" column="14" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/RedBlackTree/src/Main.java" timestamp="1460397990835">
         <mark key="[" line="6" column="44" />
@@ -129,12 +127,23 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/Main.java" timestamp="1461773347853">
-        <mark key="'" line="64" column="22" />
-        <mark key="[" line="75" column="50" />
-        <mark key="]" line="75" column="24" />
-        <mark key="^" line="75" column="24" />
-        <mark key="." line="75" column="24" />
+      <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/hanHan2003ArticleGetter.java" timestamp="1462159756936">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="14" />
+        <mark key="." line="13" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/Main.java" timestamp="1462160669204">
+        <mark key="'" line="72" column="22" />
+        <mark key="[" line="111" column="13" />
+        <mark key="]" line="111" column="13" />
+        <mark key="^" line="109" column="24" />
+        <mark key="." line="111" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/HanHan2003ArticleGetter.java" timestamp="1462159795856">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/JpgGetter.java" timestamp="1461169289142">
         <mark key="[" line="15" column="0" />
@@ -197,7 +206,7 @@
         <mark key="^" line="22" column="27" />
         <mark key="." line="22" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1461085877771">
+      <file name="/fragment.java" timestamp="1462159736473">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/Misc/src/edu/illinois/cs/TestModifiers.java" timestamp="1460733783304">
@@ -287,10 +296,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Q291cnNlPnsKICAgIA==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihhcnRpY2xlKTs=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>setDebug</text>
@@ -299,31 +308,31 @@
         <text>!isNum(usrInput.charAt(rightIndex + 1)</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Q291cnNlPnsKICAgIA==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihhcnRpY2xlKTs=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxlbWVudHMuCg==</text>
       </register>
       <register name="3" type="4">
-        <text>mplements Comparable</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text>e</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="5" type="4">
+        <text>S</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgaW50IGNvbXBhcmVUbyhDb3Vyc2UgYykgewogICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRWxlbWVudHMgZWxlbWVudHMgPSAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm5leHQgPSBuZXcgTGlua2VkTGlzdChjKTsK</text>
+      <register name="7" type="4">
+        <text>System.out.println(title);</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gLi4uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
