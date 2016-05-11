@@ -8,6 +8,11 @@
         <mark key="]" line="30" column="13" />
         <mark key="." line="30" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/chihuo/model/ChiHuoArticleGetter.java" timestamp="1462980737311">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/util/PrintTime.java" timestamp="1462898282950">
         <mark key="[" line="6" column="24" />
       </file>
@@ -82,10 +87,10 @@
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/base/ChiHuoArticleGetter.java" timestamp="1462800951308">
         <mark key="[" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/chihuo/ChiHuoApp.java" timestamp="1462969793013">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/chihuo/ChiHuoApp.java" timestamp="1462980758885">
+        <mark key="[" line="49" column="55" />
+        <mark key="]" line="49" column="54" />
+        <mark key="." line="49" column="54" />
       </file>
       <file name="/Dummy.txt" timestamp="1462969898806">
         <mark key="[" line="0" column="0" />
@@ -248,11 +253,11 @@
       <jump line="33" column="0" filename="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/chihuo/ChiHuoArticleGetter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGFydGljbGUgPSBhcnRpY2xlR2V0dGVyLmdldEFydGljbGUoKTsK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>folder</text>
@@ -260,32 +265,32 @@
       <register name="0" type="4">
         <text>!isNum(usrInput.charAt(rightIndex + 1)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGFydGljbGUgPSBhcnRpY2xlR2V0dGVyLmdldEFydGljbGUoKTsK</text>
+      <register name="1" type="4">
+        <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text>PR</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ2hpSHVvTWFpbigpIHsKICAgIH0KCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="4">
-        <text>v</text>
-      </register>
-      <register name="6" type="4">
+      <register name="3" type="4">
         <text>static</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSGFuSGFuMjAwM01haW4oKSB7CiAgICB9Cgo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGFydGljbGUgPSBhcnRpY2xlR2V0dGVyLmdldEFydGljbGUoKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpY2xlID0gImFydGljbGUiOwogICAgICAgIHRpdGxlID0gInRpdGxlIjsKICAgICAgICB1cmwgPSAiIjsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZSA9IHVybC5zdWJzdHJpbmcoUFJFRklYIC0gMSwgdXJsLmxlbmd0aCgpIC0gMSk7Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQ2hpSHVvTWFpbigpIHsKICAgIH0KCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="4">
+        <text>v</text>
+      </register>
+      <register name="9" type="4">
+        <text>static</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
