@@ -41,6 +41,11 @@
       <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/util/SetDebug.java" timestamp="1462898398147">
         <mark key="[" line="8" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/RedBlackTreeNode.java" timestamp="1463460524511">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/chihuo/ChiHuoLinkGetter.java" timestamp="1462898146107">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="14" column="10" />
@@ -139,11 +144,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/RedBlackTree.java" timestamp="1463454526321">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/RedBlackTree.java" timestamp="1463460540455">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/chihuo/ChiHuoImgGetter.java" timestamp="1462800998112">
         <mark key="[" line="15" column="28" />
@@ -157,6 +162,11 @@
         <mark key="]" line="16" column="11" />
         <mark key="^" line="62" column="30" />
         <mark key="." line="16" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/Main.java" timestamp="1463460643677">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/WebpageGetter.java" timestamp="1461774935011">
         <mark key="[" line="6" column="28" />
@@ -290,11 +300,11 @@
       <jump line="33" column="0" filename="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/chihuo/ChiHuoArticleGetter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBSZWRCbGFja1RyZWU8SW50ZWdlcj4gdHJlZSA9IG5ldyBSZWRCbGFja1RyZWU8PigpOwogICAgICAgIHRyZWUuYWRkKDEwLCAxMCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRyZWUucm9vdC5nZXREYXRhKCkpOw==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>folder</text>
@@ -302,32 +312,32 @@
       <register name="0" type="4">
         <text>!isNum(usrInput.charAt(rightIndex + 1)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBSZWRCbGFja1RyZWU8SW50ZWdlcj4gdHJlZSA9IG5ldyBSZWRCbGFja1RyZWU8PigpOwogICAgICAgIHRyZWUuYWRkKDEwLCAxMCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRyZWUucm9vdC5nZXREYXRhKCkpOw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmVudW0gVFlQRSB7CiAgICBib29sZWEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgTm9kZTxLPiB7CgogICAgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text />
-      </register>
-      <register name="6" type="4">
-        <text />
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="4">
+        <text>public</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">cHVibGljIA==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIE5vZGUgZmluZChLIGspIHsKCiAgICB9</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
