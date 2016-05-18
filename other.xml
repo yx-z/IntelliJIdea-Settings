@@ -102,4 +102,9 @@
     <option name="pathToSceneBuilder" value="/Applications/SceneBuilder.app" />
     <option name="myPathToSceneBuilder" value="/Applications/SceneBuilder.app" />
   </component>
+  <component name="RefactoringSettings">
+    <option name="TYPE_COOK_DROP_CASTS" value="false" />
+    <option name="TYPE_COOK_PRESERVE_RAW_ARRAYS" value="false" />
+    <option name="TYPE_COOK_LEAVE_OBJECT_PARAMETERIZED_TYPES_RAW" value="false" />
+  </component>
 </application>
