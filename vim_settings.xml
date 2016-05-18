@@ -77,11 +77,10 @@
         <mark key="]" line="9" column="32" />
         <mark key="." line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/RedBlackTree.java" timestamp="1463539728562">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/RedBlackTree.java" timestamp="1463547893892">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/chihuo/ChiHuoImgGetter.java" timestamp="1462800998112">
         <mark key="[" line="15" column="28" />
@@ -147,6 +146,11 @@
       <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/chihuo/model/ChiHuoLinkGetter.java" timestamp="1463010196965">
         <mark key="[" line="37" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/model/RedBlackTree.java" timestamp="1463548712856">
+        <mark key="[" line="63" column="7" />
+        <mark key="]" line="63" column="7" />
+        <mark key="." line="63" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/hanhan2003/HanHan2003ArticleGetter.java" timestamp="1462899796415">
         <mark key="[" line="29" column="31" />
         <mark key="]" line="41" column="18" />
@@ -188,10 +192,8 @@
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/JsoupGetter.java" timestamp="1461771136845">
         <mark key="[" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/Main.java" timestamp="1463460643677">
-        <mark key="[" line="5" column="6" />
-        <mark key="]" line="5" column="6" />
-        <mark key="." line="5" column="6" />
+      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/Main.java" timestamp="1463547764809">
+        <mark key="[" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/base/LinkGetter.java" timestamp="1463487031560">
         <mark key="[" line="28" column="0" />
@@ -221,6 +223,12 @@
         <mark key="[" line="14" column="55" />
         <mark key="]" line="14" column="55" />
         <mark key="." line="14" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/Node.java" timestamp="1463547523558">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="4" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1462801272029">
         <mark key="[" line="0" column="0" />
@@ -319,13 +327,15 @@
       <jump line="59" column="53" filename="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/chihuo/ChiHuoMain.java" />
       <jump line="51" column="31" filename="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/chihuo/ChiHuoMain.java" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/chihuo/ChiHuoArticleGetter.java" />
+      <jump line="10" column="3" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/RedBlackTree.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/RedBlackTree.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGlmICh0aGlzLmlzRW1wdHkoKSkgewogICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gCiAgICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>folder</text>
@@ -333,32 +343,32 @@
       <register name="0" type="4">
         <text>!isNum(usrInput.charAt(rightIndex + 1)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGlmICh0aGlzLmlzRW1wdHkoKSkgewogICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gCiAgICAgICAgfQ==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nMlR4dCgpIHsKICAgICAgICBzdHIgPSBudWxsOwogICAgICAgIGZvbGRlclBhdGggPSBudWxsOwogICAgICAgIGRlYnVnID0gZmFsc2U7CiAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgcHVibGljIFJlZEJsYWNrVHJlZSgpIHsKCiAgICB9</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgcHVibGljIFN0cmluZyBnZXRTdHIoKSB7CiAgICAgICAgcmV0dXJuIHN0cjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTdHIoU3RyaW5nIHN0cikgewogICAgICAgIHRoaXMuc3RyID0gc3RyOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0Rm9sZGVyUGF0aCgpIHsKICAgICAgICByZXR1cm4gZm9sZGVyUGF0aDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRGb2xkZXJQYXRoKFN0cmluZyBmb2xkZXJQYXRoKSB7CiAgICAgICAgdGhpcy5mb2xkZXJQYXRoID0gb3B0UGF0aChmb2xkZXJQYXRoKTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEZpbGVOYW1lKCkgewogICAgICAgIHJldHVybiBmaWxlTmFtZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRGaWxlTmFtZShTdHJpbmcgZmlsZU5hbWUpIHsKICAgICAgICB0aGlzLmZpbGVOYW1lID0gZmlsZU5hbWU7CiAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgcHJpdmF0ZSBzdGF0aWMgYm9vbGVhbiBzZXREZWJ1ZygpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkRlYnVnIE1vZGU/IHRydWUgLyBmYWxzZSIpOwogICAgICAgIFNjYW5uZXIgc2Nhbm5lciA9IG5ldyBTY2FubmVyKFN5c3RlbS5pbik7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgYm9vbGVhbiBkZWJ1ZyA9IHNjYW5uZXIubmV4dEJvb2xlYW4oKTsKICAgICAgICAgICAgcmV0dXJuIGRlYnVnOwogICAgICAgIH0gY2F0Y2ggKElucHV0TWlzbWF0Y2hFeGNlcHRpb24gZSkgewogICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIlBsZWFzZSBlbnRlciBjb3JyZWN0bHkiKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIERlYnVnLnNldERlYnVnKCk7CiAgICB9</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBSZWRCbGFja1RyZWUoKSB7CgogICAgfQo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
