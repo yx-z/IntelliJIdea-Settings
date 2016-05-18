@@ -8,11 +8,11 @@
         <mark key="]" line="30" column="13" />
         <mark key="." line="30" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/model/Node.java" timestamp="1463576018443">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="23" column="19" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/model/Node.java" timestamp="1463581168738">
+        <mark key="[" line="61" column="36" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="72" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/chihuo/model/ChiHuoArticleGetter.java" timestamp="1463010010304">
         <mark key="[" line="71" column="24" />
@@ -167,12 +167,6 @@
       <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/chihuo/model/ChiHuoLinkGetter.java" timestamp="1463010196965">
         <mark key="[" line="37" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/model/RedBlackTree.java" timestamp="1463576508093">
-        <mark key="[" line="22" column="1" />
-        <mark key="]" line="22" column="1" />
-        <mark key="." line="22" column="1" />
-        <mark key="^" line="65" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/hanhan2003/HanHan2003ArticleGetter.java" timestamp="1462899796415">
         <mark key="[" line="29" column="31" />
         <mark key="]" line="41" column="18" />
@@ -187,7 +181,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463577020848">
+      <file name="/Dummy.txt" timestamp="1463581649884">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/hanhan/HanHanApp.java" timestamp="1463486929298">
@@ -225,8 +219,11 @@
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/JsoupGetter.java" timestamp="1461771136845">
         <mark key="[" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/Main.java" timestamp="1463576786626">
-        <mark key="[" line="9" column="65" />
+      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/Main.java" timestamp="1463581590198">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/base/LinkGetter.java" timestamp="1463487031560">
         <mark key="[" line="28" column="0" />
@@ -365,10 +362,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgIGlmIChpc0VtcHR5KCkpIHsKICAgICAgICAgICAgLy8gaW5zZXJ0IHRvIHJvb3QKICAgICAgICAgICAgcm9vdCA9IG5ldyBOb2RlPD4oaywgbyk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGRlbGV0ZShLIGspIHsKICAgICAgICBkZWxldGUoaywgcm9vdCk7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGRlbGV0ZShLIGssIE5vZGU8Sz4gbikgewogICAgICAgIGlmIChpc0VtcHR5KG4pKSB7CiAgICAgICAgICAgIC8vIGRvIG5vdGhpbmcgaWYgd2UgY2Fubm90IGV2ZW4gZmluZCB0aGUgbm9kZQogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBpbnQgY29tcGFyZSA9IGsuY29tcGFyZVRvKG4ua2V5KTsKICAgICAgICBpZiAoY29tcGFyZSA9PSAwKSB7CiAgICAgICAgICAgIE5vZGU8Sz4gcHJlZGVjZXNzb3IgPSBwcmVkZWNlc3Nvck9mKG4pOwogICAgICAgICAgICBzd2FwKG4sIHByZWRlY2Vzc29yKTsKICAgICAgICAgICAgaWYgKGlzRW1wdHkocHJlZGVjZXNzb3IubGVmdCkpIHsKICAgICAgICAgICAgICAgIHByZWRlY2Vzc29yID0gTklMOyAvLyBzZXQgcHJlZGVjZXNzb3IgdG8gTklMIGxlYWYKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vIGxpbmsgcGFyZW50ICYgbGVmdCBjaGlsZCAoc2tpcCBjdXJyZW50IG5vZGUgaXRzZWxmKQogICAgICAgICAgICAgICAgcHJlZGVjZXNzb3IubGVmdC5wYXJlbnQgPSBwcmVkZWNlc3Nvci5wYXJlbnQ7CiAgICAgICAgICAgICAgICBwcmVkZWNlc3Nvci5wYXJlbnQucmlnaHQgPSBwcmVkZWNlc3Nvci5sZWZ0OwogICAgICAgICAgICAgICAgcHJlZGVjZXNzb3IgPSBudWxsOyAvLyBkZWxldGUgcHJlZGVjZXNzb3IKICAgICAgICAgICAgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGRlbGV0ZShrLCBjb21wYXJlID4gMCA/IG4ucmlnaHQgOiBuLmxlZnQpOwoKICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIHN3YXAoTm9kZTxLPiBuMSwgTm9kZTxLPiBuMikgewogICAgICAgIEsga2V5TjEgPSBuMS5rZXk7CiAgICAgICAgbjEua2V5ID0gbjIua2V5OwogICAgICAgIG4yLmtleSA9IGtleU4xOwoKICAgICAgICBPYmplY3QgZGF0YU4xID0gbjEuZGF0YTsKICAgICAgICBuMS5kYXRhID0gbjIuZGF0YTsKICAgICAgICBuMi5kYXRhID0gZGF0YU4xOwogICAgfQoKICAgIC8vIGdldCB0aGUgYmlnZ2VzdC9yaWdodC1tb3N0IG5vZGUgaW4gdGhlIGxlZnQgc3ViLXRyZWUKICAgIHByaXZhdGUgTm9kZTxLPiBwcmVkZWNlc3Nvck9mKE5vZGU8Sz4gbikgewogICAgICAgIE5vZGU8Sz4gdG1wID0gbi5sZWZ0OyAvLyBnbyB0byB0aGUgbGVmdCBzdWItdHJlZQogICAgICAgIHdoaWxlICghaXNFbXB0eSh0bXAucmlnaHQpKSB7CiAgICAgICAgICAgIHRtcCA9IHRtcC5yaWdodDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRtcDsKICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlmIChpc0VtcHR5KHByZWRlY2Vzc29yLmxlZnQpKSA=</text>
+        <text>on a streak</text>
       </register>
       <register name="/" type="4">
         <text>folder</text>
@@ -377,31 +374,31 @@
         <text encoding="base64">ID0gbmV3IE5vZGU8Sz4oKS5OSUw7</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgIGlmIChpc0VtcHR5KCkpIHsKICAgICAgICAgICAgLy8gaW5zZXJ0IHRvIHJvb3QKICAgICAgICAgICAgcm9vdCA9IG5ldyBOb2RlPD4oaywgbyk7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGRlbGV0ZShLIGspIHsKICAgICAgICBkZWxldGUoaywgcm9vdCk7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGRlbGV0ZShLIGssIE5vZGU8Sz4gbikgewogICAgICAgIGlmIChpc0VtcHR5KG4pKSB7CiAgICAgICAgICAgIC8vIGRvIG5vdGhpbmcgaWYgd2UgY2Fubm90IGV2ZW4gZmluZCB0aGUgbm9kZQogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBpbnQgY29tcGFyZSA9IGsuY29tcGFyZVRvKG4ua2V5KTsKICAgICAgICBpZiAoY29tcGFyZSA9PSAwKSB7CiAgICAgICAgICAgIE5vZGU8Sz4gcHJlZGVjZXNzb3IgPSBwcmVkZWNlc3Nvck9mKG4pOwogICAgICAgICAgICBzd2FwKG4sIHByZWRlY2Vzc29yKTsKICAgICAgICAgICAgaWYgKGlzRW1wdHkocHJlZGVjZXNzb3IubGVmdCkpIHsKICAgICAgICAgICAgICAgIHByZWRlY2Vzc29yID0gTklMOyAvLyBzZXQgcHJlZGVjZXNzb3IgdG8gTklMIGxlYWYKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vIGxpbmsgcGFyZW50ICYgbGVmdCBjaGlsZCAoc2tpcCBjdXJyZW50IG5vZGUgaXRzZWxmKQogICAgICAgICAgICAgICAgcHJlZGVjZXNzb3IubGVmdC5wYXJlbnQgPSBwcmVkZWNlc3Nvci5wYXJlbnQ7CiAgICAgICAgICAgICAgICBwcmVkZWNlc3Nvci5wYXJlbnQucmlnaHQgPSBwcmVkZWNlc3Nvci5sZWZ0OwogICAgICAgICAgICAgICAgcHJlZGVjZXNzb3IgPSBudWxsOyAvLyBkZWxldGUgcHJlZGVjZXNzb3IKICAgICAgICAgICAgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGRlbGV0ZShrLCBjb21wYXJlID4gMCA/IG4ucmlnaHQgOiBuLmxlZnQpOwoKICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIHN3YXAoTm9kZTxLPiBuMSwgTm9kZTxLPiBuMikgewogICAgICAgIEsga2V5TjEgPSBuMS5rZXk7CiAgICAgICAgbjEua2V5ID0gbjIua2V5OwogICAgICAgIG4yLmtleSA9IGtleU4xOwoKICAgICAgICBPYmplY3QgZGF0YU4xID0gbjEuZGF0YTsKICAgICAgICBuMS5kYXRhID0gbjIuZGF0YTsKICAgICAgICBuMi5kYXRhID0gZGF0YU4xOwogICAgfQoKICAgIC8vIGdldCB0aGUgYmlnZ2VzdC9yaWdodC1tb3N0IG5vZGUgaW4gdGhlIGxlZnQgc3ViLXRyZWUKICAgIHByaXZhdGUgTm9kZTxLPiBwcmVkZWNlc3Nvck9mKE5vZGU8Sz4gbikgewogICAgICAgIE5vZGU8Sz4gdG1wID0gbi5sZWZ0OyAvLyBnbyB0byB0aGUgbGVmdCBzdWItdHJlZQogICAgICAgIHdoaWxlICghaXNFbXB0eSh0bXAucmlnaHQpKSB7CiAgICAgICAgICAgIHRtcCA9IHRtcC5yaWdodDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRtcDsKICAgIH0=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgIGlmIChpc0VtcHR5KCkpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0=</text>
+        <text>on a streak</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIG5vdGUgdGhhdCBOSUwgIT0gbnVsbCAocG9pbnRlcikK</text>
+      <register name="3" type="4">
+        <text>//</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIE5vZGU8Sz4gTklMID0gbmV3IE5vZGU8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzcGFjZSsrOwo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ZmluYWwgTm9kZTxLPiBOSUwgPSBuZXcgTm9kZTw+KCk7Cg==</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBOSUwgPSBuZXcgTm9kZTw+KCk7Cg==</text>
+      <register name="6" type="4">
+        <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3YXAoKQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IGlmIChpc0VtcHR5KHByZWRlY2Vzc29yLmxlZnQpKSA=</text>
+        <text>// build String</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JiYgaXNFbXB0eShwcmVkZWNlc3Nvci5yaWdodCkp</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
