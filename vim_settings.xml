@@ -302,6 +302,13 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/PrimeSet.java" timestamp="1464423294475">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="10" column="76" />
+        <mark key="]" line="23" column="17" />
+        <mark key="^" line="23" column="17" />
+        <mark key="." line="23" column="17" />
+      </file>
       <file name="/fragment.java" timestamp="1463655939959">
         <mark key="[" line="0" column="0" />
       </file>
@@ -309,6 +316,12 @@
         <mark key="[" line="10" column="30" />
         <mark key="]" line="10" column="30" />
         <mark key="." line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/PrimeList.java" timestamp="1464424556792">
+        <mark key="[" line="68" column="23" />
+        <mark key="]" line="90" column="46" />
+        <mark key="." line="90" column="46" />
+        <mark key="^" line="90" column="47" />
       </file>
     </filemarks>
     <jumps>
@@ -401,57 +414,61 @@
       <jump line="33" column="0" filename="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/chihuo/ChiHuoArticleGetter.java" />
       <jump line="10" column="3" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/RedBlackTree.java" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/RedBlackTree.java" />
+      <jump line="68" column="3" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/PrimeNumList.java" />
+      <jump line="23" column="17" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/PrimeSet.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/PrimeSet.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/PrimeSet.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpOiAiICsgaSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>aPrimeList</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzcGFjZVw+</text>
+        <text>set</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ID0gbmV3IE5vZGU8Sz4oKS5OSUw7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpOiAiICsgaSk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text />
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiY3VycjogIiArIGN1cnIpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>d</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHByaW1lTGlzdCk7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>aPrimeList</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLwogICAgICAgIHByaW1lTGlzdC5hZGQoMik7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhZnguc2NlbmUuaW5wdXQuS2V5Q29kZS5LOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBQcmltZUxpc3QoKSB7CiAgICAgICAgdGhpcyg5KTsKICAgIH0K</text>
       </register>
       <register name="8" type="4">
-        <text>K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbltdIHByaW1lOwogICAgcHJpdmF0ZSBpbnQgbGltaXQ7CiAgICAKICAgIHB1YmxpYyBQcmltZVNldChpbnQgaSkgewogICAgICAgIGxpbWl0ID0gaTsKICAgICAgICBwcmltZSA9IG5ldyBib29sZWFuW2xpbWl0XTsKICAgICAgICBmb3IgKGJvb2xlYW4gYiA6IHByaW1lKSB7CiAgICAgICAgICAgIGIgPSBmYWxzZTsKICAgICAgICB9CiAgICB9CiAgICAKICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICBmb3IgKGludCBuID0gMjsgbiA8IGxpbWl0OyBuKyspIHsKICAgICAgICAgICAgZm9yIChpbnQgaSA9ICkKICAgICAgICB9CiAgICB9CiAgICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFja2FnZSBlZHUuaWxsaW5vaXMuY3M7CgppbXBvcnQgamF2YS5tYXRoLkJpZ0ludGVnZXI7CmltcG9ydCBqYXZhLnV0aWwuQXJyYXlMaXN0OwoKLyoqCiAqIENyZWF0ZWQgb24gMS8yMS8xNi4KICovCgpwdWJsaWMgY2xhc3MgUHJpbWVOdW1MaXN0IHsKICAgIHByaXZhdGUgQXJyYXlMaXN0PEJpZ0ludGVnZXI+IHByaW1lczsKCiAgICBwdWJsaWMgUHJpbWVOdW1MaXN0KGludCBudW0sIGNoYXIgY29tbWFuZCkgewogICAgICAgIHRoaXMucHJpbWVzID0gbmV3IEFycmF5TGlzdDxCaWdJbnRlZ2VyPigpIHt7CiAgICAgICAgICAgIHRoaXMuYWRkKG5ldyBCaWdJbnRlZ2VyKCIyIikpOwogICAgICAgIH19OwogICAgICAgIHN3aXRjaCAoY29tbWFuZCkgewogICAgICAgICAgICBjYXNlICdzJzovLydzJyBmb3Igc2l6ZSBvZiBudW0KICAgICAgICAgICAgICAgIGFkZEJ5U2l6ZShudW0pOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgJ20nOi8vJ20nIGZvciBwb3NzaWJsZSBtYXhpbXVtIGlzIG51bQogICAgICAgICAgICAgICAgYWRkQnlNYXgobnVtKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAvL2RlZmF1bHQgYnkgbWF4CiAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICBhZGRCeU1heChudW0pOwogICAgICAgIH0KICAgIH0KCiAgICAvL2RlZmF1bHQgYnkgbWF4CiAgICBwdWJsaWMgUHJpbWVOdW1MaXN0KGludCBudW0pIHsKICAgICAgICBuZXcgUHJpbWVOdW1MaXN0KG51bSwgJ20nKTsKICAgIH0KCiAgICBwdWJsaWMgUHJpbWVOdW1MaXN0KCkgewogICAgICAgIHRoaXMucHJpbWVzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICB9CgogICAgcHVibGljIEFycmF5TGlzdDxCaWdJbnRlZ2VyPiBnZXRQcmltZXMoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMucHJpbWVzOwogICAgfQoKICAgIHB1YmxpYyBpbnQgZ2V0U2l6ZSgpIHsKICAgICAgICByZXR1cm4gdGhpcy5wcmltZXMuc2l6ZSgpOwogICAgfQoKICAgIHB1YmxpYyBCaWdJbnRlZ2VyIGdldExhc3QoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMucHJpbWVzLmdldCh0aGlzLmdldFNpemUoKSAtIDEpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBhZGRCeVNpemUoaW50IG4pIHsKICAgICAgICBhZGQ6CiAgICAgICAgZm9yIChCaWdJbnRlZ2VyIGkgPSBuZXcgQmlnSW50ZWdlcigiMyIpOyBwcmltZXMuc2l6ZSgpIDwgbjsgaSA9IGkuYWRkKG5ldyBCaWdJbnRlZ2VyKCIyIikpKSB7CiAgICAgICAgICAgIGZvciAoQmlnSW50ZWdlciBwIDogdGhpcy5wcmltZXMpCiAgICAgICAgICAgICAgICBpZiAoaS5yZW1haW5kZXIocCkuZXF1YWxzKEJpZ0ludGVnZXIuWkVSTykpIGNvbnRpbnVlIGFkZDsKICAgICAgICAgICAgdGhpcy5wcmltZXMuYWRkKGkpOwogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIHZvaWQgYWRkQnlNYXgoaW50IG4pIHsKICAgICAgICBhZGQ6CiAgICAgICAgZm9yIChCaWdJbnRlZ2VyIGkgPSBuZXcgQmlnSW50ZWdlcigiMyIpOyBpLmNvbXBhcmVUbyhuZXcgQmlnSW50ZWdlcihTdHJpbmcudmFsdWVPZihuKSkpIDw9IDA7IGkgPSBpLmFkZChuZXcgQmlnSW50ZWdlcigiMiIpKSkgewogICAgICAgICAgICBmb3IgKEJpZ0ludGVnZXIgcCA6IHRoaXMucHJpbWVzKSB7CiAgICAgICAgICAgICAgICBpZiAoaS5yZW1haW5kZXIocCkuZXF1YWxzKEJpZ0ludGVnZXIuWkVSTykpIGNvbnRpbnVlIGFkZDsKICAgICAgICAgICAgICAgIGlmIChwLmNvbXBhcmVUbyhuZXcgQmlnSW50ZWdlcihTdHJpbmcudmFsdWVPZigoaW50KSBNYXRoLnNxcnQobikpKSkgPiAwKSBicmVhazsKICAgICAgICAgICAgfQogICAgICAgICAgICB0aGlzLnByaW1lcy5hZGQoaSk7CiAgICAgICAgfQogICAgCgogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIFByaW1lTnVtTGlzdCBwcmltZU51bUxpc3QgPSBuZXcgUHJpbWVOdW1MaXN0KDEwMDAwMCwgJ20nKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocHJpbWVOdW1MaXN0LmdldFByaW1lcygpKTsKICAgIH0KfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3NldC9saXN0L2c=</text>
       </register>
     </registers>
     <search>
       <last-search encoding="base64">XDxzcGFjZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzcGFjZVw+</last-pattern>
-      <last-replace encoding="base64">IA==</last-replace>
-      <last-substitute encoding="base64">ICA=</last-substitute>
+      <last-pattern>set</last-pattern>
+      <last-replace>list</last-replace>
+      <last-substitute>set</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -475,6 +492,7 @@
         <entry>url</entry>
         <entry>folder</entry>
         <entry encoding="base64">XDxzcGFjZVw+</entry>
+        <entry>set</entry>
       </history-search>
       <history-cmd>
         <entry>%sObject/int</entry>
@@ -491,6 +509,7 @@
         <entry>vs ChiHuoArticleGetter.java</entry>
         <entry>vs</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3NldC9saXN0L2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -510,6 +529,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
