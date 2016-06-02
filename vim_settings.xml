@@ -166,11 +166,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/Sieve.java" timestamp="1464251876793">
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
+      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/Sieve.java" timestamp="1464505161579">
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="5" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/hanhan/model/LinkGetterHanHan.java" timestamp="1463057835535">
         <mark key="[" line="9" column="45" />
@@ -317,11 +317,11 @@
         <mark key="]" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/PrimeList.java" timestamp="1464429725376">
-        <mark key="[" line="68" column="23" />
-        <mark key="]" line="81" column="43" />
-        <mark key="." line="81" column="43" />
-        <mark key="^" line="81" column="43" />
+      <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/PrimeList.java" timestamp="1464505151806">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="108" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -420,11 +420,11 @@
       <jump line="28" column="0" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/PrimeSet.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBnZXQgYWxsIHByaW1lcyBsZXNzIHRoYW4gMjAK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -432,32 +432,32 @@
       <register name="0" type="4">
         <text encoding="base64">ID0gbmV3IE5vZGU8Sz4oKS5OSUw7</text>
       </register>
-      <register name="1" type="4">
-        <text>t</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBnZXQgYWxsIHByaW1lcyBsZXNzIHRoYW4gMjAK</text>
       </register>
-      <register name="2" type="4">
-        <text>s</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocHJpbWVMaXN0LmdldFByaW1lTGlzdCgpKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>i</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocHJpbWVMaXN0LmdldFByaW1lTGlzdCgpKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>L</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmltZUxpc3Quc2V0TGltaXQoMTAwKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>'</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjaGFuZ2UgbGltaXQgdG8gMTAwCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlByaW1lczoiKTsgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJpOiAiICsgaSk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGZvciAoaW50IGkgPSAwOyBpIDwgdGVzdC5sZW5ndGg7IGkrKykKICAgICAgICAgICAgaWYgKHRlc3RbaV0pCiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaSk7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiY3VycjogIiArIGN1cnIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxpbWl0Q2hhbmdlZCA9IHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHByaW1lTGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxpbWl0ID0gbGltaXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3NldC9saXN0L2c=</text>
