@@ -121,6 +121,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/STAT/src/Main.java" timestamp="1468977888607">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/WebpageGetter.java" timestamp="1461774935011">
         <mark key="[" line="6" column="28" />
       </file>
@@ -432,10 +437,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGZvciAoU3RyaW5nIHNyYyA6IFNPVVJDRSkgewovLyAgICAgICAgICAgIGludFtdIGFyciA9IHRvQXJyKHNyYyk7Ci8vCgovLyAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -444,34 +449,34 @@
         <text encoding="base64">ID0gbmV3IE5vZGU8Sz4oKS5OSUw7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGZvciAoU3RyaW5nIHNyYyA6IFNPVVJDRSkgewovLyAgICAgICAgICAgIGludFtdIGFyciA9IHRvQXJyKHNyYyk7Ci8vCgovLyAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBjb25jYXQoY2hhciBjMSwgY2hhciBjMikgewogICAgICAgIHJldHVybiBTdHJpbmcudmFsdWVPZihjMSkgKyBTdHJpbmcudmFsdWVPZihjMik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghcHJpbnRDb21tYSkgewogICAgICAgICAgICAgICAgICAgIHByaW50Q29tbWEgPSB0cnVlOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA6IGFycikgewo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGZvciAoaW50IGk6IGFycil7CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgJzA6Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGF0YWRkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXVtdIGRhdGEgPSBuZXcgaW50W10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWR4Kys7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgVFdFTFZFX01BUks6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRXRUxWRV9NQVJLIGFuZCAnMicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyBpdCdzIHR3ZWx2ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGRvIG5vdGhpbmcgYnV0IGlnbm9yZSBuZXh0IFRXTyBjaGFyOgo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3NldC9saXN0L2c=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -519,8 +524,8 @@
         <entry>!git add .</entry>
         <entry>vs ChiHuoArticleGetter.java</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL3NldC9saXN0L2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
