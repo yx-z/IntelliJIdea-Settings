@@ -88,6 +88,12 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/MyApp/myapp.xml" timestamp="1469089568533">
+        <mark key="[" line="104" column="10" />
+        <mark key="]" line="103" column="5" />
+        <mark key="." line="103" column="5" />
+        <mark key="^" line="103" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/LinkGetter.java" timestamp="1462800636342">
         <mark key="[" line="10" column="13" />
       </file>
@@ -237,11 +243,11 @@
         <mark key="." line="14" column="53" />
         <mark key="^" line="15" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/MyApp/src/app/Controller.java" timestamp="1469068733669">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="37" />
+      <file name="$USER_HOME$/Desktop/MyApp/src/app/Controller.java" timestamp="1469088277525">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="22" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/GUI/ColorChangeGame/src/sample/Main.java" timestamp="1463553734869">
         <mark key="[" line="8" column="39" />
@@ -306,8 +312,8 @@
       <file name="$USER_HOME$/Desktop/MyApp/src/model/Main.java" timestamp="1469067037708">
         <mark key="[" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Desktop/MyApp/src/app/Stat.java" timestamp="1469068520607">
-        <mark key="[" line="38" column="0" />
+      <file name="$USER_HOME$/Desktop/MyApp/src/app/Stat.java" timestamp="1469088292681">
+        <mark key="[" line="154" column="9" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="40" column="0" />
@@ -461,10 +467,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3JjID0gdGV4dEFyZWFJbnB1dC5nZXRUZXh0KCk7Cg==</text>
+        <text encoding="base64">ICAgLS0+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>src</text>
+        <text>etail</text>
       </register>
       <register name="/" type="4">
         <text>fx:id</text>
@@ -473,31 +479,31 @@
         <text encoding="base64">ID0gbmV3IE5vZGU8Sz4oKS5OSUw7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3JjID0gdGV4dEFyZWFJbnB1dC5nZXRUZXh0KCk7Cg==</text>
+        <text encoding="base64">ICAgLS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBGWE1MCiAgICBCdXR0b24gYnV0dG9uQ2xlYXI7Cg==</text>
+        <text encoding="base64">ICA8IS0tIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmltYXJ5U3RhZ2Uuc2V0UmVzaXphYmxlKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGRldGFpbCA9IGNoZWNrQm94RGV0YWlsLmlzU2VsZWN0ZWQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGV0YWlsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3JjID0gdGV4dEFyZWFJbnB1dC5nZXRUZXh0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3JjID0gdGV4dEFyZWFJbnB1dC5nZXRUZXh0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIFN0cmluZyBvdXRwdXQgPSBTdGF0LnJ1bigpOwo=</text>
+        <text encoding="base64">ICAgIEBGWE1MCiAgICBCdXR0b24gYnV0dG9uQ2xlYXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmltYXJ5U3RhZ2Uuc2V0UmVzaXphYmxlKGZhbHNlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdGF0LnJ1bigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGV0YWlsKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odG9TdHIocmVzdWx0KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -510,7 +516,7 @@
       <last-replace>list</last-replace>
       <last-substitute>set</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
