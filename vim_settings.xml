@@ -121,10 +121,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/STAT/src/Main.java" timestamp="1468977888607">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Desktop/STAT/src/Main.java" timestamp="1469023927630">
+        <mark key="[" line="115" column="23" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="50" column="44" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/WebpageGetter.java" timestamp="1461774935011">
         <mark key="[" line="6" column="28" />
@@ -230,6 +231,18 @@
         <mark key="^" line="18" column="15" />
         <mark key="." line="18" column="15" />
       </file>
+      <file name="$USER_HOME$/Desktop/MyApp/src/app/Main.java" timestamp="1469068574266">
+        <mark key="[" line="14" column="52" />
+        <mark key="]" line="14" column="53" />
+        <mark key="." line="14" column="53" />
+        <mark key="^" line="15" column="38" />
+      </file>
+      <file name="$USER_HOME$/Desktop/MyApp/src/app/Controller.java" timestamp="1469068733669">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/Playground/GUI/ColorChangeGame/src/sample/Main.java" timestamp="1463553734869">
         <mark key="[" line="8" column="39" />
       </file>
@@ -290,6 +303,15 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/MyApp/src/model/Main.java" timestamp="1469067037708">
+        <mark key="[" line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desktop/MyApp/src/app/Stat.java" timestamp="1469068520607">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Tree/src/model/SplayTree.java" timestamp="1463658467895">
         <mark key="[" line="8" column="22" />
       </file>
@@ -325,7 +347,7 @@
         <mark key="^" line="23" column="17" />
         <mark key="." line="23" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1463655939959">
+      <file name="/fragment.java" timestamp="1469066852791">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/chihuo/ChiHuoLinkGetter.java" timestamp="1462801024844">
@@ -434,59 +456,61 @@
       <jump line="23" column="17" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/PrimeSet.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/PrimeSet.java" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/PrimeSet.java" />
+      <jump line="31" column="37" filename="$USER_HOME$/Desktop/MyApp/src/app/app.fxml" />
+      <jump line="15" column="28" filename="$USER_HOME$/Desktop/MyApp/src/app/app.fxml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZvciAoU3RyaW5nIHNyYyA6IFNPVVJDRSkgewovLyAgICAgICAgICAgIGludFtdIGFyciA9IHRvQXJyKHNyYyk7Ci8vCgovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3JjID0gdGV4dEFyZWFJbnB1dC5nZXRUZXh0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
-        <text>set</text>
+        <text>fx:id</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ID0gbmV3IE5vZGU8Sz4oKS5OSUw7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZvciAoU3RyaW5nIHNyYyA6IFNPVVJDRSkgewovLyAgICAgICAgICAgIGludFtdIGFyciA9IHRvQXJyKHNyYyk7Ci8vCgovLyAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3JjID0gdGV4dEFyZWFJbnB1dC5nZXRUZXh0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBGWE1MCiAgICBCdXR0b24gYnV0dG9uQ2xlYXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA6IGFycikgewo=</text>
+        <text encoding="base64">ICAgICAgICBwcmltYXJ5U3RhZ2Uuc2V0UmVzaXphYmxlKGZhbHNlKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGZvciAoaW50IGk6IGFycil7CiAgICAgICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZGV0YWlsKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGF0YWRkKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXVtdIGRhdGEgPSBuZXcgaW50W10K</text>
+        <text encoding="base64">ICAgICAgIFN0cmluZyBvdXRwdXQgPSBTdGF0LnJ1bigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWR4Kys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIFRXRUxWRV9NQVJLIGFuZCAnMicK</text>
+        <text encoding="base64">ICAgICAgICBTdGF0LnJ1bigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGRvIG5vdGhpbmcgYnV0IGlnbm9yZSBuZXh0IFRXTyBjaGFyOgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odG9TdHIocmVzdWx0KSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzcGFjZVw+</last-search>
+      <last-search>fx:id</last-search>
       <last-offset />
-      <last-pattern>set</last-pattern>
+      <last-pattern>fx:id</last-pattern>
       <last-replace>list</last-replace>
       <last-substitute>set</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -509,6 +533,7 @@
         <entry>folder</entry>
         <entry encoding="base64">XDxzcGFjZVw+</entry>
         <entry>set</entry>
+        <entry>fx:id</entry>
       </history-search>
       <history-cmd>
         <entry>%sObject/int</entry>
