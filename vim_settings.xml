@@ -55,11 +55,11 @@
         <mark key="." line="25" column="49" />
         <mark key="^" line="25" column="49" />
       </file>
-      <file name="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/app/controller/ControllerImportanceSort.java" timestamp="1469156910817">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="45" column="36" />
-        <mark key="." line="45" column="44" />
-        <mark key="^" line="45" column="36" />
+      <file name="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/app/controller/ControllerImportanceSort.java" timestamp="1469162567718">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="48" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/app/AlertBox.java" timestamp="1469114170467">
         <mark key="[" line="30" column="5" />
@@ -299,6 +299,9 @@
         <mark key="'" line="28" column="0" />
         <mark key="^" line="21" column="24" />
       </file>
+      <file name="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/app/ui/debug.fxml" timestamp="1469162594759">
+        <mark key="." line="9" column="69" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/test/Main.java" timestamp="1463574777743">
         <mark key="[" line="9" column="38" />
         <mark key="]" line="9" column="41" />
@@ -320,9 +323,9 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/util/Strings.java" timestamp="1469156003835">
+      <file name="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/util/Strings.java" timestamp="1469161796945">
         <mark key="'" line="8" column="36" />
-        <mark key="[" line="9" column="43" />
+        <mark key="[" line="17" column="66" />
         <mark key="]" line="9" column="41" />
         <mark key="^" line="9" column="41" />
         <mark key="." line="9" column="41" />
@@ -408,8 +411,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/app/general/DebugWindow.java" timestamp="1469156946573">
-        <mark key="[" line="8" column="26" />
+      <file name="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/app/general/DebugWindow.java" timestamp="1469162801463">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="23" />
+        <mark key="^" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/app/ControllerImportanceSort.java" timestamp="1469113981185">
         <mark key="[" line="42" column="59" />
@@ -417,10 +423,11 @@
         <mark key="." line="42" column="58" />
         <mark key="^" line="42" column="58" />
       </file>
-      <file name="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/app/controller/ControllerBestChoice.java" timestamp="1469152964874">
-        <mark key="[" line="40" column="43" />
-        <mark key="]" line="40" column="43" />
-        <mark key="." line="40" column="43" />
+      <file name="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/app/controller/ControllerBestChoice.java" timestamp="1469162561320">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="57" column="8" />
+        <mark key="." line="54" column="23" />
+        <mark key="^" line="53" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/hanHan2003ArticleGetter.java" timestamp="1462159756936">
         <mark key="[" line="13" column="23" />
@@ -572,47 +579,56 @@
       <jump line="7" column="36" filename="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/util/Strings.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8Um93Q29uc3RyYWludHMvPgo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>SOMETIMES</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>ImportanceSort</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNvdXJjZSA9IHNvdXJjZS50cmltKCkucmVwbGFjZUFsbCgiXG4iLCAiIikuc3BsaXQoIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBEZWJ1Z1dpbmRvdy5zaG93KCk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8Um93Q29uc3RyYWludHMvPgo=</text>
+      <register name="1" type="8">
+        <text>window.
+       
+window.
+window.
+window.
+window.
+window.
+window.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Um93Q29uc3RyYWludHMvPgo=</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cucm9vdCA9IEZYTUxMb2FkZXIubG9hZAogICAgICAgICAgICAgICAgKHdpbmRvdy5nZXRDbGFzcygpLmdldFJlc291cmNlKCIuLi91aS9kZWJ1Zy5meG1sIikpOwogICAgICAgIHdpbmRvdy5zdGFnZSA9IG5ldyBTdGFnZSgpOwogICAgICAgIHdpbmRvdy5zdGFnZS5zZXRUaXRsZShTdHJpbmdzLkRFQlVHKTsKICAgICAgICB3aW5kb3cuc3RhZ2Uuc2V0TWluV2lkdGgoMjUwKTsKICAgICAgICB3aW5kb3cuc3RhZ2Uuc2V0TWluSGVpZ2h0KDMwMCk7CiAgICAgICAgd2luZG93LnNjZW5lID0gbmV3IFNjZW5lKHdpbmRvdy5yb290LCAyNTAsIDM1MCk7CiAgICAgICAgd2luZG93LnN0YWdlLnNldFNjZW5lKHdpbmRvdy5zY2VuZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8Q29sdW1uQ29uc3RyYWludHMgaGdyb3c9IlNPTUVUSU1FUyIgbWluV2lkdGg9IjEwLjAiIHByZWZXaWR0aD0iMTAwLjAiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Q29sdW1uQ29uc3RyYWludHMgaGdyb3c9IlNPTUVUSU1FUyIgbWluV2lkdGg9IjEwLjAiIHByZWZXaWR0aD0iMTAwLjAiLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8Q29sdW1uQ29uc3RyYWludHMvPgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc051bGwoKSB7CiAgICAgICAgcmV0dXJuIHJvb3QgPT0gbnVsbCAmJgogICAgICAgICAgICAgICAgc3RhZ2UgPT0gbnVsbCAmJgogICAgICAgICAgICAgICAgc2NlbmUgPT0gbnVsbDsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Um93Q29uc3RyYWludHMvPgo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAoIWlzTnVsbCgpKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgcm9vdCA9IEZYTUxMb2FkZXIubG9hZChnZXRDbGFzcygpLmdldFJlc291cmNlKCIuLi91aS9kZWJ1Zy5meG1sIikpOwogICAgICAgIHN0YWdlID0gbmV3IFN0YWdlKCk7CiAgICAgICAgc3RhZ2Uuc2V0VGl0bGUoU3RyaW5ncy5ERUJVRyk7CiAgICAgICAgc3RhZ2Uuc2V0TWluV2lkdGgoMjUwKTsKICAgICAgICBzdGFnZS5zZXRNaW5IZWlnaHQoMzUwKTsKICAgICAgICBzY2VuZSA9IG5ldyBTY2VuZShyb290LCAyNTAsIDQwMCk7CiAgICAgICAgc3RhZ2Uuc2V0U2NlbmUoc2NlbmUpOwogICAgICAgIHN0YWdlLnNob3coKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Um93Q29uc3RyYWludHM+Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUGFyZW50IHJvb3QKICAgIHByaXZhdGUgU3RhZ2Ugc3RhZ2UKICAgIHByaXZhdGUgU2NlbmUgc2NlbmUK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="8" type="8">
+        <text>;
+;
+;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PD9pbXBvcnQgamF2YWZ4LnNjZW5lLmxheW91dC5BbmNob3JQYW5lPz4K</text>
+        <text encoding="base64">ICAgICAgICBzdGFnZS5zZXRTY2VuZShuZXcgU2NlbmUocm9vdCwgMjUwLCA0MDApKTsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0ltcG9ydGFuY2VTb3J0Ly9n</text>
+        <text>vs</text>
       </register>
     </registers>
     <search>
@@ -660,12 +676,14 @@
         <entry>%s/  / /g</entry>
         <entry>!git add .</entry>
         <entry>vs ChiHuoArticleGetter.java</entry>
-        <entry>vs</entry>
         <entry encoding="base64">JzwsJz5zL3NldC9saXN0L2c=</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLypJbXBvcnRhbmNlU29ydC8qL2dj</entry>
         <entry encoding="base64">JzwsJz5zL0ltcG9ydGFuY2VTb3J0Ly9nYw==</entry>
         <entry encoding="base64">JzwsJz5zL0ltcG9ydGFuY2VTb3J0Ly9n</entry>
+        <entry>q</entry>
+        <entry>sp</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
