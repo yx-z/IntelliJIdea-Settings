@@ -228,11 +228,11 @@
       <file name="$USER_HOME$/Documents/Github/Playground/GUI/ColorChangeGame/src/sample/Main.java" timestamp="1463553734869">
         <mark key="[" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/JDBC/src/edu/illinois/cs/service/LoginService.java" timestamp="1471443452643">
-        <mark key="[" line="26" column="61" />
-        <mark key="]" line="29" column="32" />
-        <mark key="." line="29" column="32" />
-        <mark key="^" line="29" column="32" />
+      <file name="$USER_HOME$/Desktop/JDBC/src/edu/illinois/cs/service/LoginService.java" timestamp="1471444852437">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="11" />
+        <mark key="." line="12" column="46" />
+        <mark key="^" line="12" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Tree/src/model/Tree.java" timestamp="1463658048298">
         <mark key="[" line="7" column="0" />
@@ -257,6 +257,9 @@
         <mark key="[" line="9" column="3" />
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desktop/JDBC/src/edu/illinois/cs/test/DBTest.java" timestamp="1471444985778">
+        <mark key="[" line="11" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Tree/src/model/Node.java" timestamp="1463658166758">
         <mark key="[" line="2" column="0" />
@@ -489,10 +492,10 @@
       <file name="/Dummy.txt" timestamp="1471435657172">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/JDBC/src/edu/illinois/cs/util/DBUtil.java" timestamp="1471442167382">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Desktop/JDBC/src/edu/illinois/cs/util/DBUtil.java" timestamp="1471444898093">
+        <mark key="[" line="16" column="68" />
+        <mark key="]" line="16" column="68" />
+        <mark key="." line="16" column="68" />
       </file>
       <file name="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/app/ControllerImportanceSort.java" timestamp="1469113981185">
         <mark key="[" line="42" column="59" />
@@ -670,11 +673,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/Desktop/JDBC/src/edu/illinois/cs/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFN0dWRlbnQoaWQsICk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>createStatement</text>
@@ -686,31 +689,31 @@ DB_USR;
 DB_PW;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFN0dWRlbnQoaWQsICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoIlNFTEVDVCAqIEZST00gc3R1ZGVudCBXSEVSRSBpZD0/Iik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkVudGVyIHN0dWRlbnQgbmFtZTogIik7CiAgICAgICAgU3RyaW5nIG5hbWUgPSBzY2FubmVyLm5leHQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoIlNFTEVDVCAqIEZST00gc3R1ZGVudCBXSEVSRSBpZD0/Iik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiU0VMRUNUICogRlJPTSBzdHVkZW50ICIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgIldIRVJFIGlkPSIgKyBpZCArICIgQU5EIG5hbWU9IiArIG5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFN0dWRlbnQoaWQsICk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYXNzaWdubWVudAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkVudGVyIHN0dWRlbnQgbmFtZTogIik7CiAgICAgICAgU3RyaW5nIG5hbWUgPSBzY2FubmVyLm5leHQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkZWNsYXJhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiU0VMRUNUICogRlJPTSBzdHVkZW50ICIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgIldIRVJFIGlkPSIgKyBpZCArICIgQU5EIG5hbWU9IiArIG5hbWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYXNzaWdubWVudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBkZWNsYXJhdGlvbgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERCX1VSTCA9ICJqZGJjOm15c3FsOi8vbG9jYWxob3N0OjMzMDYvbXlkYiI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBEQl9VU1IgPSAicm9vdCI7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBEQl9QVyA9ICI2NjY2IjsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
