@@ -76,11 +76,11 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Test/src/Main.java" timestamp="1463472880661">
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="18" />
-        <mark key="^" line="20" column="18" />
+      <file name="$USER_HOME$/Desktop/Test/src/Main.java" timestamp="1471480749948">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="21" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/model/Util.java" timestamp="1469115852617">
         <mark key="[" line="23" column="32" />
@@ -420,6 +420,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Test/web/WEB-INF/web.xml" timestamp="1471480797165">
+        <mark key="'" line="7" column="25" />
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+      </file>
       <file name="$USER_HOME$/Desktop/JDBC/src/dbinfo.properties" timestamp="1471441680979">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -571,7 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="24" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ImgGetter.java" />
       <jump line="73" column="19" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/String2Txt.java" />
       <jump line="69" column="16" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/String2Txt.java" />
       <jump line="66" column="27" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/String2Txt.java" />
@@ -671,13 +676,14 @@
       <jump line="16" column="0" filename="$USER_HOME$/Desktop/JDBC/src/edu/illinois/cs/Main.java" />
       <jump line="23" column="0" filename="$USER_HOME$/Desktop/JDBC/src/edu/illinois/cs/Main.java" />
       <jump line="25" column="0" filename="$USER_HOME$/Desktop/JDBC/src/edu/illinois/cs/Main.java" />
+      <jump line="7" column="25" filename="$USER_HOME$/Desktop/Test/web/WEB-INF/web.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>main</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
         <text>createStatement</text>
@@ -726,7 +732,7 @@ DB_PW;</text>
       <last-replace />
       <last-substitute>ImportanceSort</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
