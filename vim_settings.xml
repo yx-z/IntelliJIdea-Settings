@@ -470,6 +470,13 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/TruthTable/src/edu/illinois/cs/Main.java" timestamp="1472162805118">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="86" column="16" />
+        <mark key="]" line="85" column="45" />
+        <mark key="." line="85" column="45" />
+        <mark key="^" line="85" column="45" />
+      </file>
       <file name="$USER_HOME$/Desktop/JDBCTest/src/Demo.java" timestamp="1471268557769">
         <mark key="[" line="14" column="72" />
         <mark key="]" line="15" column="11" />
@@ -618,7 +625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="16" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/String2Txt.java" />
       <jump line="66" column="27" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/String2Txt.java" />
       <jump line="0" column="1" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ImgGetter.java" />
       <jump line="88" column="23" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ImgGetter.java" />
@@ -718,49 +724,47 @@
       <jump line="25" column="0" filename="$USER_HOME$/Desktop/JDBC/src/edu/illinois/cs/Main.java" />
       <jump line="7" column="25" filename="$USER_HOME$/Desktop/Test/web/WEB-INF/web.xml" />
       <jump line="14" column="30" filename="$USER_HOME$/Documents/JavaWeb/day07-xml与tomcat/day07-xml与tomcat/源码/day07_02_xpath/src/com/itheima/demo/TestXPath.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/Desktop/TruthTable/src/edu/illinois/cs/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlTGlzdC5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>twoTruth</text>
       </register>
       <register name="/" type="4">
         <text>createStatement</text>
       </register>
-      <register name="0" type="8">
-        <text>DRIVER_CLASS;
-DB_URL;
-DB_USR;
-DB_PW;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgdHdvVHJ1dGgoU3RyaW5nIHMpIHRocm93cyBTY3JpcHRFeGNlcHRpb24gewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigieCB5IG8iKTsKICAgICAgICBmb3IgKGludCB4ID0gMDsgeCA8PSAxOyB4KyspIHsKICAgICAgICAgICAgZm9yIChpbnQgeSA9IDA7IHkgPD0gMTsgeSsrKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oeCArICIgIiArIHkgKyAiICIgKyBldmFsKHMsIHgsIHkpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tIik7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlTGlzdC5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBOb2RlIG5vZGUgPSBkb2N1bWVudC5zZWxlY3ROb2RlcygiLy8qIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZvcm1hdHRlZCBTdHJpbmc6ICIgKyBzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBOb2RlIG5vZGUgPSBkb2N1bWVudC5zZWxlY3RTaW5nbGVOb2RlKCIv5Lmm5p62L+S5plsyXS/kuablkI0iKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obm9kZS5nZXRUZXh0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlN0cmluZzogIiArIHMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0WFBhdGgoKSB0aHJvd3MgRG9jdW1lbnRFeGNlcHRpb24gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih4ICsgIiAiICsgeSArICIgIiArIGV2YWwocywgeCwgeSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBEb2N1bWVudEV4Y2VwdGlvbiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhciBjID0gcy5jaGFyQXQoaSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0MSgpIHRocm93cyBFeGNlcHRpb24gewo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGNoYXIgYyA6IHMudG9DaGFyQXJyYXkoKSkgewogICAgICAgICAgICBpZiAoYy4pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJRG9jdW1lbnQgZG9jdW1lbnQgPSByZWFkLnJlYWQoInNyYy9Eb200alRlc3QueG1sIik7CgkJCUxpc3Qgbm9kZXMgPSBkb2N1bWVudC5zZWxlY3ROb2RlcygiL2Jvb2tzdG9yZS8vYm9vay90aXRsZSIpOwoJCQlmb3IgKGludCBpID0gMDsgaSA8IG5vZGVzLnNpemUoKTsgaSsrKSB7CgkJCQlOb2RlIG5vZGUgPSAoTm9kZSkgbm9kZXMuZ2V0KGkpOwoJCQkJU3lzdGVtLm91dC5wcmludGxuKG5vZGUuZ2V0VGV4dCgpKTsKCQkJfQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFbGVtZW50IHJvb3RFbGVtZW50PSBkb2N1bWVudC5nZXRSb290RWxlbWVudCgpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHMKICAgICAgICAgICAgICAgIC5yZXBsYWNlQWxsKCIrIiwgInx8IikKICAgICAgICAgICAgICAgIC5yZXBsYWNlQWxsKCIqIiwgIiYmIik=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
