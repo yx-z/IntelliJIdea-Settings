@@ -94,11 +94,22 @@
         <mark key="^" line="101" column="5" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/CS 233/src/edu/illinois/cs/truth_table/TruthTable.java" timestamp="1472303544038">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/LinkGetter.java" timestamp="1462800636342">
         <mark key="[" line="10" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/util/WebCrawlUtil.java" timestamp="1462898324502">
         <mark key="[" line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/CS 233/src/edu/illinois/cs/truth_table/util/Checker.java" timestamp="1472303932115">
+        <mark key="[" line="10" column="45" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/app/ui/importance_sort.fxml" timestamp="1469159272560">
         <mark key="[" line="26" column="0" />
@@ -517,6 +528,11 @@
         <mark key="." line="5" column="33" />
         <mark key="^" line="5" column="33" />
       </file>
+      <file name="$USER_HOME$/Desktop/CS 233/src/edu/illinois/cs/Main.java" timestamp="1472302757486">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1471569269515">
         <mark key="[" line="0" column="0" />
       </file>
@@ -584,6 +600,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/CS 233/src/edu/illinois/cs/truth_table/util/StringFormatter.java" timestamp="1472303032125">
+        <mark key="[" line="6" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/JsoupGetter.java" timestamp="1461771136845">
         <mark key="[" line="6" column="27" />
       </file>
@@ -596,6 +615,9 @@
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/CS 233/src/edu/illinois/cs/truth_table/exp/StringException.java" timestamp="1472303002820">
+        <mark key="[" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/MyApp/src/model/Main.java" timestamp="1469067037708">
         <mark key="[" line="3" column="13" />
@@ -736,7 +758,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IFN0cmluZ0Zvcm1hdHRlci5mb3JtYXQoc3JjKTsK</text>
       </register>
       <register name="-" type="4">
         <text>twoTruth</text>
@@ -748,31 +770,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgdHdvVHJ1dGgoU3RyaW5nIHMpIHRocm93cyBTY3JpcHRFeGNlcHRpb24gewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigieCB5IG8iKTsKICAgICAgICBmb3IgKGludCB4ID0gMDsgeCA8PSAxOyB4KyspIHsKICAgICAgICAgICAgZm9yIChpbnQgeSA9IDA7IHkgPD0gMTsgeSsrKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oeCArICIgIiArIHkgKyAiICIgKyBldmFsKHMsIHgsIHkpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tIik7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IFN0cmluZ0Zvcm1hdHRlci5mb3JtYXQoc3JjKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZvcm1hdHRlZCBTdHJpbmc6ICIgKyBzKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCAoKSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlN0cmluZzogIiArIHMpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih4ICsgIiAiICsgeSArICIgIiArIGV2YWwocywgeCwgeSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDsgaSsrKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhciBjID0gcy5jaGFyQXQoaSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZvcm1hdHRlZCBTdHJpbmc6ICIgKyBzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGNoYXIgYyA6IHMudG9DaGFyQXJyYXkoKSkgewogICAgICAgICAgICBpZiAoYy4pCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlN0cmluZzogIiArIHMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHMKICAgICAgICAgICAgICAgIC5yZXBsYWNlQWxsKCIrIiwgInx8IikKICAgICAgICAgICAgICAgIC5yZXBsYWNlQWxsKCIqIiwgIiYmIik=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih4ICsgIiAiICsgeSArICIgIiArIGV2YWwocywgeCwgeSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
