@@ -150,6 +150,9 @@
         <mark key="." line="17" column="57" />
         <mark key="^" line="17" column="57" />
       </file>
+      <file name="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/lang/Math.class" timestamp="1473179645267">
+        <mark key="'" line="531" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/ProjectEuler/src/Problem001/LinkedList.java" timestamp="1462154337954">
         <mark key="[" line="30" column="12" />
         <mark key="]" line="30" column="13" />
@@ -440,6 +443,9 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" timestamp="1473179683780">
+        <mark key="'" line="197" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/base/LinkGetter.java" timestamp="1463487031560">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -585,10 +591,10 @@
       <file name="/Dummy.txt" timestamp="1471435657172">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/MATH492/FakeRandomness/src/Coodinate.java" timestamp="1473178959416">
-        <mark key="[" line="64" column="47" />
-        <mark key="]" line="64" column="47" />
-        <mark key="." line="64" column="47" />
+      <file name="$USER_HOME$/Documents/MATH492/FakeRandomness/src/Coodinate.java" timestamp="1473179199391">
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="31" column="29" />
+        <mark key="." line="31" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Tree/src/model/SplayTree.java" timestamp="1463658467895">
         <mark key="[" line="8" column="22" />
@@ -670,29 +676,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="27" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/String2Txt.java" />
-      <jump line="0" column="1" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ImgGetter.java" />
-      <jump line="88" column="23" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ImgGetter.java" />
-      <jump line="69" column="35" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ImgGetter.java" />
-      <jump line="76" column="18" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ImgGetter.java" />
-      <jump line="28" column="14" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" />
-      <jump line="57" column="35" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" />
-      <jump line="48" column="50" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/Main.java" />
-      <jump line="36" column="27" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/Main.java" />
-      <jump line="43" column="27" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/Main.java" />
-      <jump line="51" column="23" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/Main.java" />
-      <jump line="19" column="4" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/LinkGetter.java" />
-      <jump line="78" column="14" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/LinkGetter.java" />
-      <jump line="69" column="39" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/LinkGetter.java" />
-      <jump line="76" column="22" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/LinkGetter.java" />
-      <jump line="59" column="24" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" />
-      <jump line="72" column="25" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" />
-      <jump line="75" column="26" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" />
-      <jump line="14" column="12" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" />
-      <jump line="22" column="25" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" />
-      <jump line="27" column="11" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" />
-      <jump line="31" column="23" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" />
-      <jump line="44" column="11" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" />
       <jump line="45" column="36" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" />
       <jump line="55" column="20" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" />
       <jump line="135" column="38" filename="$USER_HOME$/Documents/Github/myApp/WebCrawler/src/edu/illinois/cs/ImgGetter.java" />
@@ -770,16 +753,39 @@
       <jump line="7" column="25" filename="$USER_HOME$/Desktop/Test/web/WEB-INF/web.xml" />
       <jump line="14" column="30" filename="$USER_HOME$/Documents/JavaWeb/day07-xml与tomcat/day07-xml与tomcat/源码/day07_02_xpath/src/com/itheima/demo/TestXPath.java" />
       <jump line="47" column="0" filename="$USER_HOME$/Desktop/TruthTable/src/edu/illinois/cs/Main.java" />
+      <jump line="48" column="49" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/lang/Math.class" />
+      <jump line="130" column="4" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/lang/Math.class" />
+      <jump line="129" column="70" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/lang/Math.class" />
+      <jump line="28" column="13" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="39" column="19" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="417" column="24" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="15" column="31" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="19" column="26" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="22" column="24" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="150" column="29" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="155" column="44" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="531" column="28" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/lang/Math.class" />
+      <jump line="196" column="18" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="210" column="37" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="211" column="37" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="151" column="24" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="163" column="20" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="170" column="25" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="175" column="69" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="185" column="56" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="189" column="20" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="193" column="27" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
+      <jump line="197" column="65" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIFdvcmxkISIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Math.random(), Math.random())</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>Math.random(), Math.random())</text>
       </register>
       <register name="/" type="4">
-        <text>createStatement</text>
+        <text>next(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgdHdvVHJ1dGgoU3RyaW5nIHMpIHRocm93cyBTY3JpcHRFeGNlcHRpb24gewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigieCB5IG8iKTsKICAgICAgICBmb3IgKGludCB4ID0gMDsgeCA8PSAxOyB4KyspIHsKICAgICAgICAgICAgZm9yIChpbnQgeSA9IDA7IHkgPD0gMTsgeSsrKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oeCArICIgIiArIHkgKyAiICIgKyBldmFsKHMsIHgsIHkpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tIik7CiAgICB9Cg==</text>
@@ -816,9 +822,9 @@
       </register>
     </registers>
     <search>
-      <last-search>createStatement</last-search>
+      <last-search>next(</last-search>
       <last-offset />
-      <last-pattern>createStatement</last-pattern>
+      <last-pattern>next(</last-pattern>
       <last-replace />
       <last-substitute>ImportanceSort</last-substitute>
       <last-dir>1</last-dir>
@@ -826,13 +832,6 @@
     </search>
     <history>
       <history-search>
-        <entry>println</entry>
-        <entry>pirnt</entry>
-        <entry>print</entry>
-        <entry>String</entry>
-        <entry>static</entry>
-        <entry encoding="base64">ICA=</entry>
-        <entry>setDebug</entry>
         <entry>url</entry>
         <entry>folder</entry>
         <entry encoding="base64">XDxzcGFjZVw+</entry>
@@ -846,6 +845,13 @@
         <entry>fields</entry>
         <entry>class</entry>
         <entry>createStatement</entry>
+        <entry>randomNumberGenerator</entry>
+        <entry>next</entry>
+        <entry>Double</entry>
+        <entry>random</entry>
+        <entry>nextDouble</entry>
+        <entry>next()</entry>
+        <entry>next(</entry>
       </history-search>
       <history-cmd>
         <entry>%sObject/int</entry>
