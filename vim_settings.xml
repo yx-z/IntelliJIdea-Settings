@@ -141,8 +141,8 @@
       </file>
       <file name="$USER_HOME$/Documents/MATH492/FakeRandomness/src/Main.java" timestamp="1473179001536">
         <mark key="[" line="2" column="44" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Stat/src/Main.java" timestamp="1468935596657">
         <mark key="[" line="17" column="59" />
@@ -519,6 +519,12 @@
         <mark key="]" line="20" column="29" />
         <mark key="." line="20" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/Eclipse/FakeRandomness/src/model/Main.java" timestamp="1473368480701">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="16" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/util/Util.java" timestamp="1469156845412">
         <mark key="[" line="132" column="0" />
         <mark key="]" line="132" column="0" />
@@ -591,7 +597,7 @@
       <file name="/Dummy.txt" timestamp="1471435657172">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/MATH492/FakeRandomness/src/Coodinate.java" timestamp="1473179199391">
+      <file name="$USER_HOME$/Documents/MATH492/FakeRandomness/src/Coodinate.java" timestamp="1473180344518">
         <mark key="[" line="31" column="29" />
         <mark key="]" line="31" column="29" />
         <mark key="." line="31" column="29" />
@@ -778,8 +784,8 @@
       <jump line="197" column="65" filename="/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.101-3.b13.el7_2.x86_64/jre/lib/rt.jar!/java/util/Random.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Math.random(), Math.random())</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQljb29yZGluYXRlTGlzdC5mb3JFYWNoKChjKSAtPiB7CgkJCXN1bVggKz0gYy5nZXRYKCk7CgkJCXN1bVkgKz0gYy5nZXRZKCk7CgkJfSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Math.random(), Math.random())</text>
@@ -791,31 +797,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgdHdvVHJ1dGgoU3RyaW5nIHMpIHRocm93cyBTY3JpcHRFeGNlcHRpb24gewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigieCB5IG8iKTsKICAgICAgICBmb3IgKGludCB4ID0gMDsgeCA8PSAxOyB4KyspIHsKICAgICAgICAgICAgZm9yIChpbnQgeSA9IDA7IHkgPD0gMTsgeSsrKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oeCArICIgIiArIHkgKyAiICIgKyBldmFsKHMsIHgsIHkpKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIi0tLS0tIik7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQljb29yZGluYXRlTGlzdC5mb3JFYWNoKChjKSAtPiB7CgkJCXN1bVggKz0gYy5nZXRYKCk7CgkJCXN1bVkgKz0gYy5nZXRZKCk7CgkJfSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIFdvcmxkISIpOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgICAgZG91YmxlIGQgPSB0aGlzLmdldERpc3QoKSAtIGNvb2RpbmF0ZS5nZXREaXN0KCk7CiAgICAgICAgbmV3IERvdWJsZShkKS4=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBDb29kaW5hdGVzKGRvdWJsZSB4LCBkb3VibGUgeSkge2pqfQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGJpLm1vZChUSE9VU0FORCkuZXF1YWxzKEJpZ0ludGVnZXIuWkVSTykpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiaSArICI6ICIgKyBtYXAuZ2V0KGJpKSk7CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBtYXAuZ2V0KGJpKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBtYXAuZ2V0KGJpKTsKICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExpc3Q8QmlnSW50ZWdlcj4gbGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEJpZ0ludGVnZXJbXSBhcnIgPSBuZXcgQmlnSW50ZWdlcltMSU1JVF07Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBCaWdJbnRlZ2VyIGN1cnIgPSBCaWdJbnRlZ2VyLk9ORTsKICAgICAgICBCaWdJbnRlZ2VyIGFucyA9IEJpZ0ludGVnZXIuT05FOwogICAgICAgIHdoaWxlIChjdXJyLmNvbXBhcmVUbyhiaWdJbnRlZ2VyKSA8PSAwKSB7CiAgICAgICAgICAgIGFucyA9IGFucy5tdWx0aXBseShjdXJyKTsKICAgICAgICAgICAgY3VyciA9IGN1cnIuYWRkKEJpZ0ludGVnZXIuT05FKTsKICAgICAgICAgICAgaWYgKGN1cnIubW9kKFRIT1VTQU5EKS5lcXVhbHMoQmlnSW50ZWdlci5aRVJPKSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJjdXJyOiAiICsgY3VyciArICJcbmFuczogIiArIGFucyk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIGFuczsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEJpZ0ludGVnZXJbXSBhcnIgPSBuZXcgQmlnSW50ZWdlcltMSU1JVF07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
