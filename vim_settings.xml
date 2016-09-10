@@ -158,11 +158,12 @@
         <mark key="^" line="5" column="64" />
         <mark key="." line="5" column="64" />
       </file>
-      <file name="$USER_HOME$/Github/WebCrawler/src/edu/illinois/cs/app/planecrash/PlanCrashApp.java" timestamp="1473537307197">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Github/WebCrawler/src/edu/illinois/cs/app/planecrash/PlanCrashApp.java" timestamp="1473549067745">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="30" column="78" />
+        <mark key="]" line="30" column="76" />
+        <mark key="^" line="30" column="76" />
+        <mark key="." line="30" column="76" />
       </file>
       <file name="$USER_HOME$/Desktop/STAT/src/Main.java" timestamp="1469023927630">
         <mark key="[" line="115" column="23" />
@@ -193,7 +194,6 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/Github/WebCrawler/src/edu/illinois/cs/app/hanhan/HanHanApp.java" timestamp="1473537242929" />
       <file name="$USER_HOME$/Desktop/Dom4J/src/test/Dom4JTest.java" timestamp="1471502107557">
         <mark key="[" line="24" column="11" />
         <mark key="]" line="24" column="46" />
@@ -333,6 +333,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Github/WebCrawler/src/edu/illinois/cs/app/planecrash/model/LinkGetterPlaneCrash.java" timestamp="1473549173244">
+        <mark key="[" line="44" column="49" />
+        <mark key="]" line="48" column="55" />
+        <mark key="." line="48" column="55" />
+        <mark key="^" line="48" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/hanhan2003/HanHan2003Main.java" timestamp="1462969536437">
         <mark key="[" line="15" column="15" />
@@ -484,7 +490,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Github/WebCrawler/src/edu/illinois/cs/app/chihuo/ChiHuoApp.java" timestamp="1473536955223" />
       <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Tree/src/model/BinaryTreeNode.java" timestamp="1463658321680">
         <mark key="[" line="6" column="40" />
       </file>
@@ -529,10 +534,10 @@
         <mark key="." line="11" column="4" />
         <mark key="^" line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/Github/WebCrawler/src/edu/illinois/cs/Main.java" timestamp="1473537337758">
-        <mark key="[" line="27" column="10" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Github/WebCrawler/src/edu/illinois/cs/Main.java" timestamp="1473549228936">
+        <mark key="[" line="29" column="10" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/app/ChiHuo.java" timestamp="1462801064017">
         <mark key="[" line="6" column="6" />
@@ -789,11 +794,11 @@
       <jump line="35" column="23" filename="$USER_HOME$/Github/WebCrawler/src/edu/illinois/cs/app/planecrash/model/LinkGetterPlaneCrash.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb25nIGR1cmF0aW9uID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydFRpbWU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>connect</text>
@@ -802,34 +807,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRvYwogICAgICAgICAgICAgICAgICAgICAgICAuc2VsZWN0KCJhW2hyZWZdIikKICAgICAgICAgICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5maWx0ZXIoaHJlZiAtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpbmtHZXR0ZXIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC50cmltKGhyZWYudGV4dCgpLCAzNSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5jb250YWlucygiUmVhZCBNb3JlIikpCiAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JFYWNoT3JkZXJlZChocmVmIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBsaW5rID0gaHJlZi5hdHRyKCJhYnM6aHJlZiIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGRlYnVnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGxpbmspOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5saW5rcy5hZGQobGluayk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aGlsZSAodHJ1ZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGR1cmF0aW9uID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydFRpbWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSnNvdXAuY29ubmVjdChsaW5rKS51c2VyQWdlbnQoVVNFUl9BR0VOVCkuZ2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jLnNlbGVjdCgiYVtocmVmXSIpLnN0cmVhbSgpLmZpbHRlcihocmVmIC0+IHsKICAgICAgICAgICAgICAgIGhyZWYuCiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY291bnQrKzsKICAgICAgICAgICAgICAgICAgICAgICAgSnNvdXAuY29ubmVjdChsaW5rKS51c2VyQWdlbnQoVVNFUl9BR0VOVCkuZ2V0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgc2l6ZSA9IGxpbmtzLnNpemUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgICBsaW5rcy5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCB5ZWFyID0gU1RBUlRfWUVBUjsgeWVhciA8IENVUlJfWUVBUjsgeWVhcisrKSB7CiAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIgdXJsID0gbmV3IFN0cmluZ0J1aWxkZXIoYmFzZVVybCkKICAgICAgICAgICAgICAgICAgICAuYXBwZW5kKHllYXIpCiAgICAgICAgICAgICAgICAgICAgLmFwcGVuZCgiLyIpCiAgICAgICAgICAgICAgICAgICAgLmFwcGVuZCh5ZWFyKQogICAgICAgICAgICAgICAgICAgIC5hcHBlbmQoIi0iKTsKICAgICAgICAgICAgaW50IGNvdW50ID0gMTsKICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIFN0cmluZyBsaW5rID0gdXJsLnRvU3RyaW5nKCkgKyBjb3VudCArIEZJTEVfVFlQRTsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgSnNvdXAuY29ubmVjdChsaW5rKS51c2VyQWdlbnQoVVNFUl9BR0VOVCkuZ2V0KCk7CiAgICAgICAgICAgICAgICAgICAgbGlua3MuYWRkKGxpbmspOwogICAgICAgICAgICAgICAgICAgIGNvdW50Kys7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBpb2UpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoZGVidWcpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaW9lLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGNvdW50ID0gMTsKICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIFN0cmluZyBsaW5rID0gdXJsLnRvU3RyaW5nKCkgKyBjb3VudCArIEZJTEVfVFlQRTsKICAgICAgICAgICAgICAgIGxpbmtzLmFkZChsaW5rKTsKICAgICAgICAgICAgICAgIGNvdW50Kys7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHllYXIgPSBTVEFSVF9ZRUFSOwogICAgICAgIHN5bmNocm9uaXplZCAoeWVhcikgewogICAgICAgICAgICBuZXcgVGhyZWFkKCgpIC0+IHsKCiAgICAgICAgICAgIH0pLnN0YXJ0KCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGNvdW50ID0gMTsKICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgIFN0cmluZyBsaW5rID0gdXJsLnRvU3RyaW5nKCkgKyBjb3VudCArIEZJTEVfVFlQRTsKICAgICAgICAgICAgICAgIGxpbmtzLmFkZChsaW5rKTsKICAgICAgICAgICAgICAgIGNvdW50Kys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHllYXIrKzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTElOSyBBQ0NFUFRFRDogIiArIGxpbmspOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCB5ZWFyID0gU1RBUlRfWUVBUjsgeWVhciA8IENVUlJfWUVBUjsgeWVhcisrKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgVGhyZWFkKCgpLT4gewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9KS5zdGFydCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>sp ../../chihuo/modelLinkGetterChiHuo.java</text>
       </register>
     </registers>
     <search>
@@ -839,7 +844,7 @@
       <last-replace />
       <last-substitute>ImportanceSort</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -865,7 +870,6 @@
         <entry>connect</entry>
       </history-search>
       <history-cmd>
-        <entry>%sObject/int</entry>
         <entry>%s/Object/int</entry>
         <entry>!git commit -m &quot;cleaned&quot;</entry>
         <entry>!git push origin master</entry>
@@ -885,6 +889,7 @@
         <entry>q</entry>
         <entry>sp</entry>
         <entry>vs</entry>
+        <entry>sp ../../chihuo/modelLinkGetterChiHuo.java</entry>
       </history-cmd>
       <history-expr />
       <history-input />
