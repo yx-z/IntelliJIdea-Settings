@@ -299,11 +299,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/MATH 492/happy number/code/java/BackTrace/src/edu/illinois/cs/happynumber/HappyNumber.java" timestamp="1475781256430">
-        <mark key="[" line="20" column="6" />
-        <mark key="]" line="20" column="6" />
-        <mark key="." line="20" column="6" />
-        <mark key="^" line="15" column="3" />
+      <file name="$USER_HOME$/Documents/MATH 492/happy number/code/java/BackTrace/src/edu/illinois/cs/happynumber/HappyNumber.java" timestamp="1475811524686">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="41" column="4" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="41" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/base/LinkGetter.java" timestamp="1462801390654">
         <mark key="[" line="10" column="6" />
@@ -480,6 +481,11 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/MATH 492/happy number/code/java/BackTrace/src/edu/illinois/cs/happynumber/BackTrace.java" timestamp="1475811181109">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="40" column="5" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/util/MakeDirectory.java" timestamp="1462899175271">
         <mark key="[" line="16" column="39" />
       </file>
@@ -520,6 +526,11 @@
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/MATH 492/happy number/code/java/BackTrace/src/edu/illinois/cs/happynumber/Consecutive89.java" timestamp="1475811254397">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Tree/src/model/base/BinarySearchTree.java" timestamp="1463658421477">
         <mark key="[" line="6" column="56" />
@@ -751,12 +762,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/Documents/Github/WebCrawler/src/edu/illinois/cs/app/chihuo/ChiHuoArticleGetter.java" />
-      <jump line="10" column="3" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/RedBlackTree.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/RedBlackTree/src/edu/illinois/cs/RedBlackTree.java" />
-      <jump line="68" column="3" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/PrimeNumList.java" />
-      <jump line="23" column="17" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/PrimeSet.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/PrimeSet.java" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/PrimeSet.java" />
       <jump line="31" column="37" filename="$USER_HOME$/Desktop/MyApp/src/app/app.fxml" />
       <jump line="15" column="28" filename="$USER_HOME$/Desktop/MyApp/src/app/app.fxml" />
@@ -851,13 +856,34 @@
       <jump line="77" column="0" filename="$USER_HOME$/Documents/MATH 492/happy number/code/java/BackTrace/src/edu/illinois/cs/Main.java" />
       <jump line="98" column="0" filename="$USER_HOME$/Documents/MATH 492/happy number/code/java/BackTrace/src/edu/illinois/cs/Main.java" />
       <jump line="87" column="0" filename="$USER_HOME$/Documents/MATH 492/happy number/code/java/BackTrace/src/edu/illinois/cs/Main.java" />
+      <jump line="35" column="12" filename="$USER_HOME$/Documents/MATH 492/happy number/code/java/BackTrace/src/edu/illinois/cs/happynumber/HappyNumber.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/MATH 492/happy number/code/java/BackTrace/src/edu/illinois/cs/happynumber/HappyNumber.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/MATH 492/happy number/code/java/BackTrace/src/edu/illinois/cs/happynumber/HappyNumber.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/MATH 492/happy number/code/java/BackTrace/src/edu/illinois/cs/happynumber/HappyNumber.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/Documents/MATH 492/happy number/code/java/BackTrace/src/edu/illinois/cs/happynumber/HappyNumber.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/MATH 492/happy number/code/java/BackTrace/src/edu/illinois/cs/happynumber/HappyNumber.java" />
     </jumps>
     <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="122" code="0" mods="0" />
+          <key char="50" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="91" mods="130" />
+          <key char="65535" code="91" mods="130" />
+          <key char="65535" code="91" mods="130" />
+          <key char="65535" code="91" mods="130" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
       <register name="&quot;" type="4">
-        <text>iv</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>iv</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>connect</text>
@@ -866,7 +892,7 @@
         <text encoding="base64">ICAgICAgICBtb3N0RnJlcXVlbnQuYWRkKDg5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBMSU1JVCA9IDEwMDAwMDAwOyAvLyB0ZW4gbWlsbGlvbgogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50W10gTE9PUCA9IG5ldyBpbnRbXXs0LCAxNiwgMjAsIDM3LCA0MiwgNTgsIDg5LCAxNDV9Owo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiA8bnVtLCBjb3VudD4KICAgICAqLwogICAgQE51bGxhYmxlCiAgICBwdWJsaWMgc3RhdGljIE1hcDxJbnRlZ2VyLCBJbnRlZ2VyPiBiYWNrVHJhY2UoaW50IHRhcmdldCkgewogICAgICAgIC8vIGV4Y2VwdGlvbgogICAgICAgIGlmICh0YXJnZXQgPCAxKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICBNYXA8SW50ZWdlciwgSW50ZWdlcj4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IExJTUlUOyBpKyspIHsKICAgICAgICAgICAgaW50IGJlZm9yZSA9IGVuZHNJbih0YXJnZXQsIGkpOwogICAgICAgICAgICBpZiAoYmVmb3JlID09IDApIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChtYXAua2V5U2V0KCkuY29udGFpbnMoYmVmb3JlKSkgewogICAgICAgICAgICAgICAgbWFwLnJlcGxhY2UoYmVmb3JlLCBtYXAuZ2V0KGJlZm9yZSkgKyAxKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIG1hcC5wdXQoYmVmb3JlLCAxKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgLy8gaWdub3JlIHRoZSBlbGVtZW50IGlmIGl0cyBvY2N1cnJlbmNlIGlzIHRyaXZpYWwsIGkuZS4gPD0gMQogICAgICAgIG1hcC5lbnRyeVNldCgpLnJlbW92ZUlmKGUgLT4gZS5nZXRWYWx1ZSgpIDw9IDEpOwogICAgICAgIHJldHVybiBtYXA7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -895,28 +921,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBMSU1JVCA9IDEwMDAwMDAwOyAvLyB0ZW4gbWlsbGlvbgogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50W10gTE9PUCA9IG5ldyBpbnRbXXs0LCAxNiwgMjAsIDM3LCA0MiwgNTgsIDg5LCAxNDV9Owo=</text>
+        <text encoding="base64">CiAgICAgICAgLy8gaWdub3JlIHRoZSBlbGVtZW50IGlmIGl0cyBvY2N1cnJlbmNlIGlzIHRyaXZpYWwsIGkuZS4gPD0gMQogICAgICAgIG1hcC5lbnRyeVNldCgpLnJlbW92ZUlmKGUgLT4gZS5nZXRWYWx1ZSgpIDw9IDEpOwogICAgICAgIHJldHVybiBtYXA7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBMSU1JVCA9IDEwMDAwMDAwOyAvLyB0ZW4gbWlsbGlvbgogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50W10gTE9PUCA9IG5ldyBpbnRbXXs0LCAxNiwgMjAsIDM3LCA0MiwgNTgsIDg5LCAxNDV9Owo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiA8bnVtLCBjb3VudD4KICAgICAqLwogICAgQE51bGxhYmxlCiAgICBwdWJsaWMgc3RhdGljIE1hcDxJbnRlZ2VyLCBJbnRlZ2VyPiBiYWNrVHJhY2UoaW50IHRhcmdldCkgewogICAgICAgIC8vIGV4Y2VwdGlvbgogICAgICAgIGlmICh0YXJnZXQgPCAxKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICBNYXA8SW50ZWdlciwgSW50ZWdlcj4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IExJTUlUOyBpKyspIHsKICAgICAgICAgICAgaW50IGJlZm9yZSA9IGVuZHNJbih0YXJnZXQsIGkpOwogICAgICAgICAgICBpZiAoYmVmb3JlID09IDApIHsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChtYXAua2V5U2V0KCkuY29udGFpbnMoYmVmb3JlKSkgewogICAgICAgICAgICAgICAgbWFwLnJlcGxhY2UoYmVmb3JlLCBtYXAuZ2V0KGJlZm9yZSkgKyAxKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIG1hcC5wdXQoYmVmb3JlLCAxKTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBMSU1JVCA9IDEwMDAwMDAwOyAvLyB0ZW4gbWlsbGlvbgogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50W10gTE9PUCA9IG5ldyBpbnRbXXs0LCAxNiwgMjAsIDM3LCA0MiwgNTgsIDg5LCAxNDV9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiA8bnVtLCBjb3VudD4KICAgICAqLwogICAgQE51bGxhYmxlCiAgICBwcml2YXRlIHN0YXRpYyBNYXA8SW50ZWdlciwgSW50ZWdlcj4gYmFja1RyYWNlKGludCB0YXJnZXQpIHsKICAgICAgICAvLyBleGNlcHRpb24KICAgICAgICBpZiAodGFyZ2V0IDwgMSkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgICAgTWFwPEludGVnZXIsIEludGVnZXI+IG1hcCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBmb3IgKGludCBpID0gMTsgaSA8PSBMSU1JVDsgaSsrKSB7CiAgICAgICAgICAgIGludCBiZWZvcmUgPSBlbmRzSW4odGFyZ2V0LCBpKTsKICAgICAgICAgICAgaWYgKGJlZm9yZSA9PSAwKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAobWFwLmtleVNldCgpLmNvbnRhaW5zKGJlZm9yZSkpIHsKICAgICAgICAgICAgICAgIG1hcC5yZXBsYWNlKGJlZm9yZSwgbWFwLmdldChiZWZvcmUpICsgMSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBtYXAucHV0KGJlZm9yZSwgMSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIC8vIGlnbm9yZSB0aGUgZWxlbWVudCBpZiBpdHMgb2NjdXJyZW5jZSBpcyB0cml2aWFsLCBpLmUuIDw9IDEKICAgICAgICBtYXAuZW50cnlTZXQoKS5yZW1vdmVJZihlIC0+IGUuZ2V0VmFsdWUoKSA8PSAxKTsKICAgICAgICByZXR1cm4gbWFwOwogICAgfQoKICAgIHByaXZhdGUgc3RhdGljIGludCBlbmRzSW4oaW50IHRhcmdldCwgaW50IGkpIHsKICAgICAgICAvLyBleGNlcHRpb24KICAgICAgICBpZiAodGFyZ2V0IDwgMSkgewogICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgfQogICAgICAgIGlmIChpID09IHRhcmdldCB8fCBpID09IDEpIHsKICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQogICAgICAgIGlmIChzdW1EaWdpdFNxdWFyZShpKSA9PSB0YXJnZXQpIHsKICAgICAgICAgICAgcmV0dXJuIGk7CiAgICAgICAgfQogICAgICAgIGlmIChsb29wQ29udGFpbnMoaSkpIHsKICAgICAgICAgICAgcmV0dXJuIGxvb3BDb250YWlucyh0YXJnZXQpID8gZW5kc0luKHRhcmdldCwgc3VtRGlnaXRTcXVhcmUoaSkpIDogMDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGVuZHNJbih0YXJnZXQsIHN1bURpZ2l0U3F1YXJlKGkpKTsKICAgIH0KCiAgICBAQ29udHJhY3QocHVyZSA9IHRydWUpCiAgICBwcml2YXRlIHN0YXRpYyBib29sZWFuIGxvb3BDb250YWlucyhpbnQgaSkgewogICAgICAgIGZvciAoaW50IGwgOiBMT09QKSB7CiAgICAgICAgICAgIGlmIChpID09IGwpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICBAQ29udHJhY3QocHVyZSA9IHRydWUpCiAgICBwcml2YXRlIHN0YXRpYyBpbnQgc3VtRGlnaXRTcXVhcmUoaW50IGkpIHsKICAgICAgICBpbnQgc3VtID0gMDsKICAgICAgICB3aGlsZSAoaSA+IDApIHsKICAgICAgICAgICAgaW50IGRpZ2l0ID0gaSAlIDEwOwogICAgICAgICAgICBzdW0gKz0gZGlnaXQgKiBkaWdpdDsKICAgICAgICAgICAgaSAvPSAxMDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHN1bTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBMSU1JVCA9IDEwMDAwMDAwOyAvLyB0ZW4gbWlsbGlvbgogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50W10gTE9PUCA9IG5ldyBpbnRbXXs0LCAxNiwgMjAsIDM3LCA0MiwgNTgsIDg5LCAxNDV9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIDxLLCBWIGV4dGVuZHMgQ29tcGFyYWJsZTw/IHN1cGVyIFY+PiBNYXA8SywgVj4gc29ydEJ5VmFsdWUoTWFwPEssIFY+IG1hcCkgewogICAgICAgIExpc3Q8TWFwLkVudHJ5PEssIFY+PiBsaXN0ID0gbmV3IExpbmtlZExpc3Q8PihtYXAuZW50cnlTZXQoKSk7CiAgICAgICAgQ29sbGVjdGlvbnMuc29ydChsaXN0LCAoZTEsIGUyKSAtPiAoZTIuZ2V0VmFsdWUoKSkuY29tcGFyZVRvKGUxLmdldFZhbHVlKCkpKTsKCiAgICAgICAgTWFwPEssIFY+IHJlc3VsdCA9IG5ldyBMaW5rZWRIYXNoTWFwPD4oKTsKICAgICAgICBmb3IgKE1hcC5FbnRyeTxLLCBWPiBlbnRyeSA6IGxpc3QpIHsKICAgICAgICAgICAgcmVzdWx0LnB1dChlbnRyeS5nZXRLZXkoKSwgZW50cnkuZ2V0VmFsdWUoKSk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBMSU1JVCA9IDEwMDAwMDAwOyAvLyB0ZW4gbWlsbGlvbgogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50W10gTE9PUCA9IG5ldyBpbnRbXXs0LCAxNiwgMjAsIDM3LCA0MiwgNTgsIDg5LCAxNDV9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSB0aWMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
