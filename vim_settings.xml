@@ -558,8 +558,11 @@
         <mark key="^" line="30" column="64" />
         <mark key="." line="30" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/MATH 492/happy number/code/Java/HappyNumber/src/edu/illinois/cs/model/Base.java" timestamp="1477881591309">
-        <mark key="[" line="152" column="68" />
+      <file name="$USER_HOME$/Documents/MATH 492/happy number/code/Java/HappyNumber/src/edu/illinois/cs/model/Base.java" timestamp="1477922895509">
+        <mark key="[" line="173" column="56" />
+        <mark key="]" line="173" column="56" />
+        <mark key="^" line="173" column="49" />
+        <mark key="." line="173" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/Github/myApp/WebCrawler/assets/articles.txt" timestamp="1461086297250">
         <mark key="[" line="0" column="0" />
@@ -962,21 +965,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>\u8ba1\u6570&quot;</text>
+        <text>fixedPoints</text>
       </register>
       <register name="-" type="4">
-        <text>\u8ba1\u6570&quot;</text>
+        <text>fixedPoints</text>
       </register>
       <register name="/" type="4">
         <text>HashSet</text>
       </register>
-      <register name="0" type="8">
-        <text>BASE_LIMIT = 1000;
-SEARCH_LIMIT = 1000000; // 1 million
-LOOP_LIMIT = 100;</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaWYgKGZpeGVkUG9pbnRzLnNpemUoKSA+IDApIHsKLy8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09IEJBU0UgIiArIGJhc2UgKyAiID09PSIpOwovLyAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJGSVhFRDogIiArIGZpeGVkUG9pbnRzKTsKLy8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwovLyAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text />
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1005,28 +1006,28 @@ LOOP_LIMIT = 100;</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCB0b0NsaXBib2FyZChTdHJpbmcgcykgewogICAgICAgIFN0cmluZ1NlbGVjdGlvbiBzcyA9IG5ldyBTdHJpbmdTZWxlY3Rpb24ocy50cmltKCkpOwogICAgICAgIFRvb2xraXQuZ2V0RGVmYXVsdFRvb2xraXQoKS5nZXRTeXN0ZW1DbGlwYm9hcmQoKS5zZXRDb250ZW50cyhzcywgbnVsbCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChvY2N1ck1vcmUuc2l6ZSgpID09IDIpIHsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LyogdmFyYXJncyAqLyA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">LyogdmFyYXJncyAqLyA=</text>
+        <text />
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyogdmFyYXJncyAqLyA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCB0b0NsaXBib2FyZChTdHJpbmcgcykgewogICAgICAgIFN0cmluZ1NlbGVjdGlvbiBzcyA9IG5ldyBTdHJpbmdTZWxlY3Rpb24ocy50cmltKCkpOwogICAgICAgIFRvb2xraXQuZ2V0RGVmYXVsdFRvb2xraXQoKS5nZXRTeXN0ZW1DbGlwYm9hcmQoKS5zZXRDb250ZW50cyhzcywgbnVsbCk7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">LyogdmFyYXJncyAqLyA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5mdW5jdGlvbi5CaUNvbnN1bWVyOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">LyogdmFyYXJncyAqLyA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">LyogdmFyYXJncyAqLyA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBNYWluLmxhdW5jaCgoU3RyaW5nW10pYXJncyk7CiAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">LyogdmFyYXJncyAqLyA=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0hhc2hTZXQvTXlIYXNoU2V0L2c=</text>
