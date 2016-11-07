@@ -539,6 +539,11 @@
       <file name="$USER_HOME$/Documents/Github/Playground/WebCrawler/src/edu/illinois/cs/ArticleGetter.java" timestamp="1461769861156">
         <mark key="[" line="14" column="13" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/46810ee9-a320-4787-b268-59e7ebeb02b7/console_2.sql" timestamp="1478560880137">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1475774396157">
         <mark key="[" line="0" column="0" />
       </file>
@@ -694,8 +699,9 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIFRFU1QK</text>
+      <register name="&quot;" type="4">
+        <text>ALTER TABLE mydb.test
+    ADD max_score INT NOT NULL AFTER type;</text>
       </register>
       <register name="-" type="4">
         <text>?</text>
@@ -706,8 +712,9 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSUQ6ICIgKyByZXN1bHRTZXQuZ2V0U3RyaW5nKCJpZCIpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIFRFU1QK</text>
+      <register name="1" type="4">
+        <text>ALTER TABLE mydb.test
+    ADD max_score INT NOT NULL AFTER type;</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -736,28 +743,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHN0YXRlbWVudCk7Cg==</text>
+        <text encoding="base64">Q1JFQVRFIERBVEFCQVNFIFRFU1QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVtZW50LnNldFN0cmluZygxLCAic3R1ZGVudHMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHN0YXRlbWVudCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVtZW50LnAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVtZW50LnNldFN0cmluZygxLCAic3R1ZGVudHMiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhdGVtZW50IHN0YXRlbWVudCA9IGNvbm4uY3JlYXRlU3RhdGVtZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVtZW50LnAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVtZW50LmV4ZWN1dGVRdWVyeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RhdGVtZW50IHN0YXRlbWVudCA9IGNvbm4uY3JlYXRlU3RhdGVtZW50KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSUQ6ICIgKyByZXN1bHRTZXQuZ2V0U3RyaW5nKCJpZCIpKTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTkFNRTogIiArIHJlc3VsdFNldC5nZXRTdHJpbmcoIm5hbWUiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVtZW50LmV4ZWN1dGVRdWVyeQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHVkZW50KFN0cmluZyBuYW1lKSB7CiAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSUQ6ICIgKyByZXN1bHRTZXQuZ2V0U3RyaW5nKCJpZCIpKTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTkFNRTogIiArIHJlc3VsdFNldC5nZXRTdHJpbmcoIm5hbWUiKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlkID0gY291bnQ7CiAgICAgICAgY291bnQrKzsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHVkZW50KFN0cmluZyBuYW1lKSB7CiAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
