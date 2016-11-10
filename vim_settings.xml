@@ -45,12 +45,12 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/MATH 492/happy number/code/Java/HappyNumber/src/edu/illinois/cs/topic/AverageCycleSize.java" timestamp="1478744265315">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="49" column="26" />
+      <file name="$USER_HOME$/Documents/MATH 492/happy number/code/Java/HappyNumber/src/edu/illinois/cs/topic/AverageCycleSize.java" timestamp="1478746134765">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="47" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/GUI/ColorChangeGame/src/util/AlertBox.java" timestamp="1463554352662">
         <mark key="[" line="25" column="13" />
@@ -445,12 +445,12 @@
       <file name="$USER_HOME$/Desktop/Ruijin/src/cn/com/ruijin/app/CommandLine.java" timestamp="1477667089419">
         <mark key="[" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/MATH 492/happy number/code/Java/HappyNumber/src/edu/illinois/cs/util/Base.java" timestamp="1478744292848">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="19" column="7" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-        <mark key="^" line="20" column="3" />
+      <file name="$USER_HOME$/Documents/MATH 492/happy number/code/Java/HappyNumber/src/edu/illinois/cs/util/Base.java" timestamp="1478746144028">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="4" />
+        <mark key="^" line="21" column="3" />
       </file>
       <file name="$USER_HOME$/My/Github/Playground/GUI/TheyChat/src/app/ui/ControllerLogin.java" timestamp="1478098672625">
         <mark key="[" line="59" column="80" />
@@ -492,10 +492,12 @@
       <file name="$USER_HOME$/Desktop/Servelet/src/edu/illinois/cs/servlet/ServletDemo.java" timestamp="1472182839833">
         <mark key="[" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/MATH 492/happy number/code/Java/HappyNumber/src/edu/illinois/cs/topic/PathLen.java" timestamp="1478744326638">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/MATH 492/happy number/code/Java/HappyNumber/src/edu/illinois/cs/topic/PathLen.java" timestamp="1478746775545">
+        <mark key="'" line="56" column="36" />
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="56" column="36" />
+        <mark key="." line="56" column="36" />
+        <mark key="^" line="53" column="45" />
       </file>
       <file name="$USER_HOME$/Desktop/JDBCTest/src/Demo.java" timestamp="1471268557769">
         <mark key="[" line="14" column="72" />
@@ -624,8 +626,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/MATH 492/weather/wunderground/Flipper/src/edu/illinois/cs/model/Weather.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/Documents/MATH 492/weather/wunderground/Flipper/src/edu/illinois/cs/model/Weather.java" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/MATH 492/weather/wunderground/Flipper/src/edu/illinois/cs/model/Weather.java" />
       <jump line="44" column="0" filename="$USER_HOME$/Documents/MATH 492/weather/wunderground/Flipper/src/edu/illinois/cs/model/Weather.java" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/MATH 492/weather/wunderground/Flipper/src/edu/illinois/cs/model/Weather.java" />
@@ -724,6 +724,8 @@
       <jump line="12" column="0" filename="$USER_HOME$/Documents/MATH 492/happy number/code/Java/HappyNumber/src/edu/illinois/cs/util/Base.java" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/MATH 492/happy number/code/Java/HappyNumber/src/edu/illinois/cs/util/Base.java" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/MATH 492/happy number/code/Java/HappyNumber/src/edu/illinois/cs/util/Base.java" />
+      <jump line="46" column="18" filename="$USER_HOME$/Documents/MATH 492/happy number/code/Java/HappyNumber/src/edu/illinois/cs/topic/PathLen.java" />
+      <jump line="55" column="36" filename="$USER_HOME$/Documents/MATH 492/happy number/code/Java/HappyNumber/src/edu/illinois/cs/topic/PathLen.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -741,20 +743,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZ2V0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>private</text>
+        <text>occurMore</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaW5pdC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0PFNldDxMaXN0PEludGVnZXI+Pj4gY3ljbGVzID0gbmV3IE15SGFzaFNldDw+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZ2V0Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIERlY2ltYWxGb3JtYXQgREVDID0gbmV3IERlY2ltYWxGb3JtYXQoIiMuIyMiKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -783,45 +785,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlbMF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBTVEFSVF9CQVNFID0gMzsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBFTkRfQkFTRSA9IDEwMDAwOwoKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBMT09QX0xJTUlUID0gMTAwOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVnZXIgaSA9IDE7CiAgICAgICAgICAgICAgICBpLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBhbGxTaW5nbGVEaWdpdChTZXQ8TGlzdDxJbnRlZ2VyPj4gcykgewogICAgICAgIGZvciAoTGlzdDxJbnRlZ2VyPiBsIDogcykgewogICAgICAgICAgICBpZiAobC5zaXplKCkgPiAxKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY3Vyck51bS5lcXVhbHMoT05FKSkgewogICAgICAgICAgICAgICAgICAgICAgICBvY2N1ck1vcmUuYWRkKGN1cnJOdW0pOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyB2b2lkIHJ1bigpIHsKLy8gICAgICAgIGZvciAoaW50IGJhc2UgPSAzOyBiYXNlIDw9IEJBU0VfTElNSVQ7IGJhc2UrKykgewovLyAgICAgICAgICAgIGludCBzZWFyY2hMaW1pdCA9IDIgKiBiYXNlICogYmFzZTsKLy8gICAgICAgICAgICBpZiAoUFJJTlQpIHsKLy8gICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9PT0gQkFTRSAiICsgYmFzZSArICIgPT09Iik7Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgICAgIFNldDxTZXQ8TGlzdDxJbnRlZ2VyPj4+IGN5Y2xlcyA9IG5ldyBNeUhhc2hTZXQ8PigpOwovLyAgICAgICAgICAgIFNldDxMaXN0PEludGVnZXI+PiBmaXhlZFBvaW50cyA9IG5ldyBNeUhhc2hTZXQ8PigpOwovLy8vICAgICAgICAgICAgU2V0PExpc3Q8SW50ZWdlcj4+IGJhY2tBbmRGb3J0aCA9IG5ldyBNeUhhc2hTZXQ8PigpOwovLyAgICAgICAgICAgIGZvciAoaW50IGkgPSAyOyBpIDw9IHNlYXJjaExpbWl0OyBpKyspIHsKLy8gICAgICAgICAgICAgICAgU2V0PExpc3Q8SW50ZWdlcj4+IG9jY3VyT25jZSA9IG5ldyBNeUhhc2hTZXQ8PigpOwovLyAgICAgICAgICAgICAgICBTZXQ8TGlzdDxJbnRlZ2VyPj4gb2NjdXJNb3JlID0gbmV3IEhhc2hTZXQ8PigpOwovLyAgICAgICAgICAgICAgICBpZiAoUFJJTlQpIHsKLy8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoaSArICI6ICIpOwovLyAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgIExpc3Q8SW50ZWdlcj4gYiA9IHRvQmFzZUFycihpLCBiYXNlKTsKLy8gICAgICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBMT09QX0xJTUlUOyBqKyspIHsKLy8gICAgICAgICAgICAgICAgICAgIGlmICghYi5pc0VtcHR5KCkpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBpZiAob2NjdXJPbmNlLmNvbnRhaW5zKGIpKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9jY3VyTW9yZS5hZGQoYik7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgICAgIG9jY3VyT25jZS5hZGQoYik7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGIuZXF1YWxzKE9ORSkpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgb2NjdXJNb3JlLmFkZChiKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgaWYgKFBSSU5UKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChiICsgIiAiKTsKLy8gICAgICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgICAgIGIgPSBzdW1PZlNxdWFyZShiLCBiYXNlKTsKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBpZiAoUFJJTlQpIHsKLy8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwovLyAgICAgICAgICAgICAgICB9Ci8vCi8vLy8gICAgICAgICAgICAgICAgaWYgKG9jY3VyTW9yZS5zaXplKCkgPT0gMikgewovLy8vICAgICAgICAgICAgICAgICAgICBjeWNsZXMuYWRkKG9jY3VyTW9yZSk7Ci8vLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBpZiAob2NjdXJNb3JlLnNpemUoKSA+IDApIHsKLy8gICAgICAgICAgICAgICAgICAgIGN5Y2xlcy5hZGQob2NjdXJNb3JlKTsKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBpZiAob2NjdXJNb3JlLnNpemUoKSA9PSAxICYmICFvY2N1ck1vcmUuZXF1YWxzKE9ORV9TRVQpKSB7Ci8vICAgICAgICAgICAgICAgICAgICBmaXhlZFBvaW50cy5hZGQoKExpc3Q8SW50ZWdlcj4pIG9jY3VyTW9yZS50b0FycmF5KClbMF0pOwovLyAgICAgICAgICAgICAgICB9Ci8vLy8gICAgICAgICAgICAgICAgaWYgKG9jY3VyTW9yZS5zaXplKCkgPT0gMikgewovLy8vICAgICAgICAgICAgICAgICAgICBiYWNrQW5kRm9ydGguYWRkKChMaXN0PEludGVnZXI+KSBvY2N1ck1vcmUudG9BcnJheSgpWzBdKTsKLy8vLyAgICAgICAgICAgICAgICAgICAgYmFja0FuZEZvcnRoLmFkZCgoTGlzdDxJbnRlZ2VyPikgb2NjdXJNb3JlLnRvQXJyYXkoKVsxXSk7Ci8vLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgIH0KLy8gICAgICAgICAgICBpZiAoUFJJTlQpIHsKLy8gICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9PT09PSBFTkQgQkFTRSAiICsgYmFzZSArICIgPT09PT1cbiIpOwovLyAgICAgICAgICAgIH0gZWxzZSBpZiAoY3ljbGVzLnNpemUoKSA+IDApIHsKLy8vLyAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9PT0gQkFTRSAiICsgYmFzZSArICIgPT09Iik7Ci8vLy8gICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjeWNsZXMuc2l6ZSgpKTsKLy8vLyAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGN5Y2xlcyk7Ci8vLy8gICAgICAgICAgICAgICAgfQovLy8vICAgICAgICAgICAgICAgIGlmIChjeWNsZXMuc2l6ZSgpIDw9IDMgJiYgY3ljbGVzLnNpemUoKSA+IDApIHsKLy8vLyAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJDWUNMRTogIiArIGN5Y2xlcyk7Ci8vLy8gICAgICAgICAgICAgICAgfQovLy8vICAgICAgICAgICAgICAgIGlmIChiYWNrQW5kRm9ydGguc2l6ZSgpID4gMCkgewovLy8vICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PSBCQVNFICIgKyBiYXNlICsgIiA9PT0iKTsKLy8vLyAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJCQUNLJkZPUlRIOiAiICsgYmFja0FuZEZvcnRoKTsKLy8vLyAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Ci8vLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICAgICAgaWYgKGZpeGVkUG9pbnRzLnNpemUoKSA+IDApIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PSBCQVNFICIgKyBiYXNlICsgIiA9PT0iKTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZJWEVEOiAiICsgZml4ZWRQb2ludHMpOwovLy8vICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKLy8KLy8gICAgICAgICAgICAgICAgICAgIH0KLy8vLyAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Ci8vICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAob2NjdXJNb3JlLmNvbnRhaW5zKGN1cnJOdW0pKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5pbGxpbm9pcy5jcy50b3BpYy5Ub3BpYzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYWJzdHJhY3Qgdm9pZCBydW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs ../util/Base.java</text>
+        <text encoding="base64">JzwsJz5zL29jY3VyTW9yZS9jeWNsZXMvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>private</last-search>
+      <last-search>occurMore</last-search>
       <last-offset />
-      <last-pattern>private</last-pattern>
-      <last-replace>public</last-replace>
-      <last-substitute>private</last-substitute>
+      <last-pattern>occurMore</last-pattern>
+      <last-replace>cycles</last-replace>
+      <last-substitute>occurMore</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>id</entry>
         <entry>onaAction</entry>
         <entry>onAction</entry>
         <entry>*ImportanceSort</entry>
@@ -841,9 +842,9 @@
         <entry>HashSet</entry>
         <entry encoding="base64">XDxldEVycm9yc1w+</entry>
         <entry>private</entry>
+        <entry>occurMore</entry>
       </history-search>
       <history-cmd>
-        <entry>s/static//g</entry>
         <entry>%s/static//g</entry>
         <entry>%s/  / /g</entry>
         <entry>!git add .</entry>
@@ -863,6 +864,7 @@
         <entry>vs ../Main.java</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</entry>
         <entry>vs ../util/Base.java</entry>
+        <entry encoding="base64">JzwsJz5zL29jY3VyTW9yZS9jeWNsZXMvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -888,6 +890,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
