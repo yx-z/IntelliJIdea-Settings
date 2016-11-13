@@ -11,6 +11,9 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
+  <action id="CreateLibraryFromFile">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
