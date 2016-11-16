@@ -193,10 +193,10 @@
         <mark key="." line="21" column="75" />
         <mark key="^" line="21" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/MATH 492/happy number/code/HappyNumber/src/edu/illinois/cs/topic/model/Topic.java" timestamp="1479223494114">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/MATH 492/happy number/code/HappyNumber/src/edu/illinois/cs/topic/model/Topic.java" timestamp="1479317950970">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/util/Utils.java" timestamp="1469169794390">
         <mark key="[" line="137" column="5" />
@@ -356,12 +356,12 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/MATH 492/happy number/code/HappyNumber/src/edu/illinois/cs/topic/BackAndForth.java" timestamp="1478907376503">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="52" column="41" />
-        <mark key="." line="52" column="41" />
+      <file name="$USER_HOME$/Documents/MATH 492/happy number/code/HappyNumber/src/edu/illinois/cs/topic/BackAndForth.java" timestamp="1479318793682">
+        <mark key="'" line="19" column="53" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="65" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/test/SquareDigitChains.java" timestamp="1472604656207">
         <mark key="[" line="34" column="27" />
@@ -632,9 +632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/Documents/MATH 492/happy number/code/HappyNumber/src/edu/illinois/cs/topic/FixedPoint.java" />
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/MATH 492/happy number/code/HappyNumber/src/edu/illinois/cs/topic/FixedPoint.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/Documents/MATH 492/happy number/code/HappyNumber/src/edu/illinois/cs/topic/FixedPoint.java" />
       <jump line="73" column="33" filename="$USER_HOME$/Documents/MATH 492/weather/wunderground/Flipper/src/edu/illinois/cs/Main.java" />
       <jump line="165" column="0" filename="$USER_HOME$/Documents/MATH 492/weather/wunderground/Flipper/src/edu/illinois/cs/Main.java" />
       <jump line="155" column="0" filename="$USER_HOME$/Documents/MATH 492/weather/wunderground/Flipper/src/edu/illinois/cs/Main.java" />
@@ -732,6 +729,9 @@
       <jump line="75" column="0" filename="$USER_HOME$/Documents/MATH 492/happy number/code/HappyNumber/src/edu/illinois/cs/topic/PathLen.java" />
       <jump line="73" column="72" filename="$USER_HOME$/Documents/MATH 492/happy number/code/HappyNumber/src/edu/illinois/cs/topic/PathLen.java" />
       <jump line="26" column="3" filename="$USER_HOME$/Documents/MATH 492/happy number/code/HappyNumber/src/edu/illinois/cs/topic/PathLen.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/MATH 492/happy number/code/HappyNumber/src/edu/illinois/cs/topic/BackAndForth.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/MATH 492/happy number/code/HappyNumber/src/edu/illinois/cs/topic/BackAndForth.java" />
+      <jump line="14" column="53" filename="$USER_HOME$/Documents/MATH 492/happy number/code/HappyNumber/src/edu/illinois/cs/topic/BackAndForth.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -749,11 +749,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>count</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
@@ -762,7 +762,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocHJlZGljdGluZyk7CiAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMCk7CiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSW50ZXJydXB0ZWRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50Kys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -791,31 +791,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNFUCA9ICIsIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIFdyaXRlRmlsZS53cml0ZShmaWxlLCBDb25jYXQuY29uY2F0KFNFUCwgYmFzZSwgc2l6ZSwgYXZnKSArIE5FV19MSU5FLCB0cnVlKTsKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZXgpIHsKICAgICAgICAgICAgICAgIGV4LnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtICs9IHNpemU7CiAgICAgICAgICAgIGRvdWJsZSBhdmcgPSAoZG91YmxlKSBudW0gLyAoYmFzZSAtIFNUQVJUX0JBU0UgKyAxKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291bnQrKzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmaW5hbCBTdHJpbmcgUEFUSF9TRVAgPSAiLyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZSBhdmcgPSAoZG91YmxlKSBudW0gLyBjb3VudDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBGSUxFX0VYVEVOU0lPTiA9ICIuY3N2IjsKCiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUEFUSF9TRVAgPSAiLyI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgU0VQID0gIiwiOwoKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBORVdfTElORSA9ICJcbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50KzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBUT1BJQyA9IG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQgU3RyaW5nIGNvbmNhdChPYmplY3QuLi4gb3MpIHsKICAgICAgICBTdHJpbmcgCiAgICB9IAo=</text>
+        <text encoding="base64">Ci8vICAgICAgICBzaXplTWFwID0gc29ydEJ5VmFsdWUoc2l6ZU1hcCk7Ci8vICAgICAgICBzaXplTWFwLmZvckVhY2goKGssIHYpIC0+IHsKLy8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oayArICIgPSAiICsgcHJpbWVGYWN0b3JzKGspICsgIjogIiArIHYpOwovLyAgICAgICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3RoaXMvdzE=</text>
+        <text>vs AverageCycleCount.java</text>
       </register>
     </registers>
     <search>
@@ -851,7 +851,6 @@
         <entry>this</entry>
       </history-search>
       <history-cmd>
-        <entry>!git add .</entry>
         <entry>vs ChiHuoArticleGetter.java</entry>
         <entry encoding="base64">JzwsJz5zL3NldC9saXN0L2c=</entry>
         <entry encoding="base64">JzwsJz5zLypJbXBvcnRhbmNlU29ydC8qL2dj</entry>
@@ -871,6 +870,7 @@
         <entry encoding="base64">JzwsJz5zL29jY3VyTW9yZS9jeWNsZXMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3cxL3RoaXMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMvdzE=</entry>
+        <entry>vs AverageCycleCount.java</entry>
       </history-cmd>
       <history-expr />
       <history-input />
