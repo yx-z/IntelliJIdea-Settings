@@ -553,10 +553,12 @@
         <mark key="." line="167" column="42" />
         <mark key="^" line="167" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorDaily.java" timestamp="1483229465190">
-        <mark key="[" line="221" column="51" />
-        <mark key="]" line="222" column="0" />
-        <mark key="." line="222" column="0" />
+      <file name="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorDaily.java" timestamp="1483236053165">
+        <mark key="'" line="193" column="0" />
+        <mark key="[" line="172" column="8" />
+        <mark key="]" line="172" column="24" />
+        <mark key="." line="172" column="24" />
+        <mark key="^" line="172" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/MATH 492/weather/wunderground/Flipper/src/edu/illinois/cs/model/Weather.java" timestamp="1479054219163">
         <mark key="[" line="166" column="0" />
@@ -747,11 +749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorPercentile.java" />
-      <jump line="151" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorPercentile.java" />
-      <jump line="154" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorPercentile.java" />
-      <jump line="159" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorPercentile.java" />
-      <jump line="162" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorPercentile.java" />
       <jump line="170" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorPercentile.java" />
       <jump line="176" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorPercentile.java" />
       <jump line="189" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorPercentile.java" />
@@ -847,6 +844,11 @@
       <jump line="115" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetMaxTmp.java" />
       <jump line="157" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetMaxTmp.java" />
       <jump line="135" column="32" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorAmongHours.java" />
+      <jump line="176" column="24" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorDaily.java" />
+      <jump line="177" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorDaily.java" />
+      <jump line="185" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorDaily.java" />
+      <jump line="187" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorDaily.java" />
+      <jump line="193" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorDaily.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -864,11 +866,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oayk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
@@ -877,7 +879,7 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXJyb3JzLmdldCgwKS5zaXplKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oayk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib29sZWFuW10gYXJyOwogICAgICAgICAgICAgICAgICAgIGJvb2xlYW4gYiA9IAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -906,28 +908,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oayk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihlcnIuc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXJyb3JzLnNpemUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihlcnIuc2l6ZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXJyb3JzLnNpemUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihlcnJvcnMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXJyb3JzLnNpemUoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVycm9ycy5nZXQoMCkuc2l6ZSgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXJyb3JzLmdldChlcnJvcnMuc2l6ZSgpIC0gMSkuc2l6ZSgpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihlcnJvcnMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZXJyb3JzLnNpemUoKSkK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXJyb3JzLnNpemUoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGVycm9ycy5nZXQoMCkuc2l6ZSgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZXJyb3JzLmdldChlcnJvcnMuc2l6ZSgpIC0gMSkuc2l6ZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vs GetErrorDaily.java</text>
