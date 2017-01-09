@@ -772,12 +772,12 @@
         <mark key="." line="176" column="112" />
         <mark key="^" line="176" column="112" />
       </file>
-      <file name="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/util/Plot.java" timestamp="1483383784695">
-        <mark key="'" line="38" column="19" />
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="89" column="3" />
+      <file name="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/util/Plot.java" timestamp="1483383922757">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="18" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/MATH 492/happy number/code/HappyNumber/src/edu/illinois/cs/util/WriteCSV.java" timestamp="1479222985917">
         <mark key="[" line="10" column="19" />
@@ -837,11 +837,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorAmongHours.java" />
-      <jump line="179" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorAmongHours.java" />
-      <jump line="176" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorAmongHours.java" />
-      <jump line="173" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorAmongHours.java" />
-      <jump line="166" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorAmongHours.java" />
       <jump line="79" column="30" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/FlippedWeather.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/FlippedWeather.java" />
       <jump line="6" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/FlippedWeather.java" />
@@ -937,6 +932,11 @@
       <jump line="38" column="19" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/util/Plot.java" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/util/IO.java" />
       <jump line="133" column="57" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/topic/GetErrorAmongHours.java" />
+      <jump line="56" column="12" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/util/Plot.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/util/Plot.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/util/Plot.java" />
+      <jump line="92" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/util/Plot.java" />
+      <jump line="95" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/util/Plot.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -955,7 +955,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwubW9kZWwuQ1NWTGlzdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG5hbWUgPSBuYW1lcy5nZXQoaSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>V</text>
@@ -967,7 +967,7 @@
         <text encoding="base64">ICAgICAgICBHZXRFcnJvckRhaWx5Lm1haW4oYXJncyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwubW9kZWwuQ1NWTGlzdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG5hbWUgPSBuYW1lcy5nZXQoaSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -999,25 +999,25 @@
         <text encoding="base64">aW1wb3J0IHV0aWwubW9kZWwuQ1NWTGlzdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIElPKCkgewogICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHV0aWwubW9kZWwuQ1NWTGlzdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIElPKCkgewogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwcmVkaWN0LmdldFBlcmlvZCgpICUgMjQgPT0gMCB8fCBqICsgMSA9PSBzaXplIHx8ICF3ZWF0aGVyTGlzdC5nZXQoaiArIDEpLmVxdWFsc1ByZWRpY3RUaW1lKGFjdHVhbCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwcmVkaWN0LmdldFBlcmlvZCgpICUgMjQgPT0gMCB8fCBqICsgMSA9PSBzaXplIHx8ICF3ZWF0aGVyTGlzdC5nZXQoaiArIDEpLmVxdWFsc1ByZWRpY3RUaW1lKGFjdHVhbCkpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUGxvdCgpIHsKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFtZS5zZXRqajsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUGxvdCgpIHsKICAgIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFtZS5zZXRTaXplKHcsIGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmcmFtZS5zZXRqajsK</text>
       </register>
       <register name=":" type="4">
         <text>vs GetErrorDaily.java</text>
