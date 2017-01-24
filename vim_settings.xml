@@ -538,11 +538,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/My/Github/MathResearch/mcm-2017/src/edu/illinois/cs/topic/FlowPeak.java" timestamp="1485215748421">
-        <mark key="[" line="29" column="51" />
-        <mark key="]" line="29" column="51" />
-        <mark key="." line="29" column="51" />
-        <mark key="^" line="30" column="53" />
+      <file name="$USER_HOME$/My/Github/MathResearch/mcm-2017/src/edu/illinois/cs/topic/FlowPeak.java" timestamp="1485272221772">
+        <mark key="'" line="125" column="16" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="135" column="23" />
+        <mark key="^" line="122" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Random/Intern/src/edu/illinois/cs/jdbc/JDBCDriver.java" timestamp="1478554666938">
         <mark key="[" line="25" column="79" />
@@ -918,7 +919,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="24" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorDaily.java" />
       <jump line="177" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorDaily.java" />
       <jump line="185" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorDaily.java" />
       <jump line="187" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorDaily.java" />
@@ -1018,6 +1018,7 @@
       <jump line="50" column="0" filename="$USER_HOME$/My/Github/MathResearch/mcm-2017/src/edu/illinois/cs/topic/FlowPeak.java" />
       <jump line="35" column="4" filename="$USER_HOME$/My/Github/MathResearch/mcm-2017/src/edu/illinois/cs/topic/RouteCount.java" />
       <jump line="27" column="0" filename="$USER_HOME$/My/Github/MathResearch/mcm-2017/src/edu/illinois/cs/topic/RouteCount.java" />
+      <jump line="125" column="16" filename="$USER_HOME$/My/Github/MathResearch/mcm-2017/src/edu/illinois/cs/topic/FlowPeak.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1035,8 +1036,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJdi5mb3JFYWNoKGN1cnIgLT4gewoJCQkJaWYgKHN1bSA+PSBtYXggKiAwLjA4KSB7CgkJCQkJYnJlYWs7CgkJCQl9CgkJCX0pOwo=</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
@@ -1048,7 +1049,7 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkF2ZXJhZ2UgUGVhayBTdGFydDogIiArIChzdW1TdGFydCAvIGNvdW50IC8gNjApICsgIjoiICsgKHN1bVN0YXJ0IC8gY291bnQgJSA2MCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdi5mb3JFYWNoKGN1cnIgLT4gewoJCQkJaWYgKHN1bSA+PSBtYXggKiAwLjA4KSB7CgkJCQkJYnJlYWs7CgkJCQl9CgkJCX0pOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1077,28 +1078,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQkJCXN1bSArPSBjdXJyLmdldFZvbCgpOwoJCQkJcGVhay5hZGQoY3Vycik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlicmVhazsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGJvb2xlYW4gVgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbWF4ID0gTWF0aC5tYXgodHJhZmZpY0xpc3QuZ2V0KDApLnNpemUoKSwgTWF0aC5tYXgodHJhZmZpY0xpc3QuZ2V0KDEpLnNpemUoKSwgTWF0aC5tYXgodHJhZmZpY0xpc3QuZ2V0KDIpLnNpemUoKSwgdHJhZmZpY0xpc3QuZ2V0KDMpLnNpemUoKSkpKTsKICAgICAgICBkb3VibGVbXVtdIGRhdGEgPSBuZXcgZG91YmxlWzRdW21heF07CgogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgZGF0YS5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IG1heDsgaisrKSB7CiAgICAgICAgICAgICAgICBpZiAodHJhZmZpY0xpc3QuZ2V0KGkpLnNpemUoKSA+IGopIHsKICAgICAgICAgICAgICAgICAgICBkYXRhW2ldW2pdID0gdHJhZmZpY0xpc3QuZ2V0KGkpLmdldChqKS5nZXRDb3VudCgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBIZWF0TWFwIG1hcCA9IG5ldyBIZWF0TWFwKGRhdGEpOwoKICAgICAgICBtYXAuc2V0VGl0bGUoVE9QSUNfVElUTEUpOwogICAgICAgIG1hcC5zZXRZQXhpc0xhYmVsKFlfQVhJU19MQUJFTCk7CiAgICAgICAgbWFwLnNldFNob3dZQXhpc1ZhbHVlcyh0cnVlKTsKICAgICAgICBtYXAuc2V0WVZhbHVlcyhST1VURV9JRCk7CiAgICAgICAgbWFwLnNldFhBeGlzTGFiZWwoWF9BWElTX0xBQkVMKTsKICAgICAgICBtYXAuc2V0U2hvd1hBeGlzVmFsdWVzKGZhbHNlKTsKICAgICAgICBtYXAuc2V0SGlnaFZhbHVlQ29sb3VyKG5ldyBDb2xvcig1LCAxNTUsIDApKTsKCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgbWFwLnNhdmVUb0ZpbGUobmV3IEZpbGUoT1VUUFVUX0ZJTEUpKTsKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbWF4ID0gTWF0aC5tYXgodHJhZmZpY0xpc3QuZ2V0KDApLnNpemUoKSwgTWF0aC5tYXgodHJhZmZpY0xpc3QuZ2V0KDEpLnNpemUoKSwgTWF0aC5tYXgodHJhZmZpY0xpc3QuZ2V0KDIpLnNpemUoKSwgdHJhZmZpY0xpc3QuZ2V0KDMpLnNpemUoKSkpKTsKICAgICAgICBkb3VibGVbXVtdIGRhdGEgPSBuZXcgZG91YmxlWzRdW21heF07CgogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgZGF0YS5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IG1heDsgaisrKSB7CiAgICAgICAgICAgICAgICBpZiAodHJhZmZpY0xpc3QuZ2V0KGkpLnNpemUoKSA+IGopIHsKICAgICAgICAgICAgICAgICAgICBkYXRhW2ldW2pdID0gdHJhZmZpY0xpc3QuZ2V0KGkpLmdldChqKS5nZXRDb3VudCgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBIZWF0TWFwIG1hcCA9IG5ldyBIZWF0TWFwKGRhdGEpOwoKICAgICAgICBtYXAuc2V0VGl0bGUoVE9QSUNfVElUTEUpOwogICAgICAgIG1hcC5zZXRZQXhpc0xhYmVsKFlfQVhJU19MQUJFTCk7CiAgICAgICAgbWFwLnNldFNob3dZQXhpc1ZhbHVlcyh0cnVlKTsKICAgICAgICBtYXAuc2V0WVZhbHVlcyhST1VURV9JRCk7CiAgICAgICAgbWFwLnNldFhBeGlzTGFiZWwoWF9BWElTX0xBQkVMKTsKICAgICAgICBtYXAuc2V0U2hvd1hBeGlzVmFsdWVzKGZhbHNlKTsKICAgICAgICBtYXAuc2V0SGlnaFZhbHVlQ29sb3VyKG5ldyBDb2xvcig1LCAxNTUsIDApKTsKCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgbWFwLnNhdmVUb0ZpbGUobmV3IEZpbGUoT1VUUFVUX0ZJTEUpKTsKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGJvb2xlYW4gVgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBOdW1lcmljYWwgUmVzdWx0cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vs RouteCount.java</text>
