@@ -662,11 +662,12 @@
         <mark key="." line="14" column="39" />
         <mark key="^" line="21" column="3" />
       </file>
-      <file name="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" timestamp="1487322895236">
-        <mark key="[" line="36" column="50" />
-        <mark key="]" line="37" column="35" />
-        <mark key="." line="37" column="35" />
-        <mark key="^" line="37" column="35" />
+      <file name="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" timestamp="1487323518796">
+        <mark key="'" line="45" column="56" />
+        <mark key="[" line="46" column="24" />
+        <mark key="]" line="41" column="31" />
+        <mark key="." line="41" column="31" />
+        <mark key="^" line="41" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/MATH 492/weather/wunderground/Flipper/src/main/java/topic/DailyError.java" timestamp="1479136147089">
         <mark key="'" line="40" column="0" />
@@ -942,7 +943,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorDaily.java" />
       <jump line="185" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorDaily.java" />
       <jump line="187" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorDaily.java" />
       <jump line="193" column="0" filename="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/topic/GetErrorDaily.java" />
@@ -1042,6 +1042,7 @@
       <jump line="35" column="4" filename="$USER_HOME$/My/Github/MathResearch/mcm-2017/src/edu/illinois/cs/topic/RouteCount.java" />
       <jump line="27" column="0" filename="$USER_HOME$/My/Github/MathResearch/mcm-2017/src/edu/illinois/cs/topic/RouteCount.java" />
       <jump line="125" column="16" filename="$USER_HOME$/My/Github/MathResearch/mcm-2017/src/edu/illinois/cs/topic/FlowPeak.java" />
+      <jump line="45" column="56" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1059,11 +1060,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>System.</text>
@@ -1072,7 +1073,7 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkF2ZXJhZ2UgUGVhayBTdGFydDogIiArIChzdW1TdGFydCAvIGNvdW50IC8gNjApICsgIjoiICsgKHN1bVN0YXJ0IC8gY291bnQgJSA2MCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlkb3VibGUgdGVybUZyZXF1ZW5jeSA9IDA7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1101,28 +1102,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4odm9jYWJ1bGFyeVNldCk7Cg==</text>
+        <text encoding="base64">CQlkb2N1bWVudC5zcGxpdCgiICIpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl0eHQuZm9yRWFjaChTeXN0ZW0ub3V0OjpwcmludGxuKTsK</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4odGltZXNBcHBlYXJzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4odHh0KTsK</text>
+        <text encoding="base64">CQlnZXRUZXJtRnJlcXVlbmN5KCJhIiwgImEgYSBhIGIgYSBjIGQgYSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0cnkgewo=</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4odm9jYWJ1bGFyeVNldCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJU3lzdGVtLm91dC5wcmludGxuKGEgKyAiICIgKyBiICsgIiAiICsgYyArICIgIiArIHIgKyAiICIgKyBzICsgIiAiKTsK</text>
+        <text encoding="base64">CQl0eHQuZm9yRWFjaChTeXN0ZW0ub3V0OjpwcmludGxuKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vs RouteCount.java</text>
