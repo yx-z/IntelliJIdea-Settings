@@ -2,6 +2,9 @@
   <action id="AddInjectionsAction">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="Android.CreateResourcesActionGroup">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
@@ -13,6 +16,9 @@
   </action>
   <action id="CreateLibraryFromFile">
     <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="Kotlin.NewFile">
+    <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt j" />
