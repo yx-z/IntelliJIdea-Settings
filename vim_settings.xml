@@ -695,6 +695,13 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
+      <file name="$USER_HOME$/Desktop/StreamDemo/src/Main.java" timestamp="1500252117702">
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="18" column="47" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/Github/Playground/DataStructureAndAlgorithm/Prime/src/edu/illinois/cs/PrimeList.java" timestamp="1464505151806">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
@@ -905,10 +912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="$USER_HOME$/My/Github/MathResearch/mcm-2017/src/edu/illinois/cs/topic/FlowPeak.java" />
-      <jump line="113" column="0" filename="$USER_HOME$/My/Github/MathResearch/mcm-2017/src/edu/illinois/cs/topic/FlowPeak.java" />
-      <jump line="67" column="0" filename="$USER_HOME$/My/Github/MathResearch/mcm-2017/src/edu/illinois/cs/topic/FlowPeak.java" />
-      <jump line="61" column="30" filename="$USER_HOME$/My/Github/MathResearch/mcm-2017/src/edu/illinois/cs/topic/FlowPeak.java" />
       <jump line="88" column="14" filename="$USER_HOME$/My/Github/MathResearch/mcm-2017/src/edu/illinois/cs/topic/FlowPeak.java" />
       <jump line="85" column="0" filename="$USER_HOME$/My/Github/MathResearch/mcm-2017/src/edu/illinois/cs/topic/FlowPeak.java" />
       <jump line="75" column="0" filename="$USER_HOME$/My/Github/MathResearch/mcm-2017/src/edu/illinois/cs/topic/FlowPeak.java" />
@@ -1005,6 +1008,10 @@
       <jump line="27" column="0" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/document/PcaTransform.java" />
       <jump line="57" column="0" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/document/PcaTransform.java" />
       <jump line="2" column="0" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/document/PcaTransform.java" />
+      <jump line="17" column="4" filename="$USER_HOME$/Desktop/StreamDemo/src/Main.java" />
+      <jump line="5" column="16" filename="$USER_HOME$/Desktop/StreamDemo/src/Main.java" />
+      <jump line="6" column="18" filename="$USER_HOME$/Desktop/StreamDemo/src/Main.java" />
+      <jump line="7" column="15" filename="$USER_HOME$/Desktop/StreamDemo/src/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1023,10 +1030,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDw+KEFycmF5cy5hc0xpc3Qocy5zcGxpdCgiICIpKSkuc3RyZWFtKCkubWFwKHN0ciAtPiBuZXcgU3RyaW5nQnVpbGRlcihzdHIpLnJldmVyc2UoKS50b1N0cmluZygpKS5jb2xsZWN0KENvbGxlY3RvcnMuam9pbmluZygiICIpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmZvckVhY2gocyAtPiB7Ci8vICAgICAgICAgICAgICAgICAgICBzID0gcy50b0xvd2VyQ2FzZSgpOwovLyAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHMpOwovLyAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>readTxt</text>
@@ -1035,7 +1042,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDw+KEFycmF5cy5hc0xpc3Qocy5zcGxpdCgiICIpKSkuc3RyZWFtKCkubWFwKHN0ciAtPiBuZXcgU3RyaW5nQnVpbGRlcihzdHIpLnJldmVyc2UoKS50b1N0cmluZygpKS5jb2xsZWN0KENvbGxlY3RvcnMuam9pbmluZygiICIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmZvckVhY2gocyAtPiB7Ci8vICAgICAgICAgICAgICAgICAgICBzID0gcy50b0xvd2VyQ2FzZSgpOwovLyAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHMpOwovLyAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1064,28 +1071,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHJldmVyc2VXb3JkcyhTdHJpbmcgcykgewogICAgICAgIEFycmF5TGlzdDxTdHJpbmc+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oQXJyYXlzLmFzTGlzdChzLnNwbGl0KCIgIikpKTsKICAgICAgICByZXR1cm4gbGlzdC5zdHJlYW0oKS5tYXAoc3RyIC0+IG5ldyBTdHJpbmdCdWlsZGVyKHN0cikucmV2ZXJzZSgpLnRvU3RyaW5nKCkpLmNvbGxlY3QoQ29sbGVjdG9ycy5qb2luaW5nKCIgIikpOwogICAgfQoKCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYXJhbGxlbCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wZWRkZWsoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXBUb0ludChTdHJpbmc6Omxlbmd0aCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEphbWEuTWF0cml4OwppbXBvcnQgY29tLm1rb2Jvcy5wY2FfdHJhbnNmb3JtLlBDQTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb3VudCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGZsYW5hZ2FuLmFuYWx5c2lzLlBDQTsKaW1wb3J0IGZsYW5hZ2FuLm1hdGguTWF0cml4Owo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlQQ0EgcGNhID0gbmV3IFBDQSgpOwoJCXBjYS5yZWFkCgkJcGNhLmFuYWx5c2lzKCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
