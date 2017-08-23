@@ -44,11 +44,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Test/src/Main.kt" timestamp="1503452524434">
-        <mark key="'" line="2" column="14" />
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Desktop/Test/src/Main.kt" timestamp="1503454115362">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="49" column="38" />
+        <mark key="." line="49" column="38" />
+        <mark key="^" line="49" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Random/Intern/src/edu/illinois/cs/sax/SAXReader.java" timestamp="1478492057745">
         <mark key="[" line="17" column="48" />
@@ -673,6 +674,9 @@
         <mark key="]" line="11" column="23" />
         <mark key="." line="11" column="23" />
       </file>
+      <file name="/fragment.kt" timestamp="1503452759564">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/MATH492/weather/wg/Flipper/src/main/java/edu/illinois/cs/model/PredictDateComparator.java" timestamp="1483375071125">
         <mark key="[" line="10" column="7" />
         <mark key="]" line="10" column="7" />
@@ -1036,11 +1040,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="24" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
-      <jump line="12" column="36" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/MinkowskiDistance.java" />
-      <jump line="49" column="72" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
       <jump line="6" column="22" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
       <jump line="54" column="38" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
       <jump line="27" column="8" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
@@ -1132,10 +1131,15 @@
       <jump line="31" column="0" filename="$USER_HOME$/Desktop/IMCInterviewPractice/src/edu/illinois/cs/Main.java" />
       <jump line="46" column="34" filename="$USER_HOME$/Desktop/IMCInterviewPractice/src/edu/illinois/cs/Main.java" />
       <jump line="61" column="20" filename="$USER_HOME$/Desktop/IMCInterviewPractice/src/edu/illinois/cs/Main.java" />
-      <jump line="0" column="32" filename="$USER_HOME$/Desktop/Test/src/Main.kt" />
       <jump line="34" column="1" filename="$USER_HOME$/Desktop/Test/src/Main.kt" />
       <jump line="14" column="18" filename="$USER_HOME$/Desktop/Test/src/Main.kt" />
       <jump line="2" column="14" filename="$USER_HOME$/Desktop/Test/src/Main.kt" />
+      <jump line="50" column="45" filename="$USER_HOME$/Desktop/Test/src/Main.kt" />
+      <jump line="4" column="20" filename="$USER_HOME$/Desktop/Test/src/Main.kt" />
+      <jump line="54" column="0" filename="$USER_HOME$/Desktop/Test/src/Main.kt" />
+      <jump line="55" column="0" filename="$USER_HOME$/Desktop/Test/src/Main.kt" />
+      <jump line="62" column="23" filename="$USER_HOME$/Desktop/Test/src/Main.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Test/src/Main.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1154,10 +1158,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>left</text>
@@ -1166,7 +1170,7 @@
         <text encoding="base64">CXByaW50bG4oczEuaXNDeWNsaWMoczIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWJ1aWxkUGF0dGVybkFycmF5KCkK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbHBzW10gPSBjb21wdXRlVGVtcG9yYXJ5QXJyYXkocGF0dGVybik7CiAgICAgICAgaW50IGk9MDsKICAgICAgICBpbnQgaj0wOwogICAgICAgIHdoaWxlKGkgPCB0ZXh0Lmxlbmd0aCAmJiBqIDwgcGF0dGVybi5sZW5ndGgpewogICAgICAgICAgICBpZih0ZXh0W2ldID09IHBhdHRlcm5bal0pewogICAgICAgICAgICAgICAgaSsrOwogICAgICAgICAgICAgICAgaisrOwogICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIGlmKGohPTApewogICAgICAgICAgICAgICAgICAgIGogPSBscHNbai0xXTsKICAgICAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgICAgIGkrKzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBpZihqID09IHBhdHRlcm4ubGVuZ3RoKXsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQogICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1195,28 +1199,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZhbCBrbXAgPSBLTVAoIiIsICJhYWJhYWJhYWEiKQo=</text>
+        <text encoding="base64">CXByaW50bG4oQXJyYXlzLnRvU3RyaW5nKGttcC5wYXR0ZXJuQXJyYXkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cglpbml0IHsKCQlwYXR0ZXJuQXJyYXkgPSBidWlsZFBhdHRlcm5BcnJheSgpCgl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgS01QKHZhciBtYXRjaGluZzogU3RyaW5nLCB2YXIgcGF0dGVybjogU3RyaW5nKSB7Cgl2YXIgcGF0dGVybkFycmF5OiBBcnJheTxJbnQ+ID0gYnVpbGRQYXR0ZXJuQXJyYXkoKQoK</text>
+        <text encoding="base64">CXZhciBtYXRjaGluZzogU3RyaW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZhciBidWlsZEFycmF5OiAoSW50LCBJbnQpIC0+IEludCA9IHsgaTEsIGkyIC0+IGkxICogaTIgfQoJcHJpbnRsbihidWlsZEFycmF5KDIsIDMpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CWNvbnN0cnVjdG9yKG1hdGNoaW5nOiBTdHJpbmcsIHBhdHRlcm46IFN0cmluZykgewoJCXRoaXMubWF0Y2hpbmcgPSBtYXRjaGluZyArICJhYmMiCgkJdGhpcy5wYXR0ZXJuID0gcGF0dGVybgoJCXRoaXMucGF0dGVybkFycmF5ID0gYnVpbGRQYXR0ZXJuQXJyYXkoKQoJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gYXJyYXlPZigxKQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl2YXIgaWR4ID0gMAo=</text>
+        <text encoding="base64">CWttcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YWwgYXJyID0gQXJyYXkobGVuKSB7MH0KCQlpZiAobGVuIDw9IDEpIHsKCQkJcmV0dXJuIGFycgoJCX0K</text>
+        <text encoding="base64">CQkJdGhpcy5wYXR0ZXJuQXJyYXkgPSBidWlsZFBhdHRlcm5BcnJheSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQvZw==</text>
