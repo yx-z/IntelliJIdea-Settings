@@ -966,11 +966,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Test/src/LPS.kt" timestamp="1503490872729">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="15" column="23" />
-        <mark key="^" line="15" column="23" />
-        <mark key="." line="15" column="23" />
+      <file name="$USER_HOME$/Desktop/Test/src/LPS.kt" timestamp="1503491921790">
+        <mark key="[" line="18" column="71" />
+        <mark key="]" line="22" column="16" />
+        <mark key="^" line="22" column="16" />
+        <mark key="." line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/IMC/src/Main.java" timestamp="1501806508667">
         <mark key="[" line="3" column="0" />
@@ -1197,13 +1197,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>left</text>
+        <text>arr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXByaW50bG4obGVuTElTQnlMQ1MoYXJyKSkK</text>
@@ -1266,17 +1266,16 @@
       </register>
     </registers>
     <search>
-      <last-search>left</last-search>
+      <last-search>arr</last-search>
       <last-offset />
-      <last-pattern>left</last-pattern>
+      <last-pattern>arr</last-pattern>
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>toString()</entry>
         <entry>HashSet</entry>
         <entry encoding="base64">XDxldEVycm9yc1w+</entry>
         <entry>private</entry>
@@ -1296,6 +1295,7 @@
         <entry>readTxt</entry>
         <entry>node</entry>
         <entry>left</entry>
+        <entry>arr</entry>
       </history-search>
       <history-cmd>
         <entry>sp ../../chihuo/modelLinkGetterChiHuo.java</entry>
