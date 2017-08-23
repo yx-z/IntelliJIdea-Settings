@@ -746,8 +746,12 @@
         <mark key="]" line="64" column="28" />
         <mark key="." line="64" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/Test/src/EditDist.kt" timestamp="1503459083521">
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/Desktop/Test/src/EditDist.kt" timestamp="1503489420631">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="52" column="79" />
+        <mark key="." line="52" column="79" />
+        <mark key="^" line="52" column="79" />
       </file>
       <file name="$USER_HOME$/Desktop/RuijinSecondChildStat/src/cn/com/ruijin/app/controller/ControllerBestChoice.java" timestamp="1469175004576">
         <mark key="[" line="56" column="33" />
@@ -950,11 +954,11 @@
       <file name="$USER_HOME$/Documents/MATH 492/weather/wunderground/Flipper/src/edu/illinois/cs/Main.java" timestamp="1479060648657">
         <mark key="[" line="41" column="61" />
       </file>
-      <file name="$USER_HOME$/Desktop/Test/src/LIS.kt" timestamp="1503459090115">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="3" column="18" />
-        <mark key="^" line="3" column="20" />
-        <mark key="." line="3" column="18" />
+      <file name="$USER_HOME$/Desktop/Test/src/LIS.kt" timestamp="1503490243577">
+        <mark key="'" line="0" column="21" />
+        <mark key="[" line="33" column="59" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Github/Playground/GUI/ColorChangeGame/src/util/AlertBox.java" timestamp="1463554352662">
         <mark key="[" line="25" column="13" />
@@ -1068,13 +1072,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="4" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
-      <jump line="161" column="0" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
-      <jump line="127" column="0" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
-      <jump line="121" column="0" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
-      <jump line="118" column="0" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
-      <jump line="42" column="19" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
       <jump line="128" column="0" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
       <jump line="83" column="0" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
       <jump line="73" column="0" filename="$USER_HOME$/My/OneDrive/Work/Course/CS412/hw/yzhng223-hw1/Question4Code/src/document/DocumentSimilarity.java" />
@@ -1168,6 +1165,13 @@
       <jump line="30" column="0" filename="$USER_HOME$/Desktop/Test/src/KMP.kt" />
       <jump line="33" column="0" filename="$USER_HOME$/Desktop/Test/src/KMP.kt" />
       <jump line="37" column="0" filename="$USER_HOME$/Desktop/Test/src/KMP.kt" />
+      <jump line="58" column="0" filename="$USER_HOME$/Desktop/Test/src/EditDist.kt" />
+      <jump line="53" column="12" filename="$USER_HOME$/Desktop/Test/src/EditDist.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Test/src/EditDist.kt" />
+      <jump line="8" column="38" filename="$USER_HOME$/Desktop/Test/src/LIS.kt" />
+      <jump line="6" column="19" filename="$USER_HOME$/Desktop/Test/src/LIS.kt" />
+      <jump line="31" column="19" filename="$USER_HOME$/Desktop/Test/src/LIS.kt" />
+      <jump line="0" column="21" filename="$USER_HOME$/Desktop/Test/src/LIS.kt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1185,20 +1189,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>left</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaW50bG4oczEuaXNDeWNsaWMoczIpKQo=</text>
+        <text encoding="base64">CXByaW50bG4obGVuTElTQnlMQ1MoYXJyKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhbCByYW5nZSA9IDEgLi4gMwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1227,28 +1231,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogZHBbaV1bal0gPSAK</text>
+        <text encoding="base64">CQkJCS5mb3JFYWNoIHsgZHBbaV0gPSBtYXgoZHBbaV0sIGRwW2l0XSArIDEpIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZhbCBkcCA9IEFycmF5KHMxLmxlbmd0aCkgeyBBcnJheTxJbnQ+KHMyLmxlbmd0aCkgfQo=</text>
+        <text encoding="base64">CQkJCS5maWx0ZXIgeyBhcnJbaV0gPiBhcnJbaXRdIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoKCWRwCiAqLwo=</text>
+        <text encoding="base64">CQkJZHBbaV0gPSBtYXgoZHBbaV0sIGRwW2pdICsgMSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgS01QKHZhciBtYXRjaGluZzogU3RyaW5nLCBwYXR0ZXJuOiBTdHJpbmcpIHsKCXZhciBwYXR0ZXJuOiBTdHJpbmcgPSBwYXR0ZXJuCgkJc2V0KHZhbHVlKSB7CgkJCWZpZWxkID0gdmFsdWUKCQkJdGhpcy5wYXR0ZXJuQXJyYXkgPSBidWlsZFBhdHRlcm5BcnJheSgpCgkJfQoJcHJpdmF0ZSB2YXIgcGF0dGVybkFycmF5OiBBcnJheTxJbnQ+ID0gYnVpbGRQYXR0ZXJuQXJyYXkoKQoKCXByaXZhdGUgZnVuIGJ1aWxkUGF0dGVybkFycmF5KCk6IEFycmF5PEludD4gewoJCXZhbCBsZW4gPSBwYXR0ZXJuLmxlbmd0aAoJCXZhbCBhcnIgPSBBcnJheShsZW4pIHsgMCB9CgoJCXZhciBqID0gMAoJCXZhciBpID0gMQoKCQl3aGlsZSAoaSA8IGxlbikgewoJCQl3aGVuIHsKCQkJCXBhdHRlcm5baV0gPT0gcGF0dGVybltqXSAtPiB7CgkJCQkJYXJyW2ldID0gaiArIDEKCgkJCQkJaisrCgkJCQkJaSsrCgkJCQl9CgkJCQlqICE9IDAgLT4gaiA9IGFycltqIC0gMV0KCQkJCWVsc2UgLT4gewoJCQkJCWFycltpXSA9IDAKCQkJCQlpKysKCQkJCX0KCQkJfQoJCX0KCgkJcmV0dXJuIGFycgoJfQoKCWZ1biBtYXRjaCgpOiBCb29sZWFuIHsKCQl2YXIgaSA9IDAKCQl2YXIgaiA9IDAKCgkJd2hpbGUgKGkgPCBtYXRjaGluZy5sZW5ndGggJiYgaiA8IHBhdHRlcm4ubGVuZ3RoKSB7CgkJCXdoZW4gewoJCQkJbWF0Y2hpbmdbaV0gPT0gcGF0dGVybltqXSAtPiB7CgkJCQkJaSsrCgkJCQkJaisrCgkJCQl9CgkJCQlqICE9IDAgLT4gaiA9IHBhdHRlcm5BcnJheVtqIC0gMV0KCQkJCWVsc2UgLT4gaSsrCgkJCX0KCQl9CgoJCXJldHVybiBqID09IHBhdHRlcm4ubGVuZ3RoCgl9Cn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZHBbaV0gPSBpZiAoYXJyW2ldID4gYXJyW2pdKSB7CgkJCQlkcFtpXQoJCQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZhciBtYXggPSAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LlN5c3RlbUNvbG9yLnRleHQK</text>
+        <text encoding="base64">CXByaW50bG4oQXJyYXlzLnRvU3RyaW5nKGFycikpCglwcmludGxuKEFycmF5cy50b1N0cmluZyhjb3B5KSkKCXJldHVybiBsZW5MQ1MoQXJyYXlzLnRvU3RyaW5nKGFyciksIEFycmF5cy50b1N0cmluZyhjb3B5KSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQvZw==</text>
