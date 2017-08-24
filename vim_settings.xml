@@ -37,11 +37,10 @@
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/LargestBST.kt" timestamp="1503611703952">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="17" column="32" />
-        <mark key="^" line="17" column="32" />
-        <mark key="." line="17" column="32" />
+      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/LargestBST.kt" timestamp="1503613065002">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/Heap.kt" timestamp="1503598393718">
         <mark key="[" line="2" column="10" />
@@ -157,7 +156,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWlmIChyb290ID09PSBudWxsKSB7CgkJcmV0dXJuIDAKCX0KCglpZiAocm9vdC5sZWZ0ICE9PSBudWxsICYmIHJvb3QuZGF0YSA8IHJvb3QubGVmdCEhLmRhdGEpIHsKCgl9CgoJaWYgKHJvb3QucmlnaHQgIT09IG51bGwpCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -169,31 +168,31 @@
         <text encoding="base64">CQlub2RlID0gc3RhY2sucG9wKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWlmIChyb290ID09PSBudWxsKSB7CgkJcmV0dXJuIDAKCX0KCglpZiAocm9vdC5sZWZ0ICE9PSBudWxsICYmIHJvb3QuZGF0YSA8IHJvb3QubGVmdCEhLmRhdGEpIHsKCgl9CgoJaWYgKHJvb3QucmlnaHQgIT09IG51bGwpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci8vCXdoaWxlIChub2RlICE9PSBudWxsIHx8IHN0YWNrLmlzTm90RW1wdHkoKSkgewo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CWRvIHsKCQl3aGlsZSAobm9kZSAhPT0gbnVsbCkgewoJCQlpZiAobm9kZS5yaWdodCAhPT0gbnVsbCkgewoJCQkJc3RhY2sucHVzaChub2RlLnJpZ2h0KQoJCQl9CgkJCXN0YWNrLnB1c2gobm9kZSkKCgkJCW5vZGUgPSBub2RlLmxlZnQKCQl9CgoJCW5vZGUgPSBzdGFjay5wb3AoKQoJCXByaW50bG4oIkhIICR7bm9kZS5kYXRhfSIpCgkJaWYgKG5vZGUucmlnaHQgPT09IG51bGwpIHsKCQkJcHJpbnQobm9kZS5kYXRhKQoJCQlub2RlID0gbnVsbAoJCX0gZWxzZSB7CgkJCWlmIChub2RlLnJpZ2h0ID09PSBzdGFjay5wZWVrKCkpIHsKCQkJCXN0YWNrLnBvcCgpCgkJCQlzdGFjay5wdXNoKG5vZGUpCgkJCQlub2RlID0gbm9kZS5yaWdodAoJCQl9CgkJfQoJfSB3aGlsZSAoc3RhY2suaXNOb3RFbXB0eSgpKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXdoaWxlIChzdGFjay5pc05vdEVtcHR5KCkpIHsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ci8vCXdoaWxlIChub2RlICE9PSBudWxsIHx8IHN0YWNrLmlzTm90RW1wdHkoKSkgewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CWRvIHsKCQl3aGlsZSAobm9kZSAhPT0gbnVsbCkgewoJCQlpZiAobm9kZS5yaWdodCAhPT0gbnVsbCkgewoJCQkJc3RhY2sucHVzaChub2RlLnJpZ2h0KQoJCQl9CgkJCXN0YWNrLnB1c2gobm9kZSkKCgkJCW5vZGUgPSBub2RlLmxlZnQKCQl9CgoJCW5vZGUgPSBzdGFjay5wb3AoKQoJCXByaW50bG4oIkhIICR7bm9kZS5kYXRhfSIpCgkJaWYgKG5vZGUucmlnaHQgPT09IG51bGwpIHsKCQkJcHJpbnQobm9kZS5kYXRhKQoJCQlub2RlID0gbnVsbAoJCX0gZWxzZSB7CgkJCWlmIChub2RlLnJpZ2h0ID09PSBzdGFjay5wZWVrKCkpIHsKCQkJCXN0YWNrLnBvcCgpCgkJCQlzdGFjay5wdXNoKG5vZGUpCgkJCQlub2RlID0gbm9kZS5yaWdodAoJCQl9CgkJfQoJfSB3aGlsZSAoc3RhY2suaXNOb3RFbXB0eSgpKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXdoaWxlIChzdGFjay5pc05vdEVtcHR5KCkpIHsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CXN0YWNrLnB1c2gobm9kZS5yaWdodCkKCXN0YWNrLnB1c2gobm9kZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXdoaWxlIChub2RlICE9PSBudWxsICYmIG5vZGUucmlnaHQgIT09IG51bGwpIHsKCQlzdGFjay5wdXNoKG5vZGUucmlnaHQpCgkJc3RhY2sucHVzaChub2RlKQoJCW5vZGUgPSBub2RlLnJpZ2h0Cgl9CgoJd2hpbGUgKHN0YWNrLmlzTm90RW1wdHkoKSkgewoJCW5vZGUgPSBzdGFjay5wb3AoKQoKCQlpZiAobm9kZS5yaWdodCA9PT0gbnVsbCkgewoJCQlwcmludChub2RlLmRhdGEpCgkJfSBlbHNlIHsKCQkJaWYgKG5vZGUucmlnaHQgPT09IHN0YWNrLnBlZWsoKSkgewoJCQkJc3RhY2sucG9wKCkKCQkJCXN0YWNrLnB1c2gobm9kZSkKCQkJCQoJCQl9CgkJfQoJfQo=</text>
+        <text encoding="base64">CXN0YWNrLnB1c2gobm9kZS5yaWdodCkKCXN0YWNrLnB1c2gobm9kZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCW5vZGUgPSBzdGFjay5wb3AoKQo=</text>
+        <text encoding="base64">CXdoaWxlIChub2RlICE9PSBudWxsICYmIG5vZGUucmlnaHQgIT09IG51bGwpIHsKCQlzdGFjay5wdXNoKG5vZGUucmlnaHQpCgkJc3RhY2sucHVzaChub2RlKQoJCW5vZGUgPSBub2RlLnJpZ2h0Cgl9CgoJd2hpbGUgKHN0YWNrLmlzTm90RW1wdHkoKSkgewoJCW5vZGUgPSBzdGFjay5wb3AoKQoKCQlpZiAobm9kZS5yaWdodCA9PT0gbnVsbCkgewoJCQlwcmludChub2RlLmRhdGEpCgkJfSBlbHNlIHsKCQkJaWYgKG5vZGUucmlnaHQgPT09IHN0YWNrLnBlZWsoKSkgewoJCQkJc3RhY2sucG9wKCkKCQkJCXN0YWNrLnB1c2gobm9kZSkKCQkJCQoJCQl9CgkJfQoJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
