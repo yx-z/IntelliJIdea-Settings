@@ -66,11 +66,11 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/Traverse.kt" timestamp="1503586593795">
+      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/Traverse.kt" timestamp="1503590157578">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Rotate.kt" timestamp="1503555728553">
         <mark key="[" line="9" column="15" />
@@ -84,11 +84,12 @@
         <mark key="." line="25" column="15" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Cycle.kt" timestamp="1503555995640">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Cycle.kt" timestamp="1503590780372">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="32" column="8" />
+        <mark key="." line="32" column="8" />
+        <mark key="^" line="32" column="8" />
       </file>
       <file name="$USER_HOME$/Desktop/DeepinKotlinTest/src/HelloWorld.kt" timestamp="1503213158703">
         <mark key="[" line="2" column="3" />
@@ -132,13 +133,15 @@
       <jump line="55" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/LIS.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/LIS.kt" />
       <jump line="58" column="19" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/LIS.kt" />
+      <jump line="26" column="64" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Cycle.kt" />
+      <jump line="14" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Cycle.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXByaW50bG4oYXJyLmNvbnRhaW5zRHVwbGljYXRlKCkpCg==</text>
+        <text encoding="base64">CmZ1biBTdHJpbmcuc29ydCgpOiBTdHJpbmd7Cgl2YWwgcyA9IHRoaXMuY2hhcnMoKS5zb3J0ZWQoKS50b0xpc3QoKQoJcmV0dXJuIHMudG9TdHJpbmcoKQp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Pre</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>Helper</text>
@@ -147,31 +150,31 @@
         <text encoding="base64">CXByaW50bG4oYXJyLmNvbnRhaW5zRHVwbGljYXRlKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhbCBsaXN0ID0gTGlua2VkTGlzdDxUcmVlTm9kZT4oKQo=</text>
+        <text encoding="base64">CmZ1biBTdHJpbmcuc29ydCgpOiBTdHJpbmd7Cgl2YWwgcyA9IHRoaXMuY2hhcnMoKS5zb3J0ZWQoKS50b0xpc3QoKQoJcmV0dXJuIHMudG9TdHJpbmcoKQp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlsaXN0LmFkZChjdXJyKQo=</text>
+        <text encoding="base64">CXByaW50bG4ocykK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXdoaWxlIChzdGFjay5pc05vdEVtcHR5KCkpIHsKCQl2YWwgY3VyciA9IHN0YWNrLnBvcCgpCgl9Cg==</text>
+        <text encoding="base64">CQkhPSAtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlwcmludChjdXJyLmRhdGEpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlwcmludChjdXJyLmRhdGEpCg==</text>
+        <text encoding="base64">CVRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaW50KHJvb3QuZGF0YSkK</text>
+        <text encoding="base64">CXJldHVybiBjb3VudAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaW50bG4oIkRERCIpCg==</text>
+        <text encoding="base64">CXZhciBjb3VudCA9IDAKCgkJfQoJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaW50bG4oIkRERCIpCg==</text>
+        <text encoding="base64">CWZvciAoaSBpbiAwIHVudGlsIHRoaXMuc2l6ZSkgewoJCWZvciAoaiBpbiAxIHVudGlsIHRoaXMuc2l6ZSkgewoJCQl9IGVsc2UgewoJCQkJY291bnQrKwoJCQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
