@@ -24,6 +24,11 @@
         <mark key="." line="16" column="50" />
         <mark key="^" line="16" column="29" />
       </file>
+      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Anagram.kt" timestamp="1503594414750">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Test/src/Main.kt" timestamp="1503443197555">
         <mark key="[" line="7" column="1" />
       </file>
@@ -66,11 +71,11 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/Traverse.kt" timestamp="1503590157578">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/Traverse.kt" timestamp="1503597073825">
+        <mark key="[" line="51" column="28" />
+        <mark key="]" line="51" column="20" />
+        <mark key="." line="51" column="20" />
+        <mark key="^" line="51" column="20" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Rotate.kt" timestamp="1503555728553">
         <mark key="[" line="9" column="15" />
@@ -123,7 +128,6 @@
       <jump line="42" column="31" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/Traverse.kt" />
       <jump line="46" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/Traverse.kt" />
       <jump line="49" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/Traverse.kt" />
-      <jump line="51" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/Traverse.kt" />
       <jump line="61" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/Traverse.kt" />
       <jump line="26" column="12" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/BiSearch.kt" />
       <jump line="25" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/BiSearch.kt" />
@@ -135,13 +139,19 @@
       <jump line="58" column="19" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/LIS.kt" />
       <jump line="26" column="64" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Cycle.kt" />
       <jump line="14" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Cycle.kt" />
+      <jump line="14" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Anagram.kt" />
+      <jump line="47" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/Traverse.kt" />
+      <jump line="51" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/Traverse.kt" />
+      <jump line="54" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/Traverse.kt" />
+      <jump line="58" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/Traverse.kt" />
+      <jump line="67" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/Traverse.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmZ1biBTdHJpbmcuc29ydCgpOiBTdHJpbmd7Cgl2YWwgcyA9IHRoaXMuY2hhcnMoKS5zb3J0ZWQoKS50b0xpc3QoKQoJcmV0dXJuIHMudG9TdHJpbmcoKQp9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>Helper</text>
@@ -150,31 +160,31 @@
         <text encoding="base64">CXByaW50bG4oYXJyLmNvbnRhaW5zRHVwbGljYXRlKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmZ1biBTdHJpbmcuc29ydCgpOiBTdHJpbmd7Cgl2YWwgcyA9IHRoaXMuY2hhcnMoKS5zb3J0ZWQoKS50b0xpc3QoKQoJcmV0dXJuIHMudG9TdHJpbmcoKQp9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CXByaW50bG4ocykK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJc3RhY2sucHVzaChub2RlKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXZhciBub2RlID0gcm9vdAoJd2hpbGUgKG5vZGUgIT0gbnVsbCkgewoJCW5vZGUgPSBub2RlLmxlZnQKCX0KCgl2YWwgc3RhY2sgPSBTdGFjazxUcmVlTm9kZT4oKQoJc3RhY2sucHVzaChub2RlKQoKCXdoaWxlIChzdGFjay5pc05vdEVtcHR5KCkpIHsKCQlub2RlID0gc3RhY2sucG9wKCkKCQlwcmludChub2RlLmRhdGEpCgoJCWlmIChub2RlLnJpZ2h0ICE9IG51bGwpIHsKCQkJbm9kZSA9IG5vZGUucmlnaHQKCQkJd2hpbGUgKG5vZGUgIT0gbnVsbCkgewoJCQkJc3RhY2sucHVzaChub2RlKQoJCQkJbm9kZSA9IG5vZGUucmlnaHQKCQkJfQoJCX0KCX0KCglwcmludGxuKCkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkhPSAtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CQlqawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CVRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">CQlpZiAoY3VyciAhPSBudWxsKSB7CgkJCWN1cnIgPSBjdXJyLgoJCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXJldHVybiBjb3VudAo=</text>
+        <text encoding="base64">CXdoaWxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhciBjb3VudCA9IDAKCgkJfQoJfQo=</text>
+        <text encoding="base64">CXN0YWNrLnB1c2gocm9vdCkKCgl3aGlsZSAoc3RhY2suaXNOb3RFbXB0eSgpKSB7CgkJdmFsIGN1cnIgPSBzdGFjay5wb3AoKQoJCXdoaWxlICgpCgl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZvciAoaSBpbiAwIHVudGlsIHRoaXMuc2l6ZSkgewoJCWZvciAoaiBpbiAxIHVudGlsIHRoaXMuc2l6ZSkgewoJCQl9IGVsc2UgewoJCQkJY291bnQrKwoJCQl9Cg==</text>
+        <text encoding="base64">CXZhbCBzdGFjayA9IFN0YWNrPFRyZWVOb2RlPigpCglzdGFjay5wdXNoKHJvb3QpCgoJd2hpbGUgKHN0YWNrLmlzTm90RW1wdHkoKSkgewoJCXZhbCBjdXJyID0gc3RhY2sucG9wKCkKCgkJaWYgKGN1cnIucmlnaHQgIT09IG51bGwpIHsKCQkJc3RhY2sucHVzaChjdXJyLnJpZ2h0KQoJCX0KCQlpZiAoY3Vyci5sZWZ0ICE9PSBudWxsKSB7CgkJCXN0YWNrLnB1c2goY3Vyci5sZWZ0KQoJCX0KCX0KCXByaW50bG4oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
