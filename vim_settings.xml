@@ -3,25 +3,83 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/DeepinKotlinTest/src/HelloWorld.kt" timestamp="1503213158703">
-        <mark key="[" line="2" column="3" />
-      </file>
       <file name="/Dummy.txt" timestamp="1503213167935">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Test/src/BiSearch.kt" timestamp="1503539414508">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="26" column="76" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Test/src/Main.kt" timestamp="1503443197555">
         <mark key="[" line="7" column="1" />
       </file>
+      <file name="$USER_HOME$/Desktop/DeepinKotlinTest/src/HelloWorld.kt" timestamp="1503213158703">
+        <mark key="[" line="2" column="3" />
+      </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="3" column="0" filename="$USER_HOME$/Desktop/Test/src/BiSearch.kt" />
+      <jump line="26" column="9" filename="$USER_HOME$/Desktop/Test/src/BiSearch.kt" />
+      <jump line="39" column="0" filename="$USER_HOME$/Desktop/Test/src/BiSearch.kt" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnVuIGJpcwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Y2hSZWN1cnNpdmUoYXJyOiBBcnJheTxJbnQ+LCB0YXJnZXQ6IEludCk6IEludCB7</text>
+      </register>
+      <register name="/" type="4">
+        <text>Helper</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CXByaW50bG4oYmlTZWFyY2hJdGVyYXRpdmUoYXJyLCAzKSkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ZnVuIGJpcwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CWlmICh2YWx1ZSA9PSB0YXJnZXQpIHsKCQlyZXR1cm4gbWlkCgl9IAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJYXJyW10K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQl3aGVuIChhcnJbbWlkXSkgewoJCQl0YXJnZXQgLT4gcmV0dXJuIG1pZAoJCQlhcnJbbWlkXSA+IHRhcmdldCAtPgoJCX0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlpZiAoYXJyW21pZF0gID09IHRhcmdldCkgewoJCQlyZXR1cm4gbWlkOwoJCX0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CXZhbCBhcnIgPSBhcnJheU9mKDEsMiw1LDMsNCw2LDgsNykK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CXByaW50bG4oQXJyYXkudG9TdHJiaVNlYXJjaChhcnIpKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL0hlbHBlci8vZw==</text>
+      </register>
+    </registers>
     <search>
+      <last-search>Helper</last-search>
+      <last-pattern>Helper</last-pattern>
+      <last-replace />
+      <last-substitute>Helper</last-substitute>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>Helper</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL0hlbHBlci8vZw==</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
