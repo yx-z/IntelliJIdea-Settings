@@ -36,11 +36,6 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="31" column="3" />
       </file>
-      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/KMP.kt" timestamp="1503542626357">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/LargestBST.kt" timestamp="1503617592386">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="44" column="21" />
@@ -104,6 +99,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1503603477318">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/arr/Intersection.kt" timestamp="1503621246889">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="96" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Anagram.kt" timestamp="1503618900325">
         <mark key="[" line="51" column="34" />
@@ -187,10 +188,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXdoaWxlIChuMS5uZXh0ICE9PSBudWxsICYmIG4yLm5leHQgIT09IG51bGwpIHsKCQluMSA9IG4xLm5leHQhIQoJCW4yID0gbjIubmV4dCEhCgl9CgoJaWYgKG4xLm5leHQgPT09IG51bGwpIHsKCQluMS5uZXh0ID0gbDIKCX0gZWxzZSBpZiAobjIubmV4dCA9PT0gbnVsbCkgewoJCW4yLm5leHQgPSBsMQoJfQoKCXdoaWxlIChuMS5uZXh0ICE9PSBudWxsICYmIG4yLm5leHQgIT09IG51bGwpIHsKCQluMSA9IG4xLm5leHQhIQoJCW4yID0gbjIubmV4dCEhCgl9CgoJaWYgKG4xLm5leHQgPT09IG51bGwpIHsKCQluMS5uZXh0ID0gbDIKCX0gZWxzZSBpZiAobjIubmV4dCA9PT0gbnVsbCkgewoJCW4yLm5leHQgPSBsMQoJfQoKCXdoaWxlIChuMSAhPT0gbjIpIHsKCQluMSA9IG4xLm5leHQhIQoJCW4yID0gbjIubmV4dCEhCgl9CgoJcmV0dXJuIG4xCn0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
@@ -199,31 +200,31 @@
         <text encoding="base64">CWlmIChuMS5uZXh0ID09PSBudWxsKSB7CgkJbjEubmV4dCA9IGwyCgl9IGVsc2UgaWYgKG4yLm5leHQgPT09IG51bGwpIHsKCQluMi5uZXh0ID0gbDEKCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXdoaWxlIChuMS5uZXh0ICE9PSBudWxsICYmIG4yLm5leHQgIT09IG51bGwpIHsKCQluMSA9IG4xLm5leHQhIQoJCW4yID0gbjIubmV4dCEhCgl9CgoJaWYgKG4xLm5leHQgPT09IG51bGwpIHsKCQluMS5uZXh0ID0gbDIKCX0gZWxzZSBpZiAobjIubmV4dCA9PT0gbnVsbCkgewoJCW4yLm5leHQgPSBsMQoJfQoKCXdoaWxlIChuMS5uZXh0ICE9PSBudWxsICYmIG4yLm5leHQgIT09IG51bGwpIHsKCQluMSA9IG4xLm5leHQhIQoJCW4yID0gbjIubmV4dCEhCgl9CgoJaWYgKG4xLm5leHQgPT09IG51bGwpIHsKCQluMS5uZXh0ID0gbDIKCX0gZWxzZSBpZiAobjIubmV4dCA9PT0gbnVsbCkgewoJCW4yLm5leHQgPSBsMQoJfQoKCXdoaWxlIChuMSAhPT0gbjIpIHsKCQluMSA9IG4xLm5leHQhIQoJCW4yID0gbjIubmV4dCEhCgl9CgoJcmV0dXJuIG4xCn0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CXdoaWxlIChuMS5uZXh0ICE9PSBudWxsKSB7CgkJbjEgPSBuMS5uZXh0ISEKCX0KCXdoaWxlIChuMi5uZXh0ICE9PSBudWxsKSB7CgkJbjIgPSBuMi5uZXh0ISEKCX0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXdoaWxlIChsMSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CVRPRE8oKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXJldHVybiBhbnMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXZhbCBzMSA9IHNldE9mKHRoaXMpCgl2YWwgczIgPSBzZXRPZihhcnIpCgkKCXZhbCBhbnMgPSBBcnJheUxpc3Q8SW50PgoJCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CXZhbCBpbnRlcnNlY3QgPSBzZXRPZih0aGlzKSBpbnRlcnNlY3QgKHNldE9mKGFycikpCgl2YWwgYXJyID0gQXJyYXkoaW50ZXJzZWN0LnNpemUpIHsgMCB9Cgl2YXIgaWR4ID0gMAoJaW50ZXJzZWN0LmZvckVhY2ggeyBhcnJbaWR4KytdID0gaXQgfQoJcmV0dXJuIGFycgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXZhbCBpbnRlcnNlY3QgPSBzZXRPZih0aGlzKSBpbnRlcnNlY3QgKHNldE9mKGFycikpCgl2YWwgYXJyID0gQXJyYXkoaW50ZXJzZWN0LnNpemUpIHsgMCB9Cgl2YXIgaWR4ID0gMAoJaW50ZXJzZWN0LmZvckVhY2ggeyBhcnJbaWR4KytdID0gaXQgfQoJcmV0dXJuIGFycgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8K</text>
+        <text encoding="base64">CXZhbCBzMSA9IHNldE9mKHRoaXMpCgl2YWwgczIgPSBzZXRPZih0aGlzKQoJCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">CXJldHVybiBzMS5pbnRlcnNlY3QoczIpLnN0cmVhbSgpLnRvQXJyYXkoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2l2ZW4gMiBMaW5rZWRMaXN0cyB0aGF0IG1pZ2h0IGludGVyc2VjdCB3aXRoIGVhY2ggb3RoZXIK</text>
+        <text encoding="base64">CXdoaWxlIChuMS5uZXh0ICE9PSBudWxsICYmIG4yLm5leHQgIT09IG51bGwpIHsKCQluMSA9IG4xLm5leHQhIQoJCW4yID0gbjIubmV4dCEhCgl9CgoJaWYgKG4xLm5leHQgPT09IG51bGwpIHsKCQluMS5uZXh0ID0gbDIKCX0gZWxzZSBpZiAobjIubmV4dCA9PT0gbnVsbCkgewoJCW4yLm5leHQgPSBsMQoJfQoKCXdoaWxlIChuMS5uZXh0ICE9PSBudWxsICYmIG4yLm5leHQgIT09IG51bGwpIHsKCQluMSA9IG4xLm5leHQhIQoJCW4yID0gbjIubmV4dCEhCgl9CgoJaWYgKG4xLm5leHQgPT09IG51bGwpIHsKCQluMS5uZXh0ID0gbDIKCX0gZWxzZSBpZiAobjIubmV4dCA9PT0gbnVsbCkgewoJCW4yLm5leHQgPSBsMQoJfQoKCXdoaWxlIChuMSAhPT0gbjIpIHsKCQluMSA9IG4xLm5leHQhIQoJCW4yID0gbjIubmV4dCEhCgl9CgoJcmV0dXJuIG4xCn0K</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
