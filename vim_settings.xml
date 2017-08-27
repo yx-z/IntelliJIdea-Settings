@@ -135,6 +135,13 @@
         <mark key="." line="27" column="14" />
         <mark key="^" line="27" column="14" />
       </file>
+      <file name="$USER_HOME$/Desktop/Test/src/Sol4.kt" timestamp="1503867342461">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="22" column="26" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/ItTraverse.kt" timestamp="1503541257958">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="17" column="20" />
@@ -192,13 +199,15 @@
       <jump line="42" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/LargestBST.kt" />
       <jump line="47" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/LargestBST.kt" />
       <jump line="25" column="12" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Intersect.kt" />
+      <jump line="8" column="0" filename="$USER_HOME$/Desktop/Test/src/Sol4.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Test/src/Sol4.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgpmdW4gc29sdmVOUXVlZW5zKG46IEludCk6IEFycmF5PFBhaXI8SW50LCBJbnQ+PiB7Cgl2YWwgcG9zID0gQXJyYXkobikgeyBQYWlyKDAsIDApIH0KCXJldHVybiBpZiAoc29sdmVOUXVlZW5zKG4sIDAsIHBvcykpIHsKfQo=</text>
+        <text encoding="base64">CglpZiAoc3ViLmlzRW1wdHkoKSkgewoJCWFucy5hZGQoYy50b1N0cmluZygpKQoJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
@@ -207,31 +216,31 @@
         <text encoding="base64">CWlmIChuMS5uZXh0ID09PSBudWxsKSB7CgkJbjEubmV4dCA9IGwyCgl9IGVsc2UgaWYgKG4yLm5leHQgPT09IG51bGwpIHsKCQluMi5uZXh0ID0gbDEKCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgpmdW4gc29sdmVOUXVlZW5zKG46IEludCk6IEFycmF5PFBhaXI8SW50LCBJbnQ+PiB7Cgl2YWwgcG9zID0gQXJyYXkobikgeyBQYWlyKDAsIDApIH0KCXJldHVybiBpZiAoc29sdmVOUXVlZW5zKG4sIDAsIHBvcykpIHsKfQo=</text>
+        <text encoding="base64">CglpZiAoc3ViLmlzRW1wdHkoKSkgewoJCWFucy5hZGQoYy50b1N0cmluZygpKQoJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaW50bG4oQXJyYXlzLnRvU3RyaW5nKHNvbHZlTlF1ZWVucyg4KSkpCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwb3MKCX0gZWxzZSB7CgkJQXJyYXkoMCkgeyBQYWlyKDAsIDApIH0KCX0K</text>
+        <text encoding="base64">CX0gZWxzZSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXJldHVybiB0cnVlCg==</text>
+        <text encoding="base64">CQkJCXByaW50bG4oaXQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CXByaW50bG4oc3ViKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXJldHVybiB0cnVlCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXJldHVybiB0cnVlCg==</text>
+        <text encoding="base64">CQlzLmluZGljZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3BlcmF0b3IgZnVuIFN0cmluZy5wbHVzKHM6IFN0cmluZykgPSB0aGlzLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWlmIChuID09IHJvdykgewoJCWNvdW50KysKCQlyZXR1cm4gdHJ1ZQoJfQoK</text>
+        <text encoding="base64">b3BlcmF0b3IgZnVuIFN0cmluZy5hKHM6IFN0cmluZykgPSB0aGlzLmNvbmNhdChzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
@@ -244,7 +253,7 @@
       <last-replace />
       <last-substitute>Helper</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
