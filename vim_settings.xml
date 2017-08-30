@@ -49,6 +49,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/arr/Zigzag.kt" timestamp="1504096074911">
+        <mark key="[" line="68" column="13" />
+        <mark key="]" line="68" column="14" />
+        <mark key="^" line="61" column="0" />
+        <mark key="." line="68" column="14" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/LIS.kt" timestamp="1503547302052">
         <mark key="'" line="59" column="19" />
         <mark key="[" line="56" column="18" />
@@ -204,43 +210,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CglpZiAoc3ViLmlzRW1wdHkoKSkgewoJCWFucy5hZGQoYy50b1N0cmluZygpKQoJfQo=</text>
+        <text encoding="base64">CXdoaWxlIChsMSA8PSBoMSkgewoJCWlmIChmaW5kTGFyZ2VzdCkgewoJCQlhbnNbaWR4XSA9IHNvcnRlZDFbaDFdCgkJCWgxLS0KCQl9IGVsc2UgewoJCQlhbnNbaWR4XSA9IHNvcnRlZDFbbDFdCgkJCWwxKysKCQl9CgkJCgkJaWR4KysKCQlmaW5kTGFyZ2VzdCA9ICFmaW5kTGFyZ2VzdAoJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWlmIChuMS5uZXh0ID09PSBudWxsKSB7CgkJbjEubmV4dCA9IGwyCgl9IGVsc2UgaWYgKG4yLm5leHQgPT09IG51bGwpIHsKCQluMi5uZXh0ID0gbDEKCX0K</text>
+        <text encoding="base64">CXdoaWxlIChsMSA8PSBoMSkgewoJCWlmIChmaW5kTGFyZ2VzdCkgewoJCQlhbnNbaWR4XSA9IHNvcnRlZDFbaDFdCgkJCWgxLS0KCQl9IGVsc2UgewoJCQlhbnNbaWR4XSA9IHNvcnRlZDFbbDFdCgkJCWwxKysKCQl9CgkJCgkJaWR4KysKCQlmaW5kTGFyZ2VzdCA9ICFmaW5kTGFyZ2VzdAoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CglpZiAoc3ViLmlzRW1wdHkoKSkgewoJCWFucy5hZGQoYy50b1N0cmluZygpKQoJfQo=</text>
+        <text encoding="base64">CQlpZHgrKwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJCWgxLS0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CX0gZWxzZSB7Cg==</text>
+        <text encoding="base64">CQkJCWgxLS0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXByaW50bG4oaXQpCg==</text>
+        <text encoding="base64">CQkJCWlkeCsrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByaW50bG4oc3ViKQo=</text>
+        <text encoding="base64">CglUT0RPKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CglpZiAoc3ViLmlzRW1wdHkoKSkgewoJCWFucy5hZGQoYy50b1N0cmluZygpKQoJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlzLmluZGljZXMK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b3BlcmF0b3IgZnVuIFN0cmluZy5wbHVzKHM6IFN0cmluZykgPSB0aGlzLgo=</text>
+        <text encoding="base64">CX0gZWxzZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3BlcmF0b3IgZnVuIFN0cmluZy5hKHM6IFN0cmluZykgPSB0aGlzLmNvbmNhdChzKQo=</text>
+        <text encoding="base64">CQkJCXByaW50bG4oaXQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
@@ -268,6 +274,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
