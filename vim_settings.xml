@@ -67,7 +67,7 @@
         <mark key="^" line="61" column="0" />
         <mark key="." line="68" column="14" />
       </file>
-      <file name="/fragment.m" timestamp="1504575035840">
+      <file name="/fragment.m" timestamp="1504577337327">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" timestamp="1504574980812">
@@ -121,12 +121,12 @@
       <file name="$USER_HOME$/Desktop/DeepinKotlinTest/src/HelloWorld.kt" timestamp="1503213158703">
         <mark key="[" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" timestamp="1504577000981">
-        <mark key="'" line="42" column="4" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="16" column="32" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" timestamp="1504579135155">
+        <mark key="'" line="99" column="4" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="121" column="13" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Cycle.kt" timestamp="1503554872157">
         <mark key="[" line="24" column="45" />
@@ -264,75 +264,90 @@
       <jump line="51" column="10" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="6" column="17" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="53" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="0" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="34" column="19" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="52" column="14" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="2" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="9" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="42" column="4" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="32" column="9" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="75" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="73" column="13" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="83" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="90" column="3" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="114" column="19" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="118" column="4" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="122" column="15" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="7" column="9" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="99" column="4" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3RHZXRTZW50ZW5jZUNvdW50KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>string2Arr</text>
       </register>
       <register name="/" type="4">
-        <text>sort</text>
+        <text>2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXdoaWxlIChsMSA8PSBoMSkgewoJCWlmIChmaW5kTGFyZ2VzdCkgewoJCQlhbnNbaWR4XSA9IHNvcnRlZDFbaDFdCgkJCWgxLS0KCQl9IGVsc2UgewoJCQlhbnNbaWR4XSA9IHNvcnRlZDFbbDFdCgkJCWwxKysKCQl9CgkJCgkJaWR4KysKCQlmaW5kTGFyZ2VzdCA9ICFmaW5kTGFyZ2VzdAoJfQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3RHZXRTZW50ZW5jZUNvdW50KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dm9pZCB0ZXN0R2V0U2VudGVuY2VDb3VudCgpIHsKfQo=</text>
+        <text encoding="base64">ICAgIHByaW50ZigiXG4iKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNoYXIqIHN0cmluZzEgPSAiTmljZSB0byBtZWV0IHlvdSEiOwogICAgcHJpbnRmKCIxOiAlenVcbiIsIGdldFNlbnRlbmNlQ291bnQoc3RyaW5nMSkpOwoKICAgIGNoYXIqIHN0cmluZzIgPSAiSGVsbG8uV29ybGQuIjsKICAgIHByaW50ZigiMjogJXp1XG4iLCBnZXRTZW50ZW5jZUNvdW50KHN0cmluZzIpKTsKCiAgICBjaGFyKiBzdHJpbmczID0gIlRoZSBIZWlzZW5idWcgaXMgYW4gaW5jcmVkaWJsZSBjcmVhdHVyZS4gRmFjZW5vdmVsIHNlcnZlcnMgZ2V0IHRoZWlyIHBvd2VyIGZyb20gaXRzIGluZGV0ZXJtaW5pc20uIENvZGUgc21lbGwgY2FuIGJlIGlnbm9yZWQgd2l0aCBJTkNSRURJQkxFIHVzZSBvZiBhaXIgZnJlc2hlbmVyLiBHb2Qgb2JqZWN0cyBhcmUgdGhlIG5ldyByZWxpZ2lvbi4iOwogICAgcHJpbnRmKCIlenVcbiIsIGdldFNlbnRlbmNlQ291bnQoc3RyaW5nMykpOwo=</text>
+        <text encoding="base64">ICAgIHByaW50ZigiXG4iKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiXG4iKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dm9pZCB0ZXN0R2V0U2VudGVuY2VDb3VudCgpOwo=</text>
+        <text encoding="base64">ICAgIGNoYXIgKmN1cnJlbnRDaGFyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIE1QOiBFeHRyZW1lIEVkZ2UgQ2FzZXMKICogQ1MgMjQxIC0gRmFsbCAyMDE3CiAqLwo=</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJXNcbiIsIHNwbGl0KHN0cmluZzEpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldFNlbnRlbmNlQ291bnQoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGludCBjdXJyZW50U2VudGVuY2UgPSAwOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dm9pZCB0ZXN0R2V0U2VudGVuY2VDb3VudCgpIDsK</text>
+        <text encoding="base64">ICAgICAgICBjaGFyKgo=</text>
       </register>
       <register name=":" type="4">
-        <text>set number</text>
+        <text encoding="base64">JzwsJz5zLzIvMy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>sort</last-search>
+      <last-search>2</last-search>
       <last-offset />
-      <last-pattern>sort</last-pattern>
-      <last-replace />
-      <last-substitute>Helper</last-substitute>
+      <last-pattern>2</last-pattern>
+      <last-replace>3</last-replace>
+      <last-substitute>2</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>Helper</entry>
         <entry>sort</entry>
+        <entry>size_t</entry>
+        <entry>2</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0hlbHBlci8vZw==</entry>
         <entry>set number</entry>
         <entry>set rn</entry>
+        <entry encoding="base64">JzwsJz5zL3NpemVfdC9pbnQvZw==</entry>
+        <entry encoding="base64">JzwsJz4vcy8yLzMvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLzIvMy9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
