@@ -67,6 +67,14 @@
         <mark key="^" line="61" column="0" />
         <mark key="." line="68" column="14" />
       </file>
+      <file name="/fragment.m" timestamp="1504575035840">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" timestamp="1504574980812">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/LIS.kt" timestamp="1503547302052">
         <mark key="'" line="59" column="19" />
         <mark key="[" line="56" column="18" />
@@ -113,13 +121,20 @@
       <file name="$USER_HOME$/Desktop/DeepinKotlinTest/src/HelloWorld.kt" timestamp="1503213158703">
         <mark key="[" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" timestamp="1504575261475">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="47" column="26" />
+        <mark key="." line="47" column="26" />
+        <mark key="^" line="47" column="26" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Cycle.kt" timestamp="1503554872157">
         <mark key="[" line="24" column="45" />
         <mark key="]" line="24" column="61" />
         <mark key="^" line="24" column="61" />
         <mark key="." line="24" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504096270458">
+      <file name="/Dummy.txt" timestamp="1504574422151">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/LongestSubstr.kt" timestamp="1503631073244">
@@ -243,13 +258,20 @@
       <jump line="25" column="12" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Intersect.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/Test/src/Sol4.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Test/src/Sol4.kt" />
+      <jump line="51" column="10" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="6" column="17" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="53" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="34" column="19" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="52" column="14" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="2" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CVRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">ICAgIGdldFNlbnRlbmNlQ291bnQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
@@ -258,31 +280,31 @@
         <text encoding="base64">CXdoaWxlIChsMSA8PSBoMSkgewoJCWlmIChmaW5kTGFyZ2VzdCkgewoJCQlhbnNbaWR4XSA9IHNvcnRlZDFbaDFdCgkJCWgxLS0KCQl9IGVsc2UgewoJCQlhbnNbaWR4XSA9IHNvcnRlZDFbbDFdCgkJCWwxKysKCQl9CgkJCgkJaWR4KysKCQlmaW5kTGFyZ2VzdCA9ICFmaW5kTGFyZ2VzdAoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CVRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">ICAgIGdldFNlbnRlbmNlQ291bnQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpdmF0ZSBmdW4gPFQ+IEFycmF5PFQ+LmNsb3Nlc3RQYWlycygpOiBMaXN0PFBhaXI8SW50LCBJbnQ8PiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWgK</text>
+        <text encoding="base64">dm9pZCB0ZXN0R2V0U2VudGVuY2VDb3VudCgpIDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaW50bG4odHJpYW5nbGUpCg==</text>
+        <text encoding="base64">ICAgIHRlc3RHZXRTZW50ZW5jZUNvdW50KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByaW50bG4obGV2ZWxPZlRyaWFuZ2xlTnVtYmVyKDEpKQo=</text>
+        <text encoding="base64">CnZvaWQgdGVzdEdldFNlbnRlbmNlQ291bnQoKSB7CiAgICBjaGFyKiB0ZXN0MSA9ICJUaGlzIGlzIGEgdGVzdC4iOwogICAgcHJpbnRmKCIxOiAlenVcbiIsIGdra2tldFNlbnRlbmNlQ291bnQodGVzdDEpKTsKCiAgICBjaGFyKiB0ZXN0MiA9ICJIZWxsby5Xb3JsZC4iOwogICAgcHJpbnRmKCIyOiAlenVcbiIsIGdldFNlbnRlbmNlQ291bnQodGVzdDIpKTsKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl2YXIgaWR4ID0gMAo=</text>
+        <text encoding="base64">c2l6ZV90IGdldFNlbnRlbmNlQ291bnQoY29uc3QgY2hhciAqc3RyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJaWR4KysK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmb3IgKGkgaW4gY3VycikgewoJCQkKCQl9Cg==</text>
+        <text encoding="base64">dm9pZCB0ZXN0R2V0U2VudGVuY2VDb3VudCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwcmV2SW5zZXJ0LmFkZEFsbChwcmV2KQo=</text>
+        <text encoding="base64">I2luY2x1ZGUgPHN0ZGlvLmg+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
@@ -313,6 +335,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
