@@ -122,12 +122,12 @@
       <file name="$USER_HOME$/Desktop/DeepinKotlinTest/src/HelloWorld.kt" timestamp="1503213158703">
         <mark key="[" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" timestamp="1504580653373">
-        <mark key="'" line="106" column="3" />
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="10" />
-        <mark key="." line="3" column="10" />
-        <mark key="^" line="159" column="3" />
+      <file name="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" timestamp="1504580869445">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="141" column="43" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Cycle.kt" timestamp="1503554872157">
         <mark key="[" line="24" column="45" />
@@ -288,7 +288,6 @@
       <jump line="54" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="50" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="41" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="37" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="85" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="44" column="27" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="55" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
@@ -302,10 +301,12 @@
       <jump line="38" column="36" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="106" column="3" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="17" column="20" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" />
+      <jump line="144" column="43" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="37" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>printf</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>printf</text>
@@ -317,34 +318,34 @@
         <text encoding="base64">ICAgIHByaW50bG4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIE1QOiBFeHRyZW1lIEVkZ2UgQ2FzZXMKICogQ1MgMjQxIC0gRmFsbCAyMDE3CiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiXG4iKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiXG4iKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiXG4iKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNoYXIgKmN1cnJlbnRDaGFyOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJXNcbiIsIHNwbGl0KHN0cmluZzEpKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">LyoqCiAqIE1QOiBFeHRyZW1lIEVkZ2UgQ2FzZXMKICogQ1MgMjQxIC0gRmFsbCAyMDE3CiAqLwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiXG4iKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiXG4iKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50ZigiXG4iKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludCBjdXJyZW50U2VudGVuY2UgPSAwOwo=</text>
+        <text encoding="base64">ICAgIGNoYXIgKmN1cnJlbnRDaGFyOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3NwbGl0QXJyL3NwbGl0QXJyYXkvZw==</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -354,7 +355,7 @@
       <last-replace>splitArray</last-replace>
       <last-substitute>splitArr</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -372,6 +373,8 @@
         <entry encoding="base64">JzwsJz4vcy8yLzMvZw==</entry>
         <entry encoding="base64">JzwsJz5zLzIvMy9n</entry>
         <entry encoding="base64">JzwsJz5zL3NwbGl0QXJyL3NwbGl0QXJyYXkvZw==</entry>
+        <entry>set nhl</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
