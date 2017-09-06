@@ -70,7 +70,7 @@
       <file name="/fragment.m" timestamp="1504679593532">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" timestamp="1504675183982">
+      <file name="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" timestamp="1504681402378">
         <mark key="'" line="13" column="20" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -122,12 +122,12 @@
       <file name="$USER_HOME$/Desktop/DeepinKotlinTest/src/HelloWorld.kt" timestamp="1503213158703">
         <mark key="[" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" timestamp="1504680510116">
-        <mark key="'" line="201" column="32" />
-        <mark key="[" line="206" column="29" />
-        <mark key="]" line="207" column="23" />
-        <mark key="." line="207" column="23" />
-        <mark key="^" line="207" column="23" />
+      <file name="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" timestamp="1504681300966">
+        <mark key="'" line="50" column="24" />
+        <mark key="[" line="229" column="54" />
+        <mark key="]" line="233" column="45" />
+        <mark key="." line="233" column="45" />
+        <mark key="^" line="233" column="45" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Cycle.kt" timestamp="1503554872157">
         <mark key="[" line="24" column="45" />
@@ -135,7 +135,7 @@
         <mark key="^" line="24" column="61" />
         <mark key="." line="24" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504680519390">
+      <file name="/Dummy.txt" timestamp="1504681303938">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -219,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/Traverse.kt" />
       <jump line="115" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/Traverse.kt" />
       <jump line="30" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/LargestBST.kt" />
       <jump line="36" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/LargestBST.kt" />
@@ -244,7 +243,6 @@
       <jump line="78" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="66" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="60" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="50" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="41" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="44" column="27" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="55" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
@@ -319,59 +317,61 @@
       <jump line="193" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="199" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="201" column="32" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="241" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
+      <jump line="50" column="24" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiVEVTVCAxOlxuIik7Cg==</text>
+        <text encoding="base64">ICAgIGZyZWUocGFyYWdyYXBoMSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>traversal</text>
+        <text>malloc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3VycmVudENoYXJhY3RlcisrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiVEVTVCAxOlxuIik7Cg==</text>
+        <text encoding="base64">ICAgIGZyZWUocGFyYWdyYXBoMSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgovLyB0ZXN0IGVudHJ5IHBvaW50CmludCBtYWluKCkgewogICAgcHJpbnRmKCJURVNUIDE6XG4iKTsKICAgIGNvbnN0IGNoYXIgKnBhcmFncmFwaDEgPSAiQFRAQGhpcyBAaXMgYVxcICAgdGVzdCAuXG4uXHQuIHRlc3QuIjsKCiAgICBjaGFyICoqY2FtZWxDYXNlZEFycmF5MSA9IGNhbWVsX2Nhc2VyKHBhcmFncmFwaDEpOwogICAgd2hpbGUgKCpjYW1lbENhc2VkQXJyYXkxKSB7CiAgICAgICAgcHJpbnRmKCIlc1xuIiwgKmNhbWVsQ2FzZWRBcnJheTEpOwoKICAgICAgICBjYW1lbENhc2VkQXJyYXkxKys7CiAgICB9CiAgICBwcmludGYoIiVzXG4iLCAqY2FtZWxDYXNlZEFycmF5MSk7CgoKICAgIC8vIGV4aXQgcHJvcGVydHkKICAgIHJldHVybiAwOwp9Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiVEVTVCAxOlxuIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvLyB0ZXN0IDIKICAgIHByaW50ZigiVEVTVCAyOlxuIik7CiAgICBjb25zdCBjaGFyICpwYXJhZ3JhcGgyID0gIkhlbGxvIC4uLiBXT1IgbGQhIjsKICAgIGNoYXIgKipjYW1lbENhc2VkQXJyYXkyID0gY2FtZWxfY2FzZXIocGFyYWdyYXBoMik7CiAgICB3aGlsZSAoKmNhbWVsQ2FzZWRBcnJheTIpIHsKICAgICAgICBwcmludGYoIiVzXG4iLCAqY2FtZWxDYXNlZEFycmF5Mik7CgogICAgICAgIGNhbWVsQ2FzZWRBcnJheTIrKzsKICAgIH0KICAgIHByaW50ZigiJXNcbiIsICpjYW1lbENhc2VkQXJyYXkyKTsKCg==</text>
+        <text encoding="base64">CgovLyB0ZXN0IGVudHJ5IHBvaW50CmludCBtYWluKCkgewogICAgcHJpbnRmKCJURVNUIDE6XG4iKTsKICAgIGNvbnN0IGNoYXIgKnBhcmFncmFwaDEgPSAiQFRAQGhpcyBAaXMgYVxcICAgdGVzdCAuXG4uXHQuIHRlc3QuIjsKCiAgICBjaGFyICoqY2FtZWxDYXNlZEFycmF5MSA9IGNhbWVsX2Nhc2VyKHBhcmFncmFwaDEpOwogICAgd2hpbGUgKCpjYW1lbENhc2VkQXJyYXkxKSB7CiAgICAgICAgcHJpbnRmKCIlc1xuIiwgKmNhbWVsQ2FzZWRBcnJheTEpOwoKICAgICAgICBjYW1lbENhc2VkQXJyYXkxKys7CiAgICB9CiAgICBwcmludGYoIiVzXG4iLCAqY2FtZWxDYXNlZEFycmF5MSk7CgoKICAgIC8vIGV4aXQgcHJvcGVydHkKICAgIHJldHVybiAwOwp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHRlc3QgMQo=</text>
+        <text encoding="base64">CiAgICAvLyB0ZXN0IDIKICAgIHByaW50ZigiVEVTVCAyOlxuIik7CiAgICBjb25zdCBjaGFyICpwYXJhZ3JhcGgyID0gIkhlbGxvIC4uLiBXT1IgbGQhIjsKICAgIGNoYXIgKipjYW1lbENhc2VkQXJyYXkyID0gY2FtZWxfY2FzZXIocGFyYWdyYXBoMik7CiAgICB3aGlsZSAoKmNhbWVsQ2FzZWRBcnJheTIpIHsKICAgICAgICBwcmludGYoIiVzXG4iLCAqY2FtZWxDYXNlZEFycmF5Mik7CgogICAgICAgIGNhbWVsQ2FzZWRBcnJheTIrKzsKICAgIH0KICAgIHByaW50ZigiJXNcbiIsICpjYW1lbENhc2VkQXJyYXkyKTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW50IG1haW4oKSB7CiAgICAKICAgIHJldHVybiAwOwp9Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRlc3QgMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGludCBlbmQgPSBGQUxTRTsK</text>
+        <text encoding="base64">aW50IG1haW4oKSB7CiAgICAKICAgIHJldHVybiAwOwp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW5kKSB7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGludCBlbmQgPSBGQUxTRTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZW5kKSB7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRDaGFyYWN0ZXIgPSBzZW50ZW5jZTsKICAgIGludCBzdGFydCA9IDA7CiAgICBpbnQgZW5kID0gMDsKICAgIHdoaWxlICgqY3VycmVudENoYXJhY3RlcikgewogICAgICAgIGlmICghc3RhcnQgJiYgIWlzc3BhY2UoKmN1cnJlbnRDaGFyYWN0ZXIpKSB7CiAgICAgICAgICAgIHN0YXJ0ID0gMTsKICAgICAgICB9CiAgICAgICAgaWYgKHN0YXJ0ICYmIGlzc3BhY2UoKmN1cnJlbnRDaGFyYWN0ZXIpKSB7CiAgICAgICAgICAgIGVuZCA9IDE7CiAgICAgICAgfQogICAgICAgIGlmIChlbmQpIHsKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQogICAgICAgIGlmIChpc2FscGhhKCpjdXJyZW50Q2hhcmFjdGVyKSkgewogICAgICAgICAgICAqY3VycmVudENoYXJhY3RlciA9IChjaGFyKSB0b2xvd2VyKCpjdXJyZW50Q2hhcmFjdGVyKTsKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgfQogICAgICAgIGN1cnJlbnRDaGFyYWN0ZXIrKzsKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>traversal</last-search>
+      <last-search>malloc</last-search>
       <last-offset />
-      <last-pattern>traversal</last-pattern>
+      <last-pattern>malloc</last-pattern>
       <last-replace>currentCharacter</last-replace>
       <last-substitute>traversal</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -381,6 +381,7 @@
         <entry>2</entry>
         <entry>splitArr</entry>
         <entry>traversal</entry>
+        <entry>malloc</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0hlbHBlci8vZw==</entry>
