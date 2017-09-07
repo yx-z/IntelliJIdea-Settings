@@ -9,32 +9,85 @@
       <file name="/Dummy.txt" timestamp="1504548950564">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/util/stream/IntStream.class" timestamp="1504810239845">
+        <mark key="'" line="28" column="17" />
+      </file>
       <file name="$USER_HOME$/Desktop/Test/src/Main.kt" timestamp="1504549017742">
         <mark key="[" line="0" column="31" />
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/Desktop/untitled/src/Main.kt" timestamp="1504810546958">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/untitled/src/Main.java" timestamp="1504810138105">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="28" column="17" filename="/usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/util/stream/IntStream.class" />
+    </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">CXN0ckxpc3QuYXNTZXF1ZW5jZSgpLm1hcCB7IGl0LnRvSW50KCkgfS5zdW0oKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">CXN0ckxpc3QuYXNTZXF1ZW5jZSgpLm1hcCB7IGl0LnRvSW50KCkgfS5zdW0oKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CXByaW50bG4oc3RyTGlzdC5zdHJlYW0oKS5tYXAgeyBpdC50b0ludCgpIH0ucmVkdWNlIHsgaTEsIGkyIC0+IGkxICsgaTIgfS5nZXQoKSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXZhbCBjb3VudCA9IHNjYW5uZXIubmV4dEludCgpCglwcmludGxuKGNvdW50KQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXByaW50bG4oQXJyYXlzLnRvU3RyaW5nKHN0ckFycikpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CXByaW50bG4oc3VtKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXZhbCBzdW0gPSBTdHJlYW0ub2Yoc3RyQXJyKS5tYXAgeyBpdC50b0ludCgpIH0ucmVkdWNlIHsgaTEsIGkyIC0+IGkxICsgaTIgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CXByaW50bG4oaW50QXJyKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CXZhbCBpbnRBcnIgPSBzdHJBcnIuYXNTZXF1ZW5jZSgpLm1hcCB7IGl0LnRvSW50KCkgfS50b0xpc3QoKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CXZhbCBzdHJBcnIgPSBhcnJheU9mKCIxIiwgIjEyIiwgIjEzIiwgIjIxIikK</text>
+      </register>
+      <register name="/" type="4">
+        <text>map</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>map</last-search>
+      <last-offset />
+      <last-pattern>map</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>mapToInt</entry>
+        <entry>map</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
