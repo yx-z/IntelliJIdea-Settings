@@ -116,19 +116,14 @@
         <mark key="." line="29" column="8" />
         <mark key="^" line="29" column="8" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/pointers_gone_wild/part1-functions.c" timestamp="1504818504782">
-        <mark key="'" line="255" column="16" />
-        <mark key="[" line="92" column="8" />
-        <mark key="]" line="255" column="16" />
-        <mark key="." line="255" column="16" />
-        <mark key="^" line="92" column="21" />
+      <file name="$USER_HOME$/Github/CS241/pointers_gone_wild/part1-functions.c" timestamp="1504972981542">
+        <mark key="'" line="253" column="16" />
+        <mark key="[" line="104" column="26" />
+        <mark key="]" line="104" column="26" />
+        <mark key="^" line="105" column="25" />
+        <mark key="." line="104" column="26" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/pointers_gone_wild/part3-functions.c" timestamp="1504873217602">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="31" column="5" />
-      </file>
+      <file name="$USER_HOME$/Github/CS241/pointers_gone_wild/part3-functions.c" timestamp="1504974449196" />
       <file name="$USER_HOME$/Desktop/DeepinKotlinTest/src/HelloWorld.kt" timestamp="1503213158703">
         <mark key="[" line="2" column="3" />
       </file>
@@ -145,13 +140,14 @@
         <mark key="^" line="24" column="61" />
         <mark key="." line="24" column="61" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/pointers_gone_wild/part2-main.c" timestamp="1504825077598">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="18" column="14" />
+      <file name="$USER_HOME$/Github/CS241/pointers_gone_wild/part2-functions.c" timestamp="1504973284292" />
+      <file name="$USER_HOME$/Github/CS241/pointers_gone_wild/part2-main.c" timestamp="1504974406220">
+        <mark key="[" line="60" column="29" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="60" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504846089362">
+      <file name="/Dummy.txt" timestamp="1504974420675">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -337,11 +333,11 @@
       <jump line="68" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZ0ZVswXSA9IDE7CiAgICBmdGVbMV0gPSAwOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
@@ -350,34 +346,34 @@
         <text encoding="base64">I2luY2x1ZGUgImNhbGxiYWNrcy5oIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNoYXIgKmN1cnJlbnRDaGFyYWN0ZXIgPSAoY2hhciAqKSBwYXJhZ3JhcGg7Cg==</text>
+        <text encoding="base64">ICAgIGZ0ZVswXSA9IDE7CiAgICBmdGVbMV0gPSAwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDA7CiAgICBjaGFyICpjdXJyZW50Q2hhcmFjdGVyID0gKGNoYXIgKikgcGFyYWdyYXBoOwogICAgd2hpbGUgKCpjdXJyZW50Q2hhcmFjdGVyKSB7CiAgICAgICAgaWYgKGlzcHVuY3QoKmN1cnJlbnRDaGFyYWN0ZXIpKSB7CiAgICAgICAgICAgIHNlbnRlbmNlc0NvdW50Kys7CiAgICAgICAgfQoKICAgICAgICBjdXJyZW50Q2hhcmFjdGVyKys7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZyZWUoZnRlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmludCBnZXRTZW50ZW5jZXNDb3VudChjb25zdCBjaGFyICpwYXJhZ3JhcGgpOwo=</text>
+        <text encoding="base64">ICAgIGZ0ZVsxXSA9IDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ0ZVsxXSA9IDA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzcGxpdFBhcmFncmFwaEFycmF5W2ldW3NlbnRlbmNlTGVuZ3RoXSA9ICdcMCc7Cg==</text>
+        <text encoding="base64">ICAgIGZ0ZVswXSA9IDE7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNwbGl0UGFyYWdyYXBoQXJyYXlbc2VudGVuY2VzQ291bnRdID0gTlVMTDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzcGxpdFBhcmFncmFwaEFycmF5W2ldW3NlbnRlbmNlTGVuZ3RoXSA9ICdcMCc7Cg==</text>
+        <text encoding="base64">ICAgIGNoYXIgKnMgPSAiSGVsbG8gIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGludCBpID0gMDsK</text>
+        <text encoding="base64">ICAgIGNoYXIgKmN1cnJlbnRDaGFyYWN0ZXIgPSAoY2hhciAqKSBwYXJhZ3JhcGg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludCBwdW5jdF9udW1iZXIgPSAwOwo=</text>
+        <text encoding="base64">ICAgIDA7CiAgICBjaGFyICpjdXJyZW50Q2hhcmFjdGVyID0gKGNoYXIgKikgcGFyYWdyYXBoOwogICAgd2hpbGUgKCpjdXJyZW50Q2hhcmFjdGVyKSB7CiAgICAgICAgaWYgKGlzcHVuY3QoKmN1cnJlbnRDaGFyYWN0ZXIpKSB7CiAgICAgICAgICAgIHNlbnRlbmNlc0NvdW50Kys7CiAgICAgICAgfQoKICAgICAgICBjdXJyZW50Q2hhcmFjdGVyKys7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -387,7 +383,7 @@
       <last-replace>paragraph</last-replace>
       <last-substitute>input</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -414,9 +410,10 @@
         <entry encoding="base64">JzwsJz4vcy90cmF2ZXJzYWwvY3VycmVudENoYXJhY3Rlci9n</entry>
         <entry encoding="base64">JzwsJz5zL3RyYXZlcnNhbC9jdXJyZW50Q2hhcmFjdGVyL2c=</entry>
         <entry>noh</entry>
-        <entry>vs part2-functions.c</entry>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9z</entry>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9n</entry>
+        <entry>vs part2-functions.c</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
