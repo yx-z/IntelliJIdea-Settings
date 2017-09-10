@@ -70,11 +70,12 @@
       <file name="/fragment.m" timestamp="1504845832241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" timestamp="1505016729103">
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="24" column="47" />
-        <mark key="^" line="24" column="47" />
-        <mark key="." line="24" column="47" />
+      <file name="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" timestamp="1505020122293">
+        <mark key="'" line="44" column="105" />
+        <mark key="[" line="61" column="20" />
+        <mark key="]" line="61" column="21" />
+        <mark key="." line="61" column="21" />
+        <mark key="^" line="61" column="21" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/LIS.kt" timestamp="1503547302052">
         <mark key="'" line="59" column="19" />
@@ -151,7 +152,7 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504983233462">
+      <file name="/Dummy.txt" timestamp="1505020067284">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -235,11 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="9" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="75" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="90" column="3" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="114" column="19" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="118" column="4" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="7" column="9" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="123" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="82" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
@@ -253,7 +249,6 @@
       <jump line="65" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="59" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="106" column="3" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="17" column="20" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" />
       <jump line="144" column="43" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="37" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="122" column="9" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
@@ -335,69 +330,63 @@
       <jump line="66" column="7" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="68" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="66" column="3" filename="$USER_HOME$/Github/CS241/pointers_gone_wild/part3-functions.c" />
+      <jump line="92" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" />
+      <jump line="18" column="59" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" />
+      <jump line="10" column="55" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" />
+      <jump line="17" column="25" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" />
+      <jump line="45" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" />
+      <jump line="44" column="105" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7TlVMTH0sCiAgICAgICAgeyJzaW1wbGVUZXN0IiwgICAgICAid2l0aFR3b1NlbnRlbmNlcyIsIE5VTEx9LAogICAgICAgIHsibm93V2VIYXZlMU51bWJlciIsICBOVUxMfSwKICAgICAgICB7Im5vd1dlSGF2ZTJOdW1iZXJzIiwgTlVMTH0sCiAgICAgICAgeyIiLCAgICAgICAgICAgICAgICAiIiwgICAgICAgIiIsICJhbmRNYW55U3BhY2VTIiwgTlVMTH0sCiAgICAgICAgeyJvdGhlckNoYXJhY3RlcnMiLCAic2hhbGxJIiwgIiIsICJ3b3JrV2VsbCIsICAgICAgTlVMTH0sCiAgICAgICAge05VTEx9LAogICAgICAgIHtOVUxMfSwKICAgICAgICB7IjFIIiwgICAgICAgICAgICAgICAgTlVMTH0sCiAgICAgICAgeyIxaEFiIiwgICAgICAgICAgICAgIE5VTEx9LAogICAgICAgIHsiYVRlc3RPZiIsICAgICAgICAgICBOVUxMfSwKICAgICAgICB7IiIsICAgICAgICAgICAgICAgICIiLCAgICAgICAiIiwgImFiY2QiLCAiIiwgIiIsICIiLCBOVUxMfSwKICAgICAgICB7IiIsICAgICAgICAgICAgICAgICJzdHVwaWQiLCAgICAgICAgICAgTlVMTH0KfTsK</text>
+      <register name="&quot;" type="4">
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
-        <text>input</text>
+        <text>a</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNhbGxiYWNrcy5oIgo=</text>
+        <text encoding="base64">ICAgIHByaW50ZigieyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7TlVMTH0sCiAgICAgICAgeyJzaW1wbGVUZXN0IiwgICAgICAid2l0aFR3b1NlbnRlbmNlcyIsIE5VTEx9LAogICAgICAgIHsibm93V2VIYXZlMU51bWJlciIsICBOVUxMfSwKICAgICAgICB7Im5vd1dlSGF2ZTJOdW1iZXJzIiwgTlVMTH0sCiAgICAgICAgeyIiLCAgICAgICAgICAgICAgICAiIiwgICAgICAgIiIsICJhbmRNYW55U3BhY2VTIiwgTlVMTH0sCiAgICAgICAgeyJvdGhlckNoYXJhY3RlcnMiLCAic2hhbGxJIiwgIiIsICJ3b3JrV2VsbCIsICAgICAgTlVMTH0sCiAgICAgICAge05VTEx9LAogICAgICAgIHtOVUxMfSwKICAgICAgICB7IjFIIiwgICAgICAgICAgICAgICAgTlVMTH0sCiAgICAgICAgeyIxaEFiIiwgICAgICAgICAgICAgIE5VTEx9LAogICAgICAgIHsiYVRlc3RPZiIsICAgICAgICAgICBOVUxMfSwKICAgICAgICB7IiIsICAgICAgICAgICAgICAgICIiLCAgICAgICAiIiwgImFiY2QiLCAiIiwgIiIsICIiLCBOVUxMfSwKICAgICAgICB7IiIsICAgICAgICAgICAgICAgICJzdHVwaWQiLCAgICAgICAgICAgTlVMTH0KfTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgY2hhciBFTkRfVEVTVCA9ICdcMCc7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;this is not a sentence&quot;,
-                                           &quot;Simple Test. WITH two sentences.&quot;,
-                                           &quot;Now we have 1number.&quot;,
-                                           &quot;Now we have 2 numberS!&quot;,
-                                           &quot;... and  many space       s.&quot;,
-                                           &quot;otheR characters? shall I .. work weLl@&quot;,
-                                           &quot;\t\n&quot;,
-                                           &quot;AabC   &quot;,
-                                           &quot;1 h.&quot;,
-                                           &quot;1H ab.&quot;,
-                                           &quot;a teSt oF \n\t.&quot;,
-                                           &quot;?!^abcd*(%@&quot;,
-                                           &quot;.stUPid.&quot;};</text>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgY2hhciBFTkRfVEVTVCA9ICdcMCc7CmNvbnN0IGludCBDT1JSRUNUID0gMTsKY29uc3QgaW50IFdST05HID0gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkcmFnb24gKm5ld19kcmFnb24gPSBtYWxsb2Moc2l6ZW9mKGRyYWdvbikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHtOVUxMfX07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNpemVfdCBsZW4gPSBzdHJsZW4odG9TdHIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBOVUxMfTtBCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNpemVfdCBsZW4gPSBzdHJsZW4odG9TdHIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIiVkXG4iLCBpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdoCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKmNhbWVsQ2FzZWRSZXN1bHQgPT0gTlVMTCAmJiBURVNUX0FOU1dFUltpXSA9PSBOVUxMKSB7CiAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIiVkXG4iLCBpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNoYXIqIGN1cnIgPSB0b1N0cjsKICAgIHdoaWxlICgqY3VycikgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsiIiwgIiIsICIiLCAiIiwgIiIsICIiLi86OyorW10oKSwtXl88PT4/QGB7fCd9fiAifSwK</text>
       </register>
       <register name=":" type="4">
-        <text>vs includes/vector.h</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>input</last-search>
+      <last-search>a</last-search>
       <last-offset />
-      <last-pattern>input</last-pattern>
-      <last-replace>paragraph</last-replace>
-      <last-substitute>input</last-substitute>
+      <last-pattern>a</last-pattern>
+      <last-replace>o</last-replace>
+      <last-substitute>a</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -406,15 +395,17 @@
         <entry>Helper</entry>
         <entry>sort</entry>
         <entry>size_t</entry>
-        <entry>2</entry>
         <entry>splitArr</entry>
         <entry>traversal</entry>
         <entry>'a'</entry>
         <entry>malloc</entry>
         <entry>input</entry>
+        <entry>1</entry>
+        <entry>3</entry>
+        <entry>2</entry>
+        <entry>a</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0hlbHBlci8vZw==</entry>
         <entry>set number</entry>
         <entry>set rn</entry>
         <entry encoding="base64">JzwsJz5zL3NpemVfdC9pbnQvZw==</entry>
@@ -425,12 +416,16 @@
         <entry>nohlsearch</entry>
         <entry encoding="base64">JzwsJz4vcy90cmF2ZXJzYWwvY3VycmVudENoYXJhY3Rlci9n</entry>
         <entry encoding="base64">JzwsJz5zL3RyYXZlcnNhbC9jdXJyZW50Q2hhcmFjdGVyL2c=</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9z</entry>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9n</entry>
         <entry>vs part2-functions.c</entry>
-        <entry>w</entry>
         <entry>vs includes/vector.h</entry>
+        <entry encoding="base64">JzwsJz5zLzEvNy9n</entry>
+        <entry encoding="base64">JzwsJz5zLzMvNC9n</entry>
+        <entry encoding="base64">JzwsJz5zLzIvOC9n</entry>
+        <entry encoding="base64">JzwsJz5zL2Evby9n</entry>
+        <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
