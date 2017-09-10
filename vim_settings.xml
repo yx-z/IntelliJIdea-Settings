@@ -70,12 +70,11 @@
       <file name="/fragment.m" timestamp="1504845832241">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" timestamp="1504843979730">
-        <mark key="'" line="29" column="40" />
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="26" column="9" />
-        <mark key="^" line="25" column="8" />
-        <mark key="." line="26" column="9" />
+      <file name="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" timestamp="1505016729103">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="24" column="47" />
+        <mark key="^" line="24" column="47" />
+        <mark key="." line="24" column="47" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/LIS.kt" timestamp="1503547302052">
         <mark key="'" line="59" column="19" />
@@ -146,7 +145,6 @@
         <mark key="^" line="24" column="61" />
         <mark key="." line="24" column="61" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/pointers_gone_wild/part2-functions.c" timestamp="1504973284292" />
       <file name="$USER_HOME$/Github/CS241/pointers_gone_wild/part2-main.c" timestamp="1504974406220">
         <mark key="[" line="60" column="29" />
         <mark key="]" line="61" column="0" />
@@ -340,7 +338,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkcmFnb24gKm5ld19kcmFnb24gPSBtYWxsb2Moc2l6ZW9mKGRyYWdvbikpOwo=</text>
+        <text encoding="base64">ICAgICAgICB7TlVMTH0sCiAgICAgICAgeyJzaW1wbGVUZXN0IiwgICAgICAid2l0aFR3b1NlbnRlbmNlcyIsIE5VTEx9LAogICAgICAgIHsibm93V2VIYXZlMU51bWJlciIsICBOVUxMfSwKICAgICAgICB7Im5vd1dlSGF2ZTJOdW1iZXJzIiwgTlVMTH0sCiAgICAgICAgeyIiLCAgICAgICAgICAgICAgICAiIiwgICAgICAgIiIsICJhbmRNYW55U3BhY2VTIiwgTlVMTH0sCiAgICAgICAgeyJvdGhlckNoYXJhY3RlcnMiLCAic2hhbGxJIiwgIiIsICJ3b3JrV2VsbCIsICAgICAgTlVMTH0sCiAgICAgICAge05VTEx9LAogICAgICAgIHtOVUxMfSwKICAgICAgICB7IjFIIiwgICAgICAgICAgICAgICAgTlVMTH0sCiAgICAgICAgeyIxaEFiIiwgICAgICAgICAgICAgIE5VTEx9LAogICAgICAgIHsiYVRlc3RPZiIsICAgICAgICAgICBOVUxMfSwKICAgICAgICB7IiIsICAgICAgICAgICAgICAgICIiLCAgICAgICAiIiwgImFiY2QiLCAiIiwgIiIsICIiLCBOVUxMfSwKICAgICAgICB7IiIsICAgICAgICAgICAgICAgICJzdHVwaWQiLCAgICAgICAgICAgTlVMTH0KfTsK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -352,31 +350,43 @@
         <text encoding="base64">I2luY2x1ZGUgImNhbGxiYWNrcy5oIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkcmFnb24gKm5ld19kcmFnb24gPSBtYWxsb2Moc2l6ZW9mKGRyYWdvbikpOwo=</text>
+        <text encoding="base64">ICAgICAgICB7TlVMTH0sCiAgICAgICAgeyJzaW1wbGVUZXN0IiwgICAgICAid2l0aFR3b1NlbnRlbmNlcyIsIE5VTEx9LAogICAgICAgIHsibm93V2VIYXZlMU51bWJlciIsICBOVUxMfSwKICAgICAgICB7Im5vd1dlSGF2ZTJOdW1iZXJzIiwgTlVMTH0sCiAgICAgICAgeyIiLCAgICAgICAgICAgICAgICAiIiwgICAgICAgIiIsICJhbmRNYW55U3BhY2VTIiwgTlVMTH0sCiAgICAgICAgeyJvdGhlckNoYXJhY3RlcnMiLCAic2hhbGxJIiwgIiIsICJ3b3JrV2VsbCIsICAgICAgTlVMTH0sCiAgICAgICAge05VTEx9LAogICAgICAgIHtOVUxMfSwKICAgICAgICB7IjFIIiwgICAgICAgICAgICAgICAgTlVMTH0sCiAgICAgICAgeyIxaEFiIiwgICAgICAgICAgICAgIE5VTEx9LAogICAgICAgIHsiYVRlc3RPZiIsICAgICAgICAgICBOVUxMfSwKICAgICAgICB7IiIsICAgICAgICAgICAgICAgICIiLCAgICAgICAiIiwgImFiY2QiLCAiIiwgIiIsICIiLCBOVUxMfSwKICAgICAgICB7IiIsICAgICAgICAgICAgICAgICJzdHVwaWQiLCAgICAgICAgICAgTlVMTH0KfTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNpemVfdCBsZW4gPSBzdHJsZW4odG9TdHIpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHNpemVfdCBsZW4gPSBzdHJsZW4odG9TdHIpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text>&quot;this is not a sentence&quot;,
+                                           &quot;Simple Test. WITH two sentences.&quot;,
+                                           &quot;Now we have 1number.&quot;,
+                                           &quot;Now we have 2 numberS!&quot;,
+                                           &quot;... and  many space       s.&quot;,
+                                           &quot;otheR characters? shall I .. work weLl@&quot;,
+                                           &quot;\t\n&quot;,
+                                           &quot;AabC   &quot;,
+                                           &quot;1 h.&quot;,
+                                           &quot;1H ab.&quot;,
+                                           &quot;a teSt oF \n\t.&quot;,
+                                           &quot;?!^abcd*(%@&quot;,
+                                           &quot;.stUPid.&quot;};</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkcmFnb24gKm5ld19kcmFnb24gPSBtYWxsb2Moc2l6ZW9mKGRyYWdvbikpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHNpemVfdCBsZW4gPSBzdHJsZW4odG9TdHIpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNoYXIqIGN1cnIgPSB0b1N0cjsKICAgIHdoaWxlICgqY3VycikgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgIHNpemVfdCBsZW4gPSBzdHJsZW4odG9TdHIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHdoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gY2xlYXJfYml0cwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gaW1wbGVtZW50IG1lCg==</text>
+        <text encoding="base64">ICAgIGNoYXIqIGN1cnIgPSB0b1N0cjsKICAgIHdoaWxlICgqY3VycikgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>vs includes/vector.h</text>
