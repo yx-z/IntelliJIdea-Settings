@@ -102,11 +102,11 @@
         <mark key="." line="55" column="4" />
         <mark key="^" line="55" column="4" />
       </file>
-      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/map/MyMap.kt" timestamp="1505162281073">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="28" />
-        <mark key="^" line="3" column="28" />
+      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/map/MyMap.kt" timestamp="1505180129747">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+        <mark key="^" line="6" column="35" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/arr/Duplicate.kt" timestamp="1503588147019">
         <mark key="[" line="8" column="33" />
@@ -124,10 +124,20 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
+      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/map/MyHashMap.kt" timestamp="1505182393845">
+        <mark key="'" line="57" column="30" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="35" />
+        <mark key="^" line="18" column="35" />
+        <mark key="." line="18" column="35" />
+      </file>
       <file name="$USER_HOME$/Desktop/demo/src/main/kotlin/com/example/demo/DemoApplication.kt" timestamp="1504569800009">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/map/Calculator.kt" timestamp="1505182196496">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/arr/ClosestNumber.kt" timestamp="1504132955786">
         <mark key="[" line="2" column="18" />
@@ -305,13 +315,14 @@
       <jump line="19" column="4" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/oop/WebCrawler.kt" />
       <jump line="74" column="17" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/Heap.kt" />
       <jump line="14" column="38" filename="$USER_HOME$/Desktop/demo/src/main/kotlin/edu/illinois/cs/demo/ToDoLayout.kt" />
+      <jump line="55" column="30" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/map/MyHashMap.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">CX0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
@@ -323,28 +334,28 @@
         <text encoding="base64">CX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXNldCh2YWx1ZSkgewoJCQoJfQo=</text>
+        <text encoding="base64">CQljb250YWluZXIgPSBBcnJheTxBbnk/PihzaXplLCB7IG51bGwgfSkgYXMgQXJyYXk8VD8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW1hcC5zaXplID0gMjAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJbGF5b3V0LmFkZENvbXBvbmVudChMYWJlbCgiVGhhbmsgeW91LCAke3RmLnZhbHVlfSEiKSkK</text>
+        <text encoding="base64">CWluaXQgewoJCWNvbnRhaW5lciA9IGFycmF5T2ZOdWxscyhzaXplKQoJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlsYXlvdXQgewoJCQkKCQl9Cgo=</text>
+        <text encoding="base64">CQlUT0RPKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS52YWFkaW4uYW5ub3RhdGlvbnMuVGhlbWUK</text>
+        <text encoding="base64">CQlUT0RPKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkNvbXBvbmVudFNjYW4K</text>
+        <text encoding="base64">CWZ1biBnZXRTaXplKCkgPSB0aGlzLnNpemUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QENvbXBvbmVudFNjYW4oYmFzZVBhY2thZ2VDbGFzc2VzID0gY29tLmV4YW1wbGUuZGVtbykK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
