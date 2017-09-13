@@ -37,12 +37,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/text_editor/editor.c" timestamp="1505313260346">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="63" column="5" />
-        <mark key="]" line="62" column="51" />
-        <mark key="." line="62" column="51" />
-        <mark key="^" line="62" column="51" />
+      <file name="$USER_HOME$/Github/CS241/text_editor/editor.c" timestamp="1505313934921">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="11" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="79" column="10" />
       </file>
       <file name="$USER_HOME$/Desktop/Test/src/Main.kt" timestamp="1503443197555">
         <mark key="[" line="7" column="1" />
@@ -173,7 +173,7 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505309469434">
+      <file name="/Dummy.txt" timestamp="1505313900947">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -366,8 +366,8 @@
       <jump line="17" column="31" filename="$USER_HOME$/Github/CS241/text_editor/document.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -376,34 +376,34 @@
         <text>insert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigieyIpOwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNpemVfdCBlbmRfbGluZSA9IE1BWChkb2Nfc2l6ZSwgc3RhcnRfbGluZSArIG1heF9saW5lcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNpemVfdCBlbmRfbGluZSA9IAo=</text>
+        <text encoding="base64">ICAgIHNpemVfdCBlbmRfbGluZSA9IE1BWChkb2Nfc2l6ZSwgc3RhcnRfbGluZSArIG1heF9saW5lcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHNpemVfdCBlbmRfbGluZSA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChzdGFydF9saW5lIDw9IDAgfHwgbWF4X2NvbHMgPD0gMCkgewogICAgICAgIHJldHVybjsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNpemVfdCBudW1MaW5lcyA9IGRvY3VtZW50X3NpemUoZG9jdW1lbnQpOwogICAgaWYgKG51bUxpbmVzID09IDApIHsKICAgICAgICBwcmludF9kb2N1bWVudF9lbXB0eV9lcnJvcigpOwogICAgICAgIHJldHVybjsKICAgIH0KCiAgICAvLyBUT0RPCg==</text>
+        <text encoding="base64">ICAgIGlmIChzdGFydF9saW5lIDw9IDAgfHwgbWF4X2NvbHMgPD0gMCkgewogICAgICAgIHJldHVybjsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZlY3Rvcl9kZXN0cm95KGRvY3VtZW50LT52ZWN0b3IpOwo=</text>
+        <text encoding="base64">ICAgIHNpemVfdCBudW1MaW5lcyA9IGRvY3VtZW50X3NpemUoZG9jdW1lbnQpOwogICAgaWYgKG51bUxpbmVzID09IDApIHsKICAgICAgICBwcmludF9kb2N1bWVudF9lbXB0eV9lcnJvcigpOwogICAgICAgIHJldHVybjsKICAgIH0KCiAgICAvLyBUT0RPCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZlY3Rvcl9kZXN0cm95KGRvY3VtZW50LT52ZWN0b3IpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyZWUoZG9jdW1lbnQpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
