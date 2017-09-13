@@ -12,6 +12,9 @@
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/oop/WebCrawler.kt" timestamp="1504098141264">
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Github/CS241/text_editor/includes/vector.h" timestamp="1505222373613">
+        <mark key="'" line="59" column="56" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/LCS.kt" timestamp="1503630315446">
         <mark key="[" line="33" column="18" />
         <mark key="]" line="32" column="12" />
@@ -67,10 +70,12 @@
         <mark key="^" line="61" column="0" />
         <mark key="." line="68" column="14" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/text_editor/document.c" timestamp="1505220609241">
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Github/CS241/text_editor/document.c" timestamp="1505222574808">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="87" column="50" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="84" column="17" />
       </file>
       <file name="/fragment.m" timestamp="1504845832241">
         <mark key="[" line="0" column="0" />
@@ -157,7 +162,7 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505178271160">
+      <file name="/Dummy.txt" timestamp="1505309469434">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -248,20 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="43" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="37" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="122" column="9" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="10" column="19" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="11" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="17" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="25" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="28" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="33" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="36" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="40" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="47" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="54" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="180" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="8" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="153" column="15" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="138" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
@@ -348,55 +339,69 @@
       <jump line="20" column="29" filename="$USER_HOME$/Github/Anko-Example/app/src/main/kotlin/ui/MainActivity.kt" />
       <jump line="92" column="0" filename="$USER_HOME$/Github/Anko-Example/app/src/main/kotlin/ui/MainActivity.kt" />
       <jump line="20" column="17" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" />
+      <jump line="87" column="32" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
+      <jump line="95" column="0" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
+      <jump line="8" column="0" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
+      <jump line="11" column="0" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
+      <jump line="15" column="0" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
+      <jump line="23" column="0" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
+      <jump line="27" column="0" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
+      <jump line="33" column="0" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
+      <jump line="36" column="0" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
+      <jump line="58" column="0" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
+      <jump line="230" column="8" filename="$USER_HOME$/Github/CS241/text_editor/includes/vector.h" />
+      <jump line="17" column="65" filename="$USER_HOME$/Github/CS241/text_editor/includes/vector.h" />
+      <jump line="59" column="56" filename="$USER_HOME$/Github/CS241/text_editor/includes/vector.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMtPnZlY3RvciAK</text>
+        <text encoding="base64">ICAgIC8vIEhvdyBhcmUgeW91IGdvaW5nIHRvIGhhbmRsZSB0aGUgY2FzZSB3aGVuIHRoZSB1c2VyIHdhbnRzIHRvCiAgICAvLyBpbnNlcnQgYSBsaW5lIHBhc3QgdGhlIGVuZCBvZiB0aGUgZG9jdW1lbnQ/Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
-        <text>A</text>
+        <text>set</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50ZigieyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMtPnZlY3RvciAK</text>
+        <text encoding="base64">ICAgIC8vIEhvdyBhcmUgeW91IGdvaW5nIHRvIGhhbmRsZSB0aGUgY2FzZSB3aGVuIHRoZSB1c2VyIHdhbnRzIHRvCiAgICAvLyBpbnNlcnQgYSBsaW5lIHBhc3QgdGhlIGVuZCBvZiB0aGUgZG9jdW1lbnQ/Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHNlZSB0aGUgY29tbWVudCBpbiB0aGUgaGVhZGVyIGZpbGUgZm9yIGEgZGVzY3JpcHRpb24gb2YgaG93IHRvIGRvIHRoaXMhCg==</text>
+        <text encoding="base64">ICAgIGlmIChsaW5lX251bWJlciA+IHYpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IHlvdXIgY29kZSBoZXJlIQo=</text>
+        <text encoding="base64">ICAgIHNpemVfdCBpZHggPSBsaW5lX251bWJlciAtIDE7CiAgICBpZiAoaWR4IDwgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICgqY2FtZWxDYXNlZE91dHB1dCApCg==</text>
+        <text encoding="base64">ICAgIGlmIChsaW5lX251bWJlciApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IHlvdXIgY29kZSBoZXJlIQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiIikK</text>
+        <text encoding="base64">ICAgIGlmICghZmlsZSkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2RlZmluZSBSSQo=</text>
+        <text encoding="base64">ICAgIGYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjYW1lbENhc2VyKE5VTEwpID09IE5VTEw7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IHlvdXIgY29kZSBoZXJlIQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGl0ZXJhdGUgdGhyb3VnaCBhbGwgdGVzdCBjYXNlcwo=</text>
+        <text encoding="base64">ICAgIHZlY3Rvcl9wdXNoX2JhY2sodGhpcy0+dmVjdG9yLCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0EvQi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>A</last-search>
+      <last-search>set</last-search>
       <last-offset />
-      <last-pattern>A</last-pattern>
+      <last-pattern>set</last-pattern>
       <last-replace>B</last-replace>
       <last-substitute>A</last-substitute>
       <last-dir>1</last-dir>
@@ -417,6 +422,7 @@
         <entry>1</entry>
         <entry>a</entry>
         <entry>A</entry>
+        <entry>set</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NwbGl0QXJyL3NwbGl0QXJyYXkvZw==</entry>
