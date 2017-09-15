@@ -207,11 +207,12 @@
         <mark key="." line="51" column="119" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" timestamp="1505437150939">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" timestamp="1505438619177">
+        <mark key="'" line="13" column="33" />
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="17" column="16" />
+        <mark key="^" line="17" column="16" />
+        <mark key="." line="17" column="16" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/UnionFind.kt" timestamp="1504102457267">
         <mark key="[" line="4" column="1" />
@@ -269,7 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="56" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="62" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="73" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
@@ -369,13 +369,14 @@
       <jump line="17" column="31" filename="$USER_HOME$/Github/CS241/text_editor/document.h" />
       <jump line="90" column="32" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
       <jump line="102" column="7" filename="$USER_HOME$/Github/CS241/text_editor/editor.c" />
+      <jump line="12" column="33" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>printf</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>printf</text>
       </register>
       <register name="/" type="4">
         <text>docSize</text>
@@ -384,28 +385,28 @@
         <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGFyKioK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsb2NrX2dldHRpbWUoQ0xPQ0tfTU9OT1RPTklDLCAmc3RhcnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9lbnZfdXNhZ2UoKXMK</text>
+        <text encoding="base64">ICAgIGNsb2NrX2dldHRpbWUoQ0xPQ0tfTU9OT1RPTklDLCAmc3RhcnQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9leGVjX2ZhaWxlZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9lbnZfdXNhZ2UoKXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9leGVjX2ZhaWxlZCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZiAoV0lGRVhJVEVEKHN0YXR1cykgIT0gMCAmJiBXRVhJVFNUQVRVUyhzdGF0dXMpICE9IDApIHsKCQkJZXhpdCgwKTsKCQl9IGVsc2Ugewo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">CQlpZiAoV0lGRVhJVEVEKHN0YXR1cykgIT0gMCAmJiBXRVhJVFNUQVRVUyhzdGF0dXMpICE9IDApIHsKCQkJZXhpdCgwKTsKCQl9IGVsc2Ugewo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE8K</text>
