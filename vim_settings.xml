@@ -213,11 +213,12 @@
         <mark key="." line="51" column="119" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" timestamp="1505448625540">
-        <mark key="'" line="47" column="1" />
-        <mark key="[" line="38" column="0" />
+      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" timestamp="1505450003260">
+        <mark key="'" line="52" column="1" />
+        <mark key="[" line="36" column="36" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
+        <mark key="^" line="36" column="35" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/UnionFind.kt" timestamp="1504102457267">
         <mark key="[" line="4" column="1" />
@@ -260,6 +261,11 @@
       </file>
       <file name="editor.xml" timestamp="1504576745450">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/CMakeLists.txt" timestamp="1505449382578">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/ItTraverse.kt" timestamp="1503541257958">
         <mark key="[" line="18" column="4" />
@@ -378,7 +384,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlZFxuIiwgbnVtX3ZhbCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -390,31 +396,31 @@
         <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlZFxuIiwgbnVtX3ZhbCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlc1xuIiwgYXJndlsyXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCBjaGlsZCA9IGZvcmsoKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIiVzXG4iLCBhcmd2WzFdKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChjaGlsZCA9PSAwKSB7CiAgICAgICAgY2hhciAqKnNldF9hcnJheSA9IChjaGFyICoqKSBtYWxsb2Moc2l6ZW9mKGNoYXIgKikpOwogICAgICAgIGludCBhcnJheV9zaXplID0gMTsKICAgICAgICAqc2V0X2FycmF5ID0gTlVMTDsKCiAgICAgICAgY2hhciAqc3RyID0gc3RydG9rKGFyZ3ZbMV0sICIsIik7CiAgICAgICAgd2hpbGUgKHN0ciAhPSBOVUxMKSB7CiAgICAgICAgICAgIHNldF9hcnJheSA9IChjaGFyICoqKSByZWFsbG9jKHNldF9hcnJheSwgc2l6ZW9mKGNoYXIgKikgKiAoYXJyYXlfc2l6ZSArIDEpKTsKCiAgICAgICAgICAgICooc2V0X2FycmF5ICsgYXJyYXlfc2l6ZSAtIDEpID0gc3RyOwogICAgICAgICAgICAqKHNldF9hcnJheSArIGFycmF5X3NpemUpID0gTlVMTDsKCiAgICAgICAgICAgIGFycmF5X3NpemUrKzsKICAgICAgICAgICAgc3RyID0gc3RydG9rKE5VTEwsICIsIik7CiAgICAgICAgfQoKICAgICAgICBjaGFyICoqcHRyID0gc2V0X2FycmF5OwogICAgICAgIHdoaWxlICgqcHRyICE9IE5VTEwpIHsKICAgICAgICAgICAgY2hhciAqZXEgPSBpbmRleCgqcHRyLCAnPScpOwogICAgICAgICAgICBpZiAoZXEgPT0gTlVMTCkgewogICAgICAgICAgICAgICAgcHJpbnRfZW52X3VzYWdlKCk7CiAgICAgICAgICAgICAgICByZXR1cm4gMTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGNoYXIgKmRlc3Q7CiAgICAgICAgICAgICAgICBjaGFyICp2YWw7CiAgICAgICAgICAgICAgICBjaGFyICp0bXAgPSAoY2hhciAqKSBtYWxsb2Moc2l6ZW9mKGNoYXIpKTsKICAgICAgICAgICAgICAgICp0bXAgPSAnXDAnOwogICAgICAgICAgICAgICAgc2l6ZV90IHRtcF9zaXplID0gMTsKICAgICAgICAgICAgICAgIGNoYXIgKnN2YXIgPSAoY2hhciAqKSBtYWxsb2Moc2l6ZW9mKGNoYXIpKTsKICAgICAgICAgICAgICAgICpzdmFyID0gJ1wwJzsKICAgICAgICAgICAgICAgIGludCBzdmFyX3NpemUgPSAxOwogICAgICAgICAgICAgICAgY2hhciAqcHB0ciA9ICpwdHI7CiAgICAgICAgICAgICAgICBpbnQgaXNfc3ZhciA9IDA7CiAgICAgICAgICAgICAgICB3aGlsZSAoKnBwdHIgIT0gJ1wwJykgewogICAgICAgICAgICAgICAgICAgIGlmICgqcHB0ciA9PSAnJScgJiYgaXNfc3ZhciA9PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlzX3N2YXIgPSAxOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoaXNfc3ZhciA9PSAxICYmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoaXNhbHBoYSgqcHB0cikgfHwgaXNkaWdpdCgqcHB0cikgfHwgKnBwdHIgPT0gJ18nKSkgewogICAgICAgICAgICAgICAgICAgICAgICBzdmFyID0gKGNoYXIgKikgcmVhbGxvYyhzdmFyLCBzaXplb2YoY2hhcikgKiAoc3Zhcl9zaXplICsgMSkpOwogICAgICAgICAgICAgICAgICAgICAgICAqKHN2YXIgKyBzdmFyX3NpemUgLSAxKSA9ICpwcHRyOwogICAgICAgICAgICAgICAgICAgICAgICAqKHN2YXIgKyBzdmFyX3NpemUpID0gJ1wwJzsKICAgICAgICAgICAgICAgICAgICAgICAgc3Zhcl9zaXplKys7CiAgICAgICAgICAgICAgICAgICAgICAgIGlzX3N2YXIgPSAxOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoaXNfc3ZhciA9PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNoYXIgKnN2YXJfdmFsdWUgPSBnZXRlbnYoc3Zhcik7CgogICAgICAgICAgICAgICAgICAgICAgICBpZiAoc3Zhcl92YWx1ZSA9PSBOVUxMKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0bXAgPSAoY2hhciAqKSByZWFsbG9jKHRtcCwgc3RybGVuKHRtcCkgKyAzKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0cmNhdCh0bXAsICIiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRtcF9zaXplID0gc3RybGVuKHRtcCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0bXAgPSAoY2hhciAqKSByZWFsbG9jKHRtcCwgc3RybGVuKHRtcCkgKyBzdHJsZW4oc3Zhcl92YWx1ZSkgKyAxKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0cmNhdCh0bXAsIHN2YXJfdmFsdWUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdG1wX3NpemUgPSBzdHJsZW4odG1wKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgdG1wID0gKGNoYXIgKikgcmVhbGxvYyh0bXAsIHRtcF9zaXplICsgMSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICgqcHB0ciA9PSAnLycpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRtcFt0bXBfc2l6ZV0gPSAnLyc7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0bXBbdG1wX3NpemVdID0gKnBwdHI7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgdG1wW3RtcF9zaXplICsgMV0gPSAnXDAnOwogICAgICAgICAgICAgICAgICAgICAgICB0bXBfc2l6ZSArPSAyOwoKICAgICAgICAgICAgICAgICAgICAgICAgaXNfc3ZhciA9IDA7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgdG1wID0gKGNoYXIgKikgcmVhbGxvYyh0bXAsIHNpemVvZihjaGFyKSAqICh0bXBfc2l6ZSArIDEpKTsKICAgICAgICAgICAgICAgICAgICAgICAgKih0bXAgKyB0bXBfc2l6ZSAtIDEpID0gKnBwdHI7CiAgICAgICAgICAgICAgICAgICAgICAgICoodG1wICsgdG1wX3NpemUpID0gJ1wwJzsKICAgICAgICAgICAgICAgICAgICAgICAgdG1wX3NpemUrKzsKICAgICAgICAgICAgICAgICAgICAgICAgaXNfc3ZhciA9IDA7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHBwdHIrKzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmIChpc19zdmFyID09IDEpIHsKICAgICAgICAgICAgICAgICAgICBjaGFyICpzdmFyX3ZhbHVlID0gZ2V0ZW52KHN2YXIpOwogICAgICAgICAgICAgICAgICAgIGlmIChzdmFyX3ZhbHVlID09IE5VTEwpIHsKCiAgICAgICAgICAgICAgICAgICAgICAgIHRtcCA9IChjaGFyICopIHJlYWxsb2ModG1wLCBzdHJsZW4odG1wKSArIHN0cmxlbihzdmFyKSArIDIpOwogICAgICAgICAgICAgICAgICAgICAgICBzdHJjYXQodG1wLCAiJSIpOwogICAgICAgICAgICAgICAgICAgICAgICBzdHJjYXQodG1wLCBzdmFyKTsKICAgICAgICAgICAgICAgICAgICAgICAgdG1wX3NpemUgPSBzdHJsZW4odG1wKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICB0bXAgPSAoY2hhciAqKSByZWFsbG9jKHRtcCwgc3RybGVuKHRtcCkgKyBzdHJsZW4oc3Zhcl92YWx1ZSkgKyAxKTsKICAgICAgICAgICAgICAgICAgICAgICAgc3RyY2F0KHRtcCwgc3Zhcl92YWx1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHRtcF9zaXplID0gc3RybGVuKHRtcCk7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICB0bXAgPSAoY2hhciAqKSByZWFsbG9jKHRtcCwgdG1wX3NpemUgKyAxKTsKICAgICAgICAgICAgICAgICAgICBpZiAoKnBwdHIgPT0gJy8nKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRtcFt0bXBfc2l6ZV0gPSAnLyc7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgdG1wW3RtcF9zaXplXSA9ICpwcHRyOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB0bXBbdG1wX3NpemUgKyAxXSA9ICdcMCc7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBkZXN0ID0gc3RydG9rKHRtcCwgIj0iKTsKICAgICAgICAgICAgICAgIHZhbCA9IHN0cnRvayhOVUxMLCAiPSIpOwogICAgICAgICAgICAgICAgdmFsID0gdmFsID09IE5VTEwgPyAiIiA6IHZhbDsKICAgICAgICAgICAgICAgIGlmIChzZXRlbnYoZGVzdCwgdmFsLCAxKSAhPSAwKSB7CiAgICAgICAgICAgICAgICAgICAgcHJpbnRfZW52aXJvbm1lbnRfY2hhbmdlX2ZhaWxlZCgpOwogICAgICAgICAgICAgICAgICAgIGV4aXQoMSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcHRyKys7CiAgICAgICAgfQoKICAgICAgICBleGVjdnAoKihhcmd2ICsgMiksIGFyZ3YgKyAyKTsKICAgICAgICBwcmludF9leGVjX2ZhaWxlZCgpOwogICAgICAgIGV4aXQoRVhJVF9GQUlMVVJFKTsKICAgIH0gZWxzZSBpZiAoY2hpbGQgPiAwKSB7CiAgICAgICAgaW50IHN0YXR1czsKICAgICAgICB3YWl0cGlkKGNoaWxkLCAmc3RhdHVzLCAwKTsKICAgICAgICByZXR1cm4gIVdJRkVYSVRFRChzdGF0dXMpOwogICAgfSBlbHNlIHsKICAgICAgICBwcmludF9mb3JrX2ZhaWxlZCgpOwogICAgICAgIHJldHVybiAxOwogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLmMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYWtlZmlsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLypwcmludGYoIi8gXG4iKTsqLwo=</text>
+        <text encoding="base64">ICAgICAgICBhcmd2WzFdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qcHJpbnRmKCIvIFxuIik7Ki8K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoMSk7Cg==</text>
+        <text encoding="base64">ICAgIGludCBjaGlsZCA9IGZvcmsoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -481,7 +487,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
