@@ -213,12 +213,12 @@
         <mark key="." line="51" column="119" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" timestamp="1505486832135">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-        <mark key="^" line="211" column="11" />
+      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" timestamp="1505488364424">
+        <mark key="'" line="243" column="0" />
+        <mark key="[" line="199" column="9" />
+        <mark key="]" line="200" column="7" />
+        <mark key="." line="200" column="7" />
+        <mark key="^" line="200" column="7" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/UnionFind.kt" timestamp="1504102457267">
         <mark key="[" line="4" column="1" />
@@ -281,11 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="66" column="7" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="68" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="66" column="3" filename="$USER_HOME$/Github/CS241/pointers_gone_wild/part3-functions.c" />
-      <jump line="92" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" />
       <jump line="18" column="59" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" />
       <jump line="10" column="55" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" />
       <jump line="17" column="25" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" />
@@ -381,46 +376,51 @@
       <jump line="41" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="216" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="102" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="135" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="205" column="29" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="208" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="229" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="243" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBpZF90IGNoaWxkID0gZm9yaygpOwogICAgLy8gY2hpbGQgcHJvY2VzcwogICAgaWYgKGNoaWxkID09IDApIHsK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoKmVudmlyb24pIHsKICAgICAgICAgICAgcHJpbnRmKCIlc1xuIiwgKmVudmlyb24pOwogICAgICAgICAgICBlbnZpcm9uKys7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>CHILD</text>
       </register>
       <register name="/" type="4">
         <text>temp_size</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRmKCIlc1xuIiwgdmFsc1trZXlfaWR4XVtqXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoKmVudmlyb24pIHsKICAgICAgICAgICAgcHJpbnRmKCIlc1xuIiwgKmVudmlyb24pOwogICAgICAgICAgICBlbnZpcm9uKys7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBpZF90IGNoaWxkID0gZm9yaygpOwogICAgLy8gY2hpbGQgcHJvY2VzcwogICAgaWYgKGNoaWxkID09IDApIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiSEVSRVxuIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoY2hpbGQgPiAwKSB7CiAgICAgICAgLy8gcGFyZW50IHByb2Nlc3MKICAgICAgICBpbnQgc3RhdHVzID0gMDsKICAgICAgICB3YWl0cGlkKGNoaWxkLCAmc3RhdHVzLCAwKTsKICAgIH0gZWxzZSB7CiAgICAgICAgLy8gZm9yayBlcnJvcgogICAgICAgIHByaW50X2ZvcmtfZmFpbGVkKCk7CiAgICAgICAgcmV0dXJuIDE7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJDSElMRFxuIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJQQVJFTlRcbiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9lbnZfdXNhZ2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJDSElMRCBESUVEXG4iKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9lbnZfdXNhZ2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCJIRVJFXG4iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0ZW52KGspCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfZXhlY19mYWlsZWQoKTsKICAgICAgICAgICAgcmV0dXJuIDE7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmVwbGFjZSBhbGwgcmVmZXJlbmNlcwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRfZXhlY19mYWlsZWQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlc1xuIiwga2V5c1trZXlfaWR4XSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiJXMiLCBjbWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigiJXNcbiIsIGtleXNba2V5X2lkeF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlZFxuIiwgbnVtX2FyZ3MpOwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
