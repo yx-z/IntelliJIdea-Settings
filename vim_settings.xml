@@ -178,7 +178,7 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505508509816">
+      <file name="/Dummy.txt" timestamp="1505510481580">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -213,12 +213,12 @@
         <mark key="." line="51" column="119" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" timestamp="1505508984552">
-        <mark key="'" line="207" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="39" column="18" />
+      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" timestamp="1505510477558">
+        <mark key="'" line="142" column="37" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+        <mark key="^" line="47" column="28" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/UnionFind.kt" timestamp="1504102457267">
         <mark key="[" line="4" column="1" />
@@ -281,8 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
-      <jump line="11" column="0" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
       <jump line="15" column="0" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
       <jump line="23" column="0" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
       <jump line="27" column="0" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
@@ -373,7 +371,6 @@
       <jump line="146" column="39" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="137" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="152" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="157" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="169" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="172" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="179" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -381,65 +378,67 @@
       <jump line="190" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="197" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="205" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="108" column="20" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="157" column="26" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="142" column="37" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdHJkdXAoc3Ryc3RyKHN0ciwgc3RhcnQpICsgc3RybGVuKHN0YXJ0KSArIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIiVzXG4iLCBrZXlzW2tleV9pZHhdKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>temp_size</text>
+        <text>malloc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aGlsZSAoKmVudmlyb24pIHsKICAgICAgICAgICAgcHJpbnRmKCIlc1xuIiwgKmVudmlyb24pOwogICAgICAgICAgICBlbnZpcm9uKys7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdHJkdXAoc3Ryc3RyKHN0ciwgc3RhcnQpICsgc3RybGVuKHN0YXJ0KSArIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIiVzXG4iLCBrZXlzW2tleV9pZHhdKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJXNcbiIsIHN0cnN0cihzdHIsIHN0YXJ0KSArIDIpOwo=</text>
+        <text encoding="base64">ICAgIHN1YnN0clt1bnRpbF0gPSAnXDAnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiJXNcbiIsIHN0cik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBrZXlzW2tleV9pZHhdID0gdG1wOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoc3Ryc3RyKHN0ciwgc3RhcnQpICsgc3RybGVuKHN0YXJ0KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIiVzXG4iLCBhcmd2W2ldKTsKICAgICAgICBwcmludGYoIlRNUCAlc1xuIiwgdG1wKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiU1RSU1RSOiVzIiwgc3Ryc3RyKHN0ciwgZW5kaW5nKSArIDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIiVzXG4iLCBzdWJzdHJfdW50aWwoYXJndltpXSwgIj0iKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdHJzdHIoc3RyLCBlbmRpbmcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoIiVzLCAlc1xuIiwgc3Vic3RyX3VudGlsKGFyZ3ZbaV0sICI9IiksIGtleXNba2V5X2lkeF0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmcmVlKGtleXNbaV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlc1xuIiwga2V5c1tqXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlc1xuIiwgdmFsc1tqXVtpXSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmcmVlKHJlZmVyX25hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhcmdzW251bV9hcmdzXSA9IE5VTEw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>temp_size</last-search>
+      <last-search>malloc</last-search>
       <last-offset />
-      <last-pattern>temp_size</last-pattern>
+      <last-pattern>malloc</last-pattern>
       <last-replace>environ</last-replace>
       <last-substitute>ptr</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>splitArr</entry>
         <entry>'a'</entry>
-        <entry>malloc</entry>
         <entry>input</entry>
         <entry>3</entry>
         <entry>2</entry>
@@ -457,6 +456,7 @@
         <entry>newT</entry>
         <entry>ptr</entry>
         <entry>temp_size</entry>
+        <entry>malloc</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4vcy90cmF2ZXJzYWwvY3VycmVudENoYXJhY3Rlci9n</entry>
