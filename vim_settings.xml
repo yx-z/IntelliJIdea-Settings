@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/time.c" timestamp="1505444232127">
+        <mark key="[" line="31" column="37" />
+        <mark key="]" line="32" column="33" />
+        <mark key="^" line="32" column="33" />
+        <mark key="." line="32" column="33" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/NQueens.kt" timestamp="1503636503554">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="6" column="42" />
@@ -172,7 +178,7 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505313900947">
+      <file name="/Dummy.txt" timestamp="1505444215397">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -207,12 +213,12 @@
         <mark key="." line="51" column="119" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" timestamp="1505438619177">
-        <mark key="'" line="13" column="33" />
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="17" column="16" />
-        <mark key="^" line="17" column="16" />
-        <mark key="." line="17" column="16" />
+      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" timestamp="1505444510979">
+        <mark key="'" line="42" column="26" />
+        <mark key="[" line="106" column="8" />
+        <mark key="]" line="106" column="8" />
+        <mark key="^" line="108" column="11" />
+        <mark key="." line="106" column="8" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/UnionFind.kt" timestamp="1504102457267">
         <mark key="[" line="4" column="1" />
@@ -270,12 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="62" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="73" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="80" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="85" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
-      <jump line="89" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="96" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="99" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
       <jump line="107" column="0" filename="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser.c" />
@@ -370,59 +370,65 @@
       <jump line="90" column="32" filename="$USER_HOME$/Github/CS241/text_editor/document.c" />
       <jump line="102" column="7" filename="$USER_HOME$/Github/CS241/text_editor/editor.c" />
       <jump line="12" column="33" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="28" column="3" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="3" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="92" column="43" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="21" column="4" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="118" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="42" column="26" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>printf</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>printf</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>docSize</text>
+        <text>traversal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFyKioK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZmxhZyA9PSAtMSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgZmxhZyA9IDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsb2NrX2dldHRpbWUoQ0xPQ0tfTU9OT1RPTklDLCAmc3RhcnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgZmxhZyA9IDA7CiAgICAgICAgaW50IGVsZW1lbnQgPSAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9lbnZfdXNhZ2UoKXMK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9leGVjX2ZhaWxlZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9wcmludGYoIiVzXG4iLHRlbXApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9wcmludGYoIiVzXG4iLHRlbXApOwogICAgICAgICAgICBpZiAoZmxhZyA9PSAtMSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiAoV0lGRVhJVEVEKHN0YXR1cykgIT0gMCAmJiBXRVhJVFNUQVRVUyhzdGF0dXMpICE9IDApIHsKCQkJZXhpdCgwKTsKCQl9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9wcmludGYoImZpbmFsbHkgdGVtcCBpczolc1xuIix0ZW1wKTsKCiAgICAgICAgICAgIC8vIGFsbCAlWFhYWCBoYXMgYmVlbiByZXBsYWNlZCwgc2V0ZW52Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3RyYXZlcnNhbC90bXAvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>docSize</last-search>
+      <last-search>traversal</last-search>
       <last-offset />
-      <last-pattern>docSize</last-pattern>
-      <last-replace>doc_size</last-replace>
-      <last-substitute>docSize</last-substitute>
+      <last-pattern>traversal</last-pattern>
+      <last-replace>tmp</last-replace>
+      <last-substitute>traversal</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -430,7 +436,6 @@
         <entry>sort</entry>
         <entry>size_t</entry>
         <entry>splitArr</entry>
-        <entry>traversal</entry>
         <entry>'a'</entry>
         <entry>malloc</entry>
         <entry>input</entry>
@@ -446,9 +451,9 @@
         <entry>write</entry>
         <entry>insert</entry>
         <entry>docSize</entry>
+        <entry>traversal</entry>
       </history-search>
       <history-cmd>
-        <entry>set nhl</entry>
         <entry>nohlsearch</entry>
         <entry encoding="base64">JzwsJz4vcy90cmF2ZXJzYWwvY3VycmVudENoYXJhY3Rlci9n</entry>
         <entry encoding="base64">JzwsJz5zL3RyYXZlcnNhbC9jdXJyZW50Q2hhcmFjdGVyL2c=</entry>
@@ -468,6 +473,7 @@
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL2RvY1NpemUvZG9jX3NpemUvZw==</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3RyYXZlcnNhbC90bXAvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
