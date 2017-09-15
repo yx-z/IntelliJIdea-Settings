@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/time.c" timestamp="1505427348664">
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="96" />
+        <mark key="." line="34" column="96" />
+        <mark key="^" line="34" column="96" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/NQueens.kt" timestamp="1503636503554">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="6" column="42" />
@@ -366,10 +372,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>docSize</text>
@@ -378,34 +384,34 @@
         <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">CQlpZiAoV0lGRVhJVEVEKHN0YXR1cykgIT0gMCAmJiBXRVhJVFNUQVRVUyhzdGF0dXMpICE9IDApIHsKCQkJZXhpdCgwKTsKCQl9IGVsc2Ugewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0KICAgIC8vIFRPRE8K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50X2RlbGV0ZV9saW5lKGRvY3VtZW50LCBsaW5lX25vKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0KICAgIC8vIFRPRE8K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE8K</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50X2RlbGV0ZV9saW5lKGRvY3VtZW50LCBsaW5lX25vKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hbGxvYygpCg==</text>
+        <text encoding="base64">ICAgIE8K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2RvY1NpemUvZG9jX3NpemUvZw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -415,7 +421,7 @@
       <last-replace>doc_size</last-replace>
       <last-substitute>docSize</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -452,7 +458,6 @@
         <entry encoding="base64">JzwsJz5zLzMvNC9n</entry>
         <entry encoding="base64">JzwsJz5zLzIvOC9n</entry>
         <entry encoding="base64">JzwsJz5zL2Evby9n</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLzEvNy9n</entry>
         <entry encoding="base64">JzwsJz5zLzIvNi9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvNS9n</entry>
@@ -461,6 +466,7 @@
         <entry encoding="base64">JzwsJz5zL0EvQi9n</entry>
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL2RvY1NpemUvZG9jX3NpemUvZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
