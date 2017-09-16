@@ -261,12 +261,12 @@
         <mark key="." line="51" column="119" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" timestamp="1505519802030">
-        <mark key="'" line="144" column="0" />
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="252" column="0" />
-        <mark key="." line="252" column="0" />
-        <mark key="^" line="144" column="12" />
+      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" timestamp="1505521264637">
+        <mark key="'" line="125" column="8" />
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="26" />
+        <mark key="." line="26" column="26" />
+        <mark key="^" line="25" column="33" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Intersect.kt" timestamp="1503623458901">
         <mark key="'" line="26" column="12" />
@@ -289,7 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/Github/CS241/text_editor/editor.c" />
       <jump line="292" column="56" filename="$USER_HOME$/Github/CS241/text_editor/includes/vector.h" />
       <jump line="80" column="40" filename="$USER_HOME$/Github/CS241/text_editor/document.h" />
       <jump line="17" column="31" filename="$USER_HOME$/Github/CS241/text_editor/document.h" />
@@ -389,46 +388,47 @@
       <jump line="167" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="215" column="41" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="144" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="125" column="8" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>strlen</text>
       </register>
       <register name="-" type="4">
-        <text>keys</text>
+        <text>strlen</text>
       </register>
       <register name="/" type="4">
         <text>printf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoImtleTogJXNcbiIsIGtleXNbaV0pOwo=</text>
+        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbnVtX2tleXM7IGkrKykgewogICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgbnVtX3ZhbHM7IGorKykgewogICAgICAgICAgICBwcmludGYoIiVzXG4iLCB2YWxzW2ldW2pdKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0cmNweShzdWJzdHIsIHN0cik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcmVlKCkK</text>
+        <text encoding="base64">ICAgIHNpemVfdCB1bnRpbCA9IHN0cnN0cihzdHIsIGVuZGluZykgLSBzdHI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29tbWFuZCBhcmd1bWVudHMgY29tZSBhZnRlciB0aGUgY29tbWFuZAogICAgICAgICAgICBpbnQgbnVtX2FyZ3MgPSBhcmdjIC0gY21kX2lkeDsKICAgICAgICAgICAgY2hhciAqKmFyZ3MgPSBtYWxsb2Moc2l6ZW9mKGNoYXIgKikgKiAobnVtX2FyZ3MgKyAxKSk7CiAgICAgICAgICAgIGFyZ3NbMF0gPSBjbWQ7CiAgICAgICAgICAgIGFyZ3NbbnVtX2FyZ3NdID0gTlVMTDsKICAgICAgICAgICAgZm9yIChpbnQgaiA9IGNtZF9pZHggKyAxOyBqIDwgYXJnYzsgaisrKSB7CiAgICAgICAgICAgICAgICBpbnQgYXJnX2lkeCA9IGogLSBjbWRfaWR4IC0gMTsKICAgICAgICAgICAgICAgIGFyZ3NbYXJnX2lkeF0gPSBhcmd2W2ldOwogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIGlmIChzdHJzdHIoc3RyLCBlbmRpbmcpID09IE5VTEwpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlc1xuIiwgKnZ0KTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJlZSgqdnQpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN1YnN0clt1bnRpbF0gPSAnXDAnOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHN1YnN0cltzdWJzdHJfbGVuXSA9ICdcMCc7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2YWxfc3RyID0gTlVMTDsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJlZShhbGlhc19uYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlc1xuIiwgdmFsc1tpXVtqXSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmcmVlKHJlZmVyX25hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigidjogJXMuXG4iLHZhbHNba2V5X2lkeF1bal0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
