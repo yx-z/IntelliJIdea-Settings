@@ -12,8 +12,8 @@
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/oop/WebCrawler.kt" timestamp="1504098141264">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/text_editor/includes/vector.h" timestamp="1505311398914">
-        <mark key="'" line="292" column="56" />
+      <file name="$USER_HOME$/Github/CS241/text_editor/includes/vector.h" timestamp="1505574826222">
+        <mark key="'" line="31" column="10" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/LCS.kt" timestamp="1503630315446">
         <mark key="[" line="33" column="18" />
@@ -30,12 +30,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/text_editor/editor.c" timestamp="1505574445713">
-        <mark key="'" line="117" column="7" />
-        <mark key="[" line="40" column="4" />
-        <mark key="]" line="41" column="44" />
-        <mark key="." line="41" column="44" />
-        <mark key="^" line="41" column="44" />
+      <file name="$USER_HOME$/Github/CS241/text_editor/editor.c" timestamp="1505575462334">
+        <mark key="'" line="133" column="7" />
+        <mark key="[" line="116" column="8" />
+        <mark key="]" line="116" column="8" />
+        <mark key="." line="116" column="8" />
+        <mark key="^" line="96" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/Test/src/Main.kt" timestamp="1503443197555">
         <mark key="[" line="7" column="1" />
@@ -289,7 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="21" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="115" column="8" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="211" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -389,55 +388,56 @@
       <jump line="142" column="26" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="247" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="19" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="31" column="10" filename="$USER_HOME$/Github/CS241/text_editor/includes/vector.h" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IG51bV92YWxzOyBqKyspIHsKICAgICAgICAgICAgdmFsc1trZXlfaWR4XVtqXSA9IHN0cmR1cCgpCiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>filename</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>filename</text>
       </register>
       <register name="/" type="4">
-        <text>str_sp</text>
+        <text>vector_set</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHZhbHNba2V5X2lkeF1ba10pIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyZWUodmFsc1trZXlfaWR4XVtrXSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IG51bV92YWxzOyBqKyspIHsKICAgICAgICAgICAgdmFsc1trZXlfaWR4XVtqXSA9IHN0cmR1cCgpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlc1xuIiwgdmFsc1trZXlfaWR4XVtudW1fY3Vycl92YWxdKTsK</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50X3dyaXRlX3RvX2ZpbGUoZG9jdW1lbnQsIGZpbGVuYW1lKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmcmVlKHRva2VuKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnNlcnRlZF9saW5lW2lkeF0gPSAnJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmcmVlKHRva2VuKTsK</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoIiVkXG4iLCBudW1fY3Vycl92YWwpOwo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IG51bV92YWxzOyBqKyspIHsKICAgICAgICAgICAgcHJpbnRmKCJ2OiVzLlxuIiwgdmFsc1trZXlfaWR4XVtqXSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGluc2VydGVkX2xpbmVbXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdFtpXSA9IHN0cnRvayhzdHIsICIsIik7CiAgICB3aGlsZSAocmVzdWx0W2ldICE9IE5VTEwpIHsKICAgICAgICBpKys7CiAgICAgICAgcmVzdWx0W2ldID0gc3RydG9rKE5VTEwsICIsIik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludCBpZHggPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IG51bV92YWxzOyBqKyspIHsKICAgICAgICAgICAgdmFsc1trZXlfaWR4XVtqXSA9IHN0cmR1cCgpCiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>str_sp</last-search>
+      <last-search>vector_set</last-search>
       <last-offset />
-      <last-pattern>str_sp</last-pattern>
+      <last-pattern>vector_set</last-pattern>
       <last-replace>environ</last-replace>
       <last-substitute>ptr</last-substitute>
       <last-dir>1</last-dir>
@@ -445,7 +445,6 @@
     </search>
     <history>
       <history-search>
-        <entry>3</entry>
         <entry>2</entry>
         <entry>1</entry>
         <entry>a</entry>
@@ -465,6 +464,7 @@
         <entry>printf</entry>
         <entry>vals:</entry>
         <entry>str_sp</entry>
+        <entry>vector_set</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4vcy90cmF2ZXJzYWwvY3VycmVudENoYXJhY3Rlci9n</entry>
