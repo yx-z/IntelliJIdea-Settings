@@ -266,12 +266,12 @@
         <mark key="." line="51" column="119" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" timestamp="1505598663668">
-        <mark key="'" line="136" column="19" />
-        <mark key="[" line="59" column="31" />
-        <mark key="]" line="59" column="24" />
-        <mark key="." line="59" column="24" />
-        <mark key="^" line="59" column="24" />
+      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" timestamp="1505604242808">
+        <mark key="'" line="237" column="28" />
+        <mark key="[" line="56" column="47" />
+        <mark key="]" line="56" column="47" />
+        <mark key="." line="56" column="47" />
+        <mark key="^" line="166" column="32" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Intersect.kt" timestamp="1503623458901">
         <mark key="'" line="26" column="12" />
@@ -294,7 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="54" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="153" column="22" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="72" column="23" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="36" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -320,7 +319,6 @@
       <jump line="102" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="229" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="243" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="53" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="223" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="216" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="208" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -394,13 +392,15 @@
       <jump line="150" column="0" filename="$USER_HOME$/Github/CS241/text_editor/editor.c" />
       <jump line="139" column="0" filename="$USER_HOME$/Github/CS241/text_editor/editor.c" />
       <jump line="134" column="19" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="53" column="10" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="237" column="28" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXByaW50ZigiPT09PT0gPT09PT1cbiIpOwoJaGFuZGxlX2Rpc3BsYXlfY29tbWFuZChkb2MsIDEsIC0xLCAwLCAtMSk7CglwcmludGYoIkRPQyBTSVpFOiAlenVcbiIsIGRvY3VtZW50X3NpemUoZG9jKSk7CgoJcHJpbnRmKCI9PT09PSA9PT09PVxuIik7Cglkb2N1bWVudF9pbnNlcnRfbGluZShkb2MsIDEsICJURVNUIik7CgloYW5kbGVfZGlzcGxheV9jb21tYW5kKGRvYywgMSwgLTEsIDAsIC0xKTsKCXByaW50ZigiRE9DIFNJWkU6ICV6dVxuIiwgZG9jdW1lbnRfc2l6ZShkb2MpKTsKCglwcmludGYoIj09PT09ID09PT09XG4iKTsKCWRvY3VtZW50X2RlbGV0ZV9saW5lKGRvYywgMik7CgloYW5kbGVfZGlzcGxheV9jb21tYW5kKGRvYywgMCwgLTEsIDAsIC0xKTsKCXByaW50ZigiRE9DIFNJWkU6ICV6dVxuIiwgZG9jdW1lbnRfc2l6ZShkb2MpKTsKCglwcmludGYoIj09PT09ID09PT09XG4iKTsKCWRvY3VtZW50X3dyaXRlX3RvX2ZpbGUoZG9jLCAidGVzdC1vdXQudHh0Iik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>vector_set</text>
@@ -409,31 +409,31 @@
         <text encoding="base64">CWhhbmRsZV9kaXNwbGF5X2NvbW1hbmQoZG9jLCAxLCAxLCAwLCAtMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaW50ZigiPT09PT0gPT09PT1cbiIpOwoJaGFuZGxlX2Rpc3BsYXlfY29tbWFuZChkb2MsIDEsIC0xLCAwLCAtMSk7CglwcmludGYoIkRPQyBTSVpFOiAlenVcbiIsIGRvY3VtZW50X3NpemUoZG9jKSk7CgoJcHJpbnRmKCI9PT09PSA9PT09PVxuIik7Cglkb2N1bWVudF9pbnNlcnRfbGluZShkb2MsIDEsICJURVNUIik7CgloYW5kbGVfZGlzcGxheV9jb21tYW5kKGRvYywgMSwgLTEsIDAsIC0xKTsKCXByaW50ZigiRE9DIFNJWkU6ICV6dVxuIiwgZG9jdW1lbnRfc2l6ZShkb2MpKTsKCglwcmludGYoIj09PT09ID09PT09XG4iKTsKCWRvY3VtZW50X2RlbGV0ZV9saW5lKGRvYywgMik7CgloYW5kbGVfZGlzcGxheV9jb21tYW5kKGRvYywgMCwgLTEsIDAsIC0xKTsKCXByaW50ZigiRE9DIFNJWkU6ICV6dVxuIiwgZG9jdW1lbnRfc2l6ZShkb2MpKTsKCglwcmludGYoIj09PT09ID09PT09XG4iKTsKCWRvY3VtZW50X3dyaXRlX3RvX2ZpbGUoZG9jLCAidGVzdC1vdXQudHh0Iik7Cg==</text>
+        <text encoding="base64">Ly8gcmVmZXJlbmNlOiBodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy85MjEwNTI4L3NwbGl0LXN0cmluZy13aXRoLWRlbGltaXRlcnMtaW4tYwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGZyZWUocmVzdWx0W2ldKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWhhbmRsZV9kaXNwbGF5X2NvbW1hbmQoZG9jLCAxLCAxLCAwLCAtMSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImluY2x1ZGVzL3ZlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFmb3VuZF9hbGlhcyAmJiBudW1fdmFscyAhPSAxKSB7CiAgICAgICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IG51bV92YWxzOyBqKyspIHsKICAgICAgICAgICAgICAgICAgICBpZiAodmFsc1trZXlfaWR4XVtqXSkgewogICAgICAgICAgICAgICAgICAgICAgICBmcmVlKHZhbHNba2V5X2lkeF1bal0pOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB2YWxzW2tleV9pZHhdW2pdID0gc3RyZHVwKCIiKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInZlY3Rvci5oImQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoIWZvdW5kX2FsaWFzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50X2Vudl91c2FnZSgpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gMTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZHgrKzsKICAgICAgICAgICAgICAgICAgICBpKys7Cg==</text>
+        <text encoding="base64">CXByaW50ZigiPT09PT0gPT09PT1cbiIpOwoJaGFuZGxlX2Rpc3BsYXlfY29tbWFuZChkb2MsIDEsIC0xLCAwLCAtMSk7CglwcmludGYoIkRPQyBTSVpFOiAlenVcbiIsIGRvY3VtZW50X3NpemUoZG9jKSk7CgoJcHJpbnRmKCI9PT09PSA9PT09PVxuIik7Cglkb2N1bWVudF9pbnNlcnRfbGluZShkb2MsIDEsICJURVNUIik7CgloYW5kbGVfZGlzcGxheV9jb21tYW5kKGRvYywgMSwgLTEsIDAsIC0xKTsKCXByaW50ZigiRE9DIFNJWkU6ICV6dVxuIiwgZG9jdW1lbnRfc2l6ZShkb2MpKTsKCglwcmludGYoIj09PT09ID09PT09XG4iKTsKCWRvY3VtZW50X2RlbGV0ZV9saW5lKGRvYywgMik7CgloYW5kbGVfZGlzcGxheV9jb21tYW5kKGRvYywgMCwgLTEsIDAsIC0xKTsKCXByaW50ZigiRE9DIFNJWkU6ICV6dVxuIiwgZG9jdW1lbnRfc2l6ZShkb2MpKTsKCglwcmludGYoIj09PT09ID09PT09XG4iKTsKCWRvY3VtZW50X3dyaXRlX3RvX2ZpbGUoZG9jLCAidGVzdC1vdXQudHh0Iik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZHgrKzsKICAgICAgICAgICAgICAgICAgICBpKys7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICYmCg==</text>
+        <text encoding="base64">CWhhbmRsZV9kaXNwbGF5X2NvbW1hbmQoZG9jLCAxLCAxLCAwLCAtMSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImluY2x1ZGVzL3ZlIgo=</text>
       </register>
       <register name=":" type="4">
         <text>!svn ci -m &quot;hmm&quot;</text>
