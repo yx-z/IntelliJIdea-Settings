@@ -261,12 +261,12 @@
         <mark key="." line="51" column="119" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" timestamp="1505521264637">
-        <mark key="'" line="125" column="8" />
-        <mark key="[" line="26" column="26" />
-        <mark key="]" line="26" column="26" />
-        <mark key="." line="26" column="26" />
-        <mark key="^" line="25" column="33" />
+      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" timestamp="1505521949066">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="54" column="49" />
+        <mark key="]" line="56" column="24" />
+        <mark key="." line="56" column="24" />
+        <mark key="^" line="56" column="24" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Intersect.kt" timestamp="1503623458901">
         <mark key="'" line="26" column="12" />
@@ -339,7 +339,6 @@
       <jump line="147" column="41" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="53" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="116" column="32" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="54" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="225" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="223" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="216" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -389,55 +388,56 @@
       <jump line="215" column="41" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="144" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="125" column="8" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
+      <jump line="54" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>strlen</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGYoInZhbHM6ICVzLlxuIiwgdmFsX3N0cik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>strlen</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>printf</text>
+        <text>vals:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbnVtX2tleXM7IGkrKykgewogICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgbnVtX3ZhbHM7IGorKykgewogICAgICAgICAgICBwcmludGYoIiVzXG4iLCB2YWxzW2ldW2pdKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJXNcbiIsIHN1YnN0cl9mcm9tKCJhYmNkZWYiLCAiYyIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0cmNweShzdWJzdHIsIHN0cik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoInZhbHM6ICVzLlxuIiwgdmFsX3N0cik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNpemVfdCB1bnRpbCA9IHN0cnN0cihzdHIsIGVuZGluZykgLSBzdHI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoInZhbHM6ICVzLlxuIiwgdmFsX3N0cik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChzdHJzdHIoc3RyLCBlbmRpbmcpID09IE5VTEwpIHsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGYoInZhbHM6ICVzLlxuIiwgdmFsX3N0cik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJXNcbiIsIHN0cik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN1YnN0clt1bnRpbF0gPSAnXDAnOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN1YnN0cltzdWJzdHJfbGVuXSA9ICdcMCc7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChyZXN1bHQpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxfc3RyID0gTlVMTDsK</text>
+        <text encoding="base64">ICAgIGNoYXIgKnRtcCA9IHN0cjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRmKCIlc1xuIiwgdmFsc1tpXVtqXSk7Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlICgqdG1wKSB7CiAgICAgICAgdG1wKys7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ZigidjogJXMuXG4iLHZhbHNba2V5X2lkeF1bal0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZCA9PSAqdG1wKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>printf</last-search>
+      <last-search>vals:</last-search>
       <last-offset />
-      <last-pattern>printf</last-pattern>
+      <last-pattern>vals:</last-pattern>
       <last-replace>environ</last-replace>
       <last-substitute>ptr</last-substitute>
       <last-dir>1</last-dir>
@@ -445,7 +445,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'a'</entry>
         <entry>input</entry>
         <entry>3</entry>
         <entry>2</entry>
@@ -465,6 +464,7 @@
         <entry>temp_size</entry>
         <entry>malloc</entry>
         <entry>printf</entry>
+        <entry>vals:</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4vcy90cmF2ZXJzYWwvY3VycmVudENoYXJhY3Rlci9n</entry>
