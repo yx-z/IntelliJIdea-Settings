@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Github/CS241/text_editor/editor.h" timestamp="1505581763310" />
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/NQueens.kt" timestamp="1503636503554">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="6" column="42" />
@@ -30,12 +31,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/text_editor/editor.c" timestamp="1505580273868">
-        <mark key="'" line="192" column="7" />
-        <mark key="[" line="144" column="8" />
-        <mark key="]" line="146" column="51" />
-        <mark key="." line="146" column="51" />
-        <mark key="^" line="146" column="51" />
+      <file name="$USER_HOME$/Github/CS241/text_editor/editor.c" timestamp="1505581681948">
+        <mark key="'" line="235" column="7" />
+        <mark key="[" line="106" column="4" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Test/src/Main.kt" timestamp="1503443197555">
         <mark key="[" line="7" column="1" />
@@ -72,7 +72,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="15" column="43" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/text_editor/document.h" timestamp="1505311541878">
+      <file name="$USER_HOME$/Github/CS241/text_editor/document.h" timestamp="1505581622278">
         <mark key="'" line="17" column="31" />
       </file>
       <file name="/LLDB" timestamp="1505522650452">
@@ -238,7 +238,7 @@
         <mark key="." line="55" column="27" />
         <mark key="^" line="55" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505525714999">
+      <file name="/Dummy.txt" timestamp="1505581444938">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -392,10 +392,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lX25vCg==</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>vector_set</text>
@@ -404,31 +404,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHZhbHNba2V5X2lkeF1ba10pIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyZWUodmFsc1trZXlfaWR4XVtrXSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lX25vCg==</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobGluZV9ubyA8IGRvY3VtZW50X3NpemUoZG9jdW1lbnQpKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vVE9ETwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3BsaXRfbGluZSA9IG1hbGxvYyhpZHggKyAxKTsKICAgICAgICAgICAgc3BsaXRfbGluZVtpZHhdID0gJ1wwJzsKICAgICAgICAgICAgc3RybmNweShzcGxpdF9saW5lLCBvcmlfbGluZSwgaWR4KTsKICAgICAgICAgICAgZG9jdW1lbnRfc2V0X2xpbmUoZG9jdW1lbnQsIGxpbmVfbm8sIHNwbGl0X2xpbmUpOwogICAgICAgICAgICBmcmVlKHNwbGl0X2xpbmUpOwo=</text>
+        <text encoding="base64">ICAgIHNpemVfdCBkb2Nfc2l6ZSA9IGRvY3VtZW50X3NpemUoZG9jdW1lbnQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3BsaXRfbGluZVtuZXdfc2l6ZV0gPSAnXDAnOwo=</text>
+        <text encoding="base64">ICAgIGlmIChtYXhfbGluZXMgPCAtMSB8fCBtYXhfbGluZXMgPT0gMCB8fCBtYXhfY29scyA8IC0xIHx8IG1heF9jb2xzID09IDApIHsKICAgICAgICByZXR1cm47CiAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChkb2N1bWVudCAmJiBsb2MubGluZV9ubyA+IDAgJiYgbG9jLikK</text>
+        <text encoding="base64">ICAgIGlmICgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">ICAgIGlmIChtYXhfbGluZXMgPCAtMSB8fCBtYXhfbGluZXMgPT0gMCB8fCBtYXhfY29scyA8IC0xIHx8IG1heF9jb2xzID09IDApIHsKICAgICAgICByZXR1cm47CiAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8KICAgIGRvY3VtZW50X2luc2VydF9saW5lKGRvY3VtZW50LCBsaW5lX25vLCBsaW5lKTsK</text>
+        <text encoding="base64">ICAgIGlmIChkb2N1bWVudCAmJiBzZWFyY2hfc3RyICYmIGxvYy5saW5lX25vID4gMCAmJiBsb2MubGluZV9ubyA8IGRvY3VtZW50X3NpemUoZG9jdW1lbnQpKSB7CiAgICAgICAgCiAgICB9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
