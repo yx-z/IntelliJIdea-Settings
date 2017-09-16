@@ -31,11 +31,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/text_editor/editor.c" timestamp="1505590063692">
-        <mark key="'" line="277" column="7" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/Github/CS241/text_editor/editor.c" timestamp="1505592083594">
+        <mark key="'" line="139" column="0" />
+        <mark key="[" line="58" column="26" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="61" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/Test/src/Main.kt" timestamp="1503443197555">
         <mark key="[" line="7" column="1" />
@@ -59,12 +60,11 @@
         <mark key="^" line="61" column="0" />
         <mark key="." line="68" column="14" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/text_editor/document.c" timestamp="1505588431280">
+      <file name="$USER_HOME$/Github/CS241/text_editor/document.c" timestamp="1505591737775">
         <mark key="'" line="90" column="32" />
-        <mark key="[" line="10" column="10" />
-        <mark key="]" line="86" column="16" />
-        <mark key="." line="86" column="16" />
-        <mark key="^" line="86" column="16" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/arr/Duplicate.kt" timestamp="1503588147019">
         <mark key="[" line="8" column="33" />
@@ -77,6 +77,12 @@
       </file>
       <file name="/LLDB" timestamp="1505522650452">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Github/CS241/text_editor/editor_test.c" timestamp="1505592192709">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="32" column="42" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/array/Duplicate.kt" timestamp="1503552108878">
         <mark key="[" line="25" column="20" />
@@ -238,7 +244,7 @@
         <mark key="." line="55" column="27" />
         <mark key="^" line="55" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505581444938">
+      <file name="/Dummy.txt" timestamp="1505592126852">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -289,9 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="115" column="8" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="211" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="109" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="160" column="54" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="153" column="22" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -389,10 +392,13 @@
       <jump line="247" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="19" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="31" column="10" filename="$USER_HOME$/Github/CS241/text_editor/includes/vector.h" />
+      <jump line="153" column="4" filename="$USER_HOME$/Github/CS241/text_editor/editor.c" />
+      <jump line="150" column="0" filename="$USER_HOME$/Github/CS241/text_editor/editor.c" />
+      <jump line="139" column="0" filename="$USER_HOME$/Github/CS241/text_editor/editor.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZHgrKzsKICAgICAgICAgICAgICAgICAgICBpKys7Cg==</text>
+        <text encoding="base64">CXByaW50ZigiPT09PT0gPT09PT1cbiIpOwoJaGFuZGxlX2Rpc3BsYXlfY29tbWFuZChkb2MsIDEsIC0xLCAwLCAtMSk7CglwcmludGYoIkRPQyBTSVpFOiAlenVcbiIsIGRvY3VtZW50X3NpemUoZG9jKSk7CgoJcHJpbnRmKCI9PT09PSA9PT09PVxuIik7Cglkb2N1bWVudF9pbnNlcnRfbGluZShkb2MsIDEsICJURVNUIik7CgloYW5kbGVfZGlzcGxheV9jb21tYW5kKGRvYywgMSwgLTEsIDAsIC0xKTsKCXByaW50ZigiRE9DIFNJWkU6ICV6dVxuIiwgZG9jdW1lbnRfc2l6ZShkb2MpKTsKCglwcmludGYoIj09PT09ID09PT09XG4iKTsKCWRvY3VtZW50X2RlbGV0ZV9saW5lKGRvYywgMik7CgloYW5kbGVfZGlzcGxheV9jb21tYW5kKGRvYywgMCwgLTEsIDAsIC0xKTsKCXByaW50ZigiRE9DIFNJWkU6ICV6dVxuIiwgZG9jdW1lbnRfc2l6ZShkb2MpKTsKCglwcmludGYoIj09PT09ID09PT09XG4iKTsKCWRvY3VtZW50X3dyaXRlX3RvX2ZpbGUoZG9jLCAidGVzdC1vdXQudHh0Iik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
@@ -401,34 +407,34 @@
         <text>vector_set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHZhbHNba2V5X2lkeF1ba10pIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyZWUodmFsc1trZXlfaWR4XVtrXSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CWhhbmRsZV9kaXNwbGF5X2NvbW1hbmQoZG9jLCAxLCAxLCAwLCAtMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZHgrKzsKICAgICAgICAgICAgICAgICAgICBpKys7Cg==</text>
+        <text encoding="base64">CXByaW50ZigiPT09PT0gPT09PT1cbiIpOwoJaGFuZGxlX2Rpc3BsYXlfY29tbWFuZChkb2MsIDEsIC0xLCAwLCAtMSk7CglwcmludGYoIkRPQyBTSVpFOiAlenVcbiIsIGRvY3VtZW50X3NpemUoZG9jKSk7CgoJcHJpbnRmKCI9PT09PSA9PT09PVxuIik7Cglkb2N1bWVudF9pbnNlcnRfbGluZShkb2MsIDEsICJURVNUIik7CgloYW5kbGVfZGlzcGxheV9jb21tYW5kKGRvYywgMSwgLTEsIDAsIC0xKTsKCXByaW50ZigiRE9DIFNJWkU6ICV6dVxuIiwgZG9jdW1lbnRfc2l6ZShkb2MpKTsKCglwcmludGYoIj09PT09ID09PT09XG4iKTsKCWRvY3VtZW50X2RlbGV0ZV9saW5lKGRvYywgMik7CgloYW5kbGVfZGlzcGxheV9jb21tYW5kKGRvYywgMCwgLTEsIDAsIC0xKTsKCXByaW50ZigiRE9DIFNJWkU6ICV6dVxuIiwgZG9jdW1lbnRfc2l6ZShkb2MpKTsKCglwcmludGYoIj09PT09ID09PT09XG4iKTsKCWRvY3VtZW50X3dyaXRlX3RvX2ZpbGUoZG9jLCAidGVzdC1vdXQudHh0Iik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZHgrKzsKICAgICAgICAgICAgICAgICAgICBpKys7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICYmCg==</text>
+        <text encoding="base64">CWhhbmRsZV9kaXNwbGF5X2NvbW1hbmQoZG9jLCAxLCAxLCAwLCAtMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImluY2x1ZGVzL3ZlIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgInZlY3Rvci5oImQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZyZWUobGluZV9jb3B5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZHgrKzsKICAgICAgICAgICAgICAgICAgICBpKys7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZHgrKzsKICAgICAgICAgICAgICAgICAgICBpKys7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChzdHJzdHIobGluZSwgIlxcbiIpID09IE5VTEwgfHwgc3Ryc3RyKGxpbmUsICJcXG4iKSkgewogICAgICAgIGNoYXIqIGxpbmVfY29weSA9IG1hbGxvYyhsaW5lX2xlbiArIDEpOwogICAgICAgIGxpbmVfY29weVtsaW5lX2xlbl0gPSAnXDAnOwogICAgICAgIGludCBuZXdfbGluZV9sZW4gPSAwOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbGluZV9sZW47IGkrKykgewogICAgICAgICAgICBpZiAobGluZVtpXSA9PSAnXFwnKSB7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgbGluZV9jb3B5W25ld19saW5lX2xlbl0gPSBsaW5lW2ldOwogICAgICAgICAgICBuZXdfbGluZV9sZW4rKzsKICAgICAgICB9CiAgICAgICAgbGluZV9jb3B5W25ld19saW5lX2xlbl0gPSAnXDAnOwogICAgICAgIGRvY3VtZW50X3NldF9saW5lKGRvY3VtZW50LCBsaW5lX25vLCBsaW5lX2NvcHkpOwogICAgICAgIGZyZWUobGluZV9jb3B5KTsKICAgICAgICByZXR1cm47CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICYmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
