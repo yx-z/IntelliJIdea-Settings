@@ -74,6 +74,9 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="15" column="43" />
       </file>
+      <file name="$USER_HOME$/Desktop/BloombergInterview/src/Main.kt" timestamp="1505760192644">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/map/MyHashMap.kt" timestamp="1505188264668">
         <mark key="'" line="82" column="95" />
         <mark key="[" line="28" column="12" />
@@ -119,7 +122,6 @@
         <mark key="." line="30" column="32" />
         <mark key="^" line="30" column="32" />
       </file>
-      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/stack/PathCompression.kt" timestamp="1505675944962" />
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/ClosestAncestor.kt" timestamp="1505704553623">
         <mark key="[" line="11" column="57" />
         <mark key="]" line="13" column="0" />
@@ -286,11 +288,16 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/oop/LRUCache.kt" timestamp="1505740353735">
-        <mark key="'" line="28" column="20" />
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Desktop/BloombergInterview/src/Main.java" timestamp="1505760190289">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/oop/LRUCache.kt" timestamp="1505741604362">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1505695600212">
         <mark key="[" line="0" column="0" />
@@ -428,10 +435,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWRlbCgodGFpbC5wcmU/KSkK</text>
+        <text encoding="base64">CQlpZiAobWFwLmNvbnRhaW5zS2V5KGtleSkpIHsKCQkJcmV0dXJuIG1hcFtrZXldCgkJfQoJCXJldHVybiAtMQo=</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>Node</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
@@ -440,31 +447,31 @@
         <text encoding="base64">CXByaW50bG4ocm9vdC5ic3RMQ0FSZWN1cihyb290LmxlZnQhISwgcm9vdC5yaWdodCEhLnJpZ2h0ISEpISEuZGF0YSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWRlbCgodGFpbC5wcmU/KSkK</text>
+        <text encoding="base64">CQlpZiAobWFwLmNvbnRhaW5zS2V5KGtleSkpIHsKCQkJcmV0dXJuIG1hcFtrZXldCgkJfQoJCXJldHVybiAtMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJbWFwLnB1dCgpCg==</text>
+        <text encoding="base64">CXByaXZhdGUgdmFyIGNvdW50ID0gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJdXAoKQo=</text>
+        <text encoding="base64">CXByaXZhdGUgdmFsIGxpc3QgPSBMaW5rZWRMaXN0PEludD4oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJdmFsIG4gPSBtYXBba2V5XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJbi51cGRhdGUoKQo=</text>
+        <text encoding="base64">Cglwcml2YXRlIGNsYXNzIE5vZGUodmFyIGtleTogSW50LCB2YXIgdmFsdWU6IEludCkgewoJCXZhciBwcmU6IE5vZGU/ID0gbnVsbAoJCXZhciBuZXg6IE5vZGU/ID0gbnVsbAoJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXByaXZhdGUgZnVuIHVwKG46IE5vZGUpIHsKCQlkZWwobikKCQlhZGQobikKCX0KCglwcml2YXRlIGZ1biBkZWwobjogTm9kZSkgewoJCW4ucHJlPy5uZXggPSBuLm5leAoJCW4ubmV4Py5wcmUgPSBuLnByZQoJfQoKCXByaXZhdGUgZnVuIGFkZChuOiBOb2RlKSB7CgkJbi5uZXggPSBoZWFkLm5leAoJCW4ubmV4Py5wcmUgPSBuCgkJbi5wcmUgPSBoZWFkCgkJaGVhZC5uZXggPSBuCgl9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmdW4gdXBkYXRlKCkgewoJCQlyZW1vdmUoKQoJCQlhZGQoKQoJCX0KCQkKCQlmdW4gcmVtb3ZlKCkgewoJCQl0aGlzLnByZS5uZXggPSB0aGlzLm5leAoJCX0KCQkKCQlmdW4gYWRkKCkgewoJCQl0aGlzLm5leCA9IAoJCX0K</text>
+        <text encoding="base64">CQkJcmV0dXJuIG1hcFtrZXldISEudmFsdWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJdXBkYXRlKG4pCg==</text>
+        <text encoding="base64">CQlpZiAobWFwLmNvbnRhaW5zS2V5KGtleSkpIHsKCQkJdmFsIG4gPSBtYXBba2V5XQoJCQluISEudmFsdWUgPSB2YWx1ZQoJCQl1cChuKQoJCX0gZWxzZSB7CgkJCXZhbCBuID0gTm9kZShrZXksIHZhbHVlKQoJCQltYXAucHV0KGtleSwgbikKCQkJaWYgKGNvdW50IDwgY2FwKSB7CgkJCQljb3VudCsrCgkJCQlhZGQobikKCQkJfSBlbHNlIHsKCQkJCW1hcC5yZW1vdmUodGFpbC5wcmU/LmtleSkKCQkJCWlmICh0YWlsLnByZSAhPSBudWxsKSB7CgkJCQkJZGVsKHRhaWwucHJlISEpCgkJCQl9CgkJCQlhZGQobikKCQkJfQoJCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgdmFyIGhlYWQgPSBOb2RlKDAsIDApCglwcml2YXRlIHZhciB0YWlsID0gTm9kZSgwLCAwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
