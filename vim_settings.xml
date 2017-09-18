@@ -144,6 +144,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/stack/MergeInterval.kt" timestamp="1505698886847">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Compression.kt" timestamp="1504098997036">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="0" />
@@ -317,6 +322,9 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Primitives.kt" timestamp="1505698532345">
+        <mark key="'" line="535" column="24" />
+      </file>
       <file name="/fragment.java" timestamp="1504567613532">
         <mark key="[" line="0" column="0" />
       </file>
@@ -396,13 +404,15 @@
       <jump line="17" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Cycle.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Cycle.kt" />
       <jump line="12" column="28" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Reverse.kt" />
+      <jump line="10" column="16" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/stack/MergeInterval.kt" />
+      <jump line="535" column="24" filename="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Primitives.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQl2YWwgdmFsaWRSb3dzID0gbWluT2YobnVtUm93cywgc3VtKQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>ek</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
@@ -411,31 +421,31 @@
         <text encoding="base64">CXByaW50bG4ocmV2ZXJzZWQubmV4dCEhLmRhdGEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl2YWwgdmFsaWRSb3dzID0gbWluT2YobnVtUm93cywgc3VtKQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vIG0gKHJvd3MpICogbiAoY29scykgbWF0cml4Cg==</text>
+        <text encoding="base64">CUludGVnZXIuY29tcGFyZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkoMCAuLiBtaW5PZihtLCBzdW0pKQo=</text>
+        <text encoding="base64">CQkJamsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkKCQkoMCB1bnRpbCBtKS5mb3JFYWNoIHsgcm93IC0+CgkJCSgwIHVudGlsIG4pLmZvckVhY2ggeyBjb2wgLT4KCQkJCWlmIChyb3cgKyBjb2wgPT0gc3VtKSB7CgkJCQkJcHJpbnQoIiR7dGhpc1tyb3ddW2NvbF19ICIpCgkJCQl9CgkJCX0KCQl9CgkJcHJpbnRsbigpCg==</text>
+        <text encoding="base64">CQkJc3RhY2sucG9wKCkKCQkJc3RhY2sucAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CVRPRE8oKQo=</text>
+        <text encoding="base64">CQkJcGVlay5lbmRJbmNsdXNpdmUgPSBjdXJyLmVuZEluY2x1c2l2ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE5leHRQZXJtdSB7Cn0K</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJbWFwLnB1Cg==</text>
+        <text encoding="base64">CXZhbCBtZXJnZWQgPSBBcnJheUxpc3Q8SW50UmFuZ2U+KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5jb2xsZWN0aW9ucy5BcnJheUxpc3QK</text>
+        <text encoding="base64">CXByaW50bG4oQXJyYXlzLnRvU3RyaW5nKHRoaXMpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXZhbCBuZXh0R3JlYXRlck51bUxpc3QgPSBhcnIuZ2V0TmV4dEdyZWF0ZXJOdW0oKQo=</text>
+        <text encoding="base64">Ci8vIG92ZXJyaWRlIGZ1biBJbnRSYW5nZS50b1N0cmluZygpID0gIlske3RoaXMuc3RhcnR9LCAke3RoaXMuZW5kSW5jbHVzaXZlfV0iCg==</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
