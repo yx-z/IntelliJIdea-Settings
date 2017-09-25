@@ -243,7 +243,7 @@
         <mark key="." line="55" column="27" />
         <mark key="^" line="55" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505825356492">
+      <file name="/Dummy.txt" timestamp="1506093364797">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -260,19 +260,24 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/VCS/CS241/shell/format.c" timestamp="1506005351662" />
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Anagram.kt" timestamp="1503618900325">
         <mark key="[" line="51" column="34" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="119" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/VCS/CS241/shell/shell.c" timestamp="1506006461997">
-        <mark key="'" line="404" column="0" />
-        <mark key="[" line="156" column="38" />
-        <mark key="]" line="157" column="30" />
-        <mark key="." line="157" column="30" />
-        <mark key="^" line="157" column="30" />
+      <file name="$USER_HOME$/VCS/CS241/mini_valgrind/mini_valgrind.c" timestamp="1506027898143">
+        <mark key="'" line="94" column="28" />
+        <mark key="[" line="107" column="17" />
+        <mark key="]" line="94" column="28" />
+        <mark key="." line="94" column="28" />
+        <mark key="^" line="94" column="28" />
+      </file>
+      <file name="$USER_HOME$/VCS/CS241/shell/shell.c" timestamp="1506093326446">
+        <mark key="[" line="417" column="43" />
+        <mark key="]" line="418" column="29" />
+        <mark key="." line="418" column="29" />
+        <mark key="^" line="418" column="29" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Intersect.kt" timestamp="1503623458901">
         <mark key="'" line="26" column="12" />
@@ -295,8 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="17" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="156" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="71" column="22" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="139" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="0" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -395,46 +398,48 @@
       <jump line="407" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="405" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="403" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
+      <jump line="17" column="19" filename="$USER_HOME$/VCS/CS241/mini_valgrind/mini_valgrind.c" />
+      <jump line="94" column="28" filename="$USER_HOME$/VCS/CS241/mini_valgrind/mini_valgrind.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiSEVSRSEhISFcbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoc2l6ZV90IGkgPSApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>char *</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJlZShpZHhfc3RyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyZWUoY21kX3N0cik7CiAgICAgICAgICAgICAgICBmcmVlX2FyZ3MoY21kX2FyZ3YpOwogICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiSEVSRSEhISFcbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoc2l6ZV90IGkgPSApCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50X2ludmFsaWRfY29tbWFuZChjbWRfc3RyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">fQogICAgICAgICAgICAKICAgICAgICAgICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gaS5lLiBzdHIuc3Vic3RyaW5nKDAsIHN0ci5pbmRleE9mKHVudGlsKSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY21kX2FyZ3ZbMF1bMF0gPT0gJyEnKSB7CiAgICAgICAgICAgIGlmIChjbWRfYXJnYyA9PSAxKSB7CgogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcHJpbnRfaW52YWxpZF9jb21tYW5kKGNtZF9zdHIpOwogICAgICAgICAgICB9CiAgICAgICAgfQoKCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gaS5lLiBzdHIuc3Vic3RyaW5nKHN0ci5pbmRleE9mKHN0YXJ0KSArIHN0cmxlbihzdGFydCksIHN0cmxlbihzdHIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBOVUxMOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ym8K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0b3RhbF9tZW1vcnlfcmVxdWVzdGVkID0gdG90YWxfbWVtb3J5X3JlcXVlc3RlZCArIHJlcXVlc3Rfc2l6ZSAtIG9sZF9zaXplOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBidWlsdCBpbiBjb21tYW5kOgo=</text>
+        <text encoding="base64">ICAgIHByaW50ZigiSEVSRSEhISFcbiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
