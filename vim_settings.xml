@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/VCS/CS241/shell/super_shell.c" timestamp="1506547942426">
-        <mark key="'" line="71" column="11" />
-        <mark key="[" line="240" column="15" />
-        <mark key="]" line="351" column="24" />
-        <mark key="." line="351" column="24" />
-        <mark key="^" line="351" column="24" />
+      <file name="$USER_HOME$/VCS/CS241/shell/super_shell.c" timestamp="1506549211406">
+        <mark key="'" line="170" column="24" />
+        <mark key="[" line="459" column="16" />
+        <mark key="]" line="459" column="17" />
+        <mark key="." line="459" column="17" />
+        <mark key="^" line="459" column="17" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/NQueens.kt" timestamp="1503636503554">
         <mark key="[" line="5" column="51" />
@@ -190,10 +190,10 @@
         <mark key="^" line="32" column="33" />
         <mark key="." line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/VCS/CS241/shell/CMakeLists.txt" timestamp="1506545377816">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/VCS/CS241/shell/CMakeLists.txt" timestamp="1506548359812">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/string/Anagram.kt" timestamp="1503545712192">
         <mark key="[" line="16" column="15" />
@@ -285,9 +285,11 @@
         <mark key="." line="94" column="28" />
         <mark key="^" line="94" column="28" />
       </file>
-      <file name="$USER_HOME$/VCS/CS241/shell/shell.c" timestamp="1506545270914">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="156" column="1" />
+      <file name="$USER_HOME$/VCS/CS241/shell/shell.c" timestamp="1506548480751">
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="201" column="2" />
+        <mark key="^" line="221" column="26" />
+        <mark key="." line="221" column="26" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Intersect.kt" timestamp="1503623458901">
         <mark key="'" line="26" column="12" />
@@ -310,10 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="75" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="78" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="133" column="47" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="135" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="225" column="8" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="181" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -409,56 +407,60 @@
       <jump line="136" column="5" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
       <jump line="442" column="4" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
       <jump line="351" column="24" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
+      <jump line="244" column="41" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
       <jump line="71" column="11" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
+      <jump line="65" column="0" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
+      <jump line="89" column="0" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
+      <jump line="116" column="24" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2hhciogc3RyX2ZpbmQoY29uc3QgY2hhciogc3RyLCBjb25zdCBjaGFyKiBzdWJzdHIpIHsK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>strstr</text>
+        <text>str_find</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2hhciogc3RyX2ZpbmQoY29uc3QgY2hhciogc3RyLCBjb25zdCBjaGFyKiBzdWJzdHIpIHsK</text>
+        <text encoding="base64">LyoqCiAqIHNsaWNlIHRoZSBzdHJpbmcgdW50aWwgd2UgaGF2ZSBtZXQgdGhlIGZpcnN0IG9jY3VyZW5jZSBvZiB1bnRpbCBzdHJpbmcKICoKICogQHBhcmFtIHN0ciB0byBiZSBzcGxpY2VkCiAqIEBwYXJhbSB1bnRpbCBzdHJpbmcgbWFya2VkIGFzIHRoZSBlbmRpbmcKICogQHJldHVybiB0aGUgc2xpY2VkIHN1YnN0cmluZywgY2FsbGVyIHNob3VsZCBmcmVlIGl0CiAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2hhciogc3RyX2ZpbmQoY29uc3QgY2hhciogc3RyLCBjb25zdCBjaGFyKiBzdWJzdHIpIHsKCXJldHVybiBzdHJzdHIoc3RyLCBzdWJzdHIpOwp9Cgo=</text>
+        <text encoding="base64">CQkJCWludCBzdGF0dXMgPSAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCWludCBzdGF0dXMgPSAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZiAobGluZVtjaGFycyAtIDFdID09ICdcbicpIHsKCQkJbGluZVtjaGFycyAtIDFdID0gJ1wwJzsKCQl9Cg==</text>
+        <text encoding="base64">CQkJaW50IHN0YXR1cyA9IDA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWlmIChzdHJfY29udGFpbnMoKSkK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCS8vIGZpbmlzaGVkIC0gc2hvdWxkIG5vdCBiZSBoZXJlCgkJCQlyZXR1cm4gRVhJVF9GQUlMVVJFOwo=</text>
+        <text encoding="base64">CQlpbnQgaW5kZXggPSBhdG9pKG51bV9zdHIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAgICAoZmlsZV9tb2RlICYmICFoaXN0X21vZGUgJiYgKGFyZ2MgIT0gMykpIHx8Cg==</text>
+        <text encoding="base64">CQlmcmVlKG51bV9zdHIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWxpbmUgPSBOVUxMOwo=</text>
+        <text encoding="base64">CQlzc2NhbmYoYXJndlswXSwgIiMlZCIsICZpbmRleCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmVjdG9yKiB2ZWNfZnJvbV9maWxlKGNoYXIqIGZpbGVfbmFtZSkgewo=</text>
+        <text encoding="base64">CQkJcHJpbnRfaW52YWxpZF9jb21tYW5kKGxpbmUpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>strstr</last-search>
+      <last-search>str_find</last-search>
       <last-offset />
-      <last-pattern>strstr</last-pattern>
+      <last-pattern>str_find</last-pattern>
       <last-replace>string</last-replace>
       <last-substitute>char *</last-substitute>
       <last-dir>1</last-dir>
@@ -466,7 +468,6 @@
     </search>
     <history>
       <history-search>
-        <entry>size</entry>
         <entry>erase</entry>
         <entry>write</entry>
         <entry>insert</entry>
@@ -486,6 +487,7 @@
         <entry>= NULL;</entry>
         <entry>run_script</entry>
         <entry>strstr</entry>
+        <entry>str_find</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9z</entry>
@@ -506,8 +508,8 @@
         <entry encoding="base64">JzwsJz5zL3B0ci9lbnZpcm9uL2c=</entry>
         <entry>!svn ci -m &quot;hmm&quot;</entry>
         <entry encoding="base64">JzwsJz5zL2NoYXIgKi9zdHJpbmcvZw==</entry>
-        <entry>w</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
