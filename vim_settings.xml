@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/VCS/CS241/shell/super_shell.c" timestamp="1506545301206">
-        <mark key="'" line="204" column="8" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="82" column="0" />
+      <file name="$USER_HOME$/VCS/CS241/shell/super_shell.c" timestamp="1506546565665">
+        <mark key="'" line="448" column="4" />
+        <mark key="[" line="62" column="8" />
+        <mark key="]" line="62" column="8" />
+        <mark key="." line="62" column="8" />
+        <mark key="^" line="111" column="33" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/NQueens.kt" timestamp="1503636503554">
         <mark key="[" line="5" column="51" />
@@ -190,7 +190,7 @@
         <mark key="^" line="32" column="33" />
         <mark key="." line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/VCS/CS241/shell/CMakeLists.txt" timestamp="1506541886663">
+      <file name="$USER_HOME$/VCS/CS241/shell/CMakeLists.txt" timestamp="1506545377816">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -310,13 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="32" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="151" column="44" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="147" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="141" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="127" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="123" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="116" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="54" column="15" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="67" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -410,55 +403,62 @@
       <jump line="259" column="5" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
       <jump line="35" column="5" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
       <jump line="153" column="8" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
+      <jump line="100" column="8" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
+      <jump line="428" column="23" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
+      <jump line="25" column="8" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
+      <jump line="66" column="0" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
+      <jump line="109" column="0" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
+      <jump line="136" column="5" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
+      <jump line="442" column="4" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSNkZWZpbmUgV0hJVEVfU1BBQ0VfQ09VTlQgNwo=</text>
+      <register name="&quot;" type="4">
+        <text>line</text>
       </register>
       <register name="-" type="4">
-        <text>bool</text>
+        <text>line</text>
       </register>
       <register name="/" type="4">
-        <text>print_prefix</text>
+        <text>run_script</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyoqCiAqIGNoZWNrIGlmIHRoZXJlIGV4aXN0cyBhIHN1YnN0cmluZyBpbiBhbm90aGVyIHN0cmluZwogKgogKiBAcGFyYW0gc3RyIHRoZSBsb25nZXIgc3RyaW5nIHRoYXQgbWlnaHQgY29udGFpbnMgc3Vic3RyCiAqIEBwYXJhbSBzdWJzdHIgdG8gYmUgY2hlY2tlZCBpZiBpdCBpcyBjb250YWluZWQgaW4gc3RyCiAqIEByZXR1cm4gdHJ1ZSBpZiBzdWJzdHIgaXMgY29udGFpbmVkIGluIHN0ciwgZmFsc2Ugb3RoZXJ3aXNlCiAqLwpib29sIHN0cl9jb250YWlucyhjb25zdCBjaGFyICpzdHIsIGNvbnN0IGNoYXIgKnN1YnN0cikgewoJcmV0dXJuIHN0cnN0cihzdHIsIHN1YnN0cikgIT0gTlVMTDsKfQoKLyoqCiAqIGNoZWNrIGlmIHR3byBzdHJpbmdzIGFyZSBlcXVhbAogKgogKiBAcGFyYW0gczEgZmlyc3Qgc3RyaW5nIHRvIGJlIGNoZWNrZWQKICogQHBhcmFtIHMyIHNlY29uZCBzdHJpbmcgdG8gYmUgY2hlY2tlZAogKiBAcmV0dXJuIHRydWUgaWYgczEgYW5kIHMyIGFyZSBlcXVhbCBjaGFyYWN0ZXIgYnkgY2hhcmFjdGVyLCBmYWxzZSBvdGhlcndpc2UKICovCmJvb2wgc3RyX2VxdWFsKGNvbnN0IGNoYXIgKnMxLCBjb25zdCBjaGFyICpzMikgewoJLy8gczEgaXMgZXF1YWwgdG8gczIgaWYgYW5kIG9ubHkgaWYgdGhleSBjb250YWluIGVhY2ggb3RoZXIKCXJldHVybiBzdHJfY29udGFpbnMoczEsIHMyKSAmJiBzdHJfY29udGFpbnMoczIsIHMxKTsKfQoKLyoqCiAqIGNoZWNrIGlmIHN0cmluZyBpcyBlbXB0eQogKgogKiBAcGFyYW0gczEgc3RyaW5nIHRvIGJlIGNoZWNrZWQKICogQHJldHVybiB0cnVlIGlmIHMxIGlzIGVtcHR5LCBmYWxzZSBvdGhlcndpc2UKICovCmJvb2wgc3RyX2VtcHR5KGNvbnN0IGNoYXIgKnMxKSB7CglpZiAoczEgPT0gTlVMTCkgewoJCXJldHVybiB0cnVlOwoJfQoJY29uc3QgY2hhciBXSElURV9TUEFDRVtXSElURV9TUEFDRV9DT1VOVF0gPSB7JyAnLCAnXHQnLCAnXG4nLCAnXHYnLCAnXGYnLCAnXHInLCAnXDAnfTsKCXdoaWxlICgqczEpIHsKCQlib29sIGZvdW5kID0gZmFsc2U7CgkJZm9yIChzaXplX3QgaSA9IDA7IGkgPCBXSElURV9TUEFDRV9DT1VOVDsgaSsrKSB7CgkJCWlmICgqczEgPT0gV0hJVEVfU1BBQ0VbaV0pIHsKCQkJCWZvdW5kID0gdHJ1ZTsKCQkJCWJyZWFrOwoJCQl9CgkJfQoJCWlmICghZm91bmQpIHsKCQkJcmV0dXJuIGZhbHNlOwoJCX0KCQlzMSsrOwoJfQoJcmV0dXJuIHRydWU7Cn0K</text>
+        <text encoding="base64">CQkJCS8vIGZpbmlzaGVkIC0gc2hvdWxkIG5vdCBiZSBoZXJlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSNkZWZpbmUgV0hJVEVfU1BBQ0VfQ09VTlQgNwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2RlZmluZSBXSElURV9TUEFDRV9DT1VOVCA3Cg==</text>
+        <text encoding="base64">CQlpZiAobGluZVtjaGFycyAtIDFdID09ICdcbicpIHsKCQkJbGluZVtjaGFycyAtIDFdID0gJ1wwJzsKCQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImluY2x1ZGVzL3ZlY3Rvci5oIgo=</text>
+        <text encoding="base64">CWlmIChzdHJfY29udGFpbnMoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJcmV0dXJuOwo=</text>
+        <text encoding="base64">CQkJCS8vIGZpbmlzaGVkIC0gc2hvdWxkIG5vdCBiZSBoZXJlCgkJCQlyZXR1cm4gRVhJVF9GQUlMVVJFOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcmV0dXJuOwo=</text>
+        <text encoding="base64">CSAgICAoZmlsZV9tb2RlICYmICFoaXN0X21vZGUgJiYgKGFyZ2MgIT0gMykpIHx8Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJcmV0dXJuOwo=</text>
+        <text encoding="base64">CWxpbmUgPSBOVUxMOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcmV0dXJuOwo=</text>
+        <text encoding="base64">dmVjdG9yKiB2ZWNfZnJvbV9maWxlKGNoYXIqIGZpbGVfbmFtZSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJcmV0dXJuOwo=</text>
+        <text encoding="base64">dmVjdG9yKiB2ZWNfZnJvbV9maWxlKGNoYXIqIGZpbGVfbmFtZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJcmV0dXJuOwo=</text>
+        <text encoding="base64">Ym9vbCBzdHJfZW1wdHkoY29uc3QgY2hhciogczEpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>print_prefix</last-search>
+      <last-search>run_script</last-search>
       <last-offset />
-      <last-pattern>print_prefix</last-pattern>
+      <last-pattern>run_script</last-pattern>
       <last-replace>string</last-replace>
       <last-substitute>char *</last-substitute>
       <last-dir>1</last-dir>
@@ -466,9 +466,6 @@
     </search>
     <history>
       <history-search>
-        <entry>a</entry>
-        <entry>A</entry>
-        <entry>set</entry>
         <entry>destroy</entry>
         <entry>size</entry>
         <entry>erase</entry>
@@ -486,6 +483,9 @@
         <entry>vector_set</entry>
         <entry>char *</entry>
         <entry>print_prefix</entry>
+        <entry>vec_from_file</entry>
+        <entry>= NULL;</entry>
+        <entry>run_script</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9z</entry>
@@ -503,11 +503,11 @@
         <entry encoding="base64">JzwsJz5zL0EvQi9n</entry>
         <entry encoding="base64">JzwsJz5zL2RvY1NpemUvZG9jX3NpemUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3RyYXZlcnNhbC90bXAvZw==</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL3B0ci9lbnZpcm9uL2c=</entry>
         <entry>!svn ci -m &quot;hmm&quot;</entry>
         <entry encoding="base64">JzwsJz5zL2NoYXIgKi9zdHJpbmcvZw==</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
