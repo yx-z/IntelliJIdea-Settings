@@ -3,12 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/VCS/CS241/shell/super_shell.c" timestamp="1506549211406">
+      <file name="$USER_HOME$/VCS/CS241/shell/super_shell.c" timestamp="1506549897045">
         <mark key="'" line="170" column="24" />
-        <mark key="[" line="459" column="16" />
-        <mark key="]" line="459" column="17" />
-        <mark key="." line="459" column="17" />
-        <mark key="^" line="459" column="17" />
+        <mark key="[" line="385" column="25" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/NQueens.kt" timestamp="1503636503554">
         <mark key="[" line="5" column="51" />
@@ -242,6 +239,7 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
+      <file name="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/unistd.h" timestamp="1506549392878" />
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/arr/ClosestNumber.kt" timestamp="1504098910895">
         <mark key="[" line="8" column="53" />
         <mark key="]" line="8" column="50" />
@@ -414,44 +412,44 @@
       <jump line="116" column="24" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCWlmIChzdHJfZXF1YWwoYXJndlswXSwgImNkIikpIHsKCQkJCQljZChhcmd2WzFdKTsKCQkJCX0gZWxzZSB7CgkJCQkJcHJpbnRfY29tbWFuZF9leGVjdXRlZChjaGlsZCk7CgkJCQl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>str_find</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyoqCiAqIHNsaWNlIHRoZSBzdHJpbmcgdW50aWwgd2UgaGF2ZSBtZXQgdGhlIGZpcnN0IG9jY3VyZW5jZSBvZiB1bnRpbCBzdHJpbmcKICoKICogQHBhcmFtIHN0ciB0byBiZSBzcGxpY2VkCiAqIEBwYXJhbSB1bnRpbCBzdHJpbmcgbWFya2VkIGFzIHRoZSBlbmRpbmcKICogQHJldHVybiB0aGUgc2xpY2VkIHN1YnN0cmluZywgY2FsbGVyIHNob3VsZCBmcmVlIGl0CiAqLwo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIEVYSVRfRkFJTFVSRTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCWlmIChzdHJfZXF1YWwoYXJndlswXSwgImNkIikpIHsKCQkJCQljZChhcmd2WzFdKTsKCQkJCX0gZWxzZSB7CgkJCQkJcHJpbnRfY29tbWFuZF9leGVjdXRlZChjaGlsZCk7CgkJCQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWludCBzdGF0dXMgPSAwOwo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWludCBzdGF0dXMgPSAwOwo=</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJaW50IHN0YXR1cyA9IDA7Cg==</text>
+        <text encoding="base64">CQkJCXByaW50X2NvbW1hbmRfZXhlY3V0ZWQoY2hpbGQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQlwcmludF9jb21tYW5kX2V4ZWN1dGVkKGNoaWxkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpbnQgaW5kZXggPSBhdG9pKG51bV9zdHIpOwo=</text>
+        <text encoding="base64">CQkJCQljaGFyKiBkaXIgPSBzdWJzdHJfZnJvbShhcmd2WzBdLCAiY2QiKTsKCQkJCQljZChkaXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmcmVlKG51bV9zdHIpOwo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlzc2NhbmYoYXJndlswXSwgIiMlZCIsICZpbmRleCk7Cg==</text>
+        <text encoding="base64">CQkJCWludCBzdGF0dXMgPSAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJcHJpbnRfaW52YWxpZF9jb21tYW5kKGxpbmUpOwo=</text>
+        <text encoding="base64">CQkJCWludCBzdGF0dXMgPSAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
