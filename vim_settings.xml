@@ -3,9 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/VCS/CS241/shell/super_shell.c" timestamp="1506549897045">
+      <file name="$USER_HOME$/VCS/CS241/shell/super_shell.c" timestamp="1506550402027">
         <mark key="'" line="170" column="24" />
         <mark key="[" line="385" column="25" />
+        <mark key="]" line="274" column="13" />
+        <mark key="^" line="274" column="13" />
+        <mark key="." line="274" column="13" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/NQueens.kt" timestamp="1503636503554">
         <mark key="[" line="5" column="51" />
@@ -419,7 +422,7 @@
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>str_find</text>
+        <text>free_args</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJcmV0dXJuIEVYSVRfRkFJTFVSRTsK</text>
@@ -456,9 +459,9 @@
       </register>
     </registers>
     <search>
-      <last-search>str_find</last-search>
+      <last-search>free_args</last-search>
       <last-offset />
-      <last-pattern>str_find</last-pattern>
+      <last-pattern>free_args</last-pattern>
       <last-replace>string</last-replace>
       <last-substitute>char *</last-substitute>
       <last-dir>1</last-dir>
@@ -466,7 +469,6 @@
     </search>
     <history>
       <history-search>
-        <entry>erase</entry>
         <entry>write</entry>
         <entry>insert</entry>
         <entry>docSize</entry>
@@ -486,6 +488,7 @@
         <entry>run_script</entry>
         <entry>strstr</entry>
         <entry>str_find</entry>
+        <entry>free_args</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9z</entry>
