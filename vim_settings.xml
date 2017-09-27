@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/VCS/CS241/shell/super_shell.c" timestamp="1506546565665">
-        <mark key="'" line="448" column="4" />
-        <mark key="[" line="62" column="8" />
-        <mark key="]" line="62" column="8" />
-        <mark key="." line="62" column="8" />
-        <mark key="^" line="111" column="33" />
+      <file name="$USER_HOME$/VCS/CS241/shell/super_shell.c" timestamp="1506547942426">
+        <mark key="'" line="71" column="11" />
+        <mark key="[" line="240" column="15" />
+        <mark key="]" line="351" column="24" />
+        <mark key="." line="351" column="24" />
+        <mark key="^" line="351" column="24" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/NQueens.kt" timestamp="1503636503554">
         <mark key="[" line="5" column="51" />
@@ -310,8 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="54" column="15" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="67" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="75" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="78" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -410,55 +408,57 @@
       <jump line="109" column="0" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
       <jump line="136" column="5" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
       <jump line="442" column="4" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
+      <jump line="351" column="24" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
+      <jump line="71" column="11" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>line</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2hhciogc3RyX2ZpbmQoY29uc3QgY2hhciogc3RyLCBjb25zdCBjaGFyKiBzdWJzdHIpIHsK</text>
       </register>
       <register name="-" type="4">
-        <text>line</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>run_script</text>
+        <text>strstr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCS8vIGZpbmlzaGVkIC0gc2hvdWxkIG5vdCBiZSBoZXJlCg==</text>
+        <text encoding="base64">Y2hhciogc3RyX2ZpbmQoY29uc3QgY2hhciogc3RyLCBjb25zdCBjaGFyKiBzdWJzdHIpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlpZiAobGluZVtjaGFycyAtIDFdID09ICdcbicpIHsKCQkJbGluZVtjaGFycyAtIDFdID0gJ1wwJzsKCQl9Cg==</text>
+        <text encoding="base64">Y2hhciogc3RyX2ZpbmQoY29uc3QgY2hhciogc3RyLCBjb25zdCBjaGFyKiBzdWJzdHIpIHsKCXJldHVybiBzdHJzdHIoc3RyLCBzdWJzdHIpOwp9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWlmIChzdHJfY29udGFpbnMoKSkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCS8vIGZpbmlzaGVkIC0gc2hvdWxkIG5vdCBiZSBoZXJlCgkJCQlyZXR1cm4gRVhJVF9GQUlMVVJFOwo=</text>
+        <text encoding="base64">CQlpZiAobGluZVtjaGFycyAtIDFdID09ICdcbicpIHsKCQkJbGluZVtjaGFycyAtIDFdID0gJ1wwJzsKCQl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICAoZmlsZV9tb2RlICYmICFoaXN0X21vZGUgJiYgKGFyZ2MgIT0gMykpIHx8Cg==</text>
+        <text encoding="base64">CWlmIChzdHJfY29udGFpbnMoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWxpbmUgPSBOVUxMOwo=</text>
+        <text encoding="base64">CQkJCS8vIGZpbmlzaGVkIC0gc2hvdWxkIG5vdCBiZSBoZXJlCgkJCQlyZXR1cm4gRVhJVF9GQUlMVVJFOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmVjdG9yKiB2ZWNfZnJvbV9maWxlKGNoYXIqIGZpbGVfbmFtZSkgewo=</text>
+        <text encoding="base64">CSAgICAoZmlsZV9tb2RlICYmICFoaXN0X21vZGUgJiYgKGFyZ2MgIT0gMykpIHx8Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmVjdG9yKiB2ZWNfZnJvbV9maWxlKGNoYXIqIGZpbGVfbmFtZSk7Cg==</text>
+        <text encoding="base64">CWxpbmUgPSBOVUxMOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ym9vbCBzdHJfZW1wdHkoY29uc3QgY2hhciogczEpIHsK</text>
+        <text encoding="base64">dmVjdG9yKiB2ZWNfZnJvbV9maWxlKGNoYXIqIGZpbGVfbmFtZSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>run_script</last-search>
+      <last-search>strstr</last-search>
       <last-offset />
-      <last-pattern>run_script</last-pattern>
+      <last-pattern>strstr</last-pattern>
       <last-replace>string</last-replace>
       <last-substitute>char *</last-substitute>
       <last-dir>1</last-dir>
@@ -466,7 +466,6 @@
     </search>
     <history>
       <history-search>
-        <entry>destroy</entry>
         <entry>size</entry>
         <entry>erase</entry>
         <entry>write</entry>
@@ -486,6 +485,7 @@
         <entry>vec_from_file</entry>
         <entry>= NULL;</entry>
         <entry>run_script</entry>
+        <entry>strstr</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9z</entry>
