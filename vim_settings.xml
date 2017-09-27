@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/VCS/CS241/shell/super_shell.c" timestamp="1506543842407">
+        <mark key="'" line="114" column="14" />
+        <mark key="[" line="370" column="19" />
+        <mark key="]" line="382" column="31" />
+        <mark key="." line="382" column="31" />
+        <mark key="^" line="382" column="31" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/NQueens.kt" timestamp="1503636503554">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="6" column="42" />
@@ -249,7 +256,7 @@
         <mark key="." line="55" column="27" />
         <mark key="^" line="55" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506093364797">
+      <file name="/Dummy.txt" timestamp="1506543587677">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -300,10 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="22" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="139" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="0" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="167" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="215" column="41" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="144" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="125" column="8" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -400,13 +403,17 @@
       <jump line="403" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="17" column="19" filename="$USER_HOME$/VCS/CS241/mini_valgrind/mini_valgrind.c" />
       <jump line="94" column="28" filename="$USER_HOME$/VCS/CS241/mini_valgrind/mini_valgrind.c" />
+      <jump line="426" column="4" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
+      <jump line="392" column="12" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
+      <jump line="4" column="0" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
+      <jump line="114" column="14" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzaGVsbC5jCiAgICAgICAgc2hlbGwuaAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC8vTm8gbG9naWNhbCBvcGVyYXRpb24=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IC8vTm8gbG9naWNhbCBvcGVyYXRpb24=</text>
       </register>
       <register name="/" type="4">
         <text>char *</text>
@@ -415,31 +422,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZyZWUoY21kX3N0cik7CiAgICAgICAgICAgICAgICBmcmVlX2FyZ3MoY21kX2FyZ3YpOwogICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaGVsbC5jCiAgICAgICAgc2hlbGwuaAo=</text>
+        <text encoding="base64">Ly9SZWFkaW4gdGhlIGV4ZSBmaWxlIHRvIHJ1biwgcmVjb3JkIHRoZSBjb21tYW5kIGludG8gdGhlIHZlY3Rvcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzaGVsbF9oc2ouYwo=</text>
+        <text encoding="base64">Ly9SZWFkIGluIHRoZSBoaXN0b3J5IGZpbGUgb3Igc2ltcGx5IGNvbnN0cnVjdCBhIGhpc3RvcnkgdmVjdG9yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoc2l6ZV90IGkgPSApCg==</text>
+        <text encoding="base64">CS8vIFRPRE86IFRoaXMgaXMgdGhlIGVudHJ5IHBvaW50IGZvciB5b3VyIHNoZWxsLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJldHVybjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Ly9Xcml0ZSB0byB0aGUgaGlzdG9yeSBmaWxlIGJlZm9yZSBleGl0aW5nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY21kX2FyZ3ZbMF1bMF0gPT0gJyEnKSB7CiAgICAgICAgICAgIGlmIChjbWRfYXJnYyA9PSAxKSB7CgogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcHJpbnRfaW52YWxpZF9jb21tYW5kKGNtZF9zdHIpOwogICAgICAgICAgICB9CiAgICAgICAgfQoKCgo=</text>
+        <text encoding="base64">CX0vL0p1c3QgY29uc3RydWN0IGEgaGlzdG9yeSB2ZWN0b3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9GdW5jdGlvbnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBOVUxMOwo=</text>
+        <text encoding="base64">I2luY2x1ZGUgImluY2x1ZGVzL3ZlY3Rvci5oIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaGVsbC5jCiAgICAgICAgc2hlbGwuaAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
