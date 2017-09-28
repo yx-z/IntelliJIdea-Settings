@@ -1,0 +1,15 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Kotlin.NewFile">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+</keymap>
