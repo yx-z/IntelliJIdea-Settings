@@ -11,6 +11,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/CS241/teaching_threads/Makefile" timestamp="1506635149333">
+        <mark key="[" line="23" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1504098130828">
         <mark key="[" line="0" column="0" />
       </file>
@@ -152,6 +155,13 @@
         <mark key="^" line="61" column="0" />
         <mark key="." line="68" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/CS241/teaching_threads/par_reduce.c" timestamp="1506635687805">
+        <mark key="'" line="57" column="15" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="29" column="20" />
+      </file>
       <file name="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" timestamp="1505179981686">
         <mark key="'" line="20" column="17" />
         <mark key="[" line="102" column="12" />
@@ -257,7 +267,7 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506623570787">
+      <file name="/Dummy.txt" timestamp="1506635693739">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -343,8 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="52" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
-      <jump line="214" column="79" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="0" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="442" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="439" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
@@ -443,10 +451,12 @@
       <jump line="399" column="4" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="529" column="27" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="445" column="8" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="54" column="0" filename="$USER_HOME$/Documents/CS241/teaching_threads/par_reduce.c" />
+      <jump line="61" column="15" filename="$USER_HOME$/Documents/CS241/teaching_threads/par_reduce.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJcHJpbnRmKCJSRUY6JXNcbiIsIHJlZmVyX25hbWUpOwo=</text>
+        <text encoding="base64">LyoqCiAqIFRlYWNoaW5nIFRocmVhZHMKICogQ1MgMjQxIC0gU3ByaW5nIDIwMTcKICovCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -458,31 +468,31 @@
         <text encoding="base64">CQlpZiAoc3RyX2NvbnRhaW5zKGxpbmUsICIkIikpIHsKCQkJY2hhciogdG1wID0gc3RyZHVwKGxpbmUpOwoJCQlmcmVlKGxpbmUpOwoJCQlsaW5lID0gc3RyX3BhcnNlX2RvbGxhcih0bXApOwoJCQlmcmVlKHRtcCk7CgkJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJcHJpbnRmKCJSRUY6JXNcbiIsIHJlZmVyX25hbWUpOwo=</text>
+        <text encoding="base64">LyoqCiAqIFRlYWNoaW5nIFRocmVhZHMKICogQ1MgMjQxIC0gU3ByaW5nIDIwMTcKICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJcHJpbnRmKHJlZmVyX25hbWUpOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmludCBtYWluKCkgewoJY2hhciogdGVzdCA9ICJhYmMkQkFaIjsKCXByaW50ZigiJXNcbiIsIHN0cl9wYXJzZV9kb2xsYXIodGVzdCkpOwp9Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ym9vbCBpc19jaGFyKGNoYXIgYyk7Cg==</text>
+        <text encoding="base64">CSAgICAwKSB7CgkJcHJpbnRmKCJjcmVhdGUgZmFpbGVkIik7CgkJcmV0dXJuIDE7Cgl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJcHJpbnRmKCJjcmVhdGUgZmFpbGVkIik7CgkJCXJldHVybiAxOwoJCX0KCQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJZm9yIChzaXplX3QgaSA9IDA7IGkgPCByZWZlcl9uYW1lX2lkeDsgaSsrKSB7Cg==</text>
+        <text encoding="base64">CQoJcmV0dXJuIE5VTEw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXN0cl9pZHgrKzsK</text>
+        <text encoding="base64">CWludCBiYXNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXN0cl9leHBhbmRbc3RyX2V4cGFuZF9pZHhdID0gc3RyW3N0cl9pZHhdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
