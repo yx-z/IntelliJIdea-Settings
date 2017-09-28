@@ -61,12 +61,12 @@
         <mark key="." line="51" column="119" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/CS241/shell/super_shell.c" timestamp="1506624572210">
-        <mark key="'" line="529" column="27" />
-        <mark key="[" line="302" column="72" />
-        <mark key="]" line="302" column="91" />
-        <mark key="." line="302" column="91" />
-        <mark key="^" line="302" column="91" />
+      <file name="$USER_HOME$/Documents/CS241/shell/super_shell.c" timestamp="1506625506923">
+        <mark key="'" line="445" column="8" />
+        <mark key="[" line="412" column="0" />
+        <mark key="]" line="412" column="0" />
+        <mark key="." line="412" column="0" />
+        <mark key="^" line="416" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/CS241/shell/CMakeLists.txt" timestamp="1506566716842">
         <mark key="[" line="14" column="37" />
@@ -343,7 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="158" column="52" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="214" column="79" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="0" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
@@ -443,55 +442,56 @@
       <jump line="331" column="8" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="399" column="4" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="529" column="27" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="445" column="8" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlpZiAoc3RyX2NvbnRhaW5zKGxpbmUsICIkIikpIHsKCQkJY2hhciogdG1wID0gc3RyZHVwKGxpbmUpOwoJCQlmcmVlKGxpbmUpOwoJCQlsaW5lID0gc3RyX3BhcnNlX2RvbGxhcih0bXApOwoJCQlmcmVlKHRtcCk7CgkJfQo=</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>vector_push_back</text>
+        <text>prefix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJY21kX3N0cl8xID0gc3RyX3BhcnNlX2VzY2FwZShjbWRfc3RyXzEpOwo=</text>
+        <text encoding="base64">CQlpZiAoc3RyX2NvbnRhaW5zKGxpbmUsICIkIikpIHsKCQkJY2hhciogdG1wID0gc3RyZHVwKGxpbmUpOwoJCQlmcmVlKGxpbmUpOwoJCQlsaW5lID0gc3RyX3BhcnNlX2RvbGxhcih0bXApOwoJCQlmcmVlKHRtcCk7CgkJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlpZiAoc3RyX2NvbnRhaW5zKGxpbmUsICIkIikpIHsKCQkJY2hhciogdG1wID0gc3RyZHVwKGxpbmUpOwoJCQlmcmVlKGxpbmUpOwoJCQlsaW5lID0gc3RyX3BhcnNlX2RvbGxhcih0bXApOwoJCQlmcmVlKHRtcCk7CgkJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZyZWVfYXJncyhhcmd2KTsK</text>
+        <text encoding="base64">CQkJdmVjdG9yX3B1c2hfYmFjayh2ZWMsIGxpbmUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcHJpbnRmKCJMSU5FOiVzXG4iLCBsaW5lKTsK</text>
+        <text encoding="base64">CXZlY3Rvcl9wdXNoX2JhY2sodmVjLCBsaW5lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlhcmd2ID0gc3Ryc3BsaXQobGluZSwgIiAiLCAmYXJnYyk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlhcmd2ID0gc3Ryc3BsaXQobGluZSwgIiAiLCAmYXJnYyk7Cg==</text>
+        <text encoding="base64">CWZyZWVfYXJncyhhcmd2KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJdmVjdG9yX3B1c2hfYmFjayh2ZWMsIGxpbmUpOwo=</text>
+        <text encoding="base64">CQkJcHJpbnRmKCJMSU5FOiVzXG4iLCBsaW5lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdmVjdG9yX3B1c2hfYmFjayh2ZWMsIGxpbmUpOwo=</text>
+        <text encoding="base64">CQlhcmd2ID0gc3Ryc3BsaXQobGluZSwgIiAiLCAmYXJnYyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl2ZWN0b3JfcHVzaF9iYWNrKHZlYywgbGluZSk7Cg==</text>
+        <text encoding="base64">CQlhcmd2ID0gc3Ryc3BsaXQobGluZSwgIiAiLCAmYXJnYyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaW50ZigiSEVSRUVSXG4iKTsK</text>
+        <text encoding="base64">CQkJdmVjdG9yX3B1c2hfYmFjayh2ZWMsIGxpbmUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>vector_push_back</last-search>
+      <last-search>prefix</last-search>
       <last-offset />
-      <last-pattern>vector_push_back</last-pattern>
+      <last-pattern>prefix</last-pattern>
       <last-replace>string</last-replace>
       <last-substitute>char *</last-substitute>
       <last-dir>1</last-dir>
@@ -499,7 +499,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vector_set</entry>
         <entry>char *</entry>
         <entry>parse</entry>
         <entry>vector_des</entry>
@@ -519,6 +518,7 @@
         <entry>str_parse_e</entry>
         <entry>free_args</entry>
         <entry>vector_push_back</entry>
+        <entry>prefix</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9n</entry>
