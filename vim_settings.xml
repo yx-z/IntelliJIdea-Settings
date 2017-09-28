@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/VCS/CS241/shell/super_shell.c" timestamp="1506555881241">
+      <file name="$USER_HOME$/VCS/CS241/shell/super_shell.c" timestamp="1506557598823">
         <mark key="'" line="170" column="24" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -286,11 +286,12 @@
         <mark key="." line="94" column="28" />
         <mark key="^" line="94" column="28" />
       </file>
-      <file name="$USER_HOME$/VCS/CS241/shell/shell.c" timestamp="1506548480751">
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="201" column="2" />
-        <mark key="^" line="221" column="26" />
-        <mark key="." line="221" column="26" />
+      <file name="$USER_HOME$/VCS/CS241/shell/shell.c" timestamp="1506557471186">
+        <mark key="'" line="42" column="2" />
+        <mark key="[" line="416" column="17" />
+        <mark key="]" line="416" column="22" />
+        <mark key="^" line="416" column="22" />
+        <mark key="." line="416" column="22" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Intersect.kt" timestamp="1503623458901">
         <mark key="'" line="26" column="12" />
@@ -313,7 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="225" column="8" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="181" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="59" column="13" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -413,13 +413,14 @@
       <jump line="65" column="0" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
       <jump line="89" column="0" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
       <jump line="116" column="24" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
+      <jump line="41" column="2" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImluY2x1ZGVzL3ZlY3Rvci5oIgo=</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>free_args</text>
