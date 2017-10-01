@@ -67,12 +67,12 @@
         <mark key="." line="51" column="119" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/CS241/shell/super_shell.c" timestamp="1506894492930">
-        <mark key="'" line="62" column="5" />
-        <mark key="[" line="867" column="21" />
-        <mark key="]" line="867" column="20" />
-        <mark key="." line="867" column="20" />
-        <mark key="^" line="867" column="20" />
+      <file name="$USER_HOME$/Documents/CS241/shell/super_shell.c" timestamp="1506896588712">
+        <mark key="'" line="50" column="24" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/CS241/shell/CMakeLists.txt" timestamp="1506566716842">
         <mark key="[" line="14" column="37" />
@@ -270,7 +270,7 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506635693739">
+      <file name="/Dummy.txt" timestamp="1506895171521">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -356,23 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="635" column="35" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="629" column="8" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="288" column="8" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="307" column="15" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="33" column="8" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="242" column="8" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="644" column="23" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="286" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="646" column="8" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="38" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="236" column="8" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="247" column="36" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="164" column="16" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="257" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="406" column="38" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="461" column="27" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="94" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="611" column="9" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="428" column="12" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="440" column="8" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
@@ -417,7 +400,6 @@
       <jump line="625" column="43" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="834" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="56" column="19" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="691" column="25" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="69" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="485" column="9" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="626" column="20" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
@@ -456,46 +438,64 @@
       <jump line="560" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="556" column="45" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="62" column="5" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="859" column="13" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="912" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="562" column="31" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="598" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="601" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="608" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="629" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="691" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="694" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="697" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="700" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="702" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="704" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="715" column="13" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="647" column="34" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="867" column="15" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="50" column="24" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJcHJpbnRmKCJFWElURURcbiIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>G</text>
       </register>
       <register name="/" type="4">
         <text>stop</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCXByaW50X3N0b3BwZWRfcHJvY2Vzcyh0YXJnZXQsIHByb2Nlc3NfY29tbWFuZHNbdGFyZ2V0XSk7Cg==</text>
+        <text encoding="base64">CQkJCQlwcmludGYoIiEyIVxuIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXByaW50ZigiSEVSRSEhXG4iKTsK</text>
+        <text encoding="base64">CQkJcHJpbnRmKCJFWElURURcbiIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXByaW50ZigiSEVSRSEhXG4iKTsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlmcmVlKHByb2Nlc3NfY29tbWFuZHNbcGlkXSk7CgkJcHJvY2Vzc19jb21tYW5kc1twaWRdID0gTlVMTDsKCQlwcm9jZXNzX3N0YXR1c1twaWRdID0gTlVMTDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlwcmludGYoIiglZCBmaW5pc2hlZCkiLCBwaWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByb2Nlc3Nfc3RhdHVzW3BpZF0gPSBOVUxMOwo=</text>
+        <text encoding="base64">CWZmbHVzaChzdGRvdXQpOwoJcmV0dXJuOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXBpZF90IHBpZDsKCXBpZCA9IHdhaXQoTlVMTCk7CglmcmVlKHByb2Nlc3NfY29tbWFuZHNbcGlkXSk7Cglwcm9jZXNzX2NvbW1hbmRzW3BpZF0gPSBOVUxMOwo=</text>
+        <text encoding="base64">CQlwcmludGYoIiVkIiwgZXJybm8pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaW50ZigiSEVSRT9cbiIpOwo=</text>
+        <text encoding="base64">CQlwcmludGYoIi4uLiIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlwcmludGYoIiVzXG4iLCBwcm9jZXNzX3N0YXR1c1tpXSk7CgkJCQkJcHJpbnRmKCJcbiIpOwo=</text>
+        <text encoding="base64">CXByaW50ZigiSEFORExFUiBIRVJFXG4iKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlwcmludGYoU1RBVFVTX1JVTk5JTkcpOwo=</text>
+        <text encoding="base64">CXByaW50ZigiITEhXG4iKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
