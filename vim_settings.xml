@@ -67,12 +67,12 @@
         <mark key="." line="51" column="119" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/CS241/shell/super_shell.c" timestamp="1506877854170">
-        <mark key="'" line="805" column="34" />
-        <mark key="[" line="113" column="39" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-        <mark key="^" line="113" column="0" />
+      <file name="$USER_HOME$/Documents/CS241/shell/super_shell.c" timestamp="1506878481346">
+        <mark key="'" line="584" column="12" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="118" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/CS241/shell/CMakeLists.txt" timestamp="1506566716842">
         <mark key="[" line="14" column="37" />
@@ -356,16 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
-      <jump line="435" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
-      <jump line="409" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
-      <jump line="407" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
-      <jump line="405" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
-      <jump line="403" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
-      <jump line="17" column="19" filename="$USER_HOME$/VCS/CS241/mini_valgrind/mini_valgrind.c" />
-      <jump line="94" column="28" filename="$USER_HOME$/VCS/CS241/mini_valgrind/mini_valgrind.c" />
-      <jump line="426" column="4" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
-      <jump line="392" column="12" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
       <jump line="4" column="0" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
       <jump line="114" column="14" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
       <jump line="105" column="18" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
@@ -456,55 +446,65 @@
       <jump line="61" column="15" filename="$USER_HOME$/Documents/CS241/teaching_threads/par_reduce.c" />
       <jump line="802" column="34" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="17" column="31" filename="$USER_HOME$/Documents/CS241/shell/format.c" />
+      <jump line="550" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="97" column="6" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="542" column="19" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="565" column="19" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="86" column="6" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="576" column="18" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="578" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="658" column="15" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="610" column="23" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="584" column="12" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJcHJpbnRmKCJSTjolc1xuIiwgcmVmZXJfbmFtZSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>SIGKILL</text>
       </register>
       <register name="/" type="4">
-        <text>killed</text>
+        <text>argv</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlpZiAoc3RyX2NvbnRhaW5zKGxpbmUsICIkIikpIHsKCQkJY2hhciogdG1wID0gc3RyZHVwKGxpbmUpOwoJCQlmcmVlKGxpbmUpOwoJCQlsaW5lID0gc3RyX3BhcnNlX2RvbGxhcih0bXApOwoJCQlmcmVlKHRtcCk7CgkJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJcHJpbnRmKCJSTjolc1xuIiwgcmVmZXJfbmFtZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXByaW50Y29udAo=</text>
+        <text encoding="base64">CQlwcmludGYoIlZBUjolc1xuIiwgdmFyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIFRlYWNoaW5nIFRocmVhZHMKICogQ1MgMjQxIC0gU3ByaW5nIDIwMTcKICovCg==</text>
+        <text encoding="base64">CQlmcmVlX2FyZ3MoYXJndik7CgkJYXJndiA9IE5VTEw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlmcmVlX2FyZ3MoYXJndik7CgkJYXJndiA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlwcmludGYoIkxJTkU6JXNcbiIsIGxpbmUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgICAwKSB7CgkJcHJpbnRmKCJjcmVhdGUgZmFpbGVkIik7CgkJcmV0dXJuIDE7Cgl9Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcHJpbnRmKCJjcmVhdGUgZmFpbGVkIik7CgkJCXJldHVybiAxOwoJCX0KCQkK</text>
+        <text encoding="base64">CQkJCXByaW50Y29udAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">LyoqCiAqIFRlYWNoaW5nIFRocmVhZHMKICogQ1MgMjQxIC0gU3ByaW5nIDIwMTcKICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQoJcmV0dXJuIE5VTEw7Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>killed</last-search>
+      <last-search>argv</last-search>
       <last-offset />
-      <last-pattern>killed</last-pattern>
+      <last-pattern>argv</last-pattern>
       <last-replace>string</last-replace>
       <last-substitute>char *</last-substitute>
       <last-dir>1</last-dir>
@@ -512,8 +512,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vector_des</entry>
-        <entry>run_cmd</entry>
         <entry>hist</entry>
         <entry>write_vec</entry>
         <entry>print_his</entry>
@@ -532,6 +530,8 @@
         <entry>prefix</entry>
         <entry>sig_kill</entry>
         <entry>killed</entry>
+        <entry>str_parse_dollar</entry>
+        <entry>argv</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9n</entry>
@@ -552,8 +552,8 @@
         <entry>!svn ci -m &quot;hmm&quot;</entry>
         <entry encoding="base64">JzwsJz5zL2NoYXIgKi9zdHJpbmcvZw==</entry>
         <entry>noh</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
