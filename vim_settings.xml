@@ -43,6 +43,9 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/CS241/shell/format.c" timestamp="1506875496178">
+        <mark key="'" line="17" column="31" />
+      </file>
       <file name="/LLDB" timestamp="1505522650452">
         <mark key="[" line="0" column="0" />
       </file>
@@ -64,12 +67,12 @@
         <mark key="." line="51" column="119" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/CS241/shell/super_shell.c" timestamp="1506627789131">
-        <mark key="'" line="445" column="8" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-        <mark key="^" line="120" column="25" />
+      <file name="$USER_HOME$/Documents/CS241/shell/super_shell.c" timestamp="1506875539182">
+        <mark key="'" line="804" column="34" />
+        <mark key="[" line="526" column="20" />
+        <mark key="]" line="526" column="12" />
+        <mark key="." line="526" column="12" />
+        <mark key="^" line="526" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/CS241/shell/CMakeLists.txt" timestamp="1506566716842">
         <mark key="[" line="14" column="37" />
@@ -353,8 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
-      <jump line="442" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="439" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="435" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="409" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
@@ -453,55 +454,57 @@
       <jump line="445" column="8" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="54" column="0" filename="$USER_HOME$/Documents/CS241/teaching_threads/par_reduce.c" />
       <jump line="61" column="15" filename="$USER_HOME$/Documents/CS241/teaching_threads/par_reduce.c" />
+      <jump line="802" column="34" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="17" column="31" filename="$USER_HOME$/Documents/CS241/shell/format.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIFRlYWNoaW5nIFRocmVhZHMKICogQ1MgMjQxIC0gU3ByaW5nIDIwMTcKICovCg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>SIGKILL</text>
       </register>
       <register name="/" type="4">
-        <text>prefix</text>
+        <text>killed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlpZiAoc3RyX2NvbnRhaW5zKGxpbmUsICIkIikpIHsKCQkJY2hhciogdG1wID0gc3RyZHVwKGxpbmUpOwoJCQlmcmVlKGxpbmUpOwoJCQlsaW5lID0gc3RyX3BhcnNlX2RvbGxhcih0bXApOwoJCQlmcmVlKHRtcCk7CgkJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIFRlYWNoaW5nIFRocmVhZHMKICogQ1MgMjQxIC0gU3ByaW5nIDIwMTcKICovCg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCXByaW50Y29udAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">LyoqCiAqIFRlYWNoaW5nIFRocmVhZHMKICogQ1MgMjQxIC0gU3ByaW5nIDIwMTcKICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAgICAwKSB7CgkJcHJpbnRmKCJjcmVhdGUgZmFpbGVkIik7CgkJcmV0dXJuIDE7Cgl9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJcHJpbnRmKCJjcmVhdGUgZmFpbGVkIik7CgkJCXJldHVybiAxOwoJCX0KCQkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CSAgICAwKSB7CgkJcHJpbnRmKCJjcmVhdGUgZmFpbGVkIik7CgkJcmV0dXJuIDE7Cgl9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQoJcmV0dXJuIE5VTEw7Cg==</text>
+        <text encoding="base64">CQkJcHJpbnRmKCJjcmVhdGUgZmFpbGVkIik7CgkJCXJldHVybiAxOwoJCX0KCQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWludCBiYXNlOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQoJcmV0dXJuIE5VTEw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>prefix</last-search>
+      <last-search>killed</last-search>
       <last-offset />
-      <last-pattern>prefix</last-pattern>
+      <last-pattern>killed</last-pattern>
       <last-replace>string</last-replace>
       <last-substitute>char *</last-substitute>
       <last-dir>1</last-dir>
@@ -509,8 +512,6 @@
     </search>
     <history>
       <history-search>
-        <entry>char *</entry>
-        <entry>parse</entry>
         <entry>vector_des</entry>
         <entry>run_cmd</entry>
         <entry>hist</entry>
@@ -529,6 +530,8 @@
         <entry>free_args</entry>
         <entry>vector_push_back</entry>
         <entry>prefix</entry>
+        <entry>sig_kill</entry>
+        <entry>killed</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9n</entry>
@@ -570,6 +573,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
