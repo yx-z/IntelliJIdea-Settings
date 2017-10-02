@@ -67,10 +67,12 @@
         <mark key="." line="51" column="119" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/CS241/shell/super_shell.c" timestamp="1506955774307">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Documents/CS241/shell/super_shell.c" timestamp="1506979503579">
+        <mark key="'" line="152" column="53" />
+        <mark key="[" line="145" column="47" />
+        <mark key="]" line="145" column="93" />
+        <mark key="." line="145" column="93" />
+        <mark key="^" line="145" column="93" />
       </file>
       <file name="$USER_HOME$/Documents/CS241/shell/CMakeLists.txt" timestamp="1506566716842">
         <mark key="[" line="14" column="37" />
@@ -354,16 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="630" column="20" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="585" column="23" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="854" column="28" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="92" column="9" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="526" column="23" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="577" column="25" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="863" column="28" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="517" column="33" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="579" column="28" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="66" column="4" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="542" column="16" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="572" column="35" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="648" column="24" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
@@ -408,7 +400,6 @@
       <jump line="209" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="529" column="8" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="794" column="4" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
@@ -454,55 +445,66 @@
       <jump line="106" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="127" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="527" column="8" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="692" column="55" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="959" column="19" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="44" column="5" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="46" column="5" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="146" column="21" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="386" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="131" column="16" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="492" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="491" column="21" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="152" column="53" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaW50ZigiTElORTolc1xuIiwgbGluZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>SIGKILL</text>
+        <text>G</text>
       </register>
       <register name="/" type="4">
-        <text>clean_up</text>
+        <text>printf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dm9pZCBzaWdfY2hsZF9oYW5kbGVyX2R1bW15KGludCBzaWcpOwo=</text>
+        <text encoding="base64">CXByaW50ZigiUzE6JXNcbiIsIHN0cl8xKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaW50ZigiTElORTolc1xuIiwgbGluZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dm9pZCBzaWdfa2lsbChpbnQgc2lnKTsK</text>
+        <text encoding="base64">CXByaW50ZigiU1RSOiVzXG4iLCBzdHIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXByaW50ZigiSTolZFxuIiwgaSk7Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZyZWUocHJvY2Vzc19jb21tYW5kc1twaWRfbWFpbl0pOwo=</text>
+        <text encoding="base64">CXByaW50ZigiUzI6JXNcbiIsIHN0cl8yKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlpZiAoZXhpc3RzKHByb2Nlc3NfY29tbWFuZHNbaV0pKSB7CgkJCXByaW50ZigiJWQgLSAlc1xuIiwgaSwgcHJvY2Vzc19jb21tYW5kc1tpXSk7CgkJCWZyZWUocHJvY2Vzc19jb21tYW5kc1tpXSk7CgkJfQo=</text>
+        <text encoding="base64">CXByaW50ZigiUzE6JXNcbiIsIHN0cl8xKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJaWYgKGV4aXN0cyhwcm9jZXNzX2NvbW1hbmRzW2ldKSkgewoJCQkJZnJlZShwcm9jZXNzX2NvbW1hbmRzW2ldKTsKCQkJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXByaW50ZigiSTolZCAtIEM6JXNcbiIsIGksIHByb2Nlc3NfY29tbWFuZHNbaV0pOwo=</text>
+        <text encoding="base64">dm9pZCBzaWdfa2lsbChpbnQgc2lnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiAoZXhpc3RzKHByb2Nlc3NfY29tbWFuZHNbaV0pKSB7CgkJCXByaW50ZigiSTolZCAtIEM6JXNcbiIsIGksIHByb2Nlc3NfY29tbWFuZHNbaV0pOwoJCQlmcmVlKHByb2Nlc3NfY29tbWFuZHNbaV0pOwoJCX0K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">CQkJCXByaW50ZigiSTolZFxuIiwgaSk7Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">CWZyZWUocHJvY2Vzc19jb21tYW5kc1twaWRfbWFpbl0pOwo=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>clean_up</last-search>
+      <last-search>printf</last-search>
       <last-offset />
-      <last-pattern>clean_up</last-pattern>
+      <last-pattern>printf</last-pattern>
       <last-replace>string</last-replace>
       <last-substitute>char *</last-substitute>
       <last-dir>1</last-dir>
@@ -510,11 +512,6 @@
     </search>
     <history>
       <history-search>
-        <entry>free_args</entry>
-        <entry>vector_push_back</entry>
-        <entry>prefix</entry>
-        <entry>sig_kill</entry>
-        <entry>killed</entry>
         <entry>str_parse_dollar</entry>
         <entry>argv</entry>
         <entry>finish</entry>
@@ -524,12 +521,17 @@
         <entry>process_stat</entry>
         <entry>ps</entry>
         <entry>STATUS</entry>
-        <entry>printf</entry>
         <entry>stop</entry>
         <entry>setpigid</entry>
         <entry>setpgid</entry>
         <entry>bg</entry>
         <entry>clean_up</entry>
+        <entry>exec</entry>
+        <entry>str</entry>
+        <entry>escape</entry>
+        <entry>dollar</entry>
+        <entry>LINE</entry>
+        <entry>printf</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9n</entry>
@@ -549,9 +551,9 @@
         <entry encoding="base64">JzwsJz5zL3B0ci9lbnZpcm9uL2c=</entry>
         <entry>!svn ci -m &quot;hmm&quot;</entry>
         <entry encoding="base64">JzwsJz5zL2NoYXIgKi9zdHJpbmcvZw==</entry>
-        <entry>noh</entry>
         <entry>nohlsearch</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
