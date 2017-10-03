@@ -270,7 +270,7 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506895171521">
+      <file name="/Dummy.txt" timestamp="1506997702720">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -324,6 +324,13 @@
       <file name="$USER_HOME$/Github/CS241/text_editor/document.h" timestamp="1505581622278">
         <mark key="'" line="17" column="31" />
       </file>
+      <file name="$USER_HOME$/Desktop/Converter/converter.py" timestamp="1506997951854">
+        <mark key="'" line="41" column="11" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/arr/Balance.kt" timestamp="1504098749541">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="14" column="7" />
@@ -356,7 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="542" column="16" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="572" column="35" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="648" column="24" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="818" column="25" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
@@ -456,46 +462,47 @@
       <jump line="492" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="491" column="21" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="152" column="53" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="39" column="11" filename="$USER_HOME$/Desktop/Converter/converter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXByaW50ZigiTElORTolc1xuIiwgbGluZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text>test_json_to_xml</text>
       </register>
       <register name="/" type="4">
         <text>printf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaW50ZigiUzE6JXNcbiIsIHN0cl8xKTsK</text>
+        <text encoding="base64">cHJpbnQoIkpTT04gLT4gWE1MIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaW50ZigiTElORTolc1xuIiwgbGluZSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CXByaW50ZigiU1RSOiVzXG4iLCBzdHIpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXByaW50ZigiUzI6JXNcbiIsIHN0cl8yKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXByaW50ZigiUzE6JXNcbiIsIHN0cl8xKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cHJpbnQoIlxuIikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dGVzdF94bWwgPSBsb2FkX2ZpbGUoImV4YW1wbGUueG1sIikKdGVzdF94bWxfZGljdCA9IHhtbF90b19kaWN0KHRlc3RfeG1sKQp0ZXN0X3htbF90b19qc29uID0gZGljdF90b19qc29uKHRlc3RfeG1sX2RpY3QpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dGVzdF9qc29uID0gbG9hZF9maWxlKCJleGFtcGxlLmpzb24iKQp0ZXN0X2pzb25fZGljdCA9IGpzb25fdG9fZGljdCh0ZXN0X2pzb24pCnRlc3RfanNvbl90b194bWwgPSBkaWN0X3RvX3htbCh0ZXN0X2pzb25fZGljdCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVmIF9fbWFpbl9fKCk6Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">dm9pZCBzaWdfa2lsbChpbnQgc2lnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXByaW50ZigiSTolZFxuIiwgaSk7Cg==</text>
+        <text encoding="base64">ZGVmIGRpY3RfdG9feG1sKGRpY3QpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZyZWUocHJvY2Vzc19jb21tYW5kc1twaWRfbWFpbl0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -508,7 +515,7 @@
       <last-replace>string</last-replace>
       <last-substitute>char *</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -576,6 +583,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
