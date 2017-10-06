@@ -68,6 +68,13 @@
         <mark key="." line="16" column="50" />
         <mark key="^" line="16" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/CS241/malloc/alloc.c" timestamp="1507328779138">
+        <mark key="'" line="6" column="18" />
+        <mark key="[" line="123" column="5" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="124" column="0" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/EightQueens.kt" timestamp="1503618967352">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="3" column="0" />
@@ -183,6 +190,7 @@
         <mark key="^" line="32" column="33" />
         <mark key="." line="32" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/CS241/malloc/testers/tester-3.c" timestamp="1507327812822" />
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/LPS.kt" timestamp="1503631134919">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="11" column="9" />
@@ -240,7 +248,7 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507303067415">
+      <file name="/Dummy.txt" timestamp="1507329023671">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -328,16 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="0" filename="$USER_HOME$/Github/CS241/text_editor/editor.c" />
-      <jump line="139" column="0" filename="$USER_HOME$/Github/CS241/text_editor/editor.c" />
-      <jump line="134" column="19" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="53" column="10" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="237" column="28" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="170" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="243" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="148" column="4" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="245" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="124" column="7" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="13" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="250" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="210" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -428,64 +426,72 @@
       <jump line="667" column="20" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
       <jump line="608" column="4" filename="$USER_HOME$/VCS/CS241/shell/super_shell.c" />
       <jump line="76" column="31" filename="$USER_HOME$/VCS/CS241/malloc/alloc.c" />
+      <jump line="14" column="20" filename="$USER_HOME$/Documents/CS241/malloc/alloc.c" />
+      <jump line="96" column="0" filename="$USER_HOME$/Documents/CS241/malloc/alloc.c" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/CS241/malloc/alloc.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/CS241/malloc/alloc.c" />
+      <jump line="112" column="0" filename="$USER_HOME$/Documents/CS241/malloc/alloc.c" />
+      <jump line="102" column="4" filename="$USER_HOME$/Documents/CS241/malloc/alloc.c" />
+      <jump line="84" column="12" filename="$USER_HOME$/Documents/CS241/malloc/alloc.c" />
+      <jump line="73" column="26" filename="$USER_HOME$/Documents/CS241/malloc/alloc.c" />
+      <jump line="86" column="25" filename="$USER_HOME$/Documents/CS241/malloc/alloc.c" />
+      <jump line="6" column="18" filename="$USER_HOME$/Documents/CS241/malloc/alloc.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIkk6JWRcbiIsICphcnJbaV0pOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text>initial</text>
+        <text>sizeof</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CmJvb2wgaXNfc2VwKGNvbnN0IGNoYXIqIHN0cikgewo=</text>
+        <text encoding="base64">c3RydWN0IGhlYWRlcl90KiBoZWFkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIkk6JWRcbiIsICphcnJbaV0pOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZvaWQqIHJldDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CW1ldGEqIGhlYWRlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CWlmICghYmxvY2sgfHwgIXNpemUpCgkJcmV0dXJuIG1hbGxvYyhzaXplKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CXZvaWQqIGJsb2NrOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">CXNpemVfdCBzaXplOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIGltcGxlbWVudCBjYWxsb2MhCgkvL0RPTkUK</text>
+        <text encoding="base64">CWlmICghbnVtIHx8ICFuc2l6ZSkKCQlyZXR1cm4gTlVMTDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2l6ZV90IGNvdW50ZXIgPSAwOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2luaXRpYWwvZGlyL2c=</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>initial</last-search>
+      <last-search>sizeof</last-search>
       <last-offset />
-      <last-pattern>initial</last-pattern>
-      <last-replace>dir</last-replace>
-      <last-substitute>initial</last-substitute>
+      <last-pattern>sizeof</last-pattern>
+      <last-replace />
+      <last-substitute>struct</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>traversal</entry>
-        <entry>newT</entry>
         <entry>ptr</entry>
         <entry>temp_size</entry>
         <entry>malloc</entry>
@@ -504,10 +510,10 @@
         <entry>bg</entry>
         <entry>parse</entry>
         <entry>initial</entry>
+        <entry>struct</entry>
+        <entry>sizeof</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9n</entry>
-        <entry>vs part2-functions.c</entry>
         <entry>vs includes/vector.h</entry>
         <entry encoding="base64">JzwsJz5zLzMvNC9n</entry>
         <entry encoding="base64">JzwsJz5zLzIvOC9n</entry>
@@ -526,6 +532,8 @@
         <entry>noh</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2luaXRpYWwvZGlyL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3N0cnVjdC8vZw==</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -545,6 +553,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
