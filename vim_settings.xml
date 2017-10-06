@@ -85,12 +85,12 @@
         <mark key="." line="16" column="50" />
         <mark key="^" line="16" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/CS241/malloc/alloc.c" timestamp="1507323885203">
+      <file name="$USER_HOME$/Documents/CS241/malloc/alloc.c" timestamp="1507325534162">
         <mark key="'" line="1" column="17" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="32" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="100" column="15" />
+        <mark key="]" line="100" column="15" />
+        <mark key="^" line="70" column="28" />
+        <mark key="." line="100" column="15" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/EightQueens.kt" timestamp="1503618967352">
         <mark key="[" line="4" column="1" />
@@ -328,6 +328,11 @@
         <mark key="^" line="105" column="25" />
         <mark key="." line="216" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/CS241/malloc/testers/tester-1.c" timestamp="1507325537796">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Github/CS241/text_editor/document.h" timestamp="1505581622278">
         <mark key="'" line="17" column="31" />
       </file>
@@ -342,6 +347,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/CS241/malloc/run_all_mcontest.sh" timestamp="1507325233011">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/graph/BFS.kt" timestamp="1504099785454">
         <mark key="[" line="2" column="31" />
@@ -363,7 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="576" column="15" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="558" column="12" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="560" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="556" column="45" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
@@ -463,55 +473,56 @@
       <jump line="46" column="18" filename="$USER_HOME$/Documents/CS241/malloc/alloc.c" />
       <jump line="45" column="19" filename="$USER_HOME$/Documents/CS241/malloc/alloc.c" />
       <jump line="1" column="17" filename="$USER_HOME$/Documents/CS241/malloc/alloc.c" />
+      <jump line="82" column="0" filename="$USER_HOME$/Documents/CS241/malloc/run_all_mcontest.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXByaW50ZigiTUFMTE9DOiV6dVxuIiwgc2l6ZSk7Cg==</text>
+        <text encoding="base64">CSAgICBmcHJpbnRmKHN0ZGVyciwgImJlZm9yZSBmcmVlXG4iKTtkZAo=</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>printf</text>
+        <text>gcc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWlmIChydW5fdGltZXMgPT0gMCkgewoJCWhlYXBfaGVhZCA9IHNicmsoTUVNX0xJTSk7CgkJcnVuX3RpbWVzID0gMTsKCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaW50ZigiTUFMTE9DOiV6dVxuIiwgc2l6ZSk7Cg==</text>
+        <text encoding="base64">CSAgICBmcHJpbnRmKHN0ZGVyciwgImJlZm9yZSBmcmVlXG4iKTtkZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQoJZnByaW50ZihzdGRlcnIsICJoZWFkOlxuIik7CglmcHJpbnRmKHN0ZGVyciwgImlzdXNlZDolZFxuIiwgbWV0YV9oZWFkLT5pc191c2VkKTsKCWZwcmludGYoc3RkZXJyLCAic2l6ZTolenVcbiIsIG1ldGFfaGVhZC0+c2l6ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpZiAobWV0YV9oZWFkID09IG1ldGFfdGFpbCkgewoJCQkvLyBvbmx5IG1lbW9yeSBpbiByZWNvcmQgYmVpbmcgZnJlZWQgLT4gbm90aGluZwoJCQltZXRhX2hlYWQgPSBOVUxMOwoJCQltZXRhX3RhaWwgPSBOVUxMOwoJCX0gZWxzZSB7CgkJCW1ldGFfdGFpbC0+cHJlLT5uZXggPSBOVUxMOwoJCQltZXRhX3RhaWwgPSBtZXRhX3RhaWwtPnByZTsKCQl9CgkJc2JyaygtTUVUQV9TSVpFIC0gbWV0YV9wdHItPnNpemUpOwo=</text>
+        <text encoding="base64">CXByaW50Zgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJbWV0YSogY3VyID0gbWV0YV9oZWFkOyB3aGlsZSAoY3VyICE9IE5VTEwpIHsKCQkJCWlmIChjdXItPm5leCA9PSBtZXRhX3RhaWwpIHsKCQkJCQkKCQkJCX0KCQkJCWN1ciA9IGN1ci0+bmV4OwoJCQl9Cg==</text>
+        <text encoding="base64">CWZwcmludGYoc3RkZXJyLCAiU0laRTolenVcbiIsIHRvdGFsX3NpemUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICBmcHJpbnRmKHN0ZGVyciwgIkk6JWRcbiIsIGkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXByaW50ZigiTUFMTE9DOiV6dVxuIiwgc2l6ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlpZiAobWV0YV9oZWFkID09IG1ldGFfdGFpbCkgewoJCQkvLyBvbmx5IG1lbW9yeSBpbiByZWNvcmQgYmVpbmcgZnJlZWQgLT4gbm90aGluZwoJCQltZXRhX2hlYWQgPSBOVUxMOwoJCQltZXRhX3RhaWwgPSBOVUxMOwoJCX0gZWxzZSB7CgkJCW1ldGFfdGFpbC0+cHJlLT5uZXggPSBOVUxMOwoJCQltZXRhX3RhaWwgPSBtZXRhX3RhaWwtPnByZTsKCQl9CgkJc2JyaygtTUVUQV9TSVpFIC0gbWV0YV9wdHItPnNpemUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJbWV0YSogY3VyID0gbWV0YV9oZWFkOyB3aGlsZSAoY3VyICE9IE5VTEwpIHsKCQkJCWlmIChjdXItPm5leCA9PSBtZXRhX3RhaWwpIHsKCQkJCQkKCQkJCX0KCQkJCWN1ciA9IGN1ci0+bmV4OwoJCQl9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>printf</last-search>
+      <last-search>gcc</last-search>
       <last-offset />
-      <last-pattern>printf</last-pattern>
+      <last-pattern>gcc</last-pattern>
       <last-replace>string</last-replace>
       <last-substitute>char *</last-substitute>
       <last-dir>1</last-dir>
@@ -519,7 +530,6 @@
     </search>
     <history>
       <history-search>
-        <entry>str_parse_dollar</entry>
         <entry>argv</entry>
         <entry>finish</entry>
         <entry>kill</entry>
@@ -539,6 +549,7 @@
         <entry>dollar</entry>
         <entry>LINE</entry>
         <entry>printf</entry>
+        <entry>gcc</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9n</entry>
@@ -558,9 +569,9 @@
         <entry encoding="base64">JzwsJz5zL3B0ci9lbnZpcm9uL2c=</entry>
         <entry>!svn ci -m &quot;hmm&quot;</entry>
         <entry encoding="base64">JzwsJz5zL2NoYXIgKi9zdHJpbmcvZw==</entry>
-        <entry>nohlsearch</entry>
         <entry>w</entry>
         <entry>noh</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
