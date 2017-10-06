@@ -85,6 +85,13 @@
         <mark key="." line="16" column="50" />
         <mark key="^" line="16" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/CS241/malloc/alloc.c" timestamp="1507275316156">
+        <mark key="'" line="138" column="0" />
+        <mark key="[" line="137" column="11" />
+        <mark key="]" line="137" column="11" />
+        <mark key="." line="137" column="11" />
+        <mark key="^" line="137" column="11" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/EightQueens.kt" timestamp="1503618967352">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="3" column="0" />
@@ -356,8 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="542" column="16" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="572" column="35" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="648" column="24" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="818" column="25" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="817" column="25" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
@@ -456,13 +461,15 @@
       <jump line="492" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="491" column="21" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="152" column="53" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="137" column="11" filename="$USER_HOME$/Documents/CS241/malloc/alloc.c" />
+      <jump line="138" column="0" filename="$USER_HOME$/Documents/CS241/malloc/alloc.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXByaW50ZigiTElORTolc1xuIiwgbGluZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>NULL</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text>NULL</text>
       </register>
       <register name="/" type="4">
         <text>printf</text>
@@ -471,31 +478,31 @@
         <text encoding="base64">CXByaW50ZigiUzE6JXNcbiIsIHN0cl8xKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaW50ZigiTElORTolc1xuIiwgbGluZSk7Cg==</text>
+        <text encoding="base64">CX0KICAgIHJldHVybiBOVUxMOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaW50ZigiU1RSOiVzXG4iLCBzdHIpOwo=</text>
+        <text encoding="base64">CWlmIChydW5fMSkgewoJCXNicmsoTUVNX0xJTSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaW50ZigiUzI6JXNcbiIsIHN0cl8yKTsK</text>
+        <text encoding="base64">Ym9vbCBydW5fMSA9IHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByaW50ZigiUzE6JXNcbiIsIHN0cl8xKTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgPHN0ZGJvb2wuaD4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dm9pZCBzaWdfa2lsbChpbnQgc2lnKTsK</text>
+        <text encoding="base64">Ym9vbCBydW5fMSA9IHRydWU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXByaW50ZigiSTolZFxuIiwgaSk7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHVuaXN0ZC5oPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZyZWUocHJvY2Vzc19jb21tYW5kc1twaWRfbWFpbl0pOwo=</text>
+        <text encoding="base64">CWJvb2wgZnJlZTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -508,7 +515,7 @@
       <last-replace>string</last-replace>
       <last-substitute>char *</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
