@@ -163,12 +163,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/VCS/CS241/malloc/alloc.c" timestamp="1507309455371">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="5" />
-        <mark key="^" line="14" column="5" />
-        <mark key="." line="14" column="5" />
+      <file name="$USER_HOME$/VCS/CS241/malloc/alloc.c" timestamp="1507415590730">
+        <mark key="'" line="13" column="6" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="106" column="14" />
+        <mark key="^" line="40" column="6" />
+        <mark key="." line="40" column="6" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Rotate.kt" timestamp="1503555728553">
         <mark key="[" line="9" column="15" />
@@ -213,6 +213,13 @@
         <mark key="]" line="31" column="3" />
         <mark key="^" line="13" column="7" />
         <mark key="." line="31" column="3" />
+      </file>
+      <file name="$USER_HOME$/VCS/CS241/malloc/alloc_bak.c" timestamp="1507415928904">
+        <mark key="'" line="324" column="0" />
+        <mark key="[" line="309" column="0" />
+        <mark key="]" line="309" column="0" />
+        <mark key="." line="309" column="0" />
+        <mark key="^" line="305" column="9" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/TriangleNum.kt" timestamp="1504097501830">
         <mark key="[" line="33" column="11" />
@@ -279,6 +286,9 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
+      <file name="$USER_HOME$/VCS/CS241/malloc/CMakeLists.txt" timestamp="1507415446316">
+        <mark key="[" line="5" column="16" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Anagram.kt" timestamp="1503618900325">
         <mark key="[" line="51" column="34" />
         <mark key="]" line="51" column="0" />
@@ -320,8 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="29" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
-      <jump line="10" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="32" column="22" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="61" column="35" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="45" column="27" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
@@ -409,7 +417,6 @@
       <jump line="79" column="0" filename="$USER_HOME$/VCS/CS241/malloc/alloc.c" />
       <jump line="25" column="0" filename="$USER_HOME$/VCS/CS241/malloc/alloc.c" />
       <jump line="36" column="0" filename="$USER_HOME$/VCS/CS241/malloc/alloc.c" />
-      <jump line="13" column="0" filename="$USER_HOME$/VCS/CS241/malloc/alloc.c" />
       <jump line="18" column="0" filename="$USER_HOME$/VCS/CS241/malloc/alloc.c" />
       <jump line="73" column="0" filename="$USER_HOME$/VCS/CS241/malloc/alloc.c" />
       <jump line="64" column="0" filename="$USER_HOME$/VCS/CS241/malloc/alloc.c" />
@@ -420,63 +427,65 @@
       <jump line="28" column="0" filename="$USER_HOME$/VCS/CS241/malloc/alloc.c" />
       <jump line="42" column="0" filename="$USER_HOME$/VCS/CS241/malloc/alloc.c" />
       <jump line="49" column="0" filename="$USER_HOME$/VCS/CS241/malloc/alloc.c" />
+      <jump line="13" column="6" filename="$USER_HOME$/VCS/CS241/malloc/alloc.c" />
+      <jump line="117" column="0" filename="$USER_HOME$/VCS/CS241/malloc/alloc_bak.c" />
+      <jump line="324" column="0" filename="$USER_HOME$/VCS/CS241/malloc/alloc_bak.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">ZGQvL25laXRoZXIgZnJlZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>initial</text>
+        <text encoding="base64">XDxkZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CmJvb2wgaXNfc2VwKGNvbnN0IGNoYXIqIHN0cikgewo=</text>
+        <text encoding="base64">CWlmIChudW0gID09IDB8fCBzaXplID09IDApIHsKCQlyZXR1cm4gTlVMTDsKCX0KCQoJc2l6ZV90IHRvdGFsX3NpemUgPSBudW0gKiBzaXplOwoJaWYgKHNpemUgIT0gdG90YWxfc2l6ZSAvIG51bSkgewoJCXJldHVybiBOVUxMOwoJfQoJCgl2b2lkKiBtZW0gPSBtYWxsb2ModG90YWxfc2l6ZSk7CglpZiAobWVtID09IE5VTEwpIHsKCQlyZXR1cm4gTlVMTDsKCX0KCW1lbXNldChtZW0sIDAsIHRvdGFsX3NpemUpOwoJcmV0dXJuIG1lbTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHlwZWRlZiBzdHJ1Y3QgZnJlZV9saXN0IHsKCW1ldGEqIHByZTsKCW1ldGEqIGN1cjsKCW1ldGEqIG5leDsKfSBmcmVlX2xpc3Q7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci8vIDIuNSBHQgojZGVmaW5lIE1FTV9MSU0gMjY4NDM1NDU2MAojZGVmaW5lIE1FVEFfU0laRSBzaXplb2YobWV0YSkK</text>
+        <text encoding="base64">CWZyZWVfbm9kZSogdHJhdjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXNpemVfdCBzaXplOwo=</text>
+        <text encoding="base64">CQkJCgkJCQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmludCBnZXRfc2l6ZShtZXRhKiBtKSB7CgkvLyByZWFsIHNpemUgPSBzaXplIGV4Y2x1ZGluZyB0aGUgbGFzdCBiaXQsIHdoaWNoIGlzIHJlc2VydmVkIGZvciBtYXJraW5nIHVzYWdlIHN0YXR1cwoJcmV0dXJuIG0tPnNpemUgJiB+MTsKfQoKLy8gZnJvbSBtZXRhIC0+IGFjdHVhbCBkYXRhCnZvaWQqIGdldF9kYXRhKG1ldGEqIG0pIHsKCXJldHVybiBtICsgMTsKfQovLyBmcm9tIGRhdGEgLT4gbWV0YSBpbmZvCm1ldGEqIGdldF9tZXRhKHZvaWQqIHApIHsKCS8vIGNhc3QgdG8gZG8gcG9pbnRlciBhcml0aG1ldGljCglyZXR1cm4gKG1ldGEqKSBwIC0gMTsKfQoKaW50IGlzX3VzZWQobWV0YSogbSkgewoJLy8gY2hlY2sgbGFzdCBiaXQKCXJldHVybiBtLT5zaXplICYgMTsKfQp2b2lkIHNldF91c2VkKG1ldGEqIG0sIGludCB1c2VkKSB7CglpZiAodXNlZCA9PSAwKSB7CgkJLy8gc2V0IGZyZWU6IGxhc3QgYml0IDAKCQltLT5zaXplICY9IH4xOwoJfSBlbHNlIHsKCQkvLyBzZXQgdXNlZDogbGFzdCBiaXQgMQoJCW0tPnNpemUgfD0gMTsKCX0KfQoKbWV0YSogZ2V0X25leChtZXRhKiBtKSB7CglyZXR1cm4gKG1ldGEqKSAoKGNoYXIqKSAobSArIDEpICsgZ2V0X3NpemUobSkpOwp9Cm1ldGEqIGdldF9wcmUobWV0YSogbSkgewoJcmV0dXJuIG0tPnByZTsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2RlZmluZSBQT09MX1NJWkUgSU5UX01BWAo=</text>
+        <text encoding="base64">CnZvaWQqIG1hbGxvYyhzaXplX3Qgc2l6ZSkgewoJZnJlZV9ub2RlKiB0cmF2ZXJzYWwgPSBoZWFkZXI7CglzaXplX3QgYmxvY2tfc2l6ZSA9IGFsaWduKHNpemUpOwoJdHJhdmVyc2FsID0gZmluZChibG9ja19zaXplKTsKCWlmICh0cmF2ZXJzYWwgIT0gTlVMTCkgewoJCXNpemVfdCBvcmlnX3NpemUgPSAoKigoc2l6ZV90KikgdHJhdmVyc2FsIC0gMSkpICYgfjE7CgkJaWYgKG9yaWdfc2l6ZSAtIGJsb2NrX3NpemUgPiAyICogc2l6ZW9mKHNpemVfdCkpIHsKCQkJc2l6ZV90IG5ld19zaXplID0gb3JpZ19zaXplIC0gYmxvY2tfc2l6ZSAtIDIgKiBzaXplb2Yoc2l6ZV90KTsKCQkJKihzaXplX3QqKSAoKHZvaWQqKSB0cmF2ZXJzYWwgKyBvcmlnX3NpemUpID0gYmxvY2tfc2l6ZTsKCQkJKihzaXplX3QqKSAoKHZvaWQqKSB0cmF2ZXJzYWwgKyBuZXdfc2l6ZSArIHNpemVvZihzaXplX3QpKSA9IGJsb2NrX3NpemU7CgkJCSooc2l6ZV90KikgKCh2b2lkKikgdHJhdmVyc2FsICsgbmV3X3NpemUpID0gKG5ld19zaXplIHwgMSk7CgkJCSooKHNpemVfdCopIHRyYXZlcnNhbCAtIDEpID0gKG5ld19zaXplIHwgMSk7CgkJCXJldHVybiAodm9pZCopIHRyYXZlcnNhbCArIG5ld19zaXplICsgMiAqIHNpemVvZihzaXplX3QpOwoJCQkKCQl9IGVsc2UgeyAvL2RlbGV0ZSB0aGUgbm9kZSBmcm9tIHRoZSBsaXN0ICAKCQkJcmVtb3ZlX25vZGUodHJhdmVyc2FsKTsKCQkJc2l6ZV90IG9sZF9zaXplID0gKCooKHNpemVfdCopIHRyYXZlcnNhbCAtIDEpKSAmIH4xOwoJCQkqKChzaXplX3QqKSB0cmF2ZXJzYWwgLSAxKSA9IG9sZF9zaXplOwoJCQkqKHNpemVfdCopICgodm9pZCopIHRyYXZlcnNhbCArIG9sZF9zaXplKSA9IG9sZF9zaXplOwoJCQlyZXR1cm4gKHZvaWQqKSB0cmF2ZXJzYWw7CgkJfQoJCQoJfQoJc2l6ZV90KiBjaG9zZW4gPSAoc2l6ZV90Kikgc2JyaygwKTsKCWlmIChmbGFnKSB7CgkJaGVhcF9zdGFydCA9ICh2b2lkKikgY2hvc2VuOwoJCWZsYWcgPSAwOwoJfQoJaWYgKHNicmsoMiAqIHNpemVvZihzaXplX3QpICsgYmxvY2tfc2l6ZSkgPT0gKHZvaWQqKSAtMSkgcmV0dXJuIE5VTEw7CgkqY2hvc2VuID0gYmxvY2tfc2l6ZTsKCXNpemVfdCogZm9vdCA9IChzaXplX3QqKSAoKHZvaWQqKSBjaG9zZW4gKyBibG9ja19zaXplICsgc2l6ZW9mKHNpemVfdCkpOwoJKmZvb3QgPSBibG9ja19zaXplOwoJaWYgKCh2b2lkKikgKGZvb3QgKyAxKSA+IGhlYXBfZW5kKSBoZWFwX2VuZCA9ICh2b2lkKikgKGZvb3QgKyAxKTsKCXJldHVybiAodm9pZCopIChjaG9zZW4gKyAxKTsKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2RlZmluZSBNRVRBX1NJWkUgc2l6ZW9mKG1ldGEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNvbnN0IHZvaWQqIHB0cl9wb29sW1BPT0xfU0laRV07CmludCBnZXRfaWR4KHZvaWQqIHApIHsKCXJldHVybiAoKGludCkgcCkgJSBQT09MX1NJWkU7Cn0K</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>initial</last-search>
+      <last-search encoding="base64">XDxkZFw+</last-search>
       <last-offset />
-      <last-pattern>initial</last-pattern>
+      <last-pattern encoding="base64">XDxkZFw+</last-pattern>
       <last-replace>dir</last-replace>
       <last-substitute>initial</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>traversal</entry>
         <entry>newT</entry>
         <entry>ptr</entry>
         <entry>temp_size</entry>
@@ -496,6 +505,7 @@
         <entry>bg</entry>
         <entry>parse</entry>
         <entry>initial</entry>
+        <entry encoding="base64">XDxkZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9n</entry>
