@@ -242,12 +242,10 @@
         <mark key="^" line="32" column="33" />
         <mark key="." line="32" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/Playground/DataStructureAndAlgorithm/AlgoKt/src/stack/Calculator.kt" timestamp="1507498677053">
-        <mark key="'" line="14" column="24" />
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="39" column="4" />
-        <mark key="." line="39" column="4" />
-        <mark key="^" line="39" column="4" />
+      <file name="$USER_HOME$/Documents/Playground/DataStructureAndAlgorithm/AlgoKt/src/stack/Calculator.kt" timestamp="1507500962929">
+        <mark key="[" line="38" column="69" />
+        <mark key="]" line="38" column="69" />
+        <mark key="." line="38" column="69" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/LPS.kt" timestamp="1503631134919">
         <mark key="[" line="8" column="0" />
@@ -312,8 +310,10 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507493442389">
+      <file name="/Dummy.txt" timestamp="1507500937110">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Intersect.kt" timestamp="1503623458901">
         <mark key="'" line="26" column="12" />
@@ -397,8 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="859" column="13" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="72" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="912" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="562" column="31" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="598" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
@@ -497,63 +495,66 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Playground/DataStructureAndAlgorithm/AlgoKt/src/oop/JsonXmlParser.kt" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/Playground/DataStructureAndAlgorithm/AlgoKt/src/stack/Calculator.kt" />
       <jump line="15" column="24" filename="$USER_HOME$/Documents/Playground/DataStructureAndAlgorithm/AlgoKt/src/stack/Calculator.kt" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/Playground/DataStructureAndAlgorithm/AlgoKt/src/stack/Calculator.kt" />
+      <jump line="39" column="24" filename="$USER_HOME$/Documents/Playground/DataStructureAndAlgorithm/AlgoKt/src/stack/Calculator.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Int</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>Int</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>col</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CS8vIHVwCglpZiAocm93IC0gMSA+PSAwKSB7CgkJdGhpcy5kZnMocm93IC0gMSwgY29sLCBoYXNWaXNpdGVkKQoJfQoJLy8gZG93bgoJaWYgKHJvdyArIDEgPCB0aGlzLnNpemUpIHsKCQl0aGlzLmRmcyhyb3cgKyAxLCBjb2wsIGhhc1Zpc2l0ZWQpCgl9CgkvLyBsZWZ0CglpZiAoY29sIC0gMSA+PSAwKSB7CgkJdGhpcy5kZnMocm93LCBjb2wgLSAxLCBoYXNWaXNpdGVkKQoJfQoJLy8gcmlnaHQKCWlmIChjb2wgKyAxIDwgdGhpc1tyb3ddLnNpemUpIHsKCQl0aGlzLmRmcyhyb3csIGNvbCArIDEsIGhhc1Zpc2l0ZWQpCgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQludW1CdWlsZGVyID0gU3RyaW5nQnVpbGRlcigpCg==</text>
+        <text encoding="base64">CgkJCQkJcHJpbnRsbihvcFN0YWNrKQoJCQkJCXByaW50bG4obnVtU3RhY2spCgkJCQkJcHJpbnRsbigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5DaGFyYWN0ZXIuaXNEaWdpdAo=</text>
+        <text encoding="base64">CQkJcHJpbnRsbihvcFN0YWNrKQoJCQlwcmludGxuKG51bVN0YWNrKQoJCQlwcmludGxuKCkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="3" type="8">
+        <text>kotlin.io.
+kotlin.io.
+kotlin.io.</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaW50bG4ob3BTdGFjaykKCXByaW50bG4obnVtU3RhY2spCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl3aGVuIChjKSB7IGlzRGlnaXQoKSAtPiB7CgkJCX0KCQkJZWxzZeOAgCAtPiB7CgkJCX0KCQl9Cg==</text>
+        <text encoding="base64">CQlwcmludGxuKCJPUCR7b3BTdGFjay5wZWVrKCl9IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuIEMK</text>
+        <text encoding="base64">CQkJCQkJcHJpbnRsbigiSVQ6JGl0IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuIGNhCg==</text>
+        <text encoding="base64">CS8vIHRoZXJlIG11c3QgYmUgYSBsYXN0IG51bWJlciB0byBiZSBwdXNoZWQKCW51bVN0YWNrLnB1c2gobnVtQnVpbGRlci50b1N0cmluZygpLnRvRG91YmxlKCkpCgoJd2hpbGUgKG9wU3RhY2suaXNOb3RFbXB0eSgpKSB7CgkJdmFsIGN1cnJPcCA9IG9wU3RhY2sucG9wKCkKCQlpZiAob3BTdGFjay5pc0VtcHR5KCkgfHwgY3Vyck9wLmdldFByaW9yaXR5KCkgPiBvcFN0YWNrLnBlZWsoKS5nZXRQcmlvcml0eSgpKSB7CgkJCW51bVN0YWNrLnB1c2goY3Vyck9wLmNhbGMobnVtU3RhY2sucG9wKCksIG51bVN0YWNrLnBvcCgpKSkKCQl9Cgl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIG9ubHkgKywgLSwgKiwgLyBhbGxvd2VkLCBubyBeLCAoKSwgZXRjLgo=</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIFE6IEhvdyB0byBjb21waWxlIGFuZCBydW4gdGhpcyAua3QgKEtvdGxpbikgZmlsZT8KICogQTogaHR0cHM6Ly9rb3RsaW5sYW5nLm9yZy9kb2NzL3R1dG9yaWFscy9jb21tYW5kLWxpbmUuaHRtbAogKgogKiBJbiBzaG9ydDoKICogMS4gaW5zdGFsbCBrb3RsaW4gY29tcGlsZXIgd2l0aCBgc2RrIGluc3RhbGwga290bGluYAogKiAyLiBjb21waWxlIGZpbGUgd2l0aCBga290bGluYyBKc29uWG1sUGFyc2VyLmt0IC1pbmNsdWRlLXJ1bnRpbWUgLWQgSnNvblhtbFBhcnNlci5qYXJgCiAqIDMuIHJ1biBleGVjdXRhYmxlIGphciBmaWxlIHdpdGggYGphdmEgLWphciBKc29uWG1sUGFyc2VyLmphcmAKICoKICoKICogUTogV2hlcmUgc2hvdWxkIGZpbGVzIGJlIHB1dD8KICogQTogRWl0aGVyIHB1dCBib3RoIGBleGFtcGxlLntqc29uLCB4bWx9YCB1bmRlciB0aGUgc2FtZSBkaXJlY3RvcnkgT1IgY2hhbmdlIGBtYWluYCBtZXRob2QgYmVsb3cuCiAqLwoK</text>
+        <text encoding="base64">CQkJCQkvLyBwdXNoIG9wZXIKCQkJCQlvcFN0YWNrLnB1c2goaXQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>col</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>col</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>currCol</last-replace>
       <last-substitute>col</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>finish</entry>
         <entry>kill</entry>
         <entry>print_process</entry>
         <entry>print_process_in</entry>
@@ -573,6 +574,7 @@
         <entry>printf</entry>
         <entry>row</entry>
         <entry>col</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>vs includes/vector.h</entry>
