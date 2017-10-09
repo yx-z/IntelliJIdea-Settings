@@ -49,11 +49,11 @@
       <file name="/LLDB" timestamp="1505522650452">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Playground/DataStructureAndAlgorithm/AlgoKt/src/stack/PathCompression.kt" timestamp="1507494896471">
-        <mark key="[" line="3" column="47" />
-        <mark key="]" line="3" column="50" />
-        <mark key="^" line="3" column="50" />
-        <mark key="." line="3" column="50" />
+      <file name="$USER_HOME$/Documents/Playground/DataStructureAndAlgorithm/AlgoKt/src/stack/PathCompression.kt" timestamp="1507507737384">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="36" />
+        <mark key="^" line="7" column="36" />
+        <mark key="." line="7" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/Playground/DataStructureAndAlgorithm/AlgoKt/src/graph/DFS_BFS.kt" timestamp="1507486135573">
         <mark key="'" line="95" column="16" />
@@ -222,6 +222,11 @@
       </file>
       <file name="/fragment.m" timestamp="1505519044514">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Playground/DataStructureAndAlgorithm/AlgoKt/src/stack/SimplifyFilePath.kt" timestamp="1507508871105">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/LIS.kt" timestamp="1503547302052">
         <mark key="'" line="59" column="19" />
@@ -499,11 +504,11 @@
       <jump line="39" column="24" filename="$USER_HOME$/Documents/Playground/DataStructureAndAlgorithm/AlgoKt/src/stack/Calculator.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CVRPRE8oKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -512,33 +517,31 @@
         <text encoding="base64">CS8vIHVwCglpZiAocm93IC0gMSA+PSAwKSB7CgkJdGhpcy5kZnMocm93IC0gMSwgY29sLCBoYXNWaXNpdGVkKQoJfQoJLy8gZG93bgoJaWYgKHJvdyArIDEgPCB0aGlzLnNpemUpIHsKCQl0aGlzLmRmcyhyb3cgKyAxLCBjb2wsIGhhc1Zpc2l0ZWQpCgl9CgkvLyBsZWZ0CglpZiAoY29sIC0gMSA+PSAwKSB7CgkJdGhpcy5kZnMocm93LCBjb2wgLSAxLCBoYXNWaXNpdGVkKQoJfQoJLy8gcmlnaHQKCWlmIChjb2wgKyAxIDwgdGhpc1tyb3ddLnNpemUpIHsKCQl0aGlzLmRmcyhyb3csIGNvbCArIDEsIGhhc1Zpc2l0ZWQpCgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgkJCQkJcHJpbnRsbihvcFN0YWNrKQoJCQkJCXByaW50bG4obnVtU3RhY2spCgkJCQkJcHJpbnRsbigpCg==</text>
+        <text encoding="base64">CVRPRE8oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJcHJpbnRsbihvcFN0YWNrKQoJCQlwcmludGxuKG51bVN0YWNrKQoJCQlwcmludGxuKCkK</text>
+        <text encoding="base64">CWRpcnMK</text>
       </register>
-      <register name="3" type="8">
-        <text>kotlin.io.
-kotlin.io.
-kotlin.io.</text>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaW50bG4ob3BTdGFjaykKCXByaW50bG4obnVtU3RhY2spCg==</text>
+        <text encoding="base64">CXByaW50bG4oQXJyYXlzLnRvU3RyaW5nKGRpcnMpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlwcmludGxuKCJPUCR7b3BTdGFjay5wZWVrKCl9IikK</text>
+        <text encoding="base64">CS8vIGV4LiAvYWJjLy4uL2JjZC8uLi9jZGUvIC0+IGNkZS8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJcHJpbnRsbigiSVQ6JGl0IikK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIHRoZXJlIG11c3QgYmUgYSBsYXN0IG51bWJlciB0byBiZSBwdXNoZWQKCW51bVN0YWNrLnB1c2gobnVtQnVpbGRlci50b1N0cmluZygpLnRvRG91YmxlKCkpCgoJd2hpbGUgKG9wU3RhY2suaXNOb3RFbXB0eSgpKSB7CgkJdmFsIGN1cnJPcCA9IG9wU3RhY2sucG9wKCkKCQlpZiAob3BTdGFjay5pc0VtcHR5KCkgfHwgY3Vyck9wLmdldFByaW9yaXR5KCkgPiBvcFN0YWNrLnBlZWsoKS5nZXRQcmlvcml0eSgpKSB7CgkJCW51bVN0YWNrLnB1c2goY3Vyck9wLmNhbGMobnVtU3RhY2sucG9wKCksIG51bVN0YWNrLnBvcCgpKSkKCQl9Cgl9Cg==</text>
+        <text encoding="base64">CXZhbCB0ZXN0UGF0aCA9ICIvYWJjL2RlZi8uLi8iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CgkJCQkJcHJpbnRsbihvcFN0YWNrKQoJCQkJCXByaW50bG4obnVtU3RhY2spCgkJCQkJcHJpbnRsbigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkvLyBwdXNoIG9wZXIKCQkJCQlvcFN0YWNrLnB1c2goaXQpCg==</text>
+        <text encoding="base64">CQkJcHJpbnRsbihvcFN0YWNrKQoJCQlwcmludGxuKG51bVN0YWNrKQoJCQlwcmludGxuKCkK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
