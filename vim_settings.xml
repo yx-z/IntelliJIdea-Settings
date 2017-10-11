@@ -145,6 +145,9 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="6" column="42" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php" timestamp="1507752080518">
+        <mark key="'" line="1700" column="58" />
+      </file>
       <file name="$USER_HOME$/VCS/CS241/shell/super_shell.c" timestamp="1506543842407">
         <mark key="'" line="114" column="14" />
         <mark key="[" line="370" column="19" />
@@ -239,6 +242,9 @@
         <mark key="]" line="31" column="3" />
         <mark key="^" line="13" column="7" />
         <mark key="." line="31" column="3" />
+      </file>
+      <file name="/dummy.sql" timestamp="1507751958217">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/arr/ClosestNumber.kt" timestamp="1504098910895">
         <mark key="[" line="8" column="53" />
@@ -356,7 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="542" column="16" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="572" column="35" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="648" column="24" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="818" column="25" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
@@ -456,6 +461,7 @@
       <jump line="492" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="491" column="21" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="152" column="53" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="1700" column="58" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -465,7 +471,7 @@
         <text>G</text>
       </register>
       <register name="/" type="4">
-        <text>printf</text>
+        <text>validate</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXByaW50ZigiUzE6JXNcbiIsIHN0cl8xKTsK</text>
@@ -502,17 +508,16 @@
       </register>
     </registers>
     <search>
-      <last-search>printf</last-search>
+      <last-search>validate</last-search>
       <last-offset />
-      <last-pattern>printf</last-pattern>
+      <last-pattern>validate</last-pattern>
       <last-replace>string</last-replace>
       <last-substitute>char *</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>str_parse_dollar</entry>
         <entry>argv</entry>
         <entry>finish</entry>
         <entry>kill</entry>
@@ -532,6 +537,7 @@
         <entry>dollar</entry>
         <entry>LINE</entry>
         <entry>printf</entry>
+        <entry>validate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9n</entry>
