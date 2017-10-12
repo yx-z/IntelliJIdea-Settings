@@ -43,6 +43,9 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_4.php" timestamp="1507754904323">
+        <mark key="'" line="660" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/CS241/shell/format.c" timestamp="1506875496178">
         <mark key="'" line="17" column="31" />
       </file>
@@ -139,11 +142,18 @@
         <mark key="]" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/ProductLabs/circle-tech-v1-1/includes/site.navigation.php" timestamp="1507755850583">
+        <mark key="[" line="20" column="43" />
+        <mark key="]" line="22" column="185" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/NQueens.kt" timestamp="1503636503554">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="6" column="42" />
         <mark key="." line="6" column="42" />
         <mark key="^" line="6" column="42" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php" timestamp="1507752080518">
+        <mark key="'" line="1700" column="58" />
       </file>
       <file name="$USER_HOME$/VCS/CS241/shell/super_shell.c" timestamp="1506543842407">
         <mark key="'" line="114" column="14" />
@@ -200,6 +210,9 @@
       <file name="/fragment.m" timestamp="1505519044514">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/ProductLabs/circle-tech-v1-1/includes/class.database.php" timestamp="1507755707184">
+        <mark key="[" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/LIS.kt" timestamp="1503547302052">
         <mark key="'" line="59" column="19" />
         <mark key="[" line="56" column="18" />
@@ -240,6 +253,9 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="31" column="3" />
       </file>
+      <file name="/dummy.sql" timestamp="1507751958217">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/arr/ClosestNumber.kt" timestamp="1504098910895">
         <mark key="[" line="8" column="53" />
         <mark key="]" line="8" column="50" />
@@ -270,7 +286,7 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506895171521">
+      <file name="/Dummy.txt" timestamp="1507754058170">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -336,6 +352,11 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/ProductLabs/circle-tech-v1-1/includes/app.submit.php" timestamp="1507752473464">
+        <mark key="]" line="19" column="59" />
+        <mark key="^" line="19" column="59" />
+        <mark key="." line="19" column="59" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/graph/BFS.kt" timestamp="1504099785454">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="4" column="27" />
@@ -356,8 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="542" column="16" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="572" column="35" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="648" column="24" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="818" column="25" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="817" column="25" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
@@ -456,19 +475,21 @@
       <jump line="492" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="491" column="21" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="152" column="53" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
+      <jump line="1700" column="58" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php" />
+      <jump line="660" column="9" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_4.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXByaW50ZigiTElORTolc1xuIiwgbGluZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IG5hdmJhci1idG4gbmF2YmFyLXJpZ2h0IiBpZD0iYnRuLWxvZ2luIj48c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1sb2ctaW4iIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+IFNpZ24gSW48L2J1dHRvbj4K</text>
       </register>
       <register name="-" type="4">
         <text>G</text>
       </register>
       <register name="/" type="4">
-        <text>printf</text>
+        <text>validate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaW50ZigiUzE6JXNcbiIsIHN0cl8xKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IG5hdmJhci1idG4gbmF2YmFyLXJpZ2h0IiBpZD0iYnRuLWxvZ2luIj48c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1sb2ctaW4iIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+IFNpZ24gSW48L2J1dHRvbj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CXByaW50ZigiTElORTolc1xuIiwgbGluZSk7Cg==</text>
@@ -502,9 +523,9 @@
       </register>
     </registers>
     <search>
-      <last-search>printf</last-search>
+      <last-search>validate</last-search>
       <last-offset />
-      <last-pattern>printf</last-pattern>
+      <last-pattern>validate</last-pattern>
       <last-replace>string</last-replace>
       <last-substitute>char *</last-substitute>
       <last-dir>1</last-dir>
@@ -512,7 +533,6 @@
     </search>
     <history>
       <history-search>
-        <entry>str_parse_dollar</entry>
         <entry>argv</entry>
         <entry>finish</entry>
         <entry>kill</entry>
@@ -532,6 +552,7 @@
         <entry>dollar</entry>
         <entry>LINE</entry>
         <entry>printf</entry>
+        <entry>validate</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9n</entry>
@@ -576,6 +597,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
