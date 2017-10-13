@@ -142,9 +142,10 @@
         <mark key="]" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/ProductLabs/circle-tech-v1-1/includes/site.navigation.php" timestamp="1507755850583">
-        <mark key="[" line="20" column="43" />
-        <mark key="]" line="22" column="185" />
+      <file name="$USER_HOME$/Documents/ProductLabs/circle-tech-v1-1/includes/site.navigation.php" timestamp="1507922456952">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/NQueens.kt" timestamp="1503636503554">
         <mark key="[" line="5" column="51" />
@@ -352,7 +353,8 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/ProductLabs/circle-tech-v1-1/includes/app.submit.php" timestamp="1507752473464">
+      <file name="$USER_HOME$/Documents/ProductLabs/circle-tech-v1-1/includes/app.submit.php" timestamp="1507922875132">
+        <mark key="'" line="33" column="349" />
         <mark key="]" line="19" column="59" />
         <mark key="^" line="19" column="59" />
         <mark key="." line="19" column="59" />
@@ -377,9 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="648" column="24" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="818" column="25" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
-      <jump line="817" column="25" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="650" column="44" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="569" column="41" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="576" column="15" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
@@ -477,55 +476,58 @@
       <jump line="152" column="53" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="1700" column="58" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php" />
       <jump line="660" column="9" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_4.php" />
+      <jump line="29" column="9" filename="$USER_HOME$/Documents/ProductLabs/circle-tech-v1-1/includes/app.submit.php" />
+      <jump line="30" column="39" filename="$USER_HOME$/Documents/ProductLabs/circle-tech-v1-1/includes/app.submit.php" />
+      <jump line="33" column="349" filename="$USER_HOME$/Documents/ProductLabs/circle-tech-v1-1/includes/app.submit.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IG5hdmJhci1idG4gbmF2YmFyLXJpZ2h0IiBpZD0iYnRuLWxvZ2luIj48c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1sb2ctaW4iIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+IFNpZ24gSW48L2J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gVE9ETyBkYXNoYm9hcmQgYmxhbmsgLS0+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>G</text>
       </register>
       <register name="/" type="4">
-        <text>validate</text>
+        <text>profile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IG5hdmJhci1idG4gbmF2YmFyLXJpZ2h0IiBpZD0iYnRuLWxvZ2luIj48c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi1sb2ctaW4iIGFyaWEtaGlkZGVuPSJ0cnVlIj48L3NwYW4+IFNpZ24gSW48L2J1dHRvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaW50ZigiTElORTolc1xuIiwgbGluZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gVE9ETyBkYXNoYm9hcmQgYmxhbmsgLS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaW50ZigiU1RSOiVzXG4iLCBzdHIpOwo=</text>
+        <text encoding="base64">CXByaW50ZigiTElORTolc1xuIiwgbGluZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXByaW50ZigiU1RSOiVzXG4iLCBzdHIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaW50ZigiUzI6JXNcbiIsIHN0cl8yKTsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByaW50ZigiUzE6JXNcbiIsIHN0cl8xKTsK</text>
+        <text encoding="base64">CXByaW50ZigiUzI6JXNcbiIsIHN0cl8yKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaW50ZigiUzE6JXNcbiIsIHN0cl8xKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dm9pZCBzaWdfa2lsbChpbnQgc2lnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXByaW50ZigiSTolZFxuIiwgaSk7Cg==</text>
+        <text encoding="base64">dm9pZCBzaWdfa2lsbChpbnQgc2lnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZyZWUocHJvY2Vzc19jb21tYW5kc1twaWRfbWFpbl0pOwo=</text>
+        <text encoding="base64">CQkJCXByaW50ZigiSTolZFxuIiwgaSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>validate</last-search>
+      <last-search>profile</last-search>
       <last-offset />
-      <last-pattern>validate</last-pattern>
+      <last-pattern>profile</last-pattern>
       <last-replace>string</last-replace>
       <last-substitute>char *</last-substitute>
       <last-dir>1</last-dir>
@@ -533,7 +535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>argv</entry>
         <entry>finish</entry>
         <entry>kill</entry>
         <entry>print_process</entry>
@@ -553,6 +554,7 @@
         <entry>LINE</entry>
         <entry>printf</entry>
         <entry>validate</entry>
+        <entry>profile</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9n</entry>
