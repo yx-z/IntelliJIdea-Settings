@@ -242,12 +242,12 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/Desktop/Interview/src/Solution.java" timestamp="1507911190744">
-        <mark key="'" line="55" column="60" />
-        <mark key="[" line="113" column="55" />
-        <mark key="]" line="113" column="54" />
-        <mark key="." line="113" column="54" />
-        <mark key="^" line="113" column="54" />
+      <file name="$USER_HOME$/Desktop/Interview/src/Solution.java" timestamp="1507930788508">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="111" column="20" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="111" column="19" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/arr/ClosestNumber.kt" timestamp="1504098910895">
         <mark key="[" line="8" column="53" />
@@ -320,15 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="19" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="183" column="10" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="233" column="12" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="235" column="16" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="232" column="12" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="105" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="104" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/menv.c" />
-      <jump line="83" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/menv.c" />
-      <jump line="138" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/menv.c" />
       <jump line="88" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="83" column="17" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="156" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -420,13 +411,22 @@
       <jump line="80" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="14" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="55" column="60" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="41" column="19" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="74" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>size</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgeCA9IDA7CiAgICAgICAgaW50IHkgPSAwOwogICAgICAgIERpcmVjdGlvbiBkaXJlY3Rpb24gPSBudWxsOwoK</text>
       </register>
       <register name="-" type="4">
-        <text>size</text>
+        <text>should</text>
       </register>
       <register name="/" type="4">
         <text>char *</text>
@@ -435,31 +435,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQYWlyPD4oLCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgeCA9IDA7CiAgICAgICAgaW50IHkgPSAwOwogICAgICAgIERpcmVjdGlvbiBkaXJlY3Rpb24gPSBudWxsOwoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAwLAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcm93ID0gMDsKICAgICAgICBpbnQgY29sID0gMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoeSA8PSBzaXplID8gLXNpemUgOiB5IC0gc2l6ZSkgKyB4LAogICAgICAgICAgICAgICAgICAgIHkgLSBzaXplKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFNvbHV0aW9uKHgsIHksIHdvcmQsIGRpcmVjdGlvbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCB5ID0gMDsgeSA8IHRlc3RNYXAubGVuZ3RoOyB5KyspIHsKICAgICAgICAgICAgZm9yIChpbnQgeCA9IDA7IHggPCB0ZXN0TWFwW3ldLmxlbmd0aDsgeCsrKSB7CiAgICAgICAgICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICAgICAgICAgIHNiLmFwcGVuZCgiKCIpLmFwcGVuZCh4KS5hcHBlbmQoIiwgIikuYXBwZW5kKHkpLmFwcGVuZCgiKSAtPiAoIik7CiAgICAgICAgICAgICAgICBQYWlyPEludGVnZXIsIEludGVnZXI+IGhleENvb3JkaW5hdGUgPSB0ZXN0R3JpZC5jYXJ0ZXNpYW5Ub0hleCh4LCB5KTsKICAgICAgICAgICAgICAgIHNiLmFwcGVuZChoZXhDb29yZGluYXRlLmdldEtleSgpKS5hcHBlbmQoIiwgIikuYXBwZW5kKGhleENvb3JkaW5hdGUuZ2V0VmFsdWUoKSkuYXBwZW5kKCIpIik7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2IpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgeCA9IDA7CiAgICAgICAgaW50IHkgPSAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4IC0gc2l6ZSArICh5IDw9IHNpemUgPyAwIDogeSAtIHNpemUpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHkgPD0gLXNpemUpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oInkgdG9vIHNtYWxsIik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0ZXN0R3JpZC5jYXJ0ZXNpYW5Ub0hleChuZXcgUGFpcjw+KHgsIHkpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHkgPj0gc2l6ZSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigieSB0b28gYmlnIik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0R3JpZC5jCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHggPj0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQYWlyPD4oYy5nZXRLZXkoKSAtIHNpemUsIGMuZ2V0VmFsdWUoKSAtIHNpemUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQYWlyPD4oYy5nZXRLZXkoKSArIHNpemUsIGMuZ2V0VmFsdWUoKSArIHNpemUpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBQYWlyPEludGVnZXIsIEludGVnZXI+IGdvTm9ydGgoaW50IHgsIGludCB5KSB7CiAgICAgICAgcmV0dXJuIG5ldyBQYWlyPD4oeCwgIHkgLSAxKTsKICAgIH0KCiAgICBwdWJsaWMgUGFpcjxJbnRlZ2VyLCBJbnRlZ2VyPiBnb1NvdXRoKGludCB4LCBpbnQgeSkgewogICAgICAgIHJldHVybiBuZXcgUGFpcjw+KHgsIHkgKyAxKTsKICAgIH0KCiAgICBwdWJsaWMgUGFpcjxJbnRlZ2VyLCBJbnRlZ2VyPiBnb05vcnRoRWFzdChpbnQgeCwgaW50IHkpIHsKICAgICAgICByZXR1cm4gbmV3IFBhaXI8Pih4ICsgMSwgeSk7CiAgICB9CgogICAgcHVibGljIFBhaXI8SW50ZWdlciwgSW50ZWdlcj4gZ29Ob3J0aFdlc3QoaW50IHgsIGludCB5KSB7CiAgICAgICAgcmV0dXJuIG5ldyBQYWlyPD4oeCAtIDEsIHkgLSAxKTsKICAgIH0KCiAgICBwdWJsaWMgUGFpcjxJbnRlZ2VyLCBJbnRlZ2VyPiBnb1NvdXRoRWFzdChpbnQgeCwgaW50IHkpIHsKICAgICAgICByZXR1cm4gbmV3IFBhaXI8Pih4ICsgMSwgeSArIDEpOwogICAgfQoKICAgIHB1YmxpYyBQYWlyPEludGVnZXIsIEludGVnZXI+IGdvU291dGhXZXN0KGludCB4LCBpbnQgeSkgewogICAgICAgIHJldHVybiBuZXcgUGFpcjw+KHggLSAxLCB5KTsKICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
