@@ -242,11 +242,12 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="$USER_HOME$/Desktop/Interview/src/Solution.java" timestamp="1507937730391">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/Desktop/Interview/src/Solution.java" timestamp="1507941947969">
+        <mark key="'" line="254" column="0" />
+        <mark key="[" line="232" column="34" />
+        <mark key="]" line="232" column="41" />
+        <mark key="." line="232" column="41" />
+        <mark key="^" line="232" column="41" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/arr/ClosestNumber.kt" timestamp="1504098910895">
         <mark key="[" line="8" column="53" />
@@ -319,22 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="71" column="22" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="139" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="0" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="167" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="215" column="41" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="144" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="125" column="8" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="34" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="32" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="151" column="44" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="147" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="141" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="127" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="123" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="116" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="54" column="15" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="67" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="75" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -419,63 +404,78 @@
       <jump line="74" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
       <jump line="130" column="33" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
       <jump line="7" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="68" column="8" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="175" column="27" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="219" column="21" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="56" column="14" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="239" column="32" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="165" column="22" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="146" column="32" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="142" column="33" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="247" column="38" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="156" column="27" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="254" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>should</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>char *</text>
+        <text>wordSearch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQYWlyPD4oLCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgTm9ydGg6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdvTm9ydGgoeCwgeSk7CiAgICAgICAgICAgICAgICBjYXNlIFNvdXRoOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBnb1NvdXRoKHgsIHkpOwogICAgICAgICAgICAgICAgY2FzZSBOb3J0aGVhc3Q6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdvTm9ydGhlYXN0KHgsIHkpOwogICAgICAgICAgICAgICAgY2FzZSBOb3J0aHdlc3Q6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdvTm9ydGh3ZXN0KHgsIHkpOwogICAgICAgICAgICAgICAgY2FzZSBTb3V0aGVhc3Q6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdvc291dGhlYXN0KHgsIHkpOwogICAgICAgICAgICAgICAgY2FzZSBTb3V0aHdlc3Q6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdvc291dGh3ZXN0KHgsIHkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFjYW5Nb3ZlKHgsIHksIGQpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIC8vIHdvcmQgc2hvdWxkIGhhdmUgbGVuZ3RoID4gMSwgb3RoZXJ3aXNlIG5vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIGJvb2xlYW4gY2FuTW92ZShpbnQgeCwgaW50IHksIERpcmVjdGlvbiBkKSB7CiAgICAgICAgICAgIHN3aXRjaCAoZCkgewogICAgICAgICAgICAgICAgY2FzZSBOb3J0aDoKICAgICAgICAgICAgICAgICAgICByZXR1cm4geSA+IC1zaXplOwogICAgICAgICAgICAgICAgY2FzZSBTb3V0aDoKICAgICAgICAgICAgICAgICAgICByZXR1cm4geSA8IHNpemU7CiAgICAgICAgICAgICAgICBjYXNlIE5vcnRoZWFzdDoKICAgICAgICAgICAgICAgICAgICByZXR1cm4geCArIDEgPCBzaXplOwogICAgICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGdyaWQKICAgICAqIEBwYXJhbSB3b3JkCiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQYWlyPEludGVnZXIsIEludGVnZXI+IG5vcnRoIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAod29yZEFyci5sZW5ndGgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocHV6emxlLmdvTm9ydGgoeCwgeSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKERpcmVjdGlvbiBkIDogRGlyZWN0aW9uKQo=</text>
+        <text encoding="base64">CiAgICAgICAgcHVibGljIFBhaXI8SW50ZWdlciwgSW50ZWdlcj4gZ29Ob3J0aChpbnQgeCwgaW50IHkpIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBQYWlyPD4oeCwgeSAtIDEpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIFBhaXI8SW50ZWdlciwgSW50ZWdlcj4gZ29Tb3V0aChpbnQgeCwgaW50IHkpIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBQYWlyPD4oeCwgeSArIDEpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIFBhaXI8SW50ZWdlciwgSW50ZWdlcj4gZ29Ob3J0aGVhc3QoaW50IHgsIGludCB5KSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgUGFpcjw+KHggKyAxLCB5KTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBQYWlyPEludGVnZXIsIEludGVnZXI+IGdvTm9ydGh3ZXN0KGludCB4LCBpbnQgeSkgewogICAgICAgICAgICByZXR1cm4gbmV3IFBhaXI8Pih4IC0gMSwgeSAtIDEpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIFBhaXI8SW50ZWdlciwgSW50ZWdlcj4gZ29Tb3V0aGVhc3QoaW50IHgsIGludCB5KSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgUGFpcjw+KHggKyAxLCB5ICsgMSk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgUGFpcjxJbnRlZ2VyLCBJbnRlZ2VyPiBnb1NvdXRod2VzdChpbnQgeCwgaW50IHkpIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBQYWlyPD4oeCAtIDEsIHkpOwogICAgICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>char *</last-search>
+      <last-search>wordSearch</last-search>
       <last-offset />
-      <last-pattern>char *</last-pattern>
+      <last-pattern>wordSearch</last-pattern>
       <last-replace>string</last-replace>
       <last-substitute>char *</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>1</entry>
         <entry>a</entry>
         <entry>A</entry>
         <entry>set</entry>
@@ -495,6 +495,7 @@
         <entry>str_sp</entry>
         <entry>vector_set</entry>
         <entry>char *</entry>
+        <entry>wordSearch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9z</entry>
