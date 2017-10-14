@@ -8,6 +8,10 @@
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
   <action id="Replace" />
   <action id="ReplaceInPath" />
   <action id="Run">
