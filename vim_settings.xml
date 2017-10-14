@@ -109,12 +109,12 @@
         <mark key="." line="145" column="93" />
         <mark key="^" line="145" column="93" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoKt/src/oop/ParkingLot.kt" timestamp="1508006748995">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/Documents/AlgoKt/src/oop/ParkingLot.kt" timestamp="1508008142373">
+        <mark key="'" line="53" column="15" />
+        <mark key="[" line="86" column="30" />
+        <mark key="]" line="86" column="31" />
+        <mark key="." line="86" column="31" />
+        <mark key="^" line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/CS241/shell/CMakeLists.txt" timestamp="1506566716842">
         <mark key="[" line="14" column="37" />
@@ -351,11 +351,6 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508005604142">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/arr/sort/CountSort.kt" timestamp="1508003436329">
         <mark key="[" line="2" column="0" />
       </file>
@@ -472,7 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="702" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="704" column="0" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="715" column="13" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
       <jump line="647" column="34" filename="$USER_HOME$/Documents/CS241/shell/super_shell.c" />
@@ -572,46 +566,47 @@
       <jump line="27" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/tree/RandomNode.kt" />
       <jump line="47" column="30" filename="$USER_HOME$/Documents/AlgoKt/src/tree/RandomNode.kt" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/oop/ParkingLot.kt" />
+      <jump line="45" column="15" filename="$USER_HOME$/Documents/AlgoKt/src/oop/ParkingLot.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>remove spaces</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>remove spaces</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWlmICh0aGlzIDwgMCkgewoJCXRocm93IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiSW50ID49IDAiKQoJfQo=</text>
+        <text encoding="base64">CXBhcmtpbmdMb3QubGVhdmUodmVoaWNsZXNbMF0pCglwcmludGxuKHBhcmtpbmdMb3QpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CQlyZXR1cm4gc3VwZXIudG9TdHJpbmcoKQoJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbnN0cnVjdG9yKHM6IFN0cmluZykgewoJCQoJfQo=</text>
+        <text encoding="base64">CQlyZXR1cm4gc3VwZXIudG9TdHJpbmcoKQoJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gc3VwZXIudG9TdHJpbmcoKQoJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZ1biBWZWhpY2xlLnBhcmsoKSB7CgkJdmVoaWNsZXMuYWRkKHRoaXMpCgl9Cg==</text>
+        <text encoding="base64">CXZhbCBwYXJraW5nTG90ID0gUGFya2luZ0xvdCgzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXBhcmtpbmdsb3QuCg==</text>
+        <text encoding="base64">ZnVuIG1haW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZ1biAK</text>
+        <text encoding="base64">CQkJc3BvdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3BlbiBhYnN0cmFjdCBjbGFzcyBWZWhpY2xlIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJcHJpbnRsbigpCg==</text>
+        <text encoding="base64">CQkJamsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwcmludCgiJHtjdXJyLmRhdGF9ICIpCg==</text>
+        <text encoding="base64">CQlpZiAoYXJlYS5hbnkgeyBpdC52ZWhpY2xlID09IHYgfSkgewoJCQkKCQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
