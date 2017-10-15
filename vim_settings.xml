@@ -16,6 +16,12 @@
         <mark key="^" line="82" column="12" />
         <mark key="." line="82" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/AlgoKt/src/dp/LSNoDup.kt" timestamp="1508076017736">
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/graph/FindPath.kt" timestamp="1508042132636">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="35" column="16" />
@@ -61,11 +67,10 @@
         <mark key="." line="51" column="119" />
         <mark key="^" line="51" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoKt/src/arr/matrix/SubMatrix.kt" timestamp="1508051549713">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="13" column="9" />
-        <mark key="." line="13" column="9" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/Documents/AlgoKt/src/arr/matrix/SubMatrix.kt" timestamp="1508051555075">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/string/Anagram.kt" timestamp="1503545712192">
         <mark key="[" line="16" column="15" />
@@ -90,6 +95,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="32" column="42" />
+      </file>
+      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/menv.c" timestamp="1505517170838">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Cycle.kt" timestamp="1503590780372">
         <mark key="'" line="12" column="0" />
@@ -124,6 +134,11 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
         <mark key="^" line="44" column="16" />
+      </file>
+      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/CMakeLists.txt" timestamp="1505517406136">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/str/Anagram.kt" timestamp="1508038574012">
         <mark key="[" line="51" column="69" />
@@ -468,20 +483,20 @@
       <jump line="2" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/tree/TreeNode.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXRlc3RNYXRyaXguc3ViKDEsIDEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>nums</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ci8vIExhcmdlc3QgQ29tbW9uIEFuY2VzdG9yCmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKCS8vIDUgLT4gezIgLT4ge251bGwsIG51bGx9LCA2IC0+IHtudWxsLCAxNH19Cgl2YWwgcm9vdCA9IEJpbmFyeVRyZWVOb2RlKDUpCglyb290LmxlZnQgPSBCaW5hcnlUcmVlTm9kZSgyKQoJcm9vdC5yaWdodCA9IEJpbmFyeVRyZWVOb2RlKDYpCglyb290LnJpZ2h0ISEucmlnaHQgPSBCaW5hcnlUcmVlTm9kZSgxNCkK</text>
+        <text encoding="base64">CXByaW50bG4odGVzdFN0ci5sU05vRHVwQnJ1dGUoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXRlc3RNYXRyaXguc3ViKDEsIDEpCg==</text>
+        <text encoding="base64">CQkJCW1heExlbnRoID0gbWF4RW5kIC0gbQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -499,28 +514,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkudG8K</text>
+        <text encoding="base64">CXZhbCBsID0gbGVuZ3RoCgl2YWwgc2V0cyA9IEFycmF5KGwpIHsgQXJyYXkobCkgeyBIYXNoU2V0PENoYXI+KCkgfSB9Cgl3aXRoSW5kZXgoKS5mb3JFYWNoIHsgKGksIGMpIC0+IHNldHNbaV1baV0uYWRkKGMpIH0KCXdpdGhJbmRleCgpCgkJCS5maWx0ZXJJbmRleGVkIHsgaWR4LCBfIC0+IGlkeCA+IDAgfQoJCQkuZm9yRWFjaCB7IChpZHgsIGMpIC0+IAoJCQkJc2V0c1tpZHggLSAxXVtpZHhdLmNsIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SmpsCg==</text>
+        <text encoding="base64">CVRPRE8oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">amxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGwK</text>
+        <text encoding="base64">CXAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CQkJaWYgKHN1YnN0cmluZyhzdGFydCwgZW5kKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKCg==</text>
+        <text encoding="base64">CXZhciBzdGFydCA9IDAKCXZhciBlbmQgPSAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaW50bG4ocm9vdC5idExDQShyb290LmxlZnQhISwgcm9vdC5yaWdodCEhLnJpZ2h0ISEpISEuZGF0YSkK</text>
+        <text encoding="base64">CXByaW50bG4oImRjYmFjZCIubHNOb0R1cCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaW50bG4oQXJyYXlzLmRlZXBUb1N0cmluZyh0ZXN0TWF0cml4LnN1YigyLCAyKSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaW50bG4ocm9vdC5idExDQShyb290LmxlZnQhISwgcm9vdC5yaWdodCEhLnJpZ2h0ISEpISEuZGF0YSkKCXByaW50bG4ocm9vdC5ic3RMQ0FSZWN1cihyb290LmxlZnQhISwgcm9vdC5yaWdodCEhLnJpZ2h0ISEpISEuZGF0YSkKCXByaW50bG4ocm9vdC5ic3RMQ0FJdGVyKHJvb3QubGVmdCEhLCByb290LnJpZ2h0ISEucmlnaHQhISkhIS5kYXRhKQo=</text>
+        <text encoding="base64">CXRlc3RNYXRyaXguc3ViKDEsIDEpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL251bXMvdGhpcy9n</text>
