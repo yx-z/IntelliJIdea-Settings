@@ -96,11 +96,6 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="32" column="42" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/menv.c" timestamp="1505517170838">
-        <mark key="[" line="25" column="9" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/Test/src/Main.kt" timestamp="1503443197555">
         <mark key="[" line="7" column="1" />
       </file>
@@ -127,15 +122,18 @@
         <mark key="." line="55" column="27" />
         <mark key="^" line="55" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoKt/src/linkedlist/Addition.kt" timestamp="1508035968195">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Documents/AlgoKt/src/linkedlist/Addition.kt" timestamp="1508038520995">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="71" column="34" />
+        <mark key="]" line="71" column="34" />
+        <mark key="." line="71" column="34" />
+        <mark key="^" line="71" column="34" />
       </file>
-      <file name="$USER_HOME$/Github/CS241/utilities_unleashed/CMakeLists.txt" timestamp="1505517406136">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="8" />
-        <mark key="." line="6" column="8" />
+      <file name="$USER_HOME$/Documents/AlgoKt/src/str/Anagram.kt" timestamp="1508038574012">
+        <mark key="[" line="51" column="69" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="51" column="66" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/NQueens.kt" timestamp="1503636503554">
         <mark key="[" line="5" column="51" />
@@ -259,11 +257,11 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508035112479">
+      <file name="/Dummy.txt" timestamp="1508038591079">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/VCS/Playground/DataStructureAndAlgorithm/AlgoKt/src/bit/ParseFile.kt" timestamp="1507561290260">
         <mark key="[" line="5" column="21" />
@@ -364,14 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="47" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="135" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="225" column="8" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="181" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="59" column="13" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="33" column="56" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="35" column="37" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="52" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="142" column="26" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="247" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="19" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -464,13 +454,21 @@
       <jump line="14" column="50" filename="$USER_HOME$/Documents/AlgoKt/src/dp/MaxPopulation.kt" />
       <jump line="39" column="15" filename="$USER_HOME$/Documents/AlgoKt/src/dp/MaxPopulation.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/dp/MaxPopulation.kt" />
+      <jump line="18" column="18" filename="$USER_HOME$/Documents/AlgoKt/src/linkedlist/Addition.kt" />
+      <jump line="10" column="19" filename="$USER_HOME$/Documents/AlgoKt/src/linkedlist/Addition.kt" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/linkedlist/Addition.kt" />
+      <jump line="8" column="23" filename="$USER_HOME$/Documents/AlgoKt/src/linkedlist/Addition.kt" />
+      <jump line="73" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/linkedlist/Addition.kt" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/linkedlist/Addition.kt" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/linkedlist/Addition.kt" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/linkedlist/Addition.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXRoaXMucmVjdXJSZXZlcnNlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>add linkedlist</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>add linkedlist</text>
       </register>
       <register name="/" type="4">
         <text>wordSearch</text>
@@ -479,31 +477,31 @@
         <text encoding="base64">ZnVuIEFycmF5PFBhaXI8SW50LCBJbnQ+Pi5nZXRNb3N0UG9wdWxhdGlvblllYXJPcHRpbWl6ZSgpOiBJbnQgewoJdmFsIG1pbkJpcnRZZWFyID0gdGhpcy5taW5CeSB7IGl0LmZpcnN0IH0hIS5maXJzdAoJdmFsIG1heERlYXRoWWVhciA9IHRoaXMubWF4QnkgeyBpdC5zZWNvbmQgfSEhLnNlY29uZAoJdmFsIHJhbmdlID0gbWF4RGVhdGhZZWFyIC0gbWluQmlydFllYXIgKyAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXRoaXMucmVjdXJSZXZlcnNlKCkK</text>
+        <text encoding="base64">CQkubWFwIHsgaXQgLT4gaXQudG9DaGFyKCkgfQoJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpCgkJLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CW4xLnJldmVyc2VkZAo=</text>
+        <text encoding="base64">CQkuYm94ZWQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIDEyMyArIDM5ID0gMTYyIGkuZS4gMSAtPiA2IC0+IDIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">TGlzdE4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXByaW50bG4objEpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CS8vCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnVuIExpc3ROb2RlLmFkZChvdGhlcjogTGlzdE5vZGUpOiBMaXN0Tm9kZSB7CgkKfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CXByaW50bG4objEuYWRkKG4yKSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXByaW50bG4objEuYWRkKG4yKSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuIFN0cmluZ0J1aWxkZXIucmV2ZXJzZVJhdygpOiBTdHJpbmcgewoJCn0K</text>
+        <text encoding="base64">CQlhbnNUcmF2Lm5leHQgPSBMaXN0Tm9kZSgwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXdpdGhJbmRleCgpCg==</text>
+        <text encoding="base64">CQljYXJyeSA9IHN1bSAvIDEwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
