@@ -44,12 +44,12 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoKt/src/dp/MaxPopulation.kt" timestamp="1508033089532">
-        <mark key="'" line="14" column="50" />
-        <mark key="[" line="44" column="30" />
-        <mark key="]" line="45" column="47" />
-        <mark key="." line="45" column="47" />
-        <mark key="^" line="45" column="47" />
+      <file name="$USER_HOME$/Documents/AlgoKt/src/dp/MaxPopulation.kt" timestamp="1508034115452">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="45" column="1" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="0" />
       </file>
       <file name="/LLDB" timestamp="1505522650452">
         <mark key="[" line="0" column="0" />
@@ -126,6 +126,11 @@
         <mark key="]" line="55" column="27" />
         <mark key="." line="55" column="27" />
         <mark key="^" line="55" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoKt/src/linkedlist/Addition.kt" timestamp="1508035968195">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Github/CS241/utilities_unleashed/CMakeLists.txt" timestamp="1505517406136">
         <mark key="[" line="6" column="8" />
@@ -254,11 +259,11 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508033105652">
+      <file name="/Dummy.txt" timestamp="1508035112479">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/VCS/Playground/DataStructureAndAlgorithm/AlgoKt/src/bit/ParseFile.kt" timestamp="1507561290260">
         <mark key="[" line="5" column="21" />
@@ -272,6 +277,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoKt/src/str/ReverseWords.kt" timestamp="1508035099019">
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="34" column="45" />
+        <mark key="." line="34" column="45" />
+        <mark key="^" line="34" column="45" />
       </file>
       <file name="$USER_HOME$/Github/CS241/pointers_gone_wild/part3-functions.c" timestamp="1504983544021">
         <mark key="'" line="65" column="3" />
@@ -353,8 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="78" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="133" column="47" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="135" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="225" column="8" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -453,46 +462,48 @@
       <jump line="254" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/dp/MaxPopulation.kt" />
       <jump line="14" column="50" filename="$USER_HOME$/Documents/AlgoKt/src/dp/MaxPopulation.kt" />
+      <jump line="39" column="15" filename="$USER_HOME$/Documents/AlgoKt/src/dp/MaxPopulation.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/dp/MaxPopulation.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>insertion sort</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXRoaXMucmVjdXJSZXZlcnNlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>insertion sort</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>wordSearch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXZhbCBtaW5CaXJ0WWVhciA9IHRoaXMubWluQnkgeyBpdC5maXJzdCB9ISEuZmlyc3QKCXZhbCBtYXhEZWF0aFllYXIgPSB0aGlzLm1heEJ5IHsgaXQuc2Vjb25kIH0hIS5zZWNvbmQKCXZhbCByYW5nZSA9IG1heERlYXRoWWVhciAtIG1pbkJpcnRZZWFyICsgMQoKCXZhbCB5ZWFyID0gSW50QXJyYXkocmFuZ2UpCglmb3JFYWNoIHsgKGJpcnRoWWVhciwgZGVhdGhZZWFyKSAtPgoJCShiaXJ0aFllYXIuLmRlYXRoWWVhcikuZm9yRWFjaCB7CgkJCXllYXJbaXQgLSBtaW5CaXJ0WWVhcl0rKwoJCX0KCX0K</text>
+        <text encoding="base64">ZnVuIEFycmF5PFBhaXI8SW50LCBJbnQ+Pi5nZXRNb3N0UG9wdWxhdGlvblllYXJPcHRpbWl6ZSgpOiBJbnQgewoJdmFsIG1pbkJpcnRZZWFyID0gdGhpcy5taW5CeSB7IGl0LmZpcnN0IH0hIS5maXJzdAoJdmFsIG1heERlYXRoWWVhciA9IHRoaXMubWF4QnkgeyBpdC5zZWNvbmQgfSEhLnNlY29uZAoJdmFsIHJhbmdlID0gbWF4RGVhdGhZZWFyIC0gbWluQmlydFllYXIgKyAxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLmZpbHRlckluZGV4ZWQgeyBpZHgsIF8gLT4gaWR4ID4gMCB9CgkJCS5mb3JFYWNoSW5kZXhlZCB7IGlkeCwgXyAtPgoJCQkJeWVhcltpZHhdICs9IHllYXJbaWR4IC0gMV0KCQkJfQo=</text>
+        <text encoding="base64">CXRoaXMucmVjdXJSZXZlcnNlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkoYmlydGhZZWFyLi5kZWF0aFllYXIpLmZvckVhY2ggewoJCQl5ZWFyW2l0IC0gbWluQmlydFllYXJdKysKCQl9Cg==</text>
+        <text encoding="base64">CW4xLnJldmVyc2VkZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIDEyMyArIDM5ID0gMTYyIGkuZS4gMSAtPiA2IC0+IDIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuIEFycmF5Cg==</text>
+        <text encoding="base64">TGlzdE4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWprCg==</text>
+        <text encoding="base64">CXByaW50bG4objEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CS8vCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXJldHVybiB5ZWFyLm1heEJ5IHsgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl5ZWFyW2IgLSBtaW5dKysK</text>
+        <text encoding="base64">ZnVuIFN0cmluZ0J1aWxkZXIucmV2ZXJzZVJhdygpOiBTdHJpbmcgewoJCn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CVRPRE8oKQo=</text>
+        <text encoding="base64">CXdpdGhJbmRleCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
