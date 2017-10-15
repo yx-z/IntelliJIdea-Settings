@@ -24,11 +24,11 @@
         <mark key="^" line="82" column="12" />
         <mark key="." line="82" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoKt/src/graph/FindPath.kt" timestamp="1508040665221">
-        <mark key="[" line="4" column="36" />
-        <mark key="]" line="4" column="35" />
-        <mark key="^" line="4" column="35" />
-        <mark key="." line="4" column="35" />
+      <file name="$USER_HOME$/Documents/AlgoKt/src/graph/FindPath.kt" timestamp="1508042132636">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="35" column="16" />
+        <mark key="." line="35" column="16" />
+        <mark key="^" line="35" column="16" />
       </file>
       <file name="$USER_HOME$/Github/CS241/text_editor/editor.c" timestamp="1505592083594">
         <mark key="'" line="139" column="0" />
@@ -242,11 +242,11 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508038591079">
+      <file name="/Dummy.txt" timestamp="1508042889282">
         <mark key="a" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/VCS/Playground/DataStructureAndAlgorithm/AlgoKt/src/bit/ParseFile.kt" timestamp="1507561290260">
         <mark key="[" line="5" column="21" />
@@ -345,14 +345,15 @@
         <mark key="." line="27" column="14" />
         <mark key="^" line="27" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/AlgoKt/src/graph/AdjList.kt" timestamp="1508042878496">
+        <mark key="'" line="32" column="4" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="32" column="38" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="65" column="23" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="26" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="247" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="19" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="31" column="10" filename="$USER_HOME$/Github/CS241/text_editor/includes/vector.h" />
-      <jump line="153" column="4" filename="$USER_HOME$/Github/CS241/text_editor/editor.c" />
-      <jump line="150" column="0" filename="$USER_HOME$/Github/CS241/text_editor/editor.c" />
       <jump line="139" column="0" filename="$USER_HOME$/Github/CS241/text_editor/editor.c" />
       <jump line="134" column="19" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="53" column="10" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -447,46 +448,67 @@
       <jump line="11" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/linkedlist/Addition.kt" />
       <jump line="56" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/linkedlist/Addition.kt" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/linkedlist/Addition.kt" />
+      <jump line="35" column="37" filename="$USER_HOME$/Documents/AlgoKt/src/graph/AdjList.kt" />
+      <jump line="37" column="37" filename="$USER_HOME$/Documents/AlgoKt/src/graph/AdjList.kt" />
+      <jump line="60" column="85" filename="$USER_HOME$/Documents/AlgoKt/src/graph/AdjList.kt" />
+      <jump line="39" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/graph/AdjList.kt" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/graph/AdjList.kt" />
+      <jump line="32" column="4" filename="$USER_HOME$/Documents/AlgoKt/src/graph/AdjList.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add linkedlist</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>add linkedlist</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>wordSearch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuIEFycmF5PFBhaXI8SW50LCBJbnQ+Pi5nZXRNb3N0UG9wdWxhdGlvblllYXJPcHRpbWl6ZSgpOiBJbnQgewoJdmFsIG1pbkJpcnRZZWFyID0gdGhpcy5taW5CeSB7IGl0LmZpcnN0IH0hIS5maXJzdAoJdmFsIG1heERlYXRoWWVhciA9IHRoaXMubWF4QnkgeyBpdC5zZWNvbmQgfSEhLnNlY29uZAoJdmFsIHJhbmdlID0gbWF4RGVhdGhZZWFyIC0gbWluQmlydFllYXIgKyAxCg==</text>
+        <text encoding="base64">CXByaW50bG4oYWRqTGlzdC5wYXRoQkZTKCJlIiwgImEiKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkubWFwIHsgaXQgLT4gaXQudG9DaGFyKCkgfQoJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpCgkJLnRvU3RyaW5nKCkK</text>
+        <text encoding="base64">CS8vIGZhbHNlCglwcmludGxuKGFkakxpc3QucGF0aEJGUygiYiIsICJhIikpCglwcmludGxuKGFkakxpc3QucGF0aERGUygiYiIsICJhIikpCg==</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="100" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkuYm94ZWQoKQo=</text>
+        <text encoding="base64">CXZpc2l0ZWRTZXQuKHN0YXJ0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLmZvckVhY2ggeyBwYXRoREZTKGl0LnNlY29uZCwgKSB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuIExpc3ROb2RlLmFkZChvdGhlcjogTGlzdE5vZGUpOiBMaXN0Tm9kZSB7CgkKfQo=</text>
+        <text encoding="base64">CXZhbCB2aXNpdGVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByaW50bG4objEuYWRkKG4yKSkK</text>
+        <text encoding="base64">CXByaW50bG4oYWRqTGlzdC5wYXRoQkZTKCJiIiwgImEiKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaW50bG4objEuYWRkKG4yKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly8gZGZzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlhbnNUcmF2Lm5leHQgPSBMaXN0Tm9kZSgwKQo=</text>
+        <text encoding="base64">CS8vIGZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljYXJyeSA9IHN1bSAvIDEwCg==</text>
+        <text encoding="base64">CS8vIGZhbHNlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
