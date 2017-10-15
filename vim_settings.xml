@@ -44,11 +44,12 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoKt/src/dp/MaxPopulation.kt" timestamp="1508031433642">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="24" column="32" />
-        <mark key="." line="24" column="32" />
-        <mark key="^" line="24" column="32" />
+      <file name="$USER_HOME$/Documents/AlgoKt/src/dp/MaxPopulation.kt" timestamp="1508033089532">
+        <mark key="'" line="14" column="50" />
+        <mark key="[" line="44" column="30" />
+        <mark key="]" line="45" column="47" />
+        <mark key="." line="45" column="47" />
+        <mark key="^" line="45" column="47" />
       </file>
       <file name="/LLDB" timestamp="1505522650452">
         <mark key="[" line="0" column="0" />
@@ -253,7 +254,7 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508031445172">
+      <file name="/Dummy.txt" timestamp="1508033105652">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -352,8 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="15" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="67" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="75" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="78" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="133" column="47" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -452,10 +451,12 @@
       <jump line="247" column="38" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
       <jump line="156" column="27" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
       <jump line="254" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/dp/MaxPopulation.kt" />
+      <jump line="14" column="50" filename="$USER_HOME$/Documents/AlgoKt/src/dp/MaxPopulation.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWprCg==</text>
+      <register name="&quot;" type="4">
+        <text>insertion sort</text>
       </register>
       <register name="-" type="4">
         <text>insertion sort</text>
@@ -464,34 +465,34 @@
         <text>wordSearch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgTm9ydGg6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdvTm9ydGgoeCwgeSk7CiAgICAgICAgICAgICAgICBjYXNlIFNvdXRoOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBnb1NvdXRoKHgsIHkpOwogICAgICAgICAgICAgICAgY2FzZSBOb3J0aGVhc3Q6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdvTm9ydGhlYXN0KHgsIHkpOwogICAgICAgICAgICAgICAgY2FzZSBOb3J0aHdlc3Q6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdvTm9ydGh3ZXN0KHgsIHkpOwogICAgICAgICAgICAgICAgY2FzZSBTb3V0aGVhc3Q6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdvc291dGhlYXN0KHgsIHkpOwogICAgICAgICAgICAgICAgY2FzZSBTb3V0aHdlc3Q6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdvc291dGh3ZXN0KHgsIHkpOwo=</text>
+        <text encoding="base64">CXZhbCBtaW5CaXJ0WWVhciA9IHRoaXMubWluQnkgeyBpdC5maXJzdCB9ISEuZmlyc3QKCXZhbCBtYXhEZWF0aFllYXIgPSB0aGlzLm1heEJ5IHsgaXQuc2Vjb25kIH0hIS5zZWNvbmQKCXZhbCByYW5nZSA9IG1heERlYXRoWWVhciAtIG1pbkJpcnRZZWFyICsgMQoKCXZhbCB5ZWFyID0gSW50QXJyYXkocmFuZ2UpCglmb3JFYWNoIHsgKGJpcnRoWWVhciwgZGVhdGhZZWFyKSAtPgoJCShiaXJ0aFllYXIuLmRlYXRoWWVhcikuZm9yRWFjaCB7CgkJCXllYXJbaXQgLSBtaW5CaXJ0WWVhcl0rKwoJCX0KCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWprCg==</text>
+        <text encoding="base64">CQkJLmZpbHRlckluZGV4ZWQgeyBpZHgsIF8gLT4gaWR4ID4gMCB9CgkJCS5mb3JFYWNoSW5kZXhlZCB7IGlkeCwgXyAtPgoJCQkJeWVhcltpZHhdICs9IHllYXJbaWR4IC0gMV0KCQkJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CQkoYmlydGhZZWFyLi5kZWF0aFllYXIpLmZvckVhY2ggewoJCQl5ZWFyW2l0IC0gbWluQmlydFllYXJdKysKCQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXJldHVybiB5ZWFyLm1heEJ5IHsgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl5ZWFyW2IgLSBtaW5dKysK</text>
+        <text encoding="base64">ZnVuIEFycmF5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CVRPRE8oKQo=</text>
+        <text encoding="base64">CWprCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaW50bG4obWluKQoJcHJpbnRsbihtYXgpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhbCBiTWFwID0gSGFzaE1hcDxJbnQsIEludD4oKQoJdmFsIGRNYXAgPSBIYXNoTWFwPEludCwgSW50PigpCglmb3JFYWNoIHsgKGIsIGQpIC0+CgkJaWYgKGJNYXAuY29udGFpbnNLZXkoYikpIHsKCQkJYk1hcC5wdXQoYiwgYk1hcC5nZXQoYikhISArIDEpCgkJfSBlbHNlIHsKCQkJYk1hcC5wdXQoYiwgMSkKCQl9Cgl9Cg==</text>
+        <text encoding="base64">CXJldHVybiB5ZWFyLm1heEJ5IHsgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQliTWFwLgo=</text>
+        <text encoding="base64">CQl5ZWFyW2IgLSBtaW5dKysK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vICAgIDcsIDQsIDEKCS8vIC0+IDgsIDUsIDIKCS8vICAgIDksIDYsIDMK</text>
+        <text encoding="base64">CVRPRE8oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
