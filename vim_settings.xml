@@ -106,6 +106,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/AlgoKt/src/dp/LPSubsequence.kt" timestamp="1508078799936">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Cycle.kt" timestamp="1503590780372">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="28" column="19" />
@@ -265,7 +270,7 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508076827332">
+      <file name="/Dummy.txt" timestamp="1508079608118">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -314,6 +319,13 @@
         <mark key="]" line="17" column="20" />
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/AlgoKt/src/str/LSNoRepeat.kt" timestamp="1508079549053">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="51" column="23" />
+        <mark key="^" line="44" column="26" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Github/CS241/pointers_gone_wild/part1-functions.c" timestamp="1504981494312">
         <mark key="'" line="252" column="16" />
@@ -386,8 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="4" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="245" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="124" column="7" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="13" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="250" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -486,13 +496,15 @@
       <jump line="12" column="4" filename="$USER_HOME$/Documents/AlgoKt/src/arr/QuickSelect.kt" />
       <jump line="32" column="25" filename="$USER_HOME$/Documents/AlgoKt/src/arr/QuickSelect.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/tree/TreeNode.kt" />
+      <jump line="42" column="8" filename="$USER_HOME$/Documents/AlgoKt/src/str/LSNoRepeat.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/str/LSNoRepeat.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZiAoY3VyckVuZCAtIGN1cnJTdGFydCA+IG1heEVuZCAtIG1heFN0YXJ0KSB7CgkJCW1heEVuZCA9IGN1cnJFbmQKCQkJbWF4U3RhcnQgPSBjdXJyU3RhcnQKCQl9CgoJCXNldC5yZW1vdmUodGhpc1tjdXJyU3RhcnRdKQoJCWN1cnJTdGFydCsrCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>nums</text>
@@ -501,7 +513,7 @@
         <text encoding="base64">CXByaW50bG4odGVzdFN0ci5sU05vRHVwQnJ1dGUoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZiAoY3VyckVuZCAtIGN1cnJTdGFydCA+IG1heEVuZCAtIG1heFN0YXJ0KSB7CgkJCW1heEVuZCA9IGN1cnJFbmQKCQkJbWF4U3RhcnQgPSBjdXJyU3RhcnQKCQl9CgoJCXNldC5yZW1vdmUodGhpc1tjdXJyU3RhcnRdKQoJCWN1cnJTdGFydCsrCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -519,28 +531,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmN1cnJlbnRTdGFja1RyYWNlCg==</text>
+        <text encoding="base64">CQl3aGlsZSAoY3VyckVuZCA8IGxlbmd0aCAmJiAhc2V0LmNvbnRhaW5zKHRoaXNbY3VyckVuZF0pKSB7CgkJCWN1cnJFbmQrKwoJCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlzZXQucmVtb3ZlKHRoaXNbY3VyclN0YXJ0XSkK</text>
+        <text encoding="base64">CQkJc2V0LmFkZCh0aGlzW2N1cnJFbmRdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlzZXQucmVtb3ZlKHRoaXNbY3VyclN0YXJ0XSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CVRPRE8oKQo=</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmN1cnJlbnRTdGFja1RyYWNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCW1heExlbnRoID0gbWF4RW5kIC0gbQo=</text>
+        <text encoding="base64">CQkJY3VyckVuZCsrCgkJfSBlbHNlIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhbCBsID0gbGVuZ3RoCgl2YWwgc2V0cyA9IEFycmF5KGwpIHsgQXJyYXkobCkgeyBIYXNoU2V0PENoYXI+KCkgfSB9Cgl3aXRoSW5kZXgoKS5mb3JFYWNoIHsgKGksIGMpIC0+IHNldHNbaV1baV0uYWRkKGMpIH0KCXdpdGhJbmRleCgpCgkJCS5maWx0ZXJJbmRleGVkIHsgaWR4LCBfIC0+IGlkeCA+IDAgfQoJCQkuZm9yRWFjaCB7IChpZHgsIGMpIC0+IAoJCQkJc2V0c1tpZHggLSAxXVtpZHhdLmNsIH0K</text>
+        <text encoding="base64">CQlpZiAoY3VyckVuZCAtIGN1cnJTdGFydCA+IG1heEVuZCAtIG1heFN0YXJ0KSB7CgkJCW1heEVuZCA9IGN1cnJFbmQKCQkJbWF4U3RhcnQgPSBjdXJyU3RhcnQKCQl9CgoJCXNldC5yZW1vdmUodGhpc1tjdXJyU3RhcnRdKQoJCWN1cnJTdGFydCsrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CVRPRE8oKQo=</text>
+        <text encoding="base64">CQl3aGlsZSAoY3VyckVuZCA8IGxlbmd0aCAmJiAhc2V0LmNvbnRhaW5zKHRoaXNbY3VyckVuZF0pKSB7CgkJCXNldC5hZGQodGhpc1tjdXJyRW5kXSkKCQkJY3VyckVuZCsrCgkJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXAK</text>
+        <text encoding="base64">LyoKcHVibGljIGludCBMUFMoU3RyaW5nIHMpIHsKCWludCBsZW4gPSBzLmxlbmd0aCgpOwoJaW50W11bXSBkcCA9IG5ldyBpbnRbbGVuXVtsZW5dOwoJCglmb3IgKGludCBpID0gMDsgaSA8IGxlbjsgaSsrKSB7CgkJZHBbaV1baV0gPSAxOwoJfQoJCglmb3IgKGludCBkID0gMTsgZCA8IGxlbjsgZCsrKSB7CgkJZm9yIChpbnQgaSA9IDA7IGkgPCBsZW4gLSBkOyBpKyspIHsKCQkJaW50IGogPSBpICsgZDsKCQkJaWYgKHMuY2hhckF0KGkpID09IHMuY2hhckF0KGopKSB7CgkJCQlkcFtpXVtqXSA9IDIgKyBkcFtpICsgMV1baiAtIDFdOwoJCQl9IGVsc2UgewoJCQkJZHBbaV1bal0gPSBNYXRoLm1heChkcFtpXVtqIC0gMV0sIGRwW2kgKyAxXVtqXSk7CgkJCX0KCQl9Cgl9CgkKCXJldHVybiBkcFswXVtsZW4gLSAxXTsKfQoqLwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL251bXMvdGhpcy9n</text>
