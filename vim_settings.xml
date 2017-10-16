@@ -77,6 +77,12 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/FindDistinctSubsequence.kt" timestamp="1508192267423">
+        <mark key="[" line="3" column="50" />
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+      </file>
       <file name="$USER_HOME$/Github/CS241/text_editor/document.h" timestamp="1505581622278">
         <mark key="'" line="17" column="31" />
       </file>
@@ -131,6 +137,12 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="28" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/str/LSNoRepeat.kt" timestamp="1508184879751">
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="27" column="21" />
+        <mark key="." line="27" column="21" />
+        <mark key="^" line="27" column="21" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/arr/Balance.kt" timestamp="1504098749541">
         <mark key="[" line="14" column="4" />
         <mark key="]" line="14" column="7" />
@@ -161,6 +173,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/CountSubsequencesEqualTo.kt" timestamp="1508193002051">
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Rotate.kt" timestamp="1503555728553">
         <mark key="[" line="9" column="15" />
@@ -200,6 +217,12 @@
         <mark key="]" line="16" column="29" />
         <mark key="." line="16" column="50" />
         <mark key="^" line="16" column="29" />
+      </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/CountDistinctSubsequence.kt" timestamp="1508187526002">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/EditDist.kt" timestamp="1503542615358">
         <mark key="[" line="31" column="3" />
@@ -262,7 +285,7 @@
         <mark key="." line="55" column="27" />
         <mark key="^" line="55" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505825356492">
+      <file name="/Dummy.txt" timestamp="1508186285553">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -290,6 +313,13 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/greedy/JumpToEnd.kt" timestamp="1508186269712">
+        <mark key="'" line="9" column="36" />
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="35" column="34" />
+        <mark key="." line="35" column="34" />
+        <mark key="^" line="35" column="34" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Intersect.kt" timestamp="1503623458901">
         <mark key="'" line="26" column="12" />
@@ -320,9 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="15" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="67" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="75" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="78" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="133" column="47" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="135" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -420,49 +447,52 @@
       <jump line="247" column="38" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
       <jump line="156" column="27" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
       <jump line="254" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
+      <jump line="5" column="44" filename="$USER_HOME$/VCS/AlgoKt/src/greedy/JumpToEnd.kt" />
+      <jump line="30" column="18" filename="$USER_HOME$/VCS/AlgoKt/src/greedy/JumpToEnd.kt" />
+      <jump line="9" column="36" filename="$USER_HOME$/VCS/AlgoKt/src/greedy/JumpToEnd.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>wordSearch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgTm9ydGg6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdvTm9ydGgoeCwgeSk7CiAgICAgICAgICAgICAgICBjYXNlIFNvdXRoOgogICAgICAgICAgICAgICAgICAgIHJldHVybiBnb1NvdXRoKHgsIHkpOwogICAgICAgICAgICAgICAgY2FzZSBOb3J0aGVhc3Q6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdvTm9ydGhlYXN0KHgsIHkpOwogICAgICAgICAgICAgICAgY2FzZSBOb3J0aHdlc3Q6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdvTm9ydGh3ZXN0KHgsIHkpOwogICAgICAgICAgICAgICAgY2FzZSBTb3V0aGVhc3Q6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdvc291dGhlYXN0KHgsIHkpOwogICAgICAgICAgICAgICAgY2FzZSBTb3V0aHdlc3Q6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGdvc291dGh3ZXN0KHgsIHkpOwo=</text>
+        <text encoding="base64">CXByaW50bG4odGVzdEFycjIuY2FuSnVtcFRvRW5kKCkpCglwcmludGxuKHRlc3RBcnIyLm1pblN0ZXBzVG9FbmQoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQkJLy8gd2UgY2FuIGF0IGxlYXN0IGlnbm9yZSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJewoJCQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHdvcmQgc2hvdWxkIGhhdmUgbGVuZ3RoID4gMSwgb3RoZXJ3aXNlIG5vCg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIGdyaWQKICAgICAqIEBwYXJhbSB3b3JkCiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
+        <text encoding="base64">CS8vIGRwW2ldW2pdOiAjIG9mIHN1YnNlcXVlbmNlcyBvZiB0aGlzLnN1YnN0cmluZygwLCBpKSA9IHN1Yi5zdWJzdHJpbmcoMCwgaikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">CWtrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRwLmZvckVhY2ggeyBpdC5maWx0ZXIgeyBpdCA9PSAwIH0uZm9yRWFjaCB7IGRwW2ldIH0gfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAod29yZEFyci5sZW5ndGgpCg==</text>
+        <text encoding="base64">CSgwLi5sZW5CaWcpLmZvckVhY2ggeyAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlkdXAucHV0KHRoaXNbaWR4XSwgaWR4KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIFBhaXI8SW50ZWdlciwgSW50ZWdlcj4gZ29Ob3J0aChpbnQgeCwgaW50IHkpIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBQYWlyPD4oeCwgeSAtIDEpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIFBhaXI8SW50ZWdlciwgSW50ZWdlcj4gZ29Tb3V0aChpbnQgeCwgaW50IHkpIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBQYWlyPD4oeCwgeSArIDEpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIFBhaXI8SW50ZWdlciwgSW50ZWdlcj4gZ29Ob3J0aGVhc3QoaW50IHgsIGludCB5KSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgUGFpcjw+KHggKyAxLCB5KTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBQYWlyPEludGVnZXIsIEludGVnZXI+IGdvTm9ydGh3ZXN0KGludCB4LCBpbnQgeSkgewogICAgICAgICAgICByZXR1cm4gbmV3IFBhaXI8Pih4IC0gMSwgeSAtIDEpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIFBhaXI8SW50ZWdlciwgSW50ZWdlcj4gZ29Tb3V0aGVhc3QoaW50IHgsIGludCB5KSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgUGFpcjw+KHggKyAxLCB5ICsgMSk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgUGFpcjxJbnRlZ2VyLCBJbnRlZ2VyPiBnb1NvdXRod2VzdChpbnQgeCwgaW50IHkpIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBQYWlyPD4oeCAtIDEsIHkpOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">CXZhbCBkdXAgPSBIYXNoTWFwPENoYXIsIEludD4oKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
@@ -472,7 +502,7 @@
       <last-replace>string</last-replace>
       <last-substitute>char *</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -498,7 +528,6 @@
         <entry>wordSearch</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9z</entry>
         <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9n</entry>
         <entry>vs part2-functions.c</entry>
         <entry>vs includes/vector.h</entry>
@@ -518,6 +547,7 @@
         <entry>!svn ci -m &quot;hmm&quot;</entry>
         <entry encoding="base64">JzwsJz5zL2NoYXIgKi9zdHJpbmcvZw==</entry>
         <entry>w</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
