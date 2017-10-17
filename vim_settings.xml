@@ -162,6 +162,12 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/arr/mat/PrintMatDiag.kt" timestamp="1508274427135">
+        <mark key="'" line="12" column="16" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/UnionFind.kt" timestamp="1504102457267">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="3" column="0" />
@@ -328,6 +334,12 @@
         <mark key="." line="35" column="34" />
         <mark key="^" line="35" column="34" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/KtGotcha.kt" timestamp="1508274648965">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="9" column="16" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Intersect.kt" timestamp="1503623458901">
         <mark key="'" line="26" column="12" />
         <mark key="[" line="18" column="45" />
@@ -357,7 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="59" column="13" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="33" column="56" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="35" column="37" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -457,13 +468,14 @@
       <jump line="10" column="17" filename="$USER_HOME$/VCS/AlgoKt/src/stack/MinStack.kt" />
       <jump line="24" column="18" filename="$USER_HOME$/VCS/AlgoKt/src/stack/MinStack.kt" />
       <jump line="4" column="15" filename="$USER_HOME$/VCS/AlgoKt/src/stack/MinStack.kt" />
+      <jump line="12" column="16" filename="$USER_HOME$/VCS/AlgoKt/src/arr/mat/PrintMatDiag.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>wordSearch</text>
@@ -472,31 +484,31 @@
         <text encoding="base64">CXByaW50bG4odGVzdEFycjIuY2FuSnVtcFRvRW5kKCkpCglwcmludGxuKHRlc3RBcnIyLm1pblN0ZXBzVG9FbmQoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0b1N0cmluZygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CW92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gc3RhY2sudG9TdHJpbmcoKQo=</text>
+        <text encoding="base64">CQl0b1N0cmluZygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaW50bG4obWluU3RhY2spCg==</text>
+        <text encoding="base64">CXZhbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gc3VwZXIudG9TdHJpbmcoKQoJfQo=</text>
+        <text encoding="base64">CXByaW50bG4oc3RyLikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CW1pblN0YWNrLnB1c2goNSkK</text>
+        <text encoding="base64">CQl0b1N0cmluZygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CW1pblN0YWNrCg==</text>
+        <text encoding="base64">CQlwcmludGxueyBpdCB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZ1biBnZXRNaW4oKSA9IG1pbgo=</text>
+        <text encoding="base64">CQlwcmludGxuKAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXMudG9TdHJpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZ1biAK</text>
+        <text encoding="base64">CQl0b1N0cmluZygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
