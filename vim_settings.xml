@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/stack/MinStack.kt" timestamp="1508273641478">
+        <mark key="'" line="4" column="15" />
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="32" column="44" />
+        <mark key="." line="32" column="44" />
+        <mark key="^" line="32" column="44" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/NQueens.kt" timestamp="1503636503554">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="6" column="42" />
@@ -350,10 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="133" column="47" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="135" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
-      <jump line="225" column="8" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="181" column="0" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="59" column="13" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
       <jump line="33" column="56" filename="$USER_HOME$/Github/CS241/utilities_unleashed/env.c" />
@@ -450,13 +453,17 @@
       <jump line="5" column="44" filename="$USER_HOME$/VCS/AlgoKt/src/greedy/JumpToEnd.kt" />
       <jump line="30" column="18" filename="$USER_HOME$/VCS/AlgoKt/src/greedy/JumpToEnd.kt" />
       <jump line="9" column="36" filename="$USER_HOME$/VCS/AlgoKt/src/greedy/JumpToEnd.kt" />
+      <jump line="6" column="28" filename="$USER_HOME$/VCS/AlgoKt/src/stack/MinStack.kt" />
+      <jump line="10" column="17" filename="$USER_HOME$/VCS/AlgoKt/src/stack/MinStack.kt" />
+      <jump line="24" column="18" filename="$USER_HOME$/VCS/AlgoKt/src/stack/MinStack.kt" />
+      <jump line="4" column="15" filename="$USER_HOME$/VCS/AlgoKt/src/stack/MinStack.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>wordSearch</text>
@@ -465,31 +472,31 @@
         <text encoding="base64">CXByaW50bG4odGVzdEFycjIuY2FuSnVtcFRvRW5kKCkpCglwcmludGxuKHRlc3RBcnIyLm1pblN0ZXBzVG9FbmQoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLy8gd2UgY2FuIGF0IGxlYXN0IGlnbm9yZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJewoJCQkK</text>
+        <text encoding="base64">CW92ZXJyaWRlIGZ1biB0b1N0cmluZygpID0gc3RhY2sudG9TdHJpbmcoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CXByaW50bG4obWluU3RhY2spCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIGRwW2ldW2pdOiAjIG9mIHN1YnNlcXVlbmNlcyBvZiB0aGlzLnN1YnN0cmluZygwLCBpKSA9IHN1Yi5zdWJzdHJpbmcoMCwgaikK</text>
+        <text encoding="base64">CQlyZXR1cm4gc3VwZXIudG9TdHJpbmcoKQoJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWtrCg==</text>
+        <text encoding="base64">CW1pblN0YWNrLnB1c2goNSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWRwLmZvckVhY2ggeyBpdC5maWx0ZXIgeyBpdCA9PSAwIH0uZm9yRWFjaCB7IGRwW2ldIH0gfQo=</text>
+        <text encoding="base64">CW1pblN0YWNrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSgwLi5sZW5CaWcpLmZvckVhY2ggeyAgfQo=</text>
+        <text encoding="base64">CWZ1biBnZXRNaW4oKSA9IG1pbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlkdXAucHV0KHRoaXNbaWR4XSwgaWR4KQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXZhbCBkdXAgPSBIYXNoTWFwPENoYXIsIEludD4oKQo=</text>
+        <text encoding="base64">CWZ1biAK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
