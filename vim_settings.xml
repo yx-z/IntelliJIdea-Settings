@@ -81,12 +81,11 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" timestamp="1508599867262">
-        <mark key="'" line="44" column="28" />
-        <mark key="[" line="66" column="26" />
-        <mark key="]" line="66" column="26" />
-        <mark key="." line="66" column="26" />
-        <mark key="^" line="56" column="14" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" timestamp="1508603773100">
+        <mark key="j" line="80" column="18" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Github/CS241/text_editor/editor_test.c" timestamp="1505592192709">
         <mark key="[" line="19" column="0" />
@@ -313,7 +312,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508564354107">
+      <file name="/Dummy.txt" timestamp="1508603778315">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -342,6 +341,9 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="119" />
         <mark key="^" line="51" column="33" />
+      </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/arr/QuickSelect.kt" timestamp="1508601086548">
+        <mark key="[" line="26" column="26" />
       </file>
       <file name="$USER_HOME$/VCS/CS241/shell/shell.c" timestamp="1505825353369">
         <mark key="'" line="13" column="0" />
@@ -383,12 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
-      <jump line="65" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
-      <jump line="62" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
-      <jump line="20" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
-      <jump line="25" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
-      <jump line="30" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="35" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="38" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="43" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
@@ -483,46 +479,52 @@
       <jump line="56" column="34" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
       <jump line="61" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
       <jump line="40" column="28" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
+      <jump line="142" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
+      <jump line="136" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
+      <jump line="129" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
+      <jump line="126" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
+      <jump line="112" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
+      <jump line="108" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CglwcmludGxuKGdldE1lZGlhbkJ5QXBwcm94KHRlc3QxLCB0ZXN0MikpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IC8vIHIgaXMgbiwgTk9UIG4tMSwgdGhpcyBpcyBpbXBvcnRhbnQhIQ==</text>
       </register>
       <register name="/" type="4">
         <text>h</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJY3VyciA9IHdoZW4gewoJCQkJaTEgPj0gc2l6ZSAtPiBpbnRBcnJbaTIrK10KCQkJCWkyID49IHNpemUgLT4gdGhpc1tpMSsrXQoJCQkJdGhpc1tpMV0gPCBpbnRBcnJbaTJdIC0+IHRoaXNbaTErK10KCQkJCWVsc2UgLT4gaW50QXJyW2kyKytdCgkJCX0K</text>
+        <text encoding="base64">CXByaW50bG4oQXJyYXlzLnRvU3RyaW5nKHRlc3QxKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuIGt0aChhMTogSW50QXJyYXksIGEyOiBJbnRBcnJheSwgazogSW50LCBsMTogSW50ID0gMCwgbDI6IEludCA9IDApIHsK</text>
+        <text encoding="base64">CglwcmludGxuKGdldE1lZGlhbkJ5QXBwcm94KHRlc3QxLCB0ZXN0MikpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWExICsgYTIK</text>
+        <text encoding="base64">Ly8gTyhsb2cobWluKG0sIG4pKSkKZnVuIGdldE1lZGlhbkJ5QXBwcm94KGFycjE6IEludEFycmF5LCBhcnIyOiBJbnRBcnJheSk6IERvdWJsZSB7Cgl2YWwgc2l6ZTEgPSBhcnIxLnNpemUKCXZhbCBzaXplMiA9IGFycjIuc2l6ZQoKCWlmIChzaXplMSA+IHNpemUyKSB7CgkJcmV0dXJuIGdldE1lZGlhbkJ5QXBwcm94KGFycjIsIGFycjEpCgl9CgoJLy8gZG8gYmluYXJ5IHNlYXJjaAoJdmFsIGsgPSAoc2l6ZTEgKyBzaXplMiAtIDEpIC8gMgoJdmFyIGwgPSAwCgl2YXIgciA9IG1pbk9mKGssIHNpemUxKQoJd2hpbGUgKGwgPCByKSB7CgkJdmFsIG1pZEEgPSAobCArIHIpIC8gMgoJCXZhbCBtaWRCID0gayAtIG1pZEEKCQlpZiAoYXJyMVttaWRBXSA8IGFycjJbbWlkQl0pIHsKCQkJbCA9IG1pZEEgKyAxCgkJfSBlbHNlIHsKCQkJciA9IG1pZEEKCQl9Cgl9CgoJLy8gYWZ0ZXIgYmluYXJ5IHNlYXJjaCwgd2UgYWxtb3N0IGdldCB0aGUgbWVkaWFuIGJlY2F1c2UgaXQgbXVzdCBiZSBiZXR3ZWVuCgkvLyB0aGVzZSA0IG51bWJlcnM6IGFycjFbbC0xXSwgYXJyMVtsXSwgYXJyMltrLWxdLCBhbmQgYXJyMltrLWwrMV0KCgkvLyBpZiAobittKSBpcyBvZGQsIHRoZSBtZWRpYW4gaXMgdGhlIGxhcmdlciBvbmUgYmV0d2VlbiBhcnIxW2wtMV0gYW5kIGFycjJbay1sXS4KCS8vIGFuZCB0aGVyZSBhcmUgc29tZSBjb3JuZXIgY2FzZXMgd2UgbmVlZCB0byB0YWtlIGNhcmUgb2YuCgl2YWwgYSA9IG1heE9mKGlmIChsID4gMCkgYXJyMVtsIC0gMV0gZWxzZSBJbnQuTUlOX1ZBTFVFLCBpZiAoayAtIGwgPj0gMCkgYXJyMltrIC0gbF0gZWxzZSBJbnQuTUlOX1ZBTFVFKQoJaWYgKHNpemUxICsgc2l6ZTIgJSAyID09IDEpIHsKCQlyZXR1cm4gYS50b0RvdWJsZSgpCgl9CgoJLy8gaWYgKG4rbSkgaXMgZXZlbiwgdGhlIG1lZGlhbiBjYW4gYmUgY2FsY3VsYXRlZCBieQoJLy8gICAgICBtZWRpYW4gPSAobWF4KGFycjFbbC0xXSwgYXJyMltrLWxdKSArIG1pbihhcnIxW2xdLCBhcnIyW2stbCsxXSkgLyAyLjAKCS8vIGFsc28sIHRoZXJlIGFyZSBzb21lIGNvcm5lciBjYXNlcyB0byB0YWtlIGNhcmUgb2YuCgl2YWwgYiA9IG1pbk9mKGlmIChsIDwgc2l6ZTEpIGFycjFbbF0gZWxzZSBJbnQuTUFYX1ZBTFVFLCBpZiAoayAtIGwgKyAxIDwgc2l6ZTIpIGFycjJbayAtIGwgKyAxXSBlbHNlIEludC5NQVhfVkFMVUUpCglyZXR1cm4gKGEgKyBiKSAvIDIuMAp9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaW50bG4odGVzdDEgZ2V0TWVkaWFuQnlNZXJnZSB0ZXN0MikK</text>
+        <text encoding="base64">CS8vIG1ha2Ugc3VyZSBsZW4oYXJyMSkgPD0gbGVuKGFycjIpLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIHllcywgaXQgY2FsbHMgaXRzZWxmLCBidXQgYXQgbW9zdCBvbmNlLCBzaG91bGRuJ3QgYmUKCS8vIGNvbnNpZGVyIGEgcmVjdXJzaXZlIHNvbHV0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZXR1cm4gKCkgLyAyLjAK</text>
+        <text encoding="base64">CS8vIGlmIChuK20pIGlzIGV2ZW4sIHRoZSBtZWRpYW4gY2FuIGJlIGNhbGN1bGF0ZWQgYnkgCgkvLyAgICAgIG1lZGlhbiA9IChtYXgoQVtsLTFdLCBCW2stbF0pICsgbWluKEFbbF0sIEJbay1sKzFdKSAvIDIuMAoJLy8gYWxzbywgdGhlcmUgYXJlIHNvbWUgY29ybmVyIGNhc2VzIHRvIHRha2UgY2FyZSBvZi4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWlmICgpCg==</text>
+        <text encoding="base64">CS8vCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmhoCg==</text>
+        <text encoding="base64">Ly8gTyhsb2cobSArIG4pKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CVRPRE8oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
