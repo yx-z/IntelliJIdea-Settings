@@ -403,11 +403,11 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508622697128">
+      <file name="/Dummy.txt" timestamp="1508624797685">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/tree/binarytree/bst/LCA.kt" timestamp="1508050819218">
         <mark key="[" line="10" column="43" />
@@ -503,6 +503,12 @@
         <mark key="." line="232" column="41" />
         <mark key="^" line="232" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/AlgoKt/src/math/Factorial.kt" timestamp="1508624119458">
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="50" />
+        <mark key="^" line="16" column="50" />
+        <mark key="." line="16" column="50" />
+      </file>
       <file name="$USER_HOME$/Github/CS241/pointers_gone_wild/part2-main.c" timestamp="1504974406220">
         <mark key="[" line="60" column="29" />
         <mark key="]" line="61" column="0" />
@@ -543,11 +549,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/AlgoKt/src/math/Fib.kt" timestamp="1508623346673">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="4" column="23" />
+      <file name="$USER_HOME$/Documents/AlgoKt/src/math/Fib.kt" timestamp="1508624795141">
+        <mark key="[" line="17" column="69" />
+        <mark key="]" line="17" column="69" />
+        <mark key="." line="17" column="69" />
+        <mark key="^" line="23" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/arr/mat/PrintMatDiag.kt" timestamp="1508376667952">
         <mark key="[" line="1" column="0" />
@@ -680,11 +686,11 @@
       <jump line="5" column="26" filename="$USER_HOME$/Documents/AlgoKt/src/dp/Factorial.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>nums</text>
@@ -693,7 +699,7 @@
         <text encoding="base64">CXJvb3QuY2hpbGRyZW4uYWRkKFRyZWVOb2RlKDIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaW50bG4oNi50aEZpYkRQKCkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -711,28 +717,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXdoaWxlICgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWRwWzBdID0gMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VE9ETygpCg==</text>
+        <text encoding="base64">CQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXByaW50bG4oNi50aEZpYkl0ZXIoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZhbAo=</text>
+        <text encoding="base64">fQoKdGFpbHJlYyBmdW4gSW50LnRoRmliVGFpbFJlYyhzdW06IEludCA9IDApIHsKCVRPRE8oKQp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWprCg==</text>
+        <text encoding="base64">CmZ1biBJbnQudGhGaWJJdGVyKCk6IEludCB7CglpZiAodGhpcyA8PSAyKSB7CgkJcmV0dXJuIDEKCX0KCQoJdmFyIHByZXYxID0gMQoJdmFyIHByZXYyID0gMQoJdmFyIGN1cnIgPSAxCgkoMy4udGhpcykuZm9yRWFjaCB7CgkJY3VyciA9IHByZXYxICsgcHJldjIKCQkKCX0KfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaW50bG4oITUpago=</text>
+        <text encoding="base64">CQljdXJyID0gcHJldjEgKyBwcmV2MgoJCXByZXYxID0gdG1wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQludW0rKwo=</text>
+        <text encoding="base64">CQl2YWwgdG1wID0gY3Vycgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL251bXMvdGhpcy9n</text>
