@@ -81,12 +81,12 @@
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" timestamp="1508594490558">
-        <mark key="'" line="14" column="52" />
-        <mark key="[" line="94" column="48" />
-        <mark key="]" line="94" column="51" />
-        <mark key="." line="94" column="51" />
-        <mark key="^" line="94" column="51" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" timestamp="1508596707849">
+        <mark key="'" line="44" column="28" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="22" column="16" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Github/CS241/text_editor/editor_test.c" timestamp="1505592192709">
         <mark key="[" line="19" column="0" />
@@ -383,9 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
-      <jump line="24" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
-      <jump line="28" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="42" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="65" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
       <jump line="62" column="0" filename="$USER_HOME$/VCS/CS241/shell/shell.c" />
@@ -481,65 +478,67 @@
       <jump line="27" column="0" filename="$USER_HOME$/Desktop/Xtern/src/ActivityMonitor.java" />
       <jump line="32" column="7" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
       <jump line="13" column="22" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
-      <jump line="43" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
-      <jump line="14" column="52" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
+      <jump line="14" column="51" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
+      <jump line="43" column="83" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
+      <jump line="56" column="34" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
+      <jump line="61" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
+      <jump line="40" column="28" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>wordSearch</text>
+        <text>h</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkvLyBzaXplICUgMiA9PSAxCg==</text>
+        <text encoding="base64">CQkJY3VyciA9IHdoZW4gewoJCQkJaTEgPj0gc2l6ZSAtPiBpbnRBcnJbaTIrK10KCQkJCWkyID49IHNpemUgLT4gdGhpc1tpMSsrXQoJCQkJdGhpc1tpMV0gPCBpbnRBcnJbaTJdIC0+IHRoaXNbaTErK10KCQkJCWVsc2UgLT4gaW50QXJyW2kyKytdCgkJCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgl9IGVsc2Ugewo=</text>
+        <text encoding="base64">CXZhbCBtaWRJZHggPSB0b3RhbExlbmd0aCAvIDIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCgkJfSBlbHNlIHsKCQkJCg==</text>
+        <text encoding="base64">CXZhbCBtaWRJZHggPSB0b3RhbExlbmd0aCAvIDIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX0gZWxzZSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0gZWxzZSB7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIG1lZGlhbiBvZiBtZXJnZWQgYXJyYXkgbXVzdCBiZSAobWVyZ2VkW3NpemVdICsgbWVyZ2VkW3NpemUgLTFdKSAvIDIK</text>
+        <text encoding="base64">CQkvLyBhdmVyYWdlIG9mIHR3byBtaWRkbGUgZWxlbWVudHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gYXNzdW1lIGJvdGggYXJyYXkgaGF2ZSB0aGUgc2FtZSBsZW5ndGgK</text>
+        <text encoding="base64">CQkJaWYgKHRoaXNbaTFdIDwgaW50QXJyW2kyXSkgewoJCQkJY3VyciA9IHRoaXNbaTFdCgkJCQlpMSsrCgkJCX0gZWxzZSB7CgkJCQljdXJyID0gaW50QXJyW2kyXQoJCQkJaTIrKwoJCQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gYXNzdW1lIGJvdGggYXJyYXkgaGF2ZSB0aGUgc2FtZSBzaXplCg==</text>
+        <text encoding="base64">CQkJaWYgKHRoaXNbaTFdIDwgaW50QXJyW2kyXSkgewoJCQkJY3VyciA9IHRoaXNbaTFdCgkJCQlpMSsrCgkJCX0gZWxzZSB7CgkJCQljdXJyID0gaW50QXJyW2kyXQoJCQkJaTIrKwoJCQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkvLyB0aGUgbWlkZGxlIGVsZW1lbnQKCQkvLyBleC4gbWlkSWR4IGZvciBsZW5ndGggMyA9IDEgPSAzIC8gMgoJCXZhbCBtaWRJZHggPSB0b3RhbExlbmd0aCAvIDIK</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>wordSearch</last-search>
+      <last-search>h</last-search>
       <last-offset />
-      <last-pattern>wordSearch</last-pattern>
-      <last-replace>string</last-replace>
-      <last-substitute>char *</last-substitute>
+      <last-pattern>h</last-pattern>
+      <last-replace>size</last-replace>
+      <last-substitute>h</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>a</entry>
         <entry>A</entry>
         <entry>set</entry>
         <entry>destroy</entry>
@@ -559,9 +558,9 @@
         <entry>vector_set</entry>
         <entry>char *</entry>
         <entry>wordSearch</entry>
+        <entry>h</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2lucHV0L3BhcmFncmFwaC9n</entry>
         <entry>vs part2-functions.c</entry>
         <entry>vs includes/vector.h</entry>
         <entry encoding="base64">JzwsJz5zLzMvNC9n</entry>
@@ -575,12 +574,13 @@
         <entry encoding="base64">JzwsJz5zL0EvQi9n</entry>
         <entry encoding="base64">JzwsJz5zL2RvY1NpemUvZG9jX3NpemUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3RyYXZlcnNhbC90bXAvZw==</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL3B0ci9lbnZpcm9uL2c=</entry>
         <entry>!svn ci -m &quot;hmm&quot;</entry>
         <entry encoding="base64">JzwsJz5zL2NoYXIgKi9zdHJpbmcvZw==</entry>
         <entry>w</entry>
         <entry>nohlsearch</entry>
+        <entry encoding="base64">JzwsJz5zL2gvc2l6ZS9n</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
