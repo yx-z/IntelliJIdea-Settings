@@ -148,6 +148,12 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="44" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/AlgoKt/src/str/RemoveSpaces.kt" timestamp="1508725511866">
+        <mark key="[" line="13" column="67" />
+        <mark key="]" line="13" column="63" />
+        <mark key="." line="13" column="63" />
+        <mark key="^" line="13" column="63" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/NQueens.kt" timestamp="1503636503554">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="6" column="42" />
@@ -266,6 +272,12 @@
         <mark key="." line="21" column="28" />
         <mark key="^" line="21" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/AlgoKt/src/tree/bintree/LargestBST.kt" timestamp="1508725646771">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="42" column="4" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/LongestSubstr.kt" timestamp="1503631073244">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="0" />
@@ -381,12 +393,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/AlgoKt/src/arr/Median.kt" timestamp="1508619149810">
-        <mark key="'" line="66" column="26" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/stack/hasBalancePairs.kt" timestamp="1508118101264">
         <mark key="[" line="22" column="16" />
@@ -505,6 +511,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/AlgoKt/src/tree/bintree/LCA.kt" timestamp="1508725672402">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="14" column="13" />
+        <mark key="^" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/UnionFind.kt" timestamp="1504102457267">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="3" column="0" />
@@ -524,7 +536,7 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508722269241">
+      <file name="/Dummy.txt" timestamp="1508725704716">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -744,8 +756,8 @@
       <jump line="68" column="0" filename="$USER_HOME$/Documents/AlgoKt/src/arr/Zigzag.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>add fact fib</text>
       </register>
       <register name="-" type="4">
         <text>add fact fib</text>
@@ -775,28 +787,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
+        <text encoding="base64">CXJldHVybiBSZXQodHJ1ZSwgbEJTVC5zaXplICsgckJTVC5zaXplICsgMSwgbEJTVC5taW4sIHJCU1QubWF4KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQoJMS5sZXQgewoJCWl0LgoJfQo=</text>
+        <text encoding="base64">CQlyZXR1cm4gUmV0KGZhbHNlLCBNYXRoLm1heChsQlNULnNpemUsIHJCU1Quc2l6ZSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CTEuYWxzbyB7IHRoaXMuIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CTEubGV0IHsgdGhpcy50byB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIHByaW50IGZpenpidXp6IGlmIG4gJSAzID09IDAgJiYgbiAlIDUgPT0gMAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXEuCg==</text>
+        <text encoding="base64">CQoJMS5sZXQgewoJCWl0LgoJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlwb3BTdGFjay5wZWVrKCkKCX0gZWxzZSB7CgkJCgl9Cg==</text>
+        <text encoding="base64">CTEuYWxzbyB7IHRoaXMuIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CTEubGV0IHsgdGhpcy50byB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL251bXMvdGhpcy9n</text>
