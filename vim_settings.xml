@@ -499,6 +499,13 @@
         <mark key="^" line="44" column="26" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/David/Projects/OpenEpic/src/retriever/Retriever.java" timestamp="1509459285921">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+        <mark key="^" line="95" column="3" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/KtGotcha.kt" timestamp="1508274648965">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="8" column="16" />
@@ -587,9 +594,9 @@
         <mark key="." line="30" column="4" />
         <mark key="^" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/David/Projects/OpenEpic/src/example/ExamplePatientRetriever.java" timestamp="1509424501934">
+      <file name="$USER_HOME$/Desktop/David/Projects/OpenEpic/src/example/ExamplePatientRetriever.java" timestamp="1509459321767">
         <mark key="'" line="36" column="35" />
-        <mark key="[" line="8" column="90" />
+        <mark key="[" line="37" column="21" />
         <mark key="]" line="9" column="3" />
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
@@ -706,6 +713,9 @@
         <mark key="]" line="10" column="15" />
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="15" />
+      </file>
+      <file name="$USER_HOME$/Desktop/David/Projects/OpenEpic/src/util/PrintPublicFields.java" timestamp="1509459344528">
+        <mark key="[" line="15" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/stack/NextGreaterNum.kt" timestamp="1508082765020">
         <mark key="[" line="19" column="0" />
@@ -888,7 +898,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="25" filename="$USER_HOME$/VCS/AlgoKt/src/str/Trie.kt" />
       <jump line="9" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/str/Trie.kt" />
       <jump line="61" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/str/Trie.kt" />
       <jump line="72" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/str/Trie.kt" />
@@ -988,13 +997,14 @@
       <jump line="32" column="29" filename="$USER_HOME$/Desktop/David/Projects/OpenEpic/src/example/ExamplePatientRetriever.java" />
       <jump line="35" column="35" filename="$USER_HOME$/Desktop/David/Projects/OpenEpic/src/example/ExamplePatientRetriever.java" />
       <jump line="10" column="57" filename="$USER_HOME$/Desktop/David/Projects/OpenEpic/src/example/ExampleMedicationOrderRetriever.java" />
+      <jump line="71" column="0" filename="$USER_HOME$/Desktop/David/Projects/OpenEpic/src/retriever/Retriever.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>record</text>
       </register>
       <register name="/" type="4">
         <text>protected</text>
@@ -1021,28 +1031,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXRyaWV2ZXIoQ2xhc3M8VD4gY2xzKSB7CiAgICAgICAgdGhpcyhjbHMsIERFRkFVTFRfQkFTRV9VUkwsIERFRkFVTFRfVElNRU9VVCk7CiAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBFWEFNUExFX1NUQVRVUyA9ICJhY3RpdmUsY29tcGxldGVkIjtkZGRkT2BkZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICBtVGltZW91dCA9IHRpbWVvdXQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQoTWVkaWNhdGlvbk9yZGVyLlNUQVRVUy5leGFjdGx5KCkuc3lzdGVtQW5kVmFsdWVzKEVYQU1QTEVfU1RBVFVTKSkK</text>
+        <text encoding="base64">ICAgICAgICBtQ2xhc3MgPSBjbHM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBFWEFNUExFX0RBVEUgPSAiMjAyMC0wMS0xMCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzKERFRkFVTFRfVElNRU9VVCwgREVGQVVMVF9CQVNFX1VSTCwgY2xzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQoTWVkaWNhdGlvbk9yZGVyLkRBVEVXUklUVEVOLmFmdGVyKCkuZGF5KG5ldyBEYXRlKCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQoTWVkaWNhdGlvbk9yZGVyLkRBVEVXUklUVEVOLmFmdGVyKCkuZGF5KG5ldyBEYXRlKCkpKQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSZXRyaWV2ZXI8TWVkaWNhdGlvbk9yZGVyPiBtZWRpY2F0aW9uT3JkZXJSZXRyaWV2ZXIgPSBuZXcgUmV0cmlldmVyPD4oTWVkaWNhdGlvbk9yZGVyLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBFWEFNUExFX1NUQVRVUyA9ICJhY3RpdmUsY29tcGxldGVkIjtkZGRkT2BkZGRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZXRyaWV2ZXI8UGF0aWVudD4gcGF0aWVudFJldHJpZXZlciA9IG5ldyBSZXRyaWV2ZXI8PihQYXRpZW50LmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQoTWVkaWNhdGlvbk9yZGVyLlNUQVRVUy5leGFjdGx5KCkuc3lzdGVtQW5kVmFsdWVzKEVYQU1QTEVfU1RBVFVTKSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRlL2c=</text>
