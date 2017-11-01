@@ -84,10 +84,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="31" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/CPS/src/example/ExampleObservation.java" timestamp="1509499384488">
-        <mark key="[" line="19" column="69" />
-        <mark key="]" line="9" column="100" />
-        <mark key="." line="9" column="100" />
+      <file name="$USER_HOME$/Documents/CPS/src/example/ExampleObservation.java" timestamp="1509500944264">
+        <mark key="[" line="21" column="61" />
+        <mark key="]" line="9" column="67" />
+        <mark key="." line="9" column="67" />
+        <mark key="^" line="9" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/Semicolon.kt" timestamp="1508376151768">
         <mark key="[" line="10" column="20" />
@@ -519,10 +520,10 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/CPS/src/example/ExamplePatientRetriever.java" timestamp="1509498725334">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="2" column="39" />
-        <mark key="." line="2" column="39" />
+      <file name="$USER_HOME$/Documents/CPS/src/example/ExamplePatientRetriever.java" timestamp="1509500723451">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
         <mark key="^" line="2" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/bit/CountBit.kt" timestamp="1508378927398">
@@ -545,16 +546,17 @@
         <mark key="." line="32" column="44" />
         <mark key="^" line="32" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/CPS/src/util/MapUtil.java" timestamp="1509495018065">
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="18" />
-        <mark key="." line="17" column="18" />
-        <mark key="^" line="44" column="47" />
+      <file name="$USER_HOME$/Documents/CPS/src/util/MapUtil.java" timestamp="1509500208765">
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="32" column="79" />
+        <mark key="." line="32" column="79" />
+        <mark key="^" line="32" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/CPS/src/example/ExampleMedicationOrderRetriever.java" timestamp="1509498761341">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="101" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/CPS/src/example/ExampleMedicationOrderRetriever.java" timestamp="1509500711177">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="31" column="18" />
+        <mark key="." line="30" column="50" />
+        <mark key="^" line="30" column="50" />
       </file>
       <file name="$USER_HOME$/Github/CS241/utilities_unleashed/CMakeLists.txt" timestamp="1505517406136">
         <mark key="[" line="6" column="8" />
@@ -687,11 +689,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509498375953">
+      <file name="/Dummy.txt" timestamp="1509500982674">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="46" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/tree/binarytree/bst/LCA.kt" timestamp="1508050819218">
         <mark key="[" line="10" column="43" />
@@ -923,20 +925,20 @@
       <jump line="14" column="37" filename="$USER_HOME$/Documents/CPS/src/retriever/BaseRetriever.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aGVyZShPYnNlcnZhdGlvbi5QQVRJRU5ULmlkKQo=</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>Observation</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>hash</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBFWEFNUExFX1BBVElFTlRfSUQgPSAiVGJ0M0t1Q1kwQjVQU3JKdkN1MmotUGxLLmFpSHN1MnhValVNOGJXcGV0WG9CIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mb3JFYWNoKG1hcCAtPiB7CiAgICAgICAgICAgICAgICAgICAgTWFwVXRpbHMucHJpbnRNdWx0aUxpbmUobWFwKTsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIj09PT09ID09PT09Iik7CiAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aGVyZShPYnNlcnZhdGlvbi5QQVRJRU5ULmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mb3JFYWNoKE1hcFV0aWxzOjpwcmludE11bHRpTGluZSk7CiAgICAgICAgICAgICAgICAuZm9yRWFjaChNYXBVdGlsczo6cHJpbnRNdWx0aUxpbmUpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -954,28 +956,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvYnNlcnZhdGlvblJlc3BvbnNlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mb3JFYWNoKE1hcFV0aWxzOjpwcmludE11bHRpTGluZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mb3JFYWNoKE1hcFV0aWxzOjpwcmludE11bHRpTGluZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBCdW5kbGUgb2JzZXJ2YXRpb25SZXNwb25zZSA9IG9ic2VydmF0aW9uUmV0cmlldmVyLnF1ZXJ5QnlQYXJhbXMoKQogICAgICAgICAgICAgICAgLndoZXJlKE9ic2VydmF0aW9uLlBBVElFTlQuaGFzSWQoRVhBTVBMRV9QQVRJRU5UX0lEKSkKICAgICAgICAgICAgICAgIC5leGVjdXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBCYXNlUmV0cmlldmVyPE9ic2VydmF0aW9uPiBvYnNlcnZhdGlvblJldHJpZXZlciA9IG5ldyBCYXNlUmV0cmlldmVyPD4oT2JzZXJ2YXRpb24uY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC53aGVyZShPYnNlcnZhdGlvbi5QQVRJRU5ULmlkKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBFWEFNUExFX1BBVElFTlRfSUQ9aHR0cHM6Ly9vcGVuLWljLmVwaWMuY29tL0ZISVIvYXBpL0ZISVIvRFNUVTIvT2JzZXJ2YXRpb24/cGF0aWVudD1UYnQzS3VDWTBCNVBTckp2Q3Uyai1QbEsuYWlIc3UyeFVqVU04YldwZXRYb0ImY29kZT04MzEwLTUK</text>
+        <text encoding="base64">ICAgICAgICBvYnNlcnZhdGlvblJlc3BvbnNlLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNhLnVobi5maGlyLm1vZGVsLmRzdHUyLnJlc291cmNlLlBhdGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBURVNUX09CU0VSVkFUSU9OX1VSTCA9ICIvT2JzZXJ2YXRpb24/cGF0aWVudCIK</text>
+        <text encoding="base64">ICAgICAgICBCdW5kbGUgb2JzZXJ2YXRpb25SZXNwb25zZSA9IG9ic2VydmF0aW9uUmV0cmlldmVyLnF1ZXJ5QnlQYXJhbXMoKQogICAgICAgICAgICAgICAgLndoZXJlKE9ic2VydmF0aW9uLlBBVElFTlQuaGFzSWQoRVhBTVBMRV9QQVRJRU5UX0lEKSkKICAgICAgICAgICAgICAgIC5leGVjdXRlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyAK</text>
+        <text encoding="base64">ICAgICAgICBCYXNlUmV0cmlldmVyPE9ic2VydmF0aW9uPiBvYnNlcnZhdGlvblJldHJpZXZlciA9IG5ldyBCYXNlUmV0cmlldmVyPD4oT2JzZXJ2YXRpb24uY2xhc3MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -1065,6 +1067,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
