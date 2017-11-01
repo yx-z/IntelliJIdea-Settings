@@ -454,11 +454,12 @@
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/CPS/src/retriever/vitalsigns/VitalSignRetriever.java" timestamp="1509547556926">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="26" />
+      <file name="$USER_HOME$/Documents/CPS/src/retriever/vitalsigns/VitalSignRetriever.java" timestamp="1509547750536">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="56" column="26" />
+        <mark key="]" line="57" column="15" />
+        <mark key="." line="57" column="15" />
+        <mark key="^" line="57" column="15" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/Compression.kt" timestamp="1504098997036">
         <mark key="[" line="4" column="4" />
@@ -674,11 +675,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509546760977">
+      <file name="/Dummy.txt" timestamp="1509547649340">
         <mark key="a" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/tree/binarytree/bst/LCA.kt" timestamp="1508050819218">
         <mark key="[" line="10" column="43" />
@@ -820,7 +821,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
       <jump line="16" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
       <jump line="21" column="0" filename="$USER_HOME$/Desktop/Interview/src/Solution.java" />
@@ -920,13 +920,14 @@
       <jump line="18" column="31" filename="$USER_HOME$/Documents/CPS/src/retriever/vitalsigns/VitalSign.java" />
       <jump line="89" column="0" filename="$USER_HOME$/Documents/CPS/src/retriever/vitalsigns/VitalSign.java" />
       <jump line="88" column="4" filename="$USER_HOME$/Documents/CPS/src/retriever/vitalsigns/VitalSign.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/CPS/src/retriever/vitalsigns/VitalSignRetriever.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBkb3VibGUgZ2V0T2JzZXJ2YXRpb25WYWx1ZShEb2N1bWVudCBkb2MpIHsKICAgICAgICByZXR1cm4gRG91YmxlLnBhcnNlRG91YmxlKGRvYy5nZXRFbGVtZW50c0J5VGFnTmFtZSgidmFsdWUiKS5pdGVtKDApLmdldEF0dHJpYnV0ZXMoKS5pdGVtKDApLmdldE5vZGVWYWx1ZSgpKTsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>VitalSign</text>
+        <text>mplementing xml parser</text>
       </register>
       <register name="/" type="4">
         <text>hash</text>
@@ -935,7 +936,7 @@
         <text encoding="base64">CXByaW50bG4oQXJyYXlzLnRvU3RyaW5nKHRlc3QxKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBkb3VibGUgZ2V0T2JzZXJ2YXRpb25WYWx1ZShEb2N1bWVudCBkb2MpIHsKICAgICAgICByZXR1cm4gRG91YmxlLnBhcnNlRG91YmxlKGRvYy5nZXRFbGVtZW50c0J5VGFnTmFtZSgidmFsdWUiKS5pdGVtKDApLmdldEF0dHJpYnV0ZXMoKS5pdGVtKDApLmdldE5vZGVWYWx1ZSgpKTsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -953,28 +954,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQoT2JzZXJ2YXRpb24uREFURS5leGFjdGx5KCkuZGF5KGRhdGUpKQo=</text>
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZG9jLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJ2YWx1ZSIpLml0ZW0oMCkuZ2V0QXR0cmlidXRlcygpLmdldE5hbWVkSXRlbSgidmFsdWUiKS5nZXROb2RlVmFsdWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQoT2JzZXJ2YXRpb24uREFURS5leGFjdGx5KCkuZGF5KGRhdGUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVml0YWxTaWduIHNpZ24gPSBuZXcgVml0YWxTaWduKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZG9jLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJ2YWx1ZSIpLml0ZW0oMCkuZ2V0QXR0cmlidXRlcygpLmdldE5hbWVkSXRlbSgidmFsdWUiKS5nZXROb2RlVmFsdWUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gYnVpbGQgVml0YWxTaWduCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVml0YWxTaWduIHNpZ24gPSBuZXcgVml0YWxTaWduKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2lnbi5zZXRUeXBlKHZpdGFsU2lnbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gYnVpbGQgVml0YWxTaWduCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHBhdGllbnROYW1lID0gZG9jLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJzdWJqZWN0IikuaXRlbSgwKS5nZXRDaGlsZE5vZGVzKCkuaXRlbSgwKS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2lnbi5zZXRUeXBlKHZpdGFsU2lnbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2lnbi5zZXRQYXRpZW50SWQobVBhdGllbnRJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHBhdGllbnROYW1lID0gZG9jLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJzdWJqZWN0IikuaXRlbSgwKS5nZXRDaGlsZE5vZGVzKCkuaXRlbSgwKS4K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
