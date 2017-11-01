@@ -42,6 +42,12 @@
         <mark key="." line="55" column="4" />
         <mark key="^" line="55" column="4" />
       </file>
+      <file name="$USER_HOME$/Desktop/David/Projects/FHIR/src/retriever/vitalsigns/VitalSignRetriever.java" timestamp="1509556801283">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/Github/CS241/pointers_gone_wild/part2-main.c" timestamp="1504974406220">
         <mark key="[" line="60" column="29" />
         <mark key="]" line="61" column="0" />
@@ -672,6 +678,12 @@
         <mark key="." line="12" column="35" />
         <mark key="^" line="12" column="35" />
       </file>
+      <file name="$USER_HOME$/Desktop/David/Projects/FHIR/src/example/ExampleVitalSignRetriever.java" timestamp="1509556571345">
+        <mark key="'" line="18" column="15" />
+        <mark key="[" line="18" column="97" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/bit/RightmostBit.kt" timestamp="1508382125737">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="5" column="51" />
@@ -792,7 +804,7 @@
         <mark key="." line="35" column="16" />
         <mark key="^" line="35" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509480046622">
+      <file name="/Dummy.txt" timestamp="1509556715986">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -898,14 +910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/str/Trie.kt" />
-      <jump line="61" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/str/Trie.kt" />
-      <jump line="72" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/str/Trie.kt" />
-      <jump line="7" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/str/Trie.kt" />
-      <jump line="65" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/str/Trie.kt" />
-      <jump line="42" column="18" filename="$USER_HOME$/VCS/AlgoKt/src/str/Trie.kt" />
-      <jump line="5" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/str/Trie.kt" />
-      <jump line="46" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/str/Trie.kt" />
       <jump line="67" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/str/Trie.kt" />
       <jump line="12" column="105" filename="$USER_HOME$/VCS/AlgoKt/src/str/Trie.kt" />
       <jump line="66" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/str/Trie.kt" />
@@ -998,13 +1002,21 @@
       <jump line="35" column="35" filename="$USER_HOME$/Desktop/David/Projects/OpenEpic/src/example/ExamplePatientRetriever.java" />
       <jump line="10" column="57" filename="$USER_HOME$/Desktop/David/Projects/OpenEpic/src/example/ExampleMedicationOrderRetriever.java" />
       <jump line="71" column="0" filename="$USER_HOME$/Desktop/David/Projects/OpenEpic/src/retriever/Retriever.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/Desktop/David/Projects/FHIR/src/retriever/vitalsigns/VitalSignRetriever.java" />
+      <jump line="44" column="117" filename="$USER_HOME$/Desktop/David/Projects/FHIR/src/retriever/vitalsigns/VitalSignRetriever.java" />
+      <jump line="17" column="15" filename="$USER_HOME$/Desktop/David/Projects/FHIR/src/example/ExampleVitalSignRetriever.java" />
+      <jump line="54" column="4" filename="$USER_HOME$/Desktop/David/Projects/FHIR/src/retriever/vitalsigns/VitalSignRetriever.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/David/Projects/FHIR/src/retriever/vitalsigns/VitalSignRetriever.java" />
+      <jump line="40" column="25" filename="$USER_HOME$/Desktop/David/Projects/FHIR/src/retriever/vitalsigns/VitalSignRetriever.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/Desktop/David/Projects/FHIR/src/retriever/vitalsigns/VitalSignRetriever.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/Desktop/David/Projects/FHIR/src/retriever/vitalsigns/VitalSignRetriever.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoSUJhc2VSZXNvdXJjZTo6Z2V0SWRFbGVtZW50Ojp0b1N0cmluZykK</text>
       </register>
       <register name="-" type="4">
-        <text>record</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>protected</text>
@@ -1013,7 +1025,7 @@
         <text encoding="base64">ICAgICAgICBwYXRpZW50UmV0cmlldmVyLmNvbGxlY3RSZXNvdXJjZXMocGF0aWVudFJlc3BvbnNlKS5mb3JFYWNoKHBhdGllbnQgLT4gewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgQXJyYXlzLnN0cmVhbShJbnRyb3NwZWN0b3IuZ2V0QmVhbkluZm8oUGF0aWVudC5jbGFzcykuZ2V0UHJvcGVydHlEZXNjcmlwdG9ycygpKQogICAgICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKHByb3BlcnR5RGVzY3JpcHRvciAtPiBPYmplY3RzLm5vbk51bGwocHJvcGVydHlEZXNjcmlwdG9yLmdldFJlYWRNZXRob2QoKSkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JFYWNoKHByb3BlcnR5RGVzY3JpcHRvciAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHByaW50IGFsbCAiJGZpZWxkOiAkdmFsdWUiIHBhaXJzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHByb3BlcnR5RGVzY3JpcHRvci5nZXROYW1lKCkgKyAiOiAiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb3BlcnR5RGVzY3JpcHRvci5nZXRSZWFkTWV0aG9kKCkuaW52b2tlKHBhdGllbnQpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElsbGVnYWxBY2Nlc3NFeGNlcHRpb24gfCBJbnZvY2F0aW9uVGFyZ2V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfSBjYXRjaCAoSW50cm9zcGVjdGlvbkV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCI9PT09PSA9PT09PSIpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoSUJhc2VSZXNvdXJjZTo6Z2V0SWRFbGVtZW50Ojp0b1N0cmluZykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1031,28 +1043,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXRyaWV2ZXIoQ2xhc3M8VD4gY2xzKSB7CiAgICAgICAgdGhpcyhjbHMsIERFRkFVTFRfQkFTRV9VUkwsIERFRkFVTFRfVElNRU9VVCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PERvdWJsZT4gcXVlcnlWaXRhbFNpZ24oVml0YWxTaWduVHlwZSBzaWduVHlwZSwgRGF0ZSBkYXRlKSB7CiAgICAgICAgTGlzdDxEb3VibGU+IHZpdGFsU2lnbnMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBCdW5kbGUgdml0YWxTaWduUmVzcG9uc2UgPSBxdWVyeUJ5UGFyYW1zKCkKICAgICAgICAgICAgICAgIC53aGVyZShPYnNlcnZhdGlvbikKICAgICAgICByZXR1cm4gdml0YWxTaWduczsKICAgIH0KICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtVGltZW91dCA9IHRpbWVvdXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXBVdGlscy50b011bHRpTGluZVN0cmluZyh3ZWlnaHRzamopCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtQ2xhc3MgPSBjbHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4od2VpZ2h0cyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzKERFRkFVTFRfVElNRU9VVCwgREVGQVVMVF9CQVNFX1VSTCwgY2xzKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZWZmZWN0aXZlVGltZURhdGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERhdGVqaigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERhdGUoZG9jLmdldEVsZW1lbnRzQnlUYWdOYW1lKCJlZmZlY3RpdmVEYXRlVGltZSIpLml0ZW0oMCkuZ2V0QXR0cmlidXRlcygpLml0ZW0oMCkuZ2V0Tm9kZVZhbHVlKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBFWEFNUExFX1NUQVRVUyA9ICJhY3RpdmUsY29tcGxldGVkIjtkZGRkT2BkZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRG91YmxlLnBhcnNlRG91YmxlKGRvYy5nZXRFbGVtZW50c0J5VGFnTmFtZSgidmFsdWUiKS5pdGVtKDApLmdldEF0dHJpYnV0ZXMoKS5pdGVtKDApLmdldE5vZGVWYWx1ZSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQoTWVkaWNhdGlvbk9yZGVyLlNUQVRVUy5leGFjdGx5KCkuc3lzdGVtQW5kVmFsdWVzKEVYQU1QTEVfU1RBVFVTKSkK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Byb3RlY3RlZC9wcml2YXRlL2c=</text>
