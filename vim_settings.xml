@@ -81,8 +81,8 @@
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="16" />
       </file>
-      <file name="F:/FHIR/res/sample_temperature_observation.xml" timestamp="1510081301234">
-        <mark key="'" line="26" column="9" />
+      <file name="F:/FHIR/res/sample_temperature_observation.xml" timestamp="1510082299341">
+        <mark key="'" line="31" column="9" />
       </file>
       <file name="F:/AlgoKt/src/Main.kt" timestamp="1510004151827">
         <mark key="[" line="0" column="0" />
@@ -566,11 +566,12 @@
         <mark key="^" line="27" column="6" />
         <mark key="." line="27" column="6" />
       </file>
-      <file name="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" timestamp="1510081361549">
-        <mark key="'" line="125" column="0" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
+      <file name="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" timestamp="1510085254650">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="161" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/greedy/CanJump.kt" timestamp="1508112824460">
         <mark key="[" line="9" column="3" />
@@ -601,11 +602,10 @@
         <mark key="." line="32" column="44" />
         <mark key="^" line="32" column="44" />
       </file>
-      <file name="F:/FHIR/src/retriever/BaseRetriever.java" timestamp="1510017301364">
-        <mark key="[" line="17" column="42" />
-        <mark key="]" line="17" column="42" />
-        <mark key="^" line="17" column="45" />
-        <mark key="." line="17" column="42" />
+      <file name="F:/FHIR/src/retriever/BaseRetriever.java" timestamp="1510085866570">
+        <mark key="[" line="100" column="9" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/array/Duplicate.kt" timestamp="1503552108878">
         <mark key="[" line="25" column="20" />
@@ -657,11 +657,11 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="F:/FHIR/src/util/XmlUtils.java" timestamp="1510081212636">
-        <mark key="[" line="43" column="71" />
-        <mark key="]" line="46" column="23" />
-        <mark key="." line="46" column="23" />
-        <mark key="^" line="46" column="23" />
+      <file name="F:/FHIR/src/util/XmlUtils.java" timestamp="1510084877699">
+        <mark key="[" line="41" column="42" />
+        <mark key="]" line="41" column="42" />
+        <mark key="." line="41" column="42" />
+        <mark key="^" line="41" column="29" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/EightQueens.kt" timestamp="1503618967352">
         <mark key="[" line="4" column="1" />
@@ -933,17 +933,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/str/Trie.kt" />
-      <jump line="10" column="9" filename="$USER_HOME$/VCS/AlgoKt/src/str/AddrTrie.kt" />
-      <jump line="50" column="52" filename="$USER_HOME$/Desktop/Xtern/src/LinkParser.java" />
-      <jump line="9" column="42" filename="$USER_HOME$/Desktop/Xtern/src/LinkParser.java" />
-      <jump line="48" column="56" filename="$USER_HOME$/Desktop/Xtern/src/LinkParser.java" />
-      <jump line="51" column="56" filename="$USER_HOME$/Desktop/Xtern/src/LinkParser.java" />
-      <jump line="75" column="39" filename="$USER_HOME$/Desktop/Xtern/src/LinkParser.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desktop/Xtern/src/LinkParser.java" />
-      <jump line="12" column="28" filename="$USER_HOME$/Desktop/Xtern/src/LinkParser.java" />
-      <jump line="26" column="4" filename="$USER_HOME$/Desktop/Xtern/src/ActivityMonitor.java" />
-      <jump line="7" column="35" filename="$USER_HOME$/Desktop/Xtern/src/ActivityMonitor.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Xtern/src/ActivityMonitor.java" />
       <jump line="27" column="0" filename="$USER_HOME$/Desktop/Xtern/src/ActivityMonitor.java" />
       <jump line="32" column="7" filename="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" />
@@ -1025,21 +1014,32 @@
       <jump line="84" column="59" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
       <jump line="27" column="0" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
       <jump line="28" column="13" filename="F:/FHIR/res/sample_temperature_observation.xml" />
-      <jump line="31" column="9" filename="F:/FHIR/res/sample_temperature_observation.xml" />
-      <jump line="26" column="9" filename="F:/FHIR/res/sample_temperature_observation.xml" />
       <jump line="35" column="16" filename="F:/FHIR/res/sample_blood_pressure_ovservation.xml" />
       <jump line="19" column="9" filename="F:/FHIR/res/sample_blood_pressure_ovservation.xml" />
       <jump line="115" column="32" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
       <jump line="18" column="0" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
-      <jump line="120" column="0" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
-      <jump line="125" column="0" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
+      <jump line="31" column="103" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
+      <jump line="34" column="12" filename="F:/FHIR/res/sample_temperature_observation.xml" />
+      <jump line="26" column="9" filename="F:/FHIR/res/sample_temperature_observation.xml" />
+      <jump line="31" column="9" filename="F:/FHIR/res/sample_temperature_observation.xml" />
+      <jump line="120" column="74" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
+      <jump line="23" column="55" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
+      <jump line="125" column="92" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
+      <jump line="25" column="59" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
+      <jump line="143" column="81" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
+      <jump line="26" column="59" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
+      <jump line="124" column="31" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
+      <jump line="158" column="23" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
+      <jump line="38" column="103" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
+      <jump line="139" column="58" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
+      <jump line="3" column="0" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBCYXNlUmUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbUNsaWVudC5zZWFyY2goKS5ieVVybChmdWxsVXJsKS5yZXR1cm5CdW5kbGUobUNsYXNzKS5leGVjdXRlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>E</text>
       </register>
       <register name="/" type="4">
         <text>reference</text>
@@ -1048,7 +1048,7 @@
         <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBCYXNlUmUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbUNsaWVudC5zZWFyY2goKS5ieVVybChmdWxsVXJsKS5yZXR1cm5CdW5kbGUobUNsYXNzKS5leGVjdXRlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1083,28 +1083,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDT01QT05FTlRfVEFHID0gImNvbXBvbmVudCI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgQ09ERV9UQUcgPSAiY29kZSI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuQ09SQkEuSURMVHlwZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ud2Via2l0LmRvbS5Ob2RlTGlzdEltcGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBOb2RlTGlzdCBjb21wb25lbnROb2RlcyA9IG1Eb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZShDT01QT05FTlRfVEFHKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGNvbXBvbmVudE5vZGVzLmdldExlbmd0aCgpOyBpKyspIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcG9uZW50Tm9kZXMuaXRlbShpKS5nZXRDaGlsZE5vZGVzKCkuaXRlbSgxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICBOb2RlIHBhdGllbnROb2RlID0gcmVmZXJlbmNlTm9kZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcG9uZW50Tm9kZXMuaXRlbShpKS5nZXRDaGlsZE5vZGVzKCkK</text>
+        <text encoding="base64">ICAgICAgICBkb2Mucm9vdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTm9kZSBjb2RlTm9kZSA9IFhtbFV0aWxzLmdldE5vZGVCeVRhZ05hbWUoY29tcG9uZW50Tm9kZXMuaXRlbShpKSwgQ09ERV9UQUcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBOb2RlIHBhdGllbnROb2RlID0gKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlLmdldAo=</text>
+        <text encoding="base64">ICAgICAgICBOb2RlIHBhdGllbnROb2RlID0gc3ViamVjdE5vZGUuZ2V0TGFzdENoaWxkKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RoaXMuLy9n</text>
