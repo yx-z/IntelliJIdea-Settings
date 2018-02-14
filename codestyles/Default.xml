@@ -30,6 +30,10 @@
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
+  <Objective-C>
+    <option name="SPACE_BEFORE_POINTER_IN_DECLARATION" value="false" />
+    <option name="SPACE_AFTER_POINTER_IN_DECLARATION" value="true" />
+  </Objective-C>
   <Objective-C-extensions>
     <file>
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
@@ -51,7 +55,7 @@
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
     </class>
     <extensions>
-      <pair source="cpp" header="h" />
+      <pair source="cpp" header="hpp" />
       <pair source="c" header="h" />
     </extensions>
   </Objective-C-extensions>
@@ -61,6 +65,13 @@
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="ObjectiveC">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
     <indentOptions>
