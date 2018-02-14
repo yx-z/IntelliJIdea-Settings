@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1518648972763">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/NQueens.kt" timestamp="1503636503554">
         <mark key="[" line="5" column="51" />
         <mark key="]" line="6" column="42" />
@@ -11,6 +14,9 @@
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/oop/WebCrawler.kt" timestamp="1504098141264">
         <mark key="[" line="2" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1518648982153">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/LCS.kt" timestamp="1503630315446">
         <mark key="[" line="33" column="18" />
@@ -158,6 +164,13 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Test/test.py" timestamp="1518648610418">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Intersect.kt" timestamp="1503623458901">
         <mark key="'" line="26" column="12" />
         <mark key="[" line="18" column="45" />
@@ -243,6 +256,7 @@
       <jump line="25" column="12" filename="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Intersect.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/Test/src/Sol4.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Test/src/Sol4.kt" />
+      <jump line="18" column="0" filename="$USER_HOME$/Desktop/Test/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -313,6 +327,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
