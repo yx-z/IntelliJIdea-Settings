@@ -274,6 +274,12 @@
         <mark key="." line="16" column="50" />
         <mark key="^" line="16" column="29" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/recursion/LAS.kt" timestamp="1519862532696">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+        <mark key="^" line="4" column="42" />
+      </file>
       <file name="F:/FHIR/src/retriever/VitalSignRetriever.java" timestamp="1510098156243">
         <mark key="'" line="37" column="54" />
         <mark key="[" line="40" column="85" />
@@ -932,7 +938,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510784280163">
+      <file name="/Dummy.txt" timestamp="1519862562032">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -1167,11 +1173,11 @@
       <jump line="706" column="22" filename="$USER_HOME$/OneDrive/Work/Course/CS491/hdfs/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/FSNamesystem.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL0dhbWVCdWlsZGVycy9Qcm9qZWN0Vm94LmdpdAo=</text>
+      <register name="&quot;" type="4">
+        <text>prev</text>
       </register>
       <register name="-" type="4">
-        <text>(?=</text>
+        <text>prev</text>
       </register>
       <register name="/" type="4">
         <text>NameNodeServer</text>
@@ -1180,7 +1186,7 @@
         <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL0dhbWVCdWlsZGVycy9Qcm9qZWN0Vm94LmdpdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhbCBydW50aW1lID0gUnVudGltZS5nZXRSdW50aW1lKCkKCXZhbCBwcm9jZXNzID0gcnVudGltZS5leGVjKCJlY2hvIGhlbGxvIHdvcmxkISIpCglwcmludGxuKHByb2Nlc3Mub3V0cHV0U3RyZWFtLikK</text>
+        <text encoding="base64">CXByaW50bG4oYXJyLmxhcygwLCAxLCAnKycpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1215,28 +1221,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocy4pOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ZnVuIEludEFycmF5LmxhcyhpZHg6IEludCA9IDAsIDogSW50ID0gSW50Lk1JTl9WQUxVRSwgc2lnbjogQ2hhciA9ICcrJyk6IEludCA9IHdoZW4gewoJaWR4ID4gdGhpcy5zaXplIC0+IHsKCQkwCgl9CglzaWduID09ICcrJyAmJiB0aGlzW2lkeF0gPiBsYXN0IC0+IHsKCQltYXgoMSArIGxhcyhpZHggKyAxLCB0aGlzW2lkeF0sICctJyksIGxhcyhpZHggKyAxLCBsYXN0LCAnKycpKQoJfQoJc2lnbiA9PSAnLScgJiYgdGhpc1tpZHhdIDwgbGFzdCAtPiB7CgkJbWF4KDEgKyBsYXMoaWR4ICsgMSwgdGhpc1tpZHhdLCAnKycpLCBsYXMoaWR4ICsgMSwgbGFzdCwgJy0nKSkKCX0KCWVsc2UgLT4gewoJCWxhcyhpZHgsIGxhc3QsIHNpZ24pCgl9Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjEyMzEyMyIucmVwbGFjZUFsbCgiKFxcXFxkKShcXFxcZHszfSkrJCIsICIkMS0iKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CXZhbCBydW50aW1lID0gUnVudGltZS5nZXRSdW50aW1lKCkKCXZhbCBwcm9jZXNzID0gcnVudGltZS5leGVjKCJlY2hvIGhlbGxvIHdvcmxkISIpCglwcmludGxuKHByb2Nlc3Mub3V0cHV0U3RyZWFtLikK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzb3V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocy4pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiMTIzIi5yZXBsYWNlQQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
