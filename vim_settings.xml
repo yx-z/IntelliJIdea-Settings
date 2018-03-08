@@ -783,6 +783,11 @@
       <file name="F:/FHIR/src/util/DateRangeOption.java" timestamp="1510415238221">
         <mark key="[" line="2" column="29" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LIS.kt" timestamp="1520532749664">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/tree/binary_tree/LCA.kt" timestamp="1508082027646">
         <mark key="'" line="9" column="15" />
         <mark key="[" line="10" column="0" />
@@ -1173,11 +1178,11 @@
       <jump line="706" column="22" filename="$USER_HOME$/OneDrive/Work/Course/CS491/hdfs/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/FSNamesystem.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>prev</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">b3BlcmF0b3IgZnVuIEFycmF5PEludD4uZ2V0KGlkeDogSW50KSA9IHdoZW4gewoJaWR4IDwgMCAtPiBJbnQuTUlOX1ZBTFVFCglpZHggPj0gc2l6ZSAtPiBJbnQuTUFYX1ZBTFVFCgllbHNlIC0+IHRoaXNbaWR4XQp9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>prev</text>
+        <text>arr</text>
       </register>
       <register name="/" type="4">
         <text>NameNodeServer</text>
@@ -1186,7 +1191,7 @@
         <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL0dhbWVCdWlsZGVycy9Qcm9qZWN0Vm94LmdpdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaW50bG4oYXJyLmxhcygwLCAxLCAnKycpKQo=</text>
+        <text encoding="base64">b3BlcmF0b3IgZnVuIEFycmF5PEludD4uZ2V0KGlkeDogSW50KSA9IHdoZW4gewoJaWR4IDwgMCAtPiBJbnQuTUlOX1ZBTFVFCglpZHggPj0gc2l6ZSAtPiBJbnQuTUFYX1ZBTFVFCgllbHNlIC0+IHRoaXNbaWR4XQp9Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1221,28 +1226,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWlmIChpZHggPCAwKSAKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CXZhbCAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IAp9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuIEludEFycmF5LmxhcyhpZHg6IEludCA9IDAsIDogSW50ID0gSW50Lk1JTl9WQUxVRSwgc2lnbjogQ2hhciA9ICcrJyk6IEludCA9IHdoZW4gewoJaWR4ID4gdGhpcy5zaXplIC0+IHsKCQkwCgl9CglzaWduID09ICcrJyAmJiB0aGlzW2lkeF0gPiBsYXN0IC0+IHsKCQltYXgoMSArIGxhcyhpZHggKyAxLCB0aGlzW2lkeF0sICctJyksIGxhcyhpZHggKyAxLCBsYXN0LCAnKycpKQoJfQoJc2lnbiA9PSAnLScgJiYgdGhpc1tpZHhdIDwgbGFzdCAtPiB7CgkJbWF4KDEgKyBsYXMoaWR4ICsgMSwgdGhpc1tpZHhdLCAnKycpLCBsYXMoaWR4ICsgMSwgbGFzdCwgJy0nKSkKCX0KCWVsc2UgLT4gewoJCWxhcyhpZHgsIGxhc3QsIHNpZ24pCgl9Cn0K</text>
+        <text encoding="base64">CWFyclstMV0gPSBJbnQuTQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CW9wZXJhdG9yIGZ1biBBcnJheTxJbnQ+LmdldCgpIHsKCQkKCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhbCBydW50aW1lID0gUnVudGltZS5nZXRSdW50aW1lKCkKCXZhbCBwcm9jZXNzID0gcnVudGltZS5leGVjKCJlY2hvIGhlbGxvIHdvcmxkISIpCglwcmludGxuKHByb2Nlc3Mub3V0cHV0U3RyZWFtLikK</text>
+        <text encoding="base64">CQkJCWhvbGRbaV0gPSBtYXgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocy4pOwo=</text>
+        <text encoding="base64">CQkJaG9sZFtpXSA9IG1heE9mKGhvbGRbal0sIG1heCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
