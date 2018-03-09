@@ -456,11 +456,11 @@
         <mark key="." line="30" column="62" />
         <mark key="^" line="22" column="12" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" timestamp="1520631719121">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="13" />
-        <mark key="." line="16" column="13" />
-        <mark key="^" line="16" column="3" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" timestamp="1520636797072">
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="38" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/arr/matrix/SubMatrix.kt" timestamp="1508051555075">
         <mark key="[" line="13" column="0" />
@@ -978,7 +978,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520631781552">
+      <file name="/Dummy.txt" timestamp="1520636820549">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1117,7 +1117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="31" filename="$USER_HOME$/Documents/CPS/src/retriever/vitalsigns/VitalSign.java" />
       <jump line="89" column="0" filename="$USER_HOME$/Documents/CPS/src/retriever/vitalsigns/VitalSign.java" />
       <jump line="88" column="4" filename="$USER_HOME$/Documents/CPS/src/retriever/vitalsigns/VitalSign.java" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/CPS/src/retriever/vitalsigns/VitalSignRetriever.java" />
@@ -1217,22 +1216,23 @@
       <jump line="29" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/Main.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/Main.kt" />
       <jump line="9" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/Main.kt" />
+      <jump line="38" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add tests</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWlmIChpZHggPiBzaXplKSB7CgkJcmV0dXJuIGZhbHNlCgl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>add tests</text>
+        <text>end</text>
       </register>
       <register name="/" type="4">
         <text>NameNodeServer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuIG1pbih2YXJhcmcgaW50czogSW50KSA9IGludHMubWluKCkgPzogMAo=</text>
+        <text encoding="base64">CWludHMuZm9yRWFjaCB7IHByaW50bG4oYXJyLnN1YnNldFN1bShpdCkpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJMCwgLy8gZmFsc2UKCQkJMzYsIC8vIHRydWUsIDErNSArIDMrNyArIDIrOCArIDQrNgoJCQkyOSkgLy8gdHJ1ZSwgMSs1KzMgKyAyKzggKyA0KzYK</text>
+        <text encoding="base64">CWlmIChpZHggPiBzaXplKSB7CgkJcmV0dXJuIGZhbHNlCgl9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1267,28 +1267,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWVsc2UK</text>
+        <text encoding="base64">CQkJMCwgLy8gZmFsc2UKCQkJMzYsIC8vIHRydWUsIDErNSArIDMrNyArIDIrOCArIDQrNgoJCQkyOSkgLy8gdHJ1ZSwgMSs1KzMgKyAyKzggKyA0KzYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCWVsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJaWYgKGFycltpXSA9PSBqKSB7CgkJCQlkcFtpXVtqXSA9IAoJCQl9Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJaWYgKGFycltpXSA9PSBqKSB7CgkJCQlkcFtpXVtqXSA9IAoJCQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZHBbaV1bal0gPSBkcFtpICsgMV1baiAtIHRoaXNbaV1dIHx8IGRwW2kgKyAxXVtqXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCgo=</text>
+        <text encoding="base64">CQkJZHBbaV1bal0gPSBkcFtpICsgMV1baiAtIHRoaXNbaV1dIHx8IGRwW2kgKyAxXVtqXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaW50bG4oKQoJaW50cy5mb3JFYWNoIHsgcHJpbnRsbihhcnIuc3Vic2V0U3VtMihpdCkpIH0K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8vIHNvcnQgTyhzaXplIGxvZyBzaXplKQpmdW4gSW50QXJyYXkuc3Vic2V0U3VtMihuOiBJbnQpOiBCb29sZWFuIHsKCXZhciBudW0gPSBuCglBcnJheXMuc29ydCh0aGlzKQoJZm9yIChpIGluIDAgdW50aWwgc2l6ZSkgewoJCW51bSAtPSB0aGlzW2ldCgkJaWYgKG51bSA9PSAwKSB7CgkJCXJldHVybiB0cnVlCgkJfQoJfQoJcmV0dXJuIGZhbHNlCn0K</text>
+        <text encoding="base64">CXByaW50bG4oKQoJaW50cy5mb3JFYWNoIHsgcHJpbnRsbihhcnIuc3Vic2V0U3VtMihpdCkpIH0K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
