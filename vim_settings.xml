@@ -9,11 +9,10 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxArith.kt" timestamp="1520718313925">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxArith.kt" timestamp="1520720279042">
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1510414491329">
         <mark key="[" line="0" column="0" />
@@ -511,11 +510,11 @@
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/recur/LAS.kt" timestamp="1520557479007">
+      <file name="$USER_HOME$/VCS/AlgoKt/src/recur/LAS.kt" timestamp="1520720221262">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Test/src/Sol4.kt" timestamp="1503867342461">
         <mark key="'" line="0" column="0" />
@@ -1257,7 +1256,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CS8vIGRwWzAsIGldID0gbWF4aW11bSB2YWx1ZSBvYnRhaW5lZCBmcm9tIHRoaXNbMS4uaV0KCS8vIGRwWzEsIGldID0gbWluaW11bSB2YWx1ZSBvYnRhaW5lZCBmcm9tIHRoaXNbaSB1bnRpbCBzaXplXQoJCg==</text>
+        <text encoding="base64">CS8vIGFzc3VtZSB0aGF0IGFycgo=</text>
       </register>
       <register name="-" type="4">
         <text>Object</text>
@@ -1269,7 +1268,7 @@
         <text encoding="base64">CWludHMuZm9yRWFjaCB7IHByaW50bG4oaXQubWluRGVjb21wKCkpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIGRwWzAsIGldID0gbWF4aW11bSB2YWx1ZSBvYnRhaW5lZCBmcm9tIHRoaXNbMS4uaV0KCS8vIGRwWzEsIGldID0gbWluaW11bSB2YWx1ZSBvYnRhaW5lZCBmcm9tIHRoaXNbaSB1bnRpbCBzaXplXQoJCg==</text>
+        <text encoding="base64">CS8vIGFzc3VtZSB0aGF0IGFycgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1304,28 +1303,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXJldHVybiB0aGlzCn0K</text>
+        <text encoding="base64">CXZhbCBtYXggPSBBcnJheShzaXplKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CS8vIGRwWzAsIGldID0gbWF4aW11bSB2YWx1ZSBvYnRhaW5lZCBmcm9tIHRoaXNbMS4uaV0KCS8vIGRwWzEsIGldID0gbWluaW11bSB2YWx1ZSBvYnRhaW5lZCBmcm9tIHRoaXNbaSB1bnRpbCBzaXplXQoJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWlmICh0aGlzWzBdIGlzICkgewoJCQo=</text>
+        <text encoding="base64">CXJldHVybiB0aGlzCn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByaW50bG4oYXJyLmphdmFDbGFzcykK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWFyci5mb3JFYWNoIHsgcHJpbnRsbihpdC5qYXZhQ2xhc3MpIH0K</text>
+        <text encoding="base64">CWlmICh0aGlzWzBdIGlzICkgewoJCQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuIAo=</text>
+        <text encoding="base64">CXByaW50bG4oYXJyLmphdmFDbGFzcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWFpbiAgICAK</text>
+        <text encoding="base64">CWFyci5mb3JFYWNoIHsgcHJpbnRsbihpdC5qYXZhQ2xhc3MpIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE1heEFyaXRoIHsKICAgIHZhbCBzZXEgPSAKfQo=</text>
+        <text encoding="base64">ZnVuIAo=</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
