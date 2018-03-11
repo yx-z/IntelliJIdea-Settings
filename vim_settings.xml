@@ -284,6 +284,12 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="17" column="21" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LIBAFS.kt" timestamp="1520805524870">
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+        <mark key="^" line="24" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/arr/ArrPermute.kt" timestamp="1508372795515">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="5" column="0" />
@@ -438,11 +444,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LargestPattern.kt" timestamp="1520780868385">
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LargestPattern.kt" timestamp="1520804921669">
         <mark key="[" line="24" column="0" />
-        <mark key="]" line="9" column="18" />
-        <mark key="^" line="9" column="18" />
-        <mark key="." line="9" column="18" />
+        <mark key="]" line="23" column="34" />
+        <mark key="^" line="23" column="34" />
+        <mark key="." line="23" column="34" />
       </file>
       <file name="F:/FHIR/src/util/StringUtils.java" timestamp="1510383292831">
         <mark key="[" line="8" column="27" />
@@ -1269,11 +1275,11 @@
       <jump line="29" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxArith.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFyIEludC5jb2xvcjogQ2hhcgoJZ2V0KCkgPSB0aGlzLmZpZWxkCglzZXQodmFsdWUpIHsgdGhpcy5jb2xvciA9IHZhbHVlIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
@@ -1282,7 +1288,7 @@
         <text encoding="base64">CQltYXhbaSwgaV0gPSB0aGlzWzIgKiBpXS50b0RpZ2l0KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIGZpbmFsbHkgcmV0dXJuIHRoZSAK</text>
+        <text encoding="base64">dmFyIEludC5jb2xvcjogQ2hhcgoJZ2V0KCkgPSB0aGlzLmZpZWxkCglzZXQodmFsdWUpIHsgdGhpcy5jb2xvciA9IHZhbHVlIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1317,28 +1323,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNldAo=</text>
+        <text encoding="base64">Y2xhc3MgQ29sb3JlZEludCA6IEludCB7CgkKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLy8gc2VhcmNoaW5nIGxvb3AgYW5kIG1pbi9tYXg6IG5vIGNhcmUK</text>
+        <text encoding="base64">CXZhbCBhID0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CXZhbCBhcnIgPSBpbnRBcnJheU9mKDEsIDEsIDAsIDIsIDUsIDksIDYsIDYsIDQsIDUsIDgsIDksIDcsIDcsIDMsIDIsIDMsIDgsIDQsIDApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXdoZW4gKHRoaXNbMiAqIGsgLSAxXSkgewoJCQkJCXRoaXMgPT0gJysnIC0+CgkJCQl9Cg==</text>
+        <text encoding="base64">CXZhbCBjb2xvciA9IGNoYXJBcnJheU9mKCdyJywgJ2InLCAncicsICdiJywgJ2InLCAncicsICdiJywgJ3InLCAnYicsICdyJywgJ3InLCAnYicsICdiJywgJ3InLCAncicsICdyJywgJ2InLCAnYicsICdyJywgJ2InKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWlmICh0aGlzWzIgKiBrIC0gMV0gPT0gJysnKSAK</text>
+        <text encoding="base64">CS8vIGZpbmFsbHkgcmV0dXJuIHRoZSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIHNlYXJjaGluZyBsb29wIGFuZCBtaW4vbWF4OiBubyBjYXJlCg==</text>
+        <text encoding="base64">aW1wb3J0IHNldAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIGlubmVyIGxvb3A6IGxlZnQgdG8gcmlnaHQK</text>
+        <text encoding="base64">CQkJLy8gc2VhcmNoaW5nIGxvb3AgYW5kIG1pbi9tYXg6IG5vIGNhcmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIHRoZSBsYXN0IGRpZ2l0IAo=</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
