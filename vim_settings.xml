@@ -444,11 +444,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LargestPattern.kt" timestamp="1520804921669">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="23" column="34" />
-        <mark key="^" line="23" column="34" />
-        <mark key="." line="23" column="34" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LargestPattern.kt" timestamp="1520875285507">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="68" />
+        <mark key="." line="43" column="68" />
+        <mark key="^" line="43" column="68" />
       </file>
       <file name="F:/FHIR/src/util/StringUtils.java" timestamp="1510383292831">
         <mark key="[" line="8" column="27" />
@@ -1173,9 +1173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="22" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
-      <jump line="46" column="30" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
-      <jump line="47" column="66" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
       <jump line="13" column="43" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
       <jump line="67" column="60" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
       <jump line="16" column="3" filename="F:/FHIR/src/model/vitalsign/VitalSignFactory.java" />
@@ -1273,13 +1270,16 @@
       <jump line="1" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LIBAFS.kt" />
       <jump line="54" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LIBAFS.kt" />
       <jump line="35" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LIBAFS.kt" />
+      <jump line="37" column="49" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LargestPattern.kt" />
+      <jump line="3" column="9" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LargestPattern.kt" />
+      <jump line="39" column="29" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LargestPattern.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add tests</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXByaW50bG4oQXJyYXlzLmRlZXBUb1N0cmluZyhwcCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>add tests</text>
+        <text>size</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
@@ -1288,7 +1288,7 @@
         <text encoding="base64">CQltYXhbaSwgaV0gPSB0aGlzWzIgKiBpXS50b0RpZ2l0KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaW50bG4oQXJyYXlzLmRlZXBUb1N0cmluZyhwcCkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1323,28 +1323,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZhbCBkcCA9IEludEFycmF5KHNpemUpCg==</text>
+        <text encoding="base64">CQkJcHJpbnQocm93KQoJCQlwcmludCgiLCAiKQoJCQlwcmludChjb2wpCgkJCXByaW50KCI6ICIpCgkJCXByaW50KHBwW3JvdywgY29sXSkKCQkJcHJpbnRsbigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaW50bG4oc29ydGVkSWR4KQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwuKgo=</text>
+        <text encoding="base64">CXByaW50KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWFyci5zb3J0QnlEZXNjZW5kaW5nIHsgaXQuZmlyc3QgfQo=</text>
+        <text encoding="base64">CXZhbCBwID0gcHJpbWVzKHNpemUgKiB0aGlzWzBdLnNpemUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaW50bG4oQXJyYXlzLnRvU3RyaW5nKGFycikpCg==</text>
+        <text encoding="base64">CXByaW50bG4oQXJyYXlzLnRvU3RyaW5nKHByaW1lcygxMCkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlwcmludGxuKEFycmF5cy50b1N0cmluZyhkcCkpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaW50bG4oQXJyYXlzLnRvU3RyaW5nKGRwKSkK</text>
+        <text encoding="base64">CXByaW50bG4oQXJyYXlzLmRlZXBUb1N0cmluZyhiaXRtYXAubGFyZ2VzdFBhdHRlcm4oKSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWlkeC5zb3J0ZWRCeURlc2NlbmRpbmcgeyAgfQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>set number</text>
