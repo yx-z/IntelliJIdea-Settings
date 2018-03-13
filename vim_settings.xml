@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1519839582011">
+      <file name="/Dummy.txt" timestamp="1520908703097">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Test/src/Main.kt" timestamp="1519840072335">
@@ -12,26 +12,47 @@
         <mark key="." line="14" column="3" />
         <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/LargestProd.kt" timestamp="1520907492464">
-        <mark key="[" line="29" column="49" />
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/LargestProd.kt" timestamp="1520908692766">
+        <mark key="'" line="22" column="27" />
+        <mark key="[" line="43" column="12" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="23" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/LargestProd.kt" />
+      <jump line="22" column="27" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/LargestProd.kt" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">fWlmICh0aGlzW2lkeF0gPiBtYXgpIHsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBsaXMoaWR4ICsgMSwgbWF4KQogICAgICAgIH0KICAgIH0K</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQl2YXIgbGVmdE1heCA9IHRvdGFsCgkJdmFyIGxlZnRJZHggPSAwCgkJd2hpbGUgKGxlZnRJZHggPCBzaXplICYmIHRoaXNbbGVmdElkeF0gPiAwKSB7CgkJCWxlZnRNYXggLz0gdGhpc1tsZWZ0SWR4XQoJCQlsZWZ0SWR4KysKCQl9CgkJLy8gZmlyc3QgbmVnYXRpdmUgbnVtYmVyIGZyb20gbGVmdCB0byByaWdodAoJCWxlZnRNYXggLz0gdGhpc1tsZWZ0SWR4XQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ameBuilders/ProjectVox.gi</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGxlZnRNYXgpCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGxlZnRNYXgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4KGxpcyhpZHggKyAxLCB0aGlzW2lkeF0pICsgMSwgbGlzKGlkeCArIDEsIG1heCkpCg==</text>
+        <text encoding="base64">CQkJcHJpbnRsbih0aGlzWzAgdW50aWwgaV0ubGFyZ2VzdFByb2QoKSkK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CXByaW50bG4oZmxvYXRBcnJheU9mKDFGLCAyRiwgM0YpLmxhcmdlc3RQcm9kKCkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fWlmICh0aGlzW2lkeF0gPiBtYXgpIHsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBsaXMoaWR4ICsgMSwgbWF4KQogICAgICAgIH0KICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWF4KGxpcyhpZHggKyAxLCB0aGlzW2lkeF0pICsgMSwgbGlzKGlkeCArIDEsIG1heCkpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ameBuilders/ProjectVox.gi</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
@@ -44,6 +65,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
