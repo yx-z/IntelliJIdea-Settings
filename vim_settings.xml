@@ -834,12 +834,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LargestProd.kt" timestamp="1520904543313">
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LargestProd.kt" timestamp="1520905593639">
         <mark key="'" line="24" column="53" />
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="24" />
-        <mark key="^" line="11" column="24" />
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="10" column="49" />
+        <mark key="." line="10" column="49" />
+        <mark key="^" line="10" column="49" />
       </file>
       <file name="$USER_HOME$/Github/CS241/utilities_unleashed/CMakeLists.txt" timestamp="1505517406136">
         <mark key="[" line="6" column="8" />
@@ -1303,11 +1303,11 @@
       <jump line="14" column="53" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LargestProd.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWZpbHRlckluZGV4ZWQgeyBpLCB2IC0+IH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>continuous</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
@@ -1316,7 +1316,7 @@
         <text encoding="base64">b3BlcmF0b3IgZnVuIEludEFycmF5LmdldChyYW5nZTogSW50UmFuZ2UpID0KCQlBcnJheXMuY29weU9mUmFuZ2UodGhpcywgcmFuZ2UuZmlyc3QsIHJhbmdlLmxhc3QgKyAxKSA/OiBpbnRBcnJheU9mKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZpbHRlckluZGV4ZWQgeyBpLCB2IC0+IH0K</text>
+        <text encoding="base64">CXJldHVybiAxMDBGCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1351,28 +1351,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQoJCglyZXR1cm4gZHAubWF4KCkgPzogMEYK</text>
+        <text encoding="base64">CXByaW50bG4oZmxvYXRBcnJheU9mKDJGKS5sYXJnZXN0UHJvZCgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIGRwW2ldID0gbWF4IHByb2QgZm9yIHRoaXNbaSB1bnRpbCBzaXplXQoJLy8gZHBbaV0gPSAwLCBpZiBpICFpbiAwIHVudGlsIHNpemUKCS8vICAgICAgID0gZHBbaSArIDFdLCBpZiB0aGlzW2ldID09IDAKCS8vIAoJdmFsIGRwID0gRmxvYXRBcnJheShzaXplKQo=</text>
+        <text encoding="base64">CWZpbHRlckluZGV4ZWQgeyBpLCB2IC0+IH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vICAgICAgID0gCg==</text>
+        <text encoding="base64">CQoJCglyZXR1cm4gZHAubWF4KCkgPzogMEYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsIG1haW4K</text>
+        <text encoding="base64">CS8vIGRwW2ldID0gbWF4IHByb2QgZm9yIHRoaXNbaSB1bnRpbCBzaXplXQoJLy8gZHBbaV0gPSAwLCBpZiBpICFpbiAwIHVudGlsIHNpemUKCS8vICAgICAgID0gZHBbaSArIDFdLCBpZiB0aGlzW2ldID09IDAKCS8vIAoJdmFsIGRwID0gRmxvYXRBcnJheShzaXplKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
+        <text encoding="base64">CS8vICAgICAgID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdG1wU3VtICs9IHRoaXNbaV0K</text>
+        <text encoding="base64">dmFsIG1haW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJfSBlbHNlIHsKCQkJCXRoaXNbaV0K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vICAgICAgID0gc3VtKHRoaXNbaSB1bnRpbCBuZXhdKSAgPyBzdW0odGhpc1tpIHVudGlsIG5leF0pICsgZHBbbmV4XSA6IGRwW25leF0sIG8vdwoJLy8gICAgICAgLCB3aGVyZSBuZXggaXMgdGhlIG5leHQgcG9zaXRpdmUgbnVtYmVyCg==</text>
+        <text encoding="base64">CQkJdG1wU3VtICs9IHRoaXNbaV0K</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
