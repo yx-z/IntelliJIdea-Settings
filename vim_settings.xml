@@ -855,6 +855,13 @@
         <mark key="." line="10" column="49" />
         <mark key="^" line="10" column="49" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.java" timestamp="1521054952191">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="8" column="57" />
+        <mark key="." line="8" column="57" />
+        <mark key="^" line="8" column="57" />
+      </file>
       <file name="$USER_HOME$/Github/CS241/utilities_unleashed/CMakeLists.txt" timestamp="1505517406136">
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="8" />
@@ -1215,8 +1222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1391" column="16" filename="$USER_HOME$/OneDrive/Work/Course/CS491/hdfs/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/NameNodeRpcServer.java" />
-      <jump line="706" column="22" filename="$USER_HOME$/OneDrive/Work/Course/CS491/hdfs/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/FSNamesystem.java" />
       <jump line="2" column="33" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
       <jump line="7" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/recur/LAS.kt" />
       <jump line="6" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/recur/LAS.kt" />
@@ -1315,10 +1320,12 @@
       <jump line="5" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.kt" />
       <jump line="13" column="17" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.kt" />
       <jump line="12" column="26" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SOS.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nqueens</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>nqueens</text>
@@ -1330,7 +1337,7 @@
         <text encoding="base64">CS8vIHNvcyhpKSA9IG1pbnsxICsgc29zKGkpLCAyICsgc28ncyhpKX0gaWYgQVtpXSA8IEFbaSArIDFdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1365,28 +1372,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gCg==</text>
+        <text encoding="base64">ICAgIG5xdWVlbnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIHNvcyhpKSA9IGxlbiBvZiBzb3MgZm9yIEFbaS4ubl0KCS8vIHNvJ3MoaSkgPSBsZW4gb3Mgc28ncyBmb3IgQVtpLi5uXQoJLy8gd2hlcmUgc28ncyBpcyB0aGUgc2hvcnRlc3Qgb3NjaWxsYXRpbmcnIHN1cGVyc2VxdWVuY2UKCS8vIGFsc28gZmluZCB0aGUgZGVmaW5pdGlvbiBvZiBvc2NpbGxhdGluZycgc2VxdWVuY2UgaW4gJ0xPUycKCS8vIHNvcyhpKSwgc28ncyhpKSA9IDAgaWYgaSA+IG4KCS8vIHNvcyhpKSwgc28ncyhpKSA9IDEgaWYgaSA9PSBuCgkvLyAK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhbCBsb3NpYGZkID0gMgo=</text>
+        <text encoding="base64">Ly8gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWxvc2AK</text>
+        <text encoding="base64">CS8vIHNvcyhpKSA9IGxlbiBvZiBzb3MgZm9yIEFbaS4ubl0KCS8vIHNvJ3MoaSkgPSBsZW4gb3Mgc28ncyBmb3IgQVtpLi5uXQoJLy8gd2hlcmUgc28ncyBpcyB0aGUgc2hvcnRlc3Qgb3NjaWxsYXRpbmcnIHN1cGVyc2VxdWVuY2UKCS8vIGFsc28gZmluZCB0aGUgZGVmaW5pdGlvbiBvZiBvc2NpbGxhdGluZycgc2VxdWVuY2UgaW4gJ0xPUycKCS8vIHNvcyhpKSwgc28ncyhpKSA9IDAgaWYgaSA+IG4KCS8vIHNvcyhpKSwgc28ncyhpKSA9IDEgaWYgaSA9PSBuCgkvLyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CVN5c3RlbS5gaW5gCg==</text>
+        <text encoding="base64">CXZhbCBsb3NpYGZkID0gMgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CVN5c3RlbS5gaW5gLgo=</text>
+        <text encoding="base64">CWxvc2AK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhbCBsb3M9IDIK</text>
+        <text encoding="base64">CVN5c3RlbS5gaW5gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXZhbCBhID0gaW50QXJyYXlPZigxLDUsKQo=</text>
+        <text encoding="base64">CVN5c3RlbS5gaW5gLgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
