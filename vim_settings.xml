@@ -190,12 +190,12 @@
         <mark key="." line="8" column="50" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.kt" timestamp="1521056637634">
-        <mark key="'" line="15" column="17" />
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="15" column="17" />
-        <mark key="." line="15" column="17" />
-        <mark key="^" line="15" column="17" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.kt" timestamp="1521057935176">
+        <mark key="'" line="26" column="28" />
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="28" />
       </file>
       <file name="F:/FHIR/src/retriever/vitalsigns/VitalSign.java" timestamp="1509838301111">
         <mark key="[" line="9" column="0" />
@@ -1222,8 +1222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="33" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
-      <jump line="7" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/recur/LAS.kt" />
       <jump line="6" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/recur/LAS.kt" />
       <jump line="31" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/EditDist.kt" />
       <jump line="7" column="24" filename="$USER_HOME$/VCS/AlgoKt/src/dp/EditDist.kt" />
@@ -1322,13 +1320,15 @@
       <jump line="12" column="26" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SOS.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.java" />
       <jump line="29" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.java" />
+      <jump line="10" column="28" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.kt" />
+      <jump line="26" column="28" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
@@ -1337,7 +1337,7 @@
         <text encoding="base64">CS8vIHNvcyhpKSA9IG1pbnsxICsgc29zKGkpLCAyICsgc28ncyhpKX0gaWYgQVtpXSA8IEFbaSArIDFdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">CS8vIHdlbGwsIHRoZXNlIGNvbW1lbnRzIGxpdmUgaW4gYSBvbmUtaW5kZXhlZCB3b3JsZCBidXQgb3VyIGNvZGUgaXMgemVyby1pbmRleGVkCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1372,28 +1372,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5xdWVlbnMK</text>
+        <text encoding="base64">CXJldHVybiBpZiAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gCg==</text>
+        <text encoding="base64">ICAgIG5xdWVlbnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIHNvcyhpKSA9IGxlbiBvZiBzb3MgZm9yIEFbaS4ubl0KCS8vIHNvJ3MoaSkgPSBsZW4gb3Mgc28ncyBmb3IgQVtpLi5uXQoJLy8gd2hlcmUgc28ncyBpcyB0aGUgc2hvcnRlc3Qgb3NjaWxsYXRpbmcnIHN1cGVyc2VxdWVuY2UKCS8vIGFsc28gZmluZCB0aGUgZGVmaW5pdGlvbiBvZiBvc2NpbGxhdGluZycgc2VxdWVuY2UgaW4gJ0xPUycKCS8vIHNvcyhpKSwgc28ncyhpKSA9IDAgaWYgaSA+IG4KCS8vIHNvcyhpKSwgc28ncyhpKSA9IDEgaWYgaSA9PSBuCgkvLyAK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZhbCBsb3NpYGZkID0gMgo=</text>
+        <text encoding="base64">Ly8gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWxvc2AK</text>
+        <text encoding="base64">CS8vIHNvcyhpKSA9IGxlbiBvZiBzb3MgZm9yIEFbaS4ubl0KCS8vIHNvJ3MoaSkgPSBsZW4gb3Mgc28ncyBmb3IgQVtpLi5uXQoJLy8gd2hlcmUgc28ncyBpcyB0aGUgc2hvcnRlc3Qgb3NjaWxsYXRpbmcnIHN1cGVyc2VxdWVuY2UKCS8vIGFsc28gZmluZCB0aGUgZGVmaW5pdGlvbiBvZiBvc2NpbGxhdGluZycgc2VxdWVuY2UgaW4gJ0xPUycKCS8vIHNvcyhpKSwgc28ncyhpKSA9IDAgaWYgaSA+IG4KCS8vIHNvcyhpKSwgc28ncyhpKSA9IDEgaWYgaSA9PSBuCgkvLyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CVN5c3RlbS5gaW5gCg==</text>
+        <text encoding="base64">CXZhbCBsb3NpYGZkID0gMgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CVN5c3RlbS5gaW5gLgo=</text>
+        <text encoding="base64">CWxvc2AK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
