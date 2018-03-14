@@ -190,11 +190,12 @@
         <mark key="." line="8" column="50" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.kt" timestamp="1521027934077">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="14" column="19" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.kt" timestamp="1521030116888">
+        <mark key="'" line="15" column="17" />
+        <mark key="[" line="35" column="16" />
+        <mark key="]" line="35" column="15" />
+        <mark key="." line="35" column="15" />
+        <mark key="^" line="35" column="15" />
       </file>
       <file name="F:/FHIR/src/retriever/vitalsigns/VitalSign.java" timestamp="1509838301111">
         <mark key="[" line="9" column="0" />
@@ -1209,8 +1210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1378" column="27" filename="$USER_HOME$/OneDrive/Work/Course/CS491/hdfs/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/NameNodeRpcServer.java" />
-      <jump line="1380" column="55" filename="$USER_HOME$/OneDrive/Work/Course/CS491/hdfs/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/NameNodeRpcServer.java" />
       <jump line="1382" column="34" filename="$USER_HOME$/OneDrive/Work/Course/CS491/hdfs/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/NameNodeRpcServer.java" />
       <jump line="1391" column="16" filename="$USER_HOME$/OneDrive/Work/Course/CS491/hdfs/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/NameNodeRpcServer.java" />
       <jump line="706" column="22" filename="$USER_HOME$/OneDrive/Work/Course/CS491/hdfs/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/FSNamesystem.java" />
@@ -1309,22 +1308,24 @@
       <jump line="15" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LBS.kt" />
       <jump line="56" column="1" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LBS.kt" />
       <jump line="16" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LBS.kt" />
+      <jump line="5" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.kt" />
+      <jump line="13" column="17" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXZhbCBhID0gaW50QXJyYXlPZigxLDUsKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>nqueens</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CS8vICAgICAgICAgID0gbWlueyAxICsgZHAoaSAtIDEsIGogLSAxKSwgMSArIGRwKGksIGogLSAxKSwgMSArIGRwKGkgLSAxLCBqKSB9IGlmIEFbaV0gPSBCW2pdCg==</text>
+        <text encoding="base64">CXByaW50bG4oQXJyYXlzLnRvU3RyaW5nKGxvcykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhbCBhID0gaW50QXJyYXlPZigxLDUsKQo=</text>
+        <text encoding="base64">CXZhbCBsb3NpYGZkID0gMgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1359,28 +1360,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWxvc2AK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gb3IgZXZlbiBiZXR0ZXIgZmluZCB0aGUgbWF4IG9mIChsZHNAaSArIGxpc0BpKSBmb3IgZXZlcnkgaW5kZXggaQo=</text>
+        <text encoding="base64">CVN5c3RlbS5gaW5gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJaWYgKCkK</text>
+        <text encoding="base64">CVN5c3RlbS5gaW5gLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CVRPRE8oKQo=</text>
+        <text encoding="base64">CXZhbCBsb3M9IDIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vICAgICAgICAgICAgICBzbWFsbGVyTE1pbiA9IEFbaV0gPCBkcChpICsgMSwgaikubGVmdE1pbgoJLy8gICAgICAgICAgICAgIHNtYWxsZXJSTWluID0gQVtqXSA8IGRwKGksIGogLSAxKS5yaWdodE1pbgoJLy8gICAgICAgICAgICAgIGRwUmlnaHQgPSBkcChpICsgMSwgaikubGVuICsgc21hbGxlckxNaW4KCS8vICAgICAgICAgICAgICBkcExlZnQgPSBkcChpLCBqIC0gMSkubGVuICsgc21hbGxlclJNaW4KCS8vICAgICAgICAgICAgICByaWdodEJpZ2dlciA9IGRwUmlnaHQgPiBkcExlZnQKCS8vICAgICAgICAgICAgICBsZW4gPSByaWdodEJpZ2dlciA/IGRwUmlnaHQgOiBkcExlZnQK</text>
+        <text encoding="base64">CXZhbCBhID0gaW50QXJyYXlPZigxLDUsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vICAgICAgICAgID0gW21heHsgZHAoaSwgaiAtIDEpICsgQVtqIC0gMV0gPiBkcChpLCBqIC0gMSkubGVmdE1pbiwKCS8vICAgICAgICAgICAgICAgICBkcChpICsgMSwgaikgKyBBW2ldIDwgZHAoaSArIDEsIGopLnJpZ2h0TWluIH0sCgkK</text>
+        <text encoding="base64">Ly8gb3IgZXZlbiBiZXR0ZXIgZmluZCB0aGUgbWF4IG9mIChsZHNAaSArIGxpc0BpKSBmb3IgZXZlcnkgaW5kZXggaQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vICAgICAgICAgID0gW21heHsgZHAoaSwgaiAtIDEpICsgQVtqIC0gMV0gPiBkcChpLCBqIC0gMSkubGVmdE1pbiwKCS8vICAgICAgICAgICAgICAgICBkcChpICsgMSwgaikgKyBBW2ldIDwgZHAoaSArIDEsIGopLnJpZ2h0TWluIH0sCgkvLyAgICAgICAgICAgICAKCS8vICAgICAgICAgICAgXW8vdwo=</text>
+        <text encoding="base64">CQkJaWYgKCkK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
