@@ -325,11 +325,12 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="154" column="28" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" timestamp="1521065144820">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="6" column="69" />
-        <mark key="^" line="6" column="69" />
-        <mark key="." line="6" column="69" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" timestamp="1521066404335">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="14" column="42" />
       </file>
       <file name="$USER_HOME$/Github/CS241/pointers_gone_wild/part1-functions.c" timestamp="1504981494312">
         <mark key="'" line="252" column="16" />
@@ -465,7 +466,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521048569352">
+      <file name="/Dummy.txt" timestamp="1521066409718">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -659,11 +660,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LConvexS.kt" timestamp="1521064870661">
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="38" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LConvexS.kt" timestamp="1521066549895">
+        <mark key="'" line="23" column="14" />
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="7" column="47" />
+        <mark key="." line="7" column="47" />
+        <mark key="^" line="7" column="47" />
       </file>
       <file name="F:/FHIR/res/Observation.xml" timestamp="1509921859681">
         <mark key="[" line="0" column="0" />
@@ -1230,15 +1232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/EditDist.kt" />
-      <jump line="7" column="24" filename="$USER_HOME$/VCS/AlgoKt/src/dp/EditDist.kt" />
-      <jump line="3" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/EditDist.kt" />
-      <jump line="65" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/EditDist.kt" />
-      <jump line="77" column="43" filename="$USER_HOME$/VCS/AlgoKt/src/dp/EditDist.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/EditDist.kt" />
-      <jump line="3" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/Main.kt" />
-      <jump line="14" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/Main.kt" />
-      <jump line="19" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/Main.kt" />
       <jump line="29" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/Main.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/Main.kt" />
       <jump line="9" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/Main.kt" />
@@ -1330,10 +1323,19 @@
       <jump line="10" column="28" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.kt" />
       <jump line="26" column="28" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.kt" />
       <jump line="51" column="16" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SOS.kt" />
+      <jump line="17" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
+      <jump line="11" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
+      <jump line="37" column="32" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
+      <jump line="21" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
+      <jump line="15" column="42" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
+      <jump line="55" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
+      <jump line="56" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
+      <jump line="21" column="14" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LConvexS.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGdldAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1345,7 +1347,7 @@
         <text encoding="base64">CXByaW50bG4oQXJyYXlzLnRvU3RyaW5nKHNvb3MpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CVRPRE8oKQo=</text>
+        <text encoding="base64">aW1wb3J0IGdldAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1380,28 +1382,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vIHdlbGwsIHRoZXNlIGNvbW1lbnRzIGxpdmUgaW4gYSBvbmUtaW5kZXhlZCB3b3JsZCBidXQgb3VyIGNvZGUgaXMgemVyby1pbmRleGVkCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXJldHVybiBpZiAoKQo=</text>
+        <text encoding="base64">CXByaW50bG4oQXJyYXlzLmRlZXBUb1N0cmluZyhkcCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">CQkJaWYgKGogPT0gbiAtIDEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5xdWVlbnMK</text>
+        <text encoding="base64">CWRwW24gLSAyLCBuIC0gMV0gPSAyCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gCg==</text>
+        <text encoding="base64">CVRPRE8oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIHNvcyhpKSA9IGxlbiBvZiBzb3MgZm9yIEFbaS4ubl0KCS8vIHNvJ3MoaSkgPSBsZW4gb3Mgc28ncyBmb3IgQVtpLi5uXQoJLy8gd2hlcmUgc28ncyBpcyB0aGUgc2hvcnRlc3Qgb3NjaWxsYXRpbmcnIHN1cGVyc2VxdWVuY2UKCS8vIGFsc28gZmluZCB0aGUgZGVmaW5pdGlvbiBvZiBvc2NpbGxhdGluZycgc2VxdWVuY2UgaW4gJ0xPUycKCS8vIHNvcyhpKSwgc28ncyhpKSA9IDAgaWYgaSA+IG4KCS8vIHNvcyhpKSwgc28ncyhpKSA9IDEgaWYgaSA9PSBuCgkvLyAK</text>
+        <text encoding="base64">CS8vIHdlbGwsIHRoZXNlIGNvbW1lbnRzIGxpdmUgaW4gYSBvbmUtaW5kZXhlZCB3b3JsZCBidXQgb3VyIGNvZGUgaXMgemVyby1pbmRleGVkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXZhbCBsb3NpYGZkID0gMgo=</text>
+        <text encoding="base64">CXJldHVybiBpZiAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
