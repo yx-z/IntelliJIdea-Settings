@@ -859,10 +859,12 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LCIS.kt" timestamp="1521127490064">
-        <mark key="[" line="37" column="40" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LCIS.kt" timestamp="1521128734603">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="65" column="16" />
+        <mark key="]" line="62" column="54" />
+        <mark key="." line="62" column="54" />
+        <mark key="^" line="62" column="54" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" timestamp="1520647677164">
         <mark key="[" line="13" column="47" />
@@ -1271,8 +1273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LBS.kt" />
-      <jump line="5" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.kt" />
       <jump line="13" column="17" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.kt" />
       <jump line="12" column="26" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SOS.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.java" />
@@ -1371,13 +1371,15 @@
       <jump line="16" column="19" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LCIS.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LCIS.kt" />
       <jump line="18" column="14" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LCIS.kt" />
+      <jump line="40" column="26" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LCIS.kt" />
+      <jump line="6" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LCIS.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgkvKgoJCWRwKGksIGopPSAKCQkKCSAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -1386,7 +1388,7 @@
         <text encoding="base64">CQlkcFtpXSA9IChsZW4gKyAxKSB0byAoQVtpXSB0byBzZWNvbmRFbGVtKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgkvKgoJCWRwKGksIGopPSAKCQkKCSAqLwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1421,28 +1423,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vIGJhc2UgY2FzZToK</text>
+        <text encoding="base64">CQlkcFtpLCBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vICAgICAgICAgICAgID0gCg==</text>
+        <text encoding="base64">CgkvKgoJCWRwKGksIGopPSAKCQkKCSAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaW50bG4oQykK</text>
+        <text encoding="base64">CS8vIGJhc2UgY2FzZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUMucHJpbnRsbigpCg==</text>
+        <text encoding="base64">CS8vICAgICAgICAgICAgID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaW50bG4oYykK</text>
+        <text encoding="base64">CXByaW50bG4oQykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CUMucHJpbnRsbigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhbCBDID0gQS50b011dGFibGVMaXN0KCkuaW50ZXJzZWN0KEIudG9TZXQoKSkKCUNvbGxlY3Rpb25zLnNvcnQoQykK</text>
+        <text encoding="base64">CXByaW50bG4oYykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXZhbCBkcCA9IEFycmF5KG0pIHsgQXJyYXkobikgeyBJbnRBcnJheShsKSB9IH0K</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
