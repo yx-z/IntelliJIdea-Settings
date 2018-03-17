@@ -744,10 +744,16 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/Shuffle.kt" timestamp="1521294997250">
-        <mark key="[" line="145" column="29" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/Shuffle.kt" timestamp="1521295472692">
+        <mark key="c" line="64" column="1" />
+        <mark key="v" line="64" column="0" />
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="64" column="1" />
+        <mark key="k" line="161" column="16" />
+        <mark key="]" line="64" column="1" />
+        <mark key="m" line="64" column="1" />
+        <mark key="n" line="146" column="7" />
+        <mark key="." line="64" column="1" />
       </file>
       <file name="$USER_HOME$/Github/CS241/utilities_unleashed/time.c" timestamp="1505444232127">
         <mark key="[" line="31" column="37" />
@@ -862,7 +868,6 @@
         <mark key="." line="21" column="29" />
         <mark key="^" line="21" column="29" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LCIS.kt" timestamp="1521161759575" />
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" timestamp="1520647677164">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="13" column="0" />
@@ -1270,18 +1275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="28" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.kt" />
-      <jump line="26" column="28" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.kt" />
-      <jump line="51" column="16" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SOS.kt" />
-      <jump line="17" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
-      <jump line="11" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
-      <jump line="37" column="32" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
-      <jump line="1" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
-      <jump line="21" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
-      <jump line="15" column="42" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
-      <jump line="55" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
-      <jump line="56" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
-      <jump line="21" column="14" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LConvexS.kt" />
       <jump line="50" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
       <jump line="44" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
       <jump line="36" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
@@ -1370,10 +1363,22 @@
       <jump line="64" column="23" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LargestSum.kt" />
       <jump line="12" column="26" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LargestSum.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LargestSum.kt" />
+      <jump line="132" column="16" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Shuffle.kt" />
+      <jump line="159" column="21" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Shuffle.kt" />
+      <jump line="5" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Shuffle.kt" />
+      <jump line="162" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Shuffle.kt" />
+      <jump line="171" column="15" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Shuffle.kt" />
+      <jump line="161" column="16" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Shuffle.kt" />
+      <jump line="172" column="8" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Shuffle.kt" />
+      <jump line="3" column="7" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Shuffle.kt" />
+      <jump line="145" column="7" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Shuffle.kt" />
+      <jump line="146" column="7" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Shuffle.kt" />
+      <jump line="84" column="7" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Shuffle.kt" />
+      <jump line="64" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Shuffle.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>another largest sum solution</text>
+        <text encoding="base64">LyAgICAgYnV0IG5vdCAiYWJjMTJkMzQiIHNpbmNlICJhYmMiLCBoYXMgbGVuZ3RoIG1vcmUgdGhhbiB0d28KLy8gICAgIG5laXRoZXIgaXMgImFiMTIzNGNkIiAoZHVlIHRvICIxMjM0IikKLy8gMi4gZ2l2ZW4gWFsxLi5tXSwgWVsxLi5uXSwgYW5kIFpbMS4ubSArIG5dLCBkZXRlcm1pbmUgaWYgWiBpcyBhIHNtb290aCBzaHVmZmxlIG9mIFggYW5kIFkKZnVuIFN0cmluZy5pc1Ntb290aFNodWZmbGUoWDogU3RyaW5nLCBZOiBTdHJpbmcpOiBCb29sZWFuIHsKCXZhbCBaID0gdGhpcwoJdmFsIG0gPSBYLmxlbmd0aAoJdmFsIG4gPSBZLmxlbmd0aAoKCS8vIHNzKGksIGopOiB3aGV0aGVyIFpbMS4uaSArIGpdIGlzIGEgc21vb3RoIHNodWZmbGUgb2YgWFsxLi5pXSBhbmQgWVsxLi5qXQoJLy8gc3MoaSwgaikgPSAwIGlmIFpbMS4uaSArIGpdIGlzIE5PVCBhIHNtb290aCBzaHVmZmxlIG9mIFhbMS4uaV0gYW5kIFlbMS4ual0KCS8vICAgICAgICAgID0gMSBpZiBaWzEuLmkgKyBqXSBpcyBhIHNtb290aCBzaHVmZmxlIG9mIFhbMS4uaV0gYW5kIFlbMS4ual0gQU5EIFpbaSArIGpdIHJlcHJlc2VudHMgWFtpXQoJLy8gICAgICAgICAgPSAyIGlmIFpbMS4uaSArIGpdIGlzIGEgc21vb3RoIHNodWZmbGUgb2YgWFsxLi5pXSBhbmQgWVsxLi5qXSBBbmQgWltpICsgal0gcmVwcmVzZW50cyBZW2pdCgoJLy8gbWVtb2l6YXRpb24gc3RydWN0dXJlOiAyZCBhcnJheSBkcFswLi5tLCAwLi5uXSA6IGRwW2ksIGpdID0gc3MoaSwgaikKCXZhbCBkcCA9IEFycmF5KG0gKyAxKSB7IEFycmF5KG4gKyAxKSB7IDAgfSB9CgkvLyBzcGFjZSBjb21wbGV4aXR5OiBPKG1uKQoKCS8vIGJhc2UgY2FzZToKCS8vIHNzKGksIGopID0gMSBpZiBpID0gMCBhbmQgaiA9IDAKCS8vICAgICAgICAgID0gWlsxLi5pXSA9PSBYWzEuLmldID8gMSA6IDAgaWYgaiA9IDAgYW5kIDEgPD0gaSA8PSAyCgkvLyAgICAgICAgICA9IFpbMS4ual0gPT0gWVsxLi5qXSA/IDIgOiAwIGlmIGkgPSAwIGFuZCAxIDw9IGogPD0gMgoJLy8gICAgICAgICAgPSAwIGlmIChpID0gMCBhbmQgaiA+IDIpIG9yIChqID0gMCBhbmQgaSA+IDIpCgkvLyAgICAgICAgICA9IDAgaWYgaSAhaW4gMC4ubSB8fCBqICFpbiAwLi5uCglkcFswLCAwXSA9IDEKCWRwWzEsIDBdID0gaWYgKFpbMF0gPT0gWFswXSkgMSBlbHNlIDAKCWRwWzIsIDBdID0gaWYgKFpbMF0gPT0gWFswXSAmJiBaWzFdID09IFhbMV0pIDEgZWxzZSAwCglkcFswLCAxXSA9IGlmIChaWzBdID09IFlbMF0pIDIgZWxzZSAwCglkcFswLCAyXSA9IGlmIChaWzBdID09IFlbMF0gJiYgWlsxXSA9PSBZWzFdKSAyIGVsc2UgMAoKCS8vIHJlY3Vyc2l2ZSBjYXNlOgoJLy8gc3MoaSwgaikgPSB3aGVuIFpbaSArIGpdID0gWFtpXSA9IFlbal06IE9SaW5nIHRoZSBmb2xsb3dpbmcgY2FzZXMKCS8vICAgICAgICAgICAgd2hlbiBaW2kgKyBqXSA9IFhbaV06IHNzKGkgLSAxLCBqKSAhPSAwICYmIGlmIChzcyhpIC0gMSwgaikgPT0gMSkgdGhlbiAoc3MoaSAtIDIsIGopID09IDIgfHwgaSAtIDIgPT0gMCkgPyAxIDogMAoJLy8gICAgICAgICAgICB3aGVuIFpbaSArIGpdID0gWVtqXTogc3MoaSwgaiAtIDEpICE9IDAgJiYgaWYgKHNzKGksIGogLSAxKSA9PSAyKSB0aGVuIHNzKGksIGogLSAyKSA9PSAxID8gMiA6IDAKCS8vICAgICAgICAgICAgZWxzZTogMAoJLy8gZGVwZW5kZW5jeTogc3MoaSwgaikgZGVwZW5kcyBvbiBzcyhpIC0gMSwgaiksIHNzKGksIGogLSAxKSwKCS8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3MoaSAtIDIsIGogKSwgYW5kIHNzKGksIGogLSAyKQoJLy8gICAgICAgICAgICAgLCB0aGF0IGlzIGVudHJpZXMgYWJvdmUgYW5kIGVudHJpZXMgdG8gdGhlIGxlZnQKCS8vIGV2YWx1YXRpb24gb3JkZXI6IG91dGVyIGxvb3AgZm9yIGkgZnJvbSAxIHRvIG0gKHRvcCBkb3duKQoJZm9yIChpIGluIDEuLm0pIHsKCQkvLyBpbm5lciBsb29wIGZvciBqIGZyb20gMSB0byBuIChsZWZ0IHRvIHJpZ2h0KQoJCWZvciAoaiBpbiAxLi5uKSB7CgkJCWRwW2ksIGpdID0gd2hlbiB7Ci8vCQkJCVpbaSArIGogLSAxXSA9PSBYW2kgLSAxXSAmJiBYW2kgLSAxXSA9PSBZW2ogLSAxXSAtPiB7Ci8vCQkJCX0KCQkJCVpbaSArIGogLSAxXSA9PSBYW2kgLSAxXSAtPiB7CgkJCQkJaWYgKGRwW2kgLSAxLCBqXSA9PSAwKSB7CgkJCQkJCTAKCQkJCQl9IGVsc2UgewoJCQkJCQlpZiAoZHBbaSAtIDEsIGpdID09IDEpIHsKCQkJCQkJCWlmIChpIC0gMiA9PSAwKSB7CgkJCQkJCQkJMQoJCQkJCQkJfSBlbHNlIHsKCQkJCQkJCQlpZiAoaSAtIDIgPiAwICYmIGRwW2kgLSAyLCBqXSA9PSAyKSB7CgkJCQkJCQkJCTEKCQkJCQkJCQl9IGVsc2UgewoJCQkJCQkJCQkwCgkJCQkJCQkJfQoJCQkJCQkJfQoJCQkJCQl9IGVsc2UgewoJCQkJCQkJMQoJCQkJCQl9CgkJCQkJfQoJCQkJfQ==</text>
       </register>
       <register name="-" type="4">
         <text>another largest sum solution</text>
@@ -1384,8 +1389,8 @@
       <register name="0" type="2">
         <text encoding="base64">CXByaW50bG4oIm1pZCAtICRtaWQiKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCVpbaSArIGogLSAxXSA9PSBYW2kgLSAxXSAmJiBYW2kgLSAxXSA9PSBZW2ogLSAxXSAtPiB7CgkJCQl9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LyAgICAgYnV0IG5vdCAiYWJjMTJkMzQiIHNpbmNlICJhYmMiLCBoYXMgbGVuZ3RoIG1vcmUgdGhhbiB0d28KLy8gICAgIG5laXRoZXIgaXMgImFiMTIzNGNkIiAoZHVlIHRvICIxMjM0IikKLy8gMi4gZ2l2ZW4gWFsxLi5tXSwgWVsxLi5uXSwgYW5kIFpbMS4ubSArIG5dLCBkZXRlcm1pbmUgaWYgWiBpcyBhIHNtb290aCBzaHVmZmxlIG9mIFggYW5kIFkKZnVuIFN0cmluZy5pc1Ntb290aFNodWZmbGUoWDogU3RyaW5nLCBZOiBTdHJpbmcpOiBCb29sZWFuIHsKCXZhbCBaID0gdGhpcwoJdmFsIG0gPSBYLmxlbmd0aAoJdmFsIG4gPSBZLmxlbmd0aAoKCS8vIHNzKGksIGopOiB3aGV0aGVyIFpbMS4uaSArIGpdIGlzIGEgc21vb3RoIHNodWZmbGUgb2YgWFsxLi5pXSBhbmQgWVsxLi5qXQoJLy8gc3MoaSwgaikgPSAwIGlmIFpbMS4uaSArIGpdIGlzIE5PVCBhIHNtb290aCBzaHVmZmxlIG9mIFhbMS4uaV0gYW5kIFlbMS4ual0KCS8vICAgICAgICAgID0gMSBpZiBaWzEuLmkgKyBqXSBpcyBhIHNtb290aCBzaHVmZmxlIG9mIFhbMS4uaV0gYW5kIFlbMS4ual0gQU5EIFpbaSArIGpdIHJlcHJlc2VudHMgWFtpXQoJLy8gICAgICAgICAgPSAyIGlmIFpbMS4uaSArIGpdIGlzIGEgc21vb3RoIHNodWZmbGUgb2YgWFsxLi5pXSBhbmQgWVsxLi5qXSBBbmQgWltpICsgal0gcmVwcmVzZW50cyBZW2pdCgoJLy8gbWVtb2l6YXRpb24gc3RydWN0dXJlOiAyZCBhcnJheSBkcFswLi5tLCAwLi5uXSA6IGRwW2ksIGpdID0gc3MoaSwgaikKCXZhbCBkcCA9IEFycmF5KG0gKyAxKSB7IEFycmF5KG4gKyAxKSB7IDAgfSB9CgkvLyBzcGFjZSBjb21wbGV4aXR5OiBPKG1uKQoKCS8vIGJhc2UgY2FzZToKCS8vIHNzKGksIGopID0gMSBpZiBpID0gMCBhbmQgaiA9IDAKCS8vICAgICAgICAgID0gWlsxLi5pXSA9PSBYWzEuLmldID8gMSA6IDAgaWYgaiA9IDAgYW5kIDEgPD0gaSA8PSAyCgkvLyAgICAgICAgICA9IFpbMS4ual0gPT0gWVsxLi5qXSA/IDIgOiAwIGlmIGkgPSAwIGFuZCAxIDw9IGogPD0gMgoJLy8gICAgICAgICAgPSAwIGlmIChpID0gMCBhbmQgaiA+IDIpIG9yIChqID0gMCBhbmQgaSA+IDIpCgkvLyAgICAgICAgICA9IDAgaWYgaSAhaW4gMC4ubSB8fCBqICFpbiAwLi5uCglkcFswLCAwXSA9IDEKCWRwWzEsIDBdID0gaWYgKFpbMF0gPT0gWFswXSkgMSBlbHNlIDAKCWRwWzIsIDBdID0gaWYgKFpbMF0gPT0gWFswXSAmJiBaWzFdID09IFhbMV0pIDEgZWxzZSAwCglkcFswLCAxXSA9IGlmIChaWzBdID09IFlbMF0pIDIgZWxzZSAwCglkcFswLCAyXSA9IGlmIChaWzBdID09IFlbMF0gJiYgWlsxXSA9PSBZWzFdKSAyIGVsc2UgMAoKCS8vIHJlY3Vyc2l2ZSBjYXNlOgoJLy8gc3MoaSwgaikgPSB3aGVuIFpbaSArIGpdID0gWFtpXSA9IFlbal06IE9SaW5nIHRoZSBmb2xsb3dpbmcgY2FzZXMKCS8vICAgICAgICAgICAgd2hlbiBaW2kgKyBqXSA9IFhbaV06IHNzKGkgLSAxLCBqKSAhPSAwICYmIGlmIChzcyhpIC0gMSwgaikgPT0gMSkgdGhlbiAoc3MoaSAtIDIsIGopID09IDIgfHwgaSAtIDIgPT0gMCkgPyAxIDogMAoJLy8gICAgICAgICAgICB3aGVuIFpbaSArIGpdID0gWVtqXTogc3MoaSwgaiAtIDEpICE9IDAgJiYgaWYgKHNzKGksIGogLSAxKSA9PSAyKSB0aGVuIHNzKGksIGogLSAyKSA9PSAxID8gMiA6IDAKCS8vICAgICAgICAgICAgZWxzZTogMAoJLy8gZGVwZW5kZW5jeTogc3MoaSwgaikgZGVwZW5kcyBvbiBzcyhpIC0gMSwgaiksIHNzKGksIGogLSAxKSwKCS8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3MoaSAtIDIsIGogKSwgYW5kIHNzKGksIGogLSAyKQoJLy8gICAgICAgICAgICAgLCB0aGF0IGlzIGVudHJpZXMgYWJvdmUgYW5kIGVudHJpZXMgdG8gdGhlIGxlZnQKCS8vIGV2YWx1YXRpb24gb3JkZXI6IG91dGVyIGxvb3AgZm9yIGkgZnJvbSAxIHRvIG0gKHRvcCBkb3duKQoJZm9yIChpIGluIDEuLm0pIHsKCQkvLyBpbm5lciBsb29wIGZvciBqIGZyb20gMSB0byBuIChsZWZ0IHRvIHJpZ2h0KQoJCWZvciAoaiBpbiAxLi5uKSB7CgkJCWRwW2ksIGpdID0gd2hlbiB7Ci8vCQkJCVpbaSArIGogLSAxXSA9PSBYW2kgLSAxXSAmJiBYW2kgLSAxXSA9PSBZW2ogLSAxXSAtPiB7Ci8vCQkJCX0KCQkJCVpbaSArIGogLSAxXSA9PSBYW2kgLSAxXSAtPiB7CgkJCQkJaWYgKGRwW2kgLSAxLCBqXSA9PSAwKSB7CgkJCQkJCTAKCQkJCQl9IGVsc2UgewoJCQkJCQlpZiAoZHBbaSAtIDEsIGpdID09IDEpIHsKCQkJCQkJCWlmIChpIC0gMiA9PSAwKSB7CgkJCQkJCQkJMQoJCQkJCQkJfSBlbHNlIHsKCQkJCQkJCQlpZiAoaSAtIDIgPiAwICYmIGRwW2kgLSAyLCBqXSA9PSAyKSB7CgkJCQkJCQkJCTEKCQkJCQkJCQl9IGVsc2UgewoJCQkJCQkJCQkwCgkJCQkJCQkJfQoJCQkJCQkJfQoJCQkJCQl9IGVsc2UgewoJCQkJCQkJMQoJCQkJCQl9CgkJCQkJfQoJCQkJfQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1420,28 +1425,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MQo=</text>
+        <text encoding="base64">CQkJCVpbaSArIGogLSAxXSA9PSBYW2kgLSAxXSAmJiBYW2kgLSAxXSA9PSBZW2ogLSAxXSAtPiB7CgkJCQl9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">MQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">MQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCVpbaSArIGogLSAxXSA9PSBZW2ogLSAxXSAtPiB7Cg==</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkxCg==</text>
+        <text encoding="base64">CQkJCVpbaSArIGogLSAxXSA9PSBZW2ogLSAxXSAtPiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQl2YWwgeSA9IGlmIChkcFtpLCBqIC0gMV0gIT0gMCkgewoJCQkJCQlpZiAoZHBbaSwgaiAtIDFdID09IDIpIHsKCgkJCQkJCX0gZWxzZSB7CgoJCQkJCQl9CgkJCQkJfSBlbHNlIHsKCQkJCQkJCgkJCQkJfQo=</text>
+        <text encoding="base64">CQkJCQkxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZvciAoaSBpbiApCg==</text>
+        <text encoding="base64">CQkJCQl2YWwgeSA9IGlmIChkcFtpLCBqIC0gMV0gIT0gMCkgewoJCQkJCQlpZiAoZHBbaSwgaiAtIDFdID09IDIpIHsKCgkJCQkJCX0gZWxzZSB7CgoJCQkJCQl9CgkJCQkJfSBlbHNlIHsKCQkJCQkJCgkJCQkJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vICAgICAgICAgID0gWlsxLi5pXSA9PSBYWzEuLmldID8gMSA6IDAgaWYgaiA9IDAgYW5kIDEgPD0gaSA8PSAyCgkvLyAgICAgICAgICA9IFpbMS4ual0gPT0gWVsxLi5qXSA/IDIgOiAwIGlmIGkgPSAwIGFuZCAxIDw9IGogPD0gMgoJLy8gICAgICAgICAgPSAwIGlmIChpID0gMCBhbmQgaiA+IDIpIG9yIChqID0gMCBhbmQgaSA+IDIpCg==</text>
+        <text encoding="base64">CWZvciAoaSBpbiApCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -1454,7 +1459,7 @@
       <last-replace>println</last-replace>
       <last-substitute>print</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
