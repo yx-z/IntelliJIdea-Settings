@@ -502,7 +502,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521309324530">
+      <file name="/Dummy.txt" timestamp="1521310919672">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -796,11 +796,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" timestamp="1521309822006">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" timestamp="1521310889223">
+        <mark key="'" line="48" column="17" />
+        <mark key="[" line="30" column="55" />
+        <mark key="]" line="30" column="19" />
+        <mark key="." line="30" column="19" />
+        <mark key="^" line="30" column="40" />
       </file>
       <file name="$USER_HOME$/Github/CS241/utilities_unleashed/menv.c" timestamp="1505517170838">
         <mark key="[" line="25" column="9" />
@@ -1284,7 +1285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
       <jump line="14" column="21" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
       <jump line="16" column="44" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
       <jump line="16" column="49" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
@@ -1384,10 +1384,11 @@
       <jump line="128" column="28" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Shuffle.kt" />
       <jump line="156" column="28" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Shuffle.kt" />
       <jump line="143" column="8" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Shuffle.kt" />
+      <jump line="18" column="17" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXJldHVybiBmYWxzZQo=</text>
+      <register name="&quot;" type="4">
+        <text>other largest sum solution</text>
       </register>
       <register name="-" type="4">
         <text>other largest sum solution</text>
