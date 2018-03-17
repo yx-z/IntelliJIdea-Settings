@@ -796,12 +796,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" timestamp="1521311761016">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="82" />
-        <mark key="]" line="60" column="10" />
-        <mark key="." line="60" column="10" />
-        <mark key="^" line="60" column="10" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" timestamp="1521321002072">
+        <mark key="'" line="79" column="25" />
+        <mark key="[" line="82" column="39" />
+        <mark key="]" line="82" column="54" />
+        <mark key="." line="82" column="54" />
+        <mark key="^" line="82" column="54" />
       </file>
       <file name="$USER_HOME$/Github/CS241/utilities_unleashed/menv.c" timestamp="1505517170838">
         <mark key="[" line="25" column="9" />
@@ -1285,7 +1285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="49" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
       <jump line="10" column="45" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
       <jump line="19" column="60" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
       <jump line="28" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
@@ -1385,13 +1384,14 @@
       <jump line="18" column="17" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
       <jump line="57" column="17" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
+      <jump line="79" column="25" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gbGV0IG1lIGZpbmQgdGhlIG1pbmltdW0gbnVtYmVyIHRvIHJlbW92ZSA9IHIK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>other largest sum solution</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>||</text>
@@ -1400,7 +1400,7 @@
         <text encoding="base64">CXByaW50bG4oZXhOWi5pc1NodWZmbGUoZXhOWCwgZXhOWSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gbGV0IG1lIGZpbmQgdGhlIG1pbmltdW0gbnVtYmVyIHRvIHJlbW92ZSA9IHIK</text>
+        <text encoding="base64">CS8vIHNucyhpLCAwKSA9IDAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1435,28 +1435,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vICAgICAgICAgICAgID0gdHJ1ZSBpZiBpID0gMCBhbmQgaiBpbiAxLi5uCg==</text>
+        <text encoding="base64">Ly8gbGV0IG1lIGZpbmQgdGhlIG1pbmltdW0gbnVtYmVyIHRvIHJlbW92ZSA9IHIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWRwWzAsIDBdID0gdHJ1ZQo=</text>
+        <text encoding="base64">CS8vICAgICAgICAgICAgID0gdHJ1ZSBpZiBpID0gMCBhbmQgaiBpbiAxLi5uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRwWzAsIDBdID0gdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJldHVybiBmYWxzZQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CXJldHVybiBmYWxzZQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhbCBZID0gaW50QXJyYXlPZigxLCAyLCAzLCA1LCA2LCAxLCAyLCA2KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIGxlbmd0aCBvZiB0d28gc3RyaW5ncyBhcmUgdG9vIGRpZmZlcmVudCB0byBiZSBzZXBhcmF0ZWQgcHJvcGVybHkgaW4gYW55IHNodWZmbGUK</text>
+        <text encoding="base64">CXZhbCBZID0gaW50QXJyYXlPZigxLCAyLCAzLCA1LCA2LCAxLCAyLCA2KQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3x8L1wmXCYvZw==</text>
