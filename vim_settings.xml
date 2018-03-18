@@ -167,11 +167,12 @@
         <mark key="." line="16" column="80" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/FindS.kt" timestamp="1521402440935">
-        <mark key="[" line="151" column="43" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
-        <mark key="^" line="205" column="0" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/FindS.kt" timestamp="1521405196206">
+        <mark key="'" line="149" column="29" />
+        <mark key="[" line="155" column="11" />
+        <mark key="]" line="155" column="37" />
+        <mark key="." line="155" column="37" />
+        <mark key="^" line="155" column="37" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/TriangleNum.kt" timestamp="1504097501830">
         <mark key="[" line="33" column="11" />
@@ -521,7 +522,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521402335553">
+      <file name="/Dummy.txt" timestamp="1521404598603">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1310,8 +1311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/Main.kt" />
-      <jump line="48" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/Main.kt" />
       <jump line="50" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/Main.kt" />
       <jump line="52" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/Main.kt" />
       <jump line="54" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/Main.kt" />
@@ -1410,10 +1409,12 @@
       <jump line="166" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindS.kt" />
       <jump line="160" column="20" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindS.kt" />
       <jump line="121" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindS.kt" />
+      <jump line="125" column="19" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindS.kt" />
+      <jump line="149" column="29" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindS.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>another largest sum solution</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCWRwW2ldW2pdW2xdID0gSGFzaFNldCgwKQo=</text>
       </register>
       <register name="-" type="4">
         <text>another largest sum solution</text>
@@ -1422,10 +1423,10 @@
         <text>||</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWlmIChwcmludElkeCkgewoJCXByaW50KCIgIikKCQlpbmRpY2VzLmZvckVhY2ggeyBwcmludCgiICRpdCIpIH0KCX0KCVN5c3RlbS5vdXQucHJpbnRsbigpCglwcmludGxuKEFycmF5cy50b1N0cmluZyh0aGlzKSkK</text>
+        <text encoding="base64">CQkJCQlkcFtpXVtqXVtsXS5hZGRBbGwoZHBbaV1bbWF4KDEsIGogLSAxKV1bbF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJCXNldC5hZGRBbGwoZHBbaSwgaiAtIDEsIGwgLSAxXSkK</text>
+        <text encoding="base64">CQkJCWRwW2ldW2pdW2xdID0gSGFzaFNldCgwKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1460,31 +1461,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJCXNldC5hZGRBbGwoZHBbaSwgaiAtIDEsIGwgLSAxXSkK</text>
+        <text encoding="base64">CQkJZHBbaV1bal0gPSBPbmVBcnJheShuKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCWRwW2kgLSAxLCBqLCBsXS5maWx0ZXIgeyAocHJlSiwgcHJlTCkgLT4gcHJlSiA8IGogJiYgcHJlTCA8IGwgfS50b1NldCgpCg==</text>
+        <text encoding="base64">CQlkcFtpXSA9IE9uZUFycmF5KG4gLSAxKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJdmFsIChqaiwgbGwpID0gZHBbaSAtIDEsIGosIGxdCgkJCQkJCQkJPzogKEludC5NQVhfVkFMVUUgdG8gSW50Lk1BWF9WQUxVRSkKCQkJCQkJaWYgKGpqIDwgaiAmJiBsbCA8IGwpIHsKCQkJCQkJCWogdG8gbAoJCQkJCQl9IGVsc2UgewoJCQkJCQkJbnVsbAoJCQkJCQl9Cg==</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJdmFsIChqaiwgbGwpID0gZHBbaSAtIDEsIGosIGxdCgkJCQkJCQkJPzogKEludC5NQVhfVkFMVUUgdG8gSW50Lk1BWF9WQUxVRSkKCQkJCQkJaWYgKGpqIDwgaiAmJiBsbCA8IGwpIHsKCQkJCQkJCWogdG8gbAoJCQkJCQl9IGVsc2UgewoJCQkJCQkJbnVsbAoJCQkJCQl9Cg==</text>
+        <text encoding="base64">CQkJCQkJZHBbaV1bal1bbF0uYWRkKGogdG8gbCkKCQkJCQl9IGVsc2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlYW2ldID09IFlbal0gJiYgWVtqXSAhPSBZW2xdIC0+IGRwW2ksIGosIGwgLSAxXQoJCQkJCVhbaV0gPT0gWVtsXSAmJiBZW2xdICE9IFlbal0gLT4gZHBbaSwgaiAtIDEsIGxdCg==</text>
+        <text encoding="base64">CQkJCQkJCWlmIChkcFtpIC0gMV1baiAtIDFdW2wgLSAxXS5maWx0ZXIgeyAocHJlSiwgcHJlTCkgLT4gcHJlSiA8ICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCWRwW2ldW2pdW2xdID0gSGFzaFNldCgwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZ1biBnZXQK</text>
+        <text encoding="base64">CQkJZHBbaV1bal0gPSBPbmVBcnJheShuKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXZhbCBkcCA9IEFycmF5KGsgKyAxKSB7IEFycmF5KG4gKyAxKSB7IGFycmF5T2ZOdWxsczxQYWlyPEludCwgSW50Pj4obiArIDEpIH0gfQoJLy8gYmFzZSBjYXNlOgoJLy8gZHAoMCwgaiwgbCkgPSAoaiwgbCkKCWZvciAoaiBpbiAxIHVudGlsIG4pIHsKCQlmb3IgKGwgaW4gaiArIDEuLm4pIHsKCQkJZHBbMCwgaiwgbF0gPSBqIHRvIGwKCQl9Cgl9Cg==</text>
+        <text encoding="base64">CQlkcFtpXSA9IE9uZUFycmF5KG4gLSAxKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3x8L1wmXCYvZw==</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
@@ -1494,7 +1495,7 @@
       <last-replace encoding="base64">XCZcJg==</last-replace>
       <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1532,7 +1533,6 @@
         <entry encoding="base64">JzwsJz5zL2gvc2l6ZS9n</entry>
         <entry encoding="base64">JzwsJz5zL2dldC9zZXQvZw==</entry>
         <entry>set number</entry>
-        <entry>nohlsearch</entry>
         <entry encoding="base64">JzwsJz5zL2kvaXQvZw==</entry>
         <entry encoding="base64">JzwsJz5zLygvWy9n</entry>
         <entry encoding="base64">JzwsJz5zLykvXS9n</entry>
@@ -1540,6 +1540,7 @@
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL3x8LyYmL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3x8L1wmXCYvZw==</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
