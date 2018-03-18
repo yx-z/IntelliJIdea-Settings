@@ -502,10 +502,10 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521321044811">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1521330068881">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/CPS/src/retriever/BaseRetriever.java" timestamp="1509545432654">
         <mark key="'" line="23" column="6" />
@@ -796,11 +796,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" timestamp="1521329099393">
-        <mark key="'" line="63" column="16" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" timestamp="1521331856834">
+        <mark key="'" line="113" column="18" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="113" column="18" />
+        <mark key="." line="113" column="18" />
+        <mark key="^" line="113" column="18" />
       </file>
       <file name="$USER_HOME$/Github/CS241/utilities_unleashed/menv.c" timestamp="1505517170838">
         <mark key="[" line="25" column="9" />
@@ -1284,12 +1285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="60" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
-      <jump line="28" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
-      <jump line="18" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LPSubstring.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LPSubstring.kt" />
-      <jump line="3" column="9" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LPSubstring.kt" />
-      <jump line="23" column="21" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
       <jump line="3" column="9" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
       <jump line="24" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
       <jump line="27" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
@@ -1384,22 +1379,28 @@
       <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
       <jump line="79" column="25" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
       <jump line="63" column="16" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
+      <jump line="89" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
+      <jump line="2" column="9" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
+      <jump line="128" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
+      <jump line="4" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
+      <jump line="98" column="24" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
+      <jump line="112" column="18" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CVRPRE8oKQo=</text>
+        <text encoding="base64">CWZvciAoaiBpbiAwLi5uKSB7CgkJZHBbMCwgal0gPSBqCgl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>||</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CVlzLmZvckVhY2ggeyBwcmludGxuKFggaXNTdWJzZXF1ZW5jZU9mIGl0KSB9Cg==</text>
+        <text encoding="base64">CS8vIGRwKGksIGopID0gbWF4eyBkcFtpLCBqIC0gMV0sIGRwW2kgLSAxLCBqIC0gMV0gfSBpZiBYW2ldID0gWVtqXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CVRPRE8oKQo=</text>
+        <text encoding="base64">CWZvciAoaiBpbiAwLi5uKSB7CgkJZHBbMCwgal0gPSBqCgl9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1434,28 +1435,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXN0clgudG9BbHBoYWJldCgpLnByaW50bG4oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZvciAoaSBpbiAwIHVudGlsIGspIHsKCQkKCX0K</text>
+        <text encoding="base64">CXZhbCBhcnIgPSBJbnRBcnJheShsZW5ndGgpCglpbmRpY2VzLmZvckVhY2ggeyBhcnJbaXRdID0gdGhpc1tpdF0gLSAnQScgfQoJcmV0dXJuIGFycgp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhciBwdHIgPSAwCg==</text>
+        <text encoding="base64">aW1wb3J0IHByaW50bG4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQoJcmV0dXJuIAo=</text>
+        <text encoding="base64">CXN0clgudG9BbHBoYWJldCgpLnByaW50bG4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgkvLyBzbnMoaSwgaikgPSBsZW4gb2Ygc3Vic2VxIG9mIFlbMS4ual0gd2hpY2ggaXMgbm90IGEgc3VwZXJzZXF1bmNlIG9mIFhbMS4uaV0KCS8vIG1lbW9pemF0aW9uIHN0cnVjdHVyZTogMmQgYXJyYXkgZHBbMC4uaywgMC4ubl0gOiBkcFtpLCBqXSA9IHNucyhpLCBqKQoJdmFsIGRwID0gQXJyYXkoayArIDEpIHsgSW50QXJyYXkobiArIDEpIH0KCS8vIHNwYWNlIGNvbXBsZXhpdHk6IE8obiAqIGspCgoJLy8gYmFzZSBjYXNlOgoJLy8gc25zKGksIDApID0gMAoJLy8gc25zKDAsIGopID0gagoJZm9yIChqIGluIDAuLm4pIHsKCQlkcFswLCBqXSA9IGoKCX0KCS8vIHNucyhpLCBqKSA9IGogaWYgaiA8IGkKCWZvciAoaSBpbiAwLi5rKSB7CgkJZm9yIChqIGluIDAgdW50aWwgaSkgewoJCQlkcFtpLCBqXSA9IGoKCQl9Cgl9CgoJLy8gcmVjdXJzaXZlIGNhc2U6CgkvLyBzbnMoaSwgaikgPSBzbnMoaSwgaiAtIDEpIGlmIFhbaV0gPSBZW2pdCgkvLyAgICAgICAgICAgPSAxICsgc25zKGksIGogLSAxKSBpZiBYW2ldICE9IFlbal0KCS8vIGRlcGVuZGVuY3k6IHNucyhpLCBqKSBkZXBlbmRzIG9uIHNucyhpLCBqIC0gMSkgdGhhdCBpcyBlbnRyeSB0byB0aGUgbGVmdAoJLy8gZXZhbHVhdGlvbiBvcmRlcjogb3V0ZXIgbG9vcCBmb3IgaSBmcm9tIDEgdG8gayAodG9wIGRvd24pCglmb3IgKGkgaW4gMS4uaykgewoJCS8vIGlubmVyIGxvb3AgZm9yIGogZnJvbSBpIHRvIG4gKGxlZnQgdG8gcmlnaHQpCgkJZm9yIChqIGluIGkuLm4pIHsKCQkJZHBbaSwgal0gPSBkcFtpLCBqIC0gMV0KCQkJaWYgKFhbaSAtIDFdICE9IFlbaiAtIDFdKSB7CgkJCQlkcFtpLCBqXSArPSAxCgkJCX0KCQl9Cgl9CgkvLyB0aW1lIGNvbXBsZXhpdHk6IE8obiAqIGspCgoJLy8gd2Ugd2FudCBuIC0gc25zKGssIG4pCglyZXR1cm4gbiAtIGRwW2ssIG5dCg==</text>
+        <text encoding="base64">CXByaW50bG4oc3RyWC50b0FscGhhYmV0KCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIHNucyhpLCAwKSA9IDAK</text>
+        <text encoding="base64">CXZhbCB4WCA9IGludEFycmF5T2YoOSwgOSwgMCwgMCkKCXZhbCB4WSA9IGludEFycmF5T2YoOSwgNSwgOCwgOSwgNiwgOCwKCXByaW50bG4oeFkuc3Vic2VxTm90U3VwZXJzZXEoeFgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gbGV0IG1lIGZpbmQgdGhlIG1pbmltdW0gbnVtYmVyIHRvIHJlbW92ZSA9IHIK</text>
+        <text encoding="base64">CQkJCWRwW2ksIGpdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vICAgICAgICAgICAgID0gdHJ1ZSBpZiBpID0gMCBhbmQgaiBpbiAxLi5uCg==</text>
+        <text encoding="base64">CWZvciAoaSBpbiAwLi5rKSB7CgkJZHBbaSwgMF0gPSAwCgl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3x8L1wmXCYvZw==</text>
