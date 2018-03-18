@@ -436,12 +436,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/IsSubsequence.kt" timestamp="1521344018995">
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/IsSubsequence.kt" timestamp="1521372509163">
         <mark key="'" line="70" column="17" />
-        <mark key="[" line="77" column="98" />
-        <mark key="]" line="79" column="70" />
-        <mark key="." line="79" column="70" />
-        <mark key="^" line="79" column="70" />
+        <mark key="[" line="91" column="17" />
+        <mark key="]" line="88" column="11" />
+        <mark key="." line="88" column="11" />
+        <mark key="^" line="88" column="18" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/EditDist.kt" timestamp="1520617926476">
         <mark key="'" line="0" column="0" />
@@ -1341,7 +1341,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CS8vICAgICAgICAgICAsIGJ1dCBub3QgWFswLi5pICsgMV0sIC4uLiwgWFswLi5rXSwgaSA8IGsK</text>
+        <text encoding="base64">CS8vIGRwKDAsIGopID0gdHJhdmVyc2UgWVsxLi5qXSwgZmluZCBhbnkgWFsxXQo=</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
@@ -1353,7 +1353,7 @@
         <text encoding="base64">CS8vICAgICAgICAgID0gZHAoYSAtIDEsIDApICYmIENbYV0gPT0gQVthXSBpZiBiID0gMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vICAgICAgICAgICAsIGJ1dCBub3QgWFswLi5pICsgMV0sIC4uLiwgWFswLi5rXSwgaSA8IGsK</text>
+        <text encoding="base64">CS8vIGRwKDAsIGopID0gdHJhdmVyc2UgWVsxLi5qXSwgZmluZCBhbnkgWFsxXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1388,28 +1388,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CS8vIGJhc2UgY2FzZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIHdlIHdhbnQgbWF4X2l7IGRwKGksIG4pIH0K</text>
+        <text encoding="base64">CS8vICAgICAgICAgICAsIGJ1dCBub3QgWFswLi5pICsgMV0sIC4uLiwgWFswLi5rXSwgaSA8IGsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIGEgc3VwZXJzZXF1ZW5jZSBvZiBhbiBlbXB0eSBzZXF1ZW5jZSBpcyBhbnkgc2VxdWVuY2UK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIGRwKGksIGosIGwpID0gMCBpZiBpICFpbiAxLi5rIG9yIGogIWluIDEuLm4gb3IgayAhaW4gMC4uawoJLy8gZHAoaSwgaiwgbCkgPSAwIGlmIGwgPj0gaQo=</text>
+        <text encoding="base64">CS8vIHdlIHdhbnQgbWF4X2l7IGRwKGksIG4pIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIGRwKGksIGosIGwpID0gZHAoaSwgaiAtIDEsIGwpICsgMSBpZiBZW2pdICE9IFhbbF0K</text>
+        <text encoding="base64">CS8vIGEgc3VwZXJzZXF1ZW5jZSBvZiBhbiBlbXB0eSBzZXF1ZW5jZSBpcyBhbnkgc2VxdWVuY2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZvciAoaSBpbiAwLi5rKSB7CgkJZm9yIChqIGluIDEuLm4pIHsKCQkJZm9yIChsIGluIGkgLSAxIGRvd25UbyAwKSB7CgoJCQl9CgkJfQoJfQo=</text>
+        <text encoding="base64">CS8vIGRwKGksIGosIGwpID0gMCBpZiBpICFpbiAxLi5rIG9yIGogIWluIDEuLm4gb3IgayAhaW4gMC4uawoJLy8gZHAoaSwgaiwgbCkgPSAwIGlmIGwgPj0gaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIHdlIHdhbnQgZHBbaywgbiwgMF0gdGhhdCBpcyBsb25nZXN0IHN1YnNlcXVlbmNlIG9mIFkgOiBpdCBpcyBOT1QgYSBzdXBlcnNlcXVlbmNlIG9mIFgKCS8vIGJ1dCBpcyBpbmRlZWQgYSBzdXBlcnNlcXVlbmNlIG9mIGFuIGVtcHR5IHNlcXVlbmNlICh0cnVlIGZvciBhbnkgbm9uZW1wdHkgc2VxdWVuY2UpCg==</text>
+        <text encoding="base64">CS8vIGRwKGksIGosIGwpID0gZHAoaSwgaiAtIDEsIGwpICsgMSBpZiBZW2pdICE9IFhbbF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIGRwKDAsIGosIGwpID0gMCBzaW5jZSBOTyBzZXF1ZW5jZSBpcyBOT1QgYSBzdXBlcnNlcXVlbmNlIG9mIFhbMF0KCS8vIGRwKGksIDAsIGwpID0gMCBzaW5jZSBZWzBdIGNhbm5vdCBiZSBhIHN1cGVyc2VxdWVuY2Ugb2YgYW55IHNlcXVlbmNlCg==</text>
+        <text encoding="base64">CWZvciAoaSBpbiAwLi5rKSB7CgkJZm9yIChqIGluIDEuLm4pIHsKCQkJZm9yIChsIGluIGkgLSAxIGRvd25UbyAwKSB7CgoJCQl9CgkJfQoJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
