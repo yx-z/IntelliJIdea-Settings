@@ -796,12 +796,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" timestamp="1521332328402">
-        <mark key="'" line="113" column="18" />
-        <mark key="[" line="94" column="55" />
-        <mark key="]" line="100" column="54" />
-        <mark key="." line="100" column="54" />
-        <mark key="^" line="100" column="54" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" timestamp="1521333691384">
+        <mark key="[" line="76" column="18" />
+        <mark key="]" line="77" column="9" />
+        <mark key="^" line="77" column="9" />
+        <mark key="." line="77" column="9" />
       </file>
       <file name="$USER_HOME$/Github/CS241/utilities_unleashed/menv.c" timestamp="1505517170838">
         <mark key="[" line="25" column="9" />
@@ -1285,11 +1284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="9" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
-      <jump line="24" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
-      <jump line="27" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
-      <jump line="45" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
-      <jump line="25" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
       <jump line="14" column="25" filename="$USER_HOME$/VCS/AlgoKt/src/str/LPSubstring.kt" />
       <jump line="2" column="9" filename="$USER_HOME$/VCS/AlgoKt/src/str/LPSubstring.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LPSubsequence.kt" />
@@ -1384,11 +1378,16 @@
       <jump line="128" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
       <jump line="98" column="24" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
-      <jump line="112" column="18" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
+      <jump line="116" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
+      <jump line="114" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
+      <jump line="77" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
+      <jump line="83" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
+      <jump line="92" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
+      <jump line="112" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWZvciAoaiBpbiAwLi5uKSB7CgkJZHBbMCwgal0gPSBqCgl9Cg==</text>
+        <text encoding="base64">CXJldHVybiBkcFtrLCBuXQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1400,7 +1399,7 @@
         <text encoding="base64">CS8vIGRwKGksIGopID0gbWF4eyBkcFtpLCBqIC0gMV0sIGRwW2kgLSAxLCBqIC0gMV0gfSBpZiBYW2ldID0gWVtqXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZvciAoaiBpbiAwLi5uKSB7CgkJZHBbMCwgal0gPSBqCgl9Cg==</text>
+        <text encoding="base64">CXJldHVybiBkcFtrLCBuXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1435,28 +1434,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXN0clgudG9BbHBoYWJldCgpLnByaW50bG4oKQo=</text>
+        <text encoding="base64">CgkvLyBkcChpLCBqKTogbGVuZ3RoIG9mIHRoZSBsb25nZXN0IHN1Y2ggc3Vic2VxdWVuY2UgOgoJLy8gICAgICAgICAgIFlbMS4ual0gaXMgTk9UIGEgc3VwZXJzZXF1ZW5jZSBvZiBYWzEuLmldCgkvLyBtZW1vaXphdGlvbiBzdHJ1Y3R1cmU6IDJkIGFycmF5IGRwWzAuLmsuIDAuLm5dIDogZHBbaSwgal0gPSBkcChpLCBqKQoJdmFsIGRwID0gQXJyYXkoayArIDEpIHsgSW50QXJyYXkobiArIDEpIH0KCS8vIHNwYWNlIGNvbXBsZXhpdHk6IE8oayAqIG4pCgoJLy8gYmFzZSBjYXNlOgoJLy8gZHAoaSwgaikgPSAwIGlmIGkgPSAwIG9yIGkgIWluIDAuLmsgb3IgaiAhaW4gMC4ubgoJLy8gICAgICAgICAgPSBqIGlmIGkgPiBqCglmb3IgKGkgaW4gMC4uaykgewoJCWZvciAoaiBpbiAwIHVudGlsIGkpIHsKCQkJZHBbaSwgal0gPSBqCgkJfQoJfQoKCS8vIHJlY3Vyc2l2ZSBjYXNlOgoJLy8gZHAoaSwgaikgPSBkcFtpLCBqIC0gMV0gaWYgWFtpXSA9IFlbal0KCS8vICAgICAgICAgID0gZHBbaSwgaiAtIDFdICsgMSBpZiBYW2ldICE9IFlbal0KCS8vIGRlcGVuZGVuY3k6IGRwW2ksIGpdIGRlcGVuZHMgb24gZHBbaSwgaiAtIDFdIGFuZCBkcFtpIC0gMSwgaiAtIDFdCgkvLyAgICAgICAgICAgICB0aGF0IGlzIGVudHJpZXMgdG8gdGhlIGxlZnQgYW5kIHRvIHRoZSB1cHBlci1sZWZ0CgkvLyBldmFsdWF0aW9uIG9yZGVyOiBvdXRlciBsb29wIGZvciBpIGZyb20gMSB0byBrICh0b3AgZG93bikKCWZvciAoaSBpbiAxLi5rKSB7CgkJLy8gaW5uZXIgbG9vcCBmb3IgaiBmcm9tIGkgdG8gbiAobGVmdCB0byByaWdodCkKCQlmb3IgKGogaW4gaS4ubikgewoJCQlkcFtpLCBqXSA9IG1heChkcFtpLCBqIC0gMV0sIGRwW2kgLSAxLCBqIC0gMV0gKwoJCQkJCWlmIChYW2kgLSAxXSA9PSBZW2ogLSAxXSkgewoJCQkJCQkwCgkJCQkJfSBlbHNlIHsKCQkJCQkJMQoJCQkJCX0KCQkJKQoJCX0KCX0KCS8vIHRpbWUgY29tcGxleGl0eTogTyhrICogbikKCglkcC5wcmludGxuKHRydWUpCgoJLy8gd2Ugd2FudCBkcChrLCBuKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZhbCBhcnIgPSBJbnRBcnJheShsZW5ndGgpCglpbmRpY2VzLmZvckVhY2ggeyBhcnJbaXRdID0gdGhpc1tpdF0gLSAnQScgfQoJcmV0dXJuIGFycgp9Cg==</text>
+        <text encoding="base64">CXZhbCBrID0gWC5zaXplCgl2YWwgbiA9IFkuc2l6ZQoKCS8vIGRwKGksIGopOiBsZW5ndGggb2YgdGhlIGxvbmdlc3Qgc3VjaCBzdWJzZXF1ZW5jZSA6CgkvLyAgICAgICAgICAgWVsxLi5qXSBpcyBOT1QgYSBzdXBlcnNlcXVlbmNlIG9mIFhbMS4uaV0KCS8vIG1lbW9pemF0aW9uIHN0cnVjdHVyZTogMmQgYXJyYXkgZHBbMC4uay4gMC4ubl0gOiBkcFtpLCBqXSA9IGRwKGksIGopCgl2YWwgZHAgPSBBcnJheShrICsgMSkgeyBJbnRBcnJheShuICsgMSkgfQoJLy8gc3BhY2UgY29tcGxleGl0eTogTyhrICogbikKCgkvLyBiYXNlIGNhc2U6CgkvLyBkcChpLCBqKSA9IDAgaWYgaSA9IDAgb3IgaSAhaW4gMC4uayBvciBqICFpbiAwLi5uCgkvLyAgICAgICAgICA9IGogaWYgaSA+IGoKCWZvciAoaSBpbiAwLi5rKSB7CgkJZm9yIChqIGluIDAgdW50aWwgaSkgewoJCQlkcFtpLCBqXSA9IGoKCQl9Cgl9CgoJLy8gcmVjdXJzaXZlIGNhc2U6CgkvLyBkcChpLCBqKSA9IGRwW2ksIGogLSAxXSBpZiBYW2ldID0gWVtqXQoJLy8gICAgICAgICAgPSBkcFtpLCBqIC0gMV0gKyAxIGlmIFhbaV0gIT0gWVtqXQoJLy8gZGVwZW5kZW5jeTogZHBbaSwgal0gZGVwZW5kcyBvbiBkcFtpLCBqIC0gMV0gYW5kIGRwW2kgLSAxLCBqIC0gMV0KCS8vICAgICAgICAgICAgIHRoYXQgaXMgZW50cmllcyB0byB0aGUgbGVmdCBhbmQgdG8gdGhlIHVwcGVyLWxlZnQKCS8vIGV2YWx1YXRpb24gb3JkZXI6IG91dGVyIGxvb3AgZm9yIGkgZnJvbSAxIHRvIGsgKHRvcCBkb3duKQoJZm9yIChpIGluIDEuLmspIHsKCQkvLyBpbm5lciBsb29wIGZvciBqIGZyb20gaSB0byBuIChsZWZ0IHRvIHJpZ2h0KQoJCWZvciAoaiBpbiBpLi5uKSB7CgkJCWRwW2ksIGpdID0gbWF4KGRwW2ksIGogLSAxXSwgZHBbaSAtIDEsIGogLSAxXSArCgkJCQkJaWYgKFhbaSAtIDFdID09IFlbaiAtIDFdKSB7CgkJCQkJCTAKCQkJCQl9IGVsc2UgewoJCQkJCQkxCgkJCQkJfQoJCQkpCgkJfQoJfQoJLy8gdGltZSBjb21wbGV4aXR5OiBPKGsgKiBuKQoKCWRwLnByaW50bG4odHJ1ZSkKCgkvLyB3ZSB3YW50IGRwKGssIG4pCglyZXR1cm4gZHBbaywgbl0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHByaW50bG4K</text>
+        <text encoding="base64">CWZvciAoaiBpbiAwLi5uKSB7CgkJZHBbMCwgal0gPSBqCgl9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CXN0clgudG9BbHBoYWJldCgpLnByaW50bG4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaW50bG4oc3RyWC50b0FscGhhYmV0KCkpCg==</text>
+        <text encoding="base64">CXZhbCBhcnIgPSBJbnRBcnJheShsZW5ndGgpCglpbmRpY2VzLmZvckVhY2ggeyBhcnJbaXRdID0gdGhpc1tpdF0gLSAnQScgfQoJcmV0dXJuIGFycgp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhbCB4WCA9IGludEFycmF5T2YoOSwgOSwgMCwgMCkKCXZhbCB4WSA9IGludEFycmF5T2YoOSwgNSwgOCwgOSwgNiwgOCwKCXByaW50bG4oeFkuc3Vic2VxTm90U3VwZXJzZXEoeFgpKQo=</text>
+        <text encoding="base64">aW1wb3J0IHByaW50bG4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWRwW2ksIGpdCg==</text>
+        <text encoding="base64">CXN0clgudG9BbHBoYWJldCgpLnByaW50bG4oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZvciAoaSBpbiAwLi5rKSB7CgkJZHBbaSwgMF0gPSAwCgl9Cg==</text>
+        <text encoding="base64">CXByaW50bG4oc3RyWC50b0FscGhhYmV0KCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3x8L1wmXCYvZw==</text>
