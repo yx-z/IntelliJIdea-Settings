@@ -156,12 +156,12 @@
         <mark key="." line="22" column="50" />
         <mark key="^" line="22" column="50" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxQ.kt" timestamp="1521484608238">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="14" column="29" />
-        <mark key="." line="14" column="29" />
-        <mark key="^" line="14" column="29" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxQ.kt" timestamp="1521485649512">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="13" column="52" />
+        <mark key="]" line="13" column="36" />
+        <mark key="." line="13" column="36" />
+        <mark key="^" line="13" column="36" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/lib/kotlin-stdlib-sources.jar!/generated/_Arrays.kt" timestamp="1521411308556">
         <mark key="'" line="10740" column="0" />
@@ -296,7 +296,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521480173301">
+      <file name="/Dummy.txt" timestamp="1521485672525">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -672,9 +672,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
-      <jump line="114" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
-      <jump line="77" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
       <jump line="92" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
       <jump line="112" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
       <jump line="83" column="18" filename="$USER_HOME$/VCS/AlgoKt/src/dp/IsSubsequence.kt" />
@@ -771,14 +768,17 @@
       <jump line="2" column="9" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MetaPal.kt" />
       <jump line="28" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MetaPal.kt" />
       <jump line="35" column="15" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MetaPal.kt" />
-      <jump line="11" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxQ.kt" />
+      <jump line="19" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxQ.kt" />
+      <jump line="11" column="8" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxQ.kt" />
+      <jump line="7" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxQ.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxQ.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRvT25lQXJyYXkK</text>
+      <register name="&quot;" type="4">
+        <text>metapal</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>metapal</text>
       </register>
       <register name="/" type="4">
         <text>maxLenCol</text>
@@ -787,7 +787,7 @@
         <text encoding="base64">CXZhbCBpc1BhbCA9IE9uZUFycmF5KG4pIHsgT25lQXJyYXkobikgeyBmYWxzZSB9IH0KCS8vIHNwYWNlIGNvbXBsZXhpdHk6IE8obl4yKQoJLy8gYmFzZSBjYXNlOgoJLy8gaXNQYWwoaSwgaikgPSB0cnVlIGlmIGkgPj0gagoJZm9yIChpIGluIDEuLm4pIHsKCQlmb3IgKGogaW4gMS4uaSkgewoJCQlpc1BhbFtpLCBqXSA9IHRydWUKCQl9Cgl9CgkvLyB0aW1lIGNvbXBsZXhpdHk6IE8obl4yKQoJLy8gcmVjdXJzaXZlIGNhc2U6CgkvLyBpc1BhbChpLCBqKSA9IGlzUGFsKGkgKyAxLCBqIC0gMSkgJiYgU1tpXSA9PSBTW2pdCgkvLyBkZXBlbmRlbmN5OiBpc1BhbFtpLCBqXSBkZXBlbmRzIG9uIGlzUGFsW2kgKyAxLCBqIC0gMV0KCS8vICAgICAgICAgICAgICwgdGhhdCBpcyBlbnRyeSB0byB0aGUgbG93ZXItbGVmdAoJLy8gZXZhbHVhdGlvbiBvcmRlcjogb3V0ZXIgbG9vcCBmb3IgaSBmcm9tIG4gZG93biB0byAxIChib3R0b20gdXApCglmb3IgKGkgaW4gbiBkb3duVG8gMSkgewoJCS8vIGlubmVyIGxvb3AgZm9yIGogZnJvbSBpICsgMSB0byBuIChsZWZ0IHRvIHJpZ2h0KQoJCWZvciAoaiBpbiBpICsgMS4ubikgewoJCQlpZiAoaSAhPSBqKSB7CgkJCQlpc1BhbFtpLCBqXSA9IGlzUGFsW2kgKyAxLCBqIC0gMV0gJiYgU1tpXSA9PSBTW2pdCgkJCX0KCQl9Cgl9CgkvLyB0aW1lIGNvbXBsZXhpdHk6IE8obl4yKQoJcmV0dXJuIGlzUGFsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRvT25lQXJyYXkK</text>
+        <text encoding="base64">CXF1YQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -822,28 +822,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vIHNhbXBsZSBtZXRob2QKZnVuIE9uZUFycmF5PENoYXI+LnF1YWxpdHkoKTogSW50IHsKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFja2FnZSBkcAoKaW1wb3J0IHRvT25lQXJyYXkKCi8vIGdpdmVuIGEgbWV0aG9kIHF1YWxpdHk6IFRbMS4ua10gLT4gSW50IHRoYXQgdGFraW5nIE8oaykgdGltZSBhbmQgYSBzdHJpbmcKLy8gU1sxLi5uXSBmaW5kIHRoZSBtYXggc3VtIG9mIHF1YWxpdGllcyBvZiBlYWNoIGNvbnRpZ3VvdXMgc3Vic3RyaW5nIG9mIFMKZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewoJdmFsIHMgPSAiMWEwYiIudG9DaGFyQXJyYXkoKS50b09uZUFycmF5KCkKCXByaW50bG4ocy4pCn0KCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZhciBzdW0gPSAwCglmb3JFYWNoIHsgc3VtICs9ICgncicgLSBpdCkgKiAoaXQgLSAnYicpIH0KCXJldHVybiBzdW0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZhciBzdW0gPSAwCglmb3JFYWNoIHsgc3VtICs9ICgncicgLSBpdCkgKiAoaXQgLSAnYicpIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXZhbCBzID0gImFjZHBiIi50b0NoYXJPbmVBcnJheSgpCglwcmludGxuKHMucXVhbGl0eSgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIGFkZCBzZW50aW5lbCB2YWx1ZSBpbiB0aGUgbWlkZGxlIAo=</text>
+        <text encoding="base64">aW1wb3J0IHRvT25lQXJyYXkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIGRwKGksIGopIG1pbiBsZW4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21heC9taW4vZw==</text>
