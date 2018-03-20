@@ -376,12 +376,12 @@
         <mark key="." line="17" column="59" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" timestamp="1521566541047">
-        <mark key="'" line="165" column="0" />
-        <mark key="[" line="109" column="43" />
-        <mark key="]" line="109" column="48" />
-        <mark key="." line="109" column="48" />
-        <mark key="^" line="109" column="48" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" timestamp="1521582340899">
+        <mark key="'" line="56" column="17" />
+        <mark key="[" line="150" column="30" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+        <mark key="^" line="151" column="0" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/arr/Median.kt" timestamp="1508603773100">
         <mark key="[" line="24" column="0" />
@@ -1365,11 +1365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SplitInPal.kt" />
-      <jump line="13" column="28" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SplitInPal.kt" />
-      <jump line="61" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SplitInPal.kt" />
-      <jump line="62" column="6" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SplitInPal.kt" />
-      <jump line="21" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SplitInPal.kt" />
       <jump line="73" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SplitInPal.kt" />
       <jump line="22" column="51" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SplitInPal.kt" />
       <jump line="104" column="17" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SplitInPal.kt" />
@@ -1465,22 +1460,27 @@
       <jump line="109" column="43" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" />
       <jump line="0" column="8" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" />
       <jump line="165" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" />
+      <jump line="133" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" />
+      <jump line="64" column="17" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" />
+      <jump line="121" column="17" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" />
+      <jump line="53" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" />
+      <jump line="56" column="17" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>xPoints perfect opponent</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWlpaWlpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>xPoints perfect opponent</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>dp</text>
+        <text>base</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXNlbGYuZ2V0T3ZlcmZsb3dIYW5kbGVyID0geyAwIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXBvaW50c1tuIC0gMV0uZ2V0T3ZlcmZsb3dIYW5kbGVyID0geyAwIH0K</text>
+        <text encoding="base64">CWlpaWlpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1515,37 +1515,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXNlbGZbbiAtIDFdLmdldE92ZXJmbG93SGFuZGxlciA9IHsgMCB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CXByaW50bG4oZCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJc2VsZltpLCBqXSA9IAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXBvaW50c1tuIC0gMV0uZ2V0T3ZlcmZsb3dIYW5kbGVyID0geyAwIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXNlbGZbbiAtIDFdLmdldE92ZXJmbG93SGFuZGxlciA9IHsgMCB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CXByaW50bG4oZCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZhciBzdW0gPSAwCg==</text>
+        <text encoding="base64">CQkJc2VsZltpLCBqXSA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhbCBzZWxmID0gT25lQXJyYXkobikgeyBPbmVBcnJheShuKSB7IDAgfSB9Cg==</text>
+        <text encoding="base64">CXZhciBzdW0gPSAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIG1lbW9pemF0aW9uIHN0cnVjdHVyZTogMmQgYXJyYXkgc2VsZlsxLi5uLCAxLi5uXSA6IHNlbGZbaSwgal0gPSBzZWxmKGksIGopCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>dp</last-search>
+      <last-search>base</last-search>
       <last-offset />
-      <last-pattern>dp</last-pattern>
+      <last-pattern>base</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>dp</last-substitute>
       <last-dir>1</last-dir>
@@ -1553,8 +1553,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NameNodeServer</entry>
-        <entry>get</entry>
         <entry>i</entry>
         <entry>(</entry>
         <entry>)</entry>
@@ -1573,9 +1571,10 @@
         <entry>OneArray's</entry>
         <entry>OneArray'</entry>
         <entry>dp</entry>
+        <entry>cas</entry>
+        <entry>base</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2gvc2l6ZS9n</entry>
         <entry encoding="base64">JzwsJz5zL2dldC9zZXQvZw==</entry>
         <entry>set number</entry>
@@ -1594,6 +1593,7 @@
         <entry encoding="base64">JzwsJz5zL211bHQvbnVtL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1wvLyUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2RwL3NlbGYvZw==</entry>
+        <entry>w</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
