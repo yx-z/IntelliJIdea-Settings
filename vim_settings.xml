@@ -95,12 +95,6 @@
         <mark key="." line="232" column="41" />
         <mark key="^" line="232" column="41" />
       </file>
-      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/MaxQ.kt" timestamp="1521484182550">
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/dp/LSNoDup.kt" timestamp="1508076207972">
         <mark key="[" line="31" column="30" />
         <mark key="]" line="34" column="0" />
@@ -300,6 +294,16 @@
         <mark key="]" line="4" column="49" />
         <mark key="^" line="4" column="49" />
         <mark key="." line="4" column="49" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/util/MinMax.kt" timestamp="1521544621327">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/util/RangeIndex.kt" timestamp="1521544663776">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="25" column="1" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Xtern/src/edu/illinois/cs/UserGroupReport.java" timestamp="1508552289141">
         <mark key="[" line="50" column="0" />
@@ -620,10 +624,16 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521484313710">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1521544853254">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/util/OneArray.kt" timestamp="1521544813863">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/graph/FindPath.kt" timestamp="1508042132636">
         <mark key="[" line="31" column="0" />
@@ -1014,6 +1024,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" timestamp="1521544748765">
+        <mark key="'" line="184" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/SplitInPalindrome.kt" timestamp="1520655916902">
         <mark key="'" line="24" column="41" />
         <mark key="[" line="6" column="16" />
@@ -1167,6 +1183,11 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/util/VarargIndex.kt" timestamp="1521544691812">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="56" column="1" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/Semicolon.kt" timestamp="1508376151768">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="5" column="0" />
@@ -1289,35 +1310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="32" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
-      <jump line="1" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
-      <jump line="21" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
-      <jump line="15" column="42" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
-      <jump line="55" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
-      <jump line="56" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" />
-      <jump line="21" column="14" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LConvexS.kt" />
-      <jump line="50" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
-      <jump line="44" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
-      <jump line="36" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
-      <jump line="28" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
-      <jump line="31" column="30" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
-      <jump line="2" column="9" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
-      <jump line="42" column="10" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
-      <jump line="11" column="27" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
-      <jump line="55" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
-      <jump line="14" column="21" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
-      <jump line="16" column="44" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" />
-      <jump line="16" column="49" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
-      <jump line="10" column="45" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
-      <jump line="19" column="60" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
-      <jump line="28" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
-      <jump line="18" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LPSubstring.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LPSubstring.kt" />
-      <jump line="3" column="9" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LPSubstring.kt" />
-      <jump line="23" column="21" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
-      <jump line="3" column="9" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
-      <jump line="24" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
-      <jump line="27" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
       <jump line="45" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
       <jump line="25" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/FindSubsequences.kt" />
       <jump line="14" column="25" filename="$USER_HOME$/VCS/AlgoKt/src/str/LPSubstring.kt" />
@@ -1389,13 +1381,42 @@
       <jump line="228" column="46" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/Util.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/Util.kt" />
       <jump line="100" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/Util.kt" />
+      <jump line="7" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="14" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="18" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="24" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="29" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="33" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="42" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="44" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="46" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="52" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="66" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="84" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="90" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="94" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="99" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="104" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="109" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="115" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="121" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="127" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="133" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="139" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="143" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="149" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="151" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="153" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="156" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="170" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
+      <jump line="184" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/Util.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y to OneArray</text>
+        <text encoding="base64">bGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text>y to OneArray</text>
+        <text encoding="base64">bGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -1404,7 +1425,7 @@
         <text encoding="base64">CXByaW50bG4oIm1pZCAtICRtaWQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5OdWxsUG9pbnRlckV4Y2VwdGlvbgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1439,28 +1460,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgljb25zdHJ1Y3RvcihpbnRBcnJheTogSW50QXJyYXkpIDogdGhpcyhpbnRBcnJheS5zaXplKSB7CgkJY29udGFpbmVyID0gaW50QXJyYXkudG9UeXBlZEFycmF5KCkgYXMgQXJyYXk8QW55Pz4K</text>
+        <text encoding="base64">Ly8gcHl0aG9uIGxpa2UgbXVsdGlkaW1lbnNpb25hbCBhcnJheSBpbmRleGluZwovLyBleC4gYXJyWzEsIDIsIDMsIDRdLCBhcnJbMiwgNSwgM10gPSAyCm9wZXJhdG9yIGZ1biBBcnJheTxJbnRBcnJheT4uZ2V0KGkxOiBJbnQsIGkyOiBJbnQpID0gdGhpc1tpMV1baTJdCgpvcGVyYXRvciBmdW4gPFQ+IEFycmF5PEFycmF5PFQ+Pi5nZXQoaTE6IEludCwgaTI6IEludCkgPSB0aGlzW2kxXVtpMl0KCm9wZXJhdG9yIGZ1biBBcnJheTxBcnJheTxJbnRBcnJheT4+LmdldChpMTogSW50LCBpMjogSW50LCBpMzogSW50KSA9IHRoaXNbaTFdW2kyXVtpM10KCm9wZXJhdG9yIGZ1biA8VD4gQXJyYXk8QXJyYXk8QXJyYXk8VD4+Pi5nZXQoaTE6IEludCwgaTI6IEludCwgaTM6IEludCkgPSB0aGlzW2kxXVtpMl1baTNdCgpvcGVyYXRvciBmdW4gQXJyYXk8QXJyYXk8QXJyYXk8SW50QXJyYXk+Pj4uZ2V0KGkxOiBJbnQsIGkyOiBJbnQsIGkzOiBJbnQsIGk0OiBJbnQpID0gdGhpc1tpMV1baTJdW2kzXVtpNF0KCm9wZXJhdG9yIGZ1biA8VD4gQXJyYXk8QXJyYXk8QXJyYXk8QXJyYXk8VD4+Pj4uZ2V0KGkxOiBJbnQsIGkyOiBJbnQsIGkzOiBJbnQsIGk0OiBJbnQpID0gdGhpc1tpMV1baTJdW2kzXVtpNF0KCm9wZXJhdG9yIGZ1biBBcnJheTxJbnRBcnJheT4uc2V0KGkxOiBJbnQsIGkyOiBJbnQsIHY6IEludCkgewoJdGhpc1tpMV1baTJdID0gdgp9CgpvcGVyYXRvciBmdW4gPFQ+IEFycmF5PEFycmF5PFQ+Pi5zZXQoaTE6IEludCwgaTI6IEludCwgdjogVCkgewoJdGhpc1tpMV1baTJdID0gdgp9CgpvcGVyYXRvciBmdW4gQXJyYXk8QXJyYXk8SW50QXJyYXk+Pi5zZXQoaTE6IEludCwgaTI6IEludCwgaTM6IEludCwgdjogSW50KSB7Cgl0aGlzW2kxXVtpMl1baTNdID0gdgp9CgpvcGVyYXRvciBmdW4gPFQ+IEFycmF5PEFycmF5PEFycmF5PFQ+Pj4uc2V0KGkxOiBJbnQsIGkyOiBJbnQsIGkzOiBJbnQsIHY6IFQpIHsKCXRoaXNbaTFdW2kyXVtpM10gPSB2Cn0KCm9wZXJhdG9yIGZ1biBBcnJheTxBcnJheTxBcnJheTxJbnRBcnJheT4+Pi5zZXQoaTE6IEludCwgaTI6IEludCwgaTM6IEludCwgaTQ6IEludCwgdjogSW50KSB7Cgl0aGlzW2kxXVtpMl1baTNdW2k0XSA9IHYKfQoKb3BlcmF0b3IgZnVuIDxUPiBBcnJheTxBcnJheTxBcnJheTxBcnJheTxUPj4+Pi5zZXQoaTE6IEludCwgaTI6IEludCwgaTM6IEludCwgaTQ6IEludCwgdjogVCkgewoJdGhpc1tpMV1baTJdW2kzXVtpNF0gPSB2Cn0KCm9wZXJhdG9yIGZ1biA8VD4gT25lQXJyYXk8T25lQXJyYXk8VD4+LmdldChpMTogSW50LCBpMjogSW50KSA9IHRoaXNbaTFdW2kyXQoKb3BlcmF0b3IgZnVuIDxUPiBPbmVBcnJheTxPbmVBcnJheTxPbmVBcnJheTxUPj4+LmdldChpMTogSW50LCBpMjogSW50LCBpMzogSW50KSA9IHRoaXNbaTFdW2kyXVtpM10KCm9wZXJhdG9yIGZ1biA8VD4gT25lQXJyYXk8T25lQXJyYXk8T25lQXJyYXk8T25lQXJyYXk8VD4+Pj4uZ2V0KGkxOiBJbnQsIGkyOiBJbnQsIGkzOiBJbnQsIGk0OiBJbnQpID0gdGhpc1tpMV1baTJdW2kzXVtpNF0KCm9wZXJhdG9yIGZ1biA8VD4gT25lQXJyYXk8T25lQXJyYXk8VD4+LnNldChpMTogSW50LCBpMjogSW50LCB2OiBUKSB7Cgl0aGlzW2kxXVtpMl0gPSB2Cn0KCm9wZXJhdG9yIGZ1biA8VD4gT25lQXJyYXk8T25lQXJyYXk8T25lQXJyYXk8VD4+Pi5zZXQoaTE6IEludCwgaTI6IEludCwgaTM6IEludCwgdjogVCkgewoJdGhpc1tpMV1baTJdW2kzXSA9IHYKfQoKb3BlcmF0b3IgZnVuIDxUPiBPbmVBcnJheTxPbmVBcnJheTxPbmVBcnJheTxPbmVBcnJheTxUPj4+Pi5zZXQoaTE6IEludCwgaTI6IEludCwgaTM6IEludCwgaTQ6IEludCwgdjogVCkgewoJdGhpc1tpMV1baTJdW2kzXVtpNF0gPSB2Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gY29udGlndW91cyBzdWJzdHJpbmcK</text>
+        <text encoding="base64">Ly8gc3Vic3RyaW5nIGFuZCBzdWJhcnJheSBzbGljaW5nCi8vIGV4LiAiYWJjZGUiWzEuLjJdIC0+ICJiYyIsIGludEFycmF5T2YoMSwgNSwgNiwgMTApWzAuLjBdIC0+IGludEFycmF5T2YoMSkKb3BlcmF0b3IgZnVuIFN0cmluZy5nZXQocmFuZ2U6IEludFJhbmdlKSA9IHN1YnN0cmluZyhyYW5nZSkKCmlubGluZSBvcGVyYXRvciBmdW4gPHJlaWZpZWQgVD4gQXJyYXk8VD4uZ2V0KHJhbmdlOiBJbnRSYW5nZSk6IEFycmF5PFQ/PiA9CgkJQXJyYXlzLmNvcHlPZlJhbmdlKHRoaXMsIHJhbmdlLmZpcnN0LCByYW5nZS5sYXN0ICsgMSkgPzogYXJyYXlPZk51bGxzKDApCgpvcGVyYXRvciBmdW4gSW50QXJyYXkuZ2V0KHJhbmdlOiBJbnRSYW5nZSkgPQoJCUFycmF5cy5jb3B5T2ZSYW5nZSh0aGlzLCByYW5nZS5maXJzdCwgcmFuZ2UubGFzdCArIDEpID86IGludEFycmF5T2YoKQoKb3BlcmF0b3IgZnVuIDxUPiBPbmVBcnJheTxUPi5nZXQocmFuZ2U6IEludFJhbmdlKTogT25lQXJyYXk8VD4gewoJdmFsIHN0YXJ0ID0gcmFuZ2Uuc3RhcnQKCXZhbCBlbmQgPSByYW5nZS5lbmRJbmNsdXNpdmUKCXZhbCBsZW4gPSBlbmQgLSBzdGFydCArIDEKCXZhbCBhcnIgPSBPbmVBcnJheTxUPihsZW4pCgl2YXIgYXJySWR4ID0gMQoJZm9yIChpIGluIHN0YXJ0Li5lbmQpIHsKCQlhcnJbYXJySWR4XSA9IHRoaXNbaV0KCQlhcnJJZHgrKwoJfQoJcmV0dXJuIGFycgp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlwcmludGxuKCJpLCBqID0gJGksICRqIikK</text>
+        <text encoding="base64">Ly8gbXVsdGktcGFyYW1ldGVyIHZlcnNpb24gb2YgdXRpbC5taW4vdXRpbC5tYXgKLy8gZXguIHV0aWwubWluKGkxLCBpMiwgaTMsIGk0KSwgdXRpbC5tYXgoaTEsIGkyLCBpMywgaTQsIGk1KQpmdW4gbWluKHZhcmFyZyBpbnRzOiBJbnQpID0gaW50cy5taW4oKQoJCT86IHRocm93IE51bGxQb2ludGVyRXhjZXB0aW9uKCJubyBtaW5pbXVtIHZhbHVlIikKCmZ1biBtYXgodmFyYXJnIGludHM6IEludCkgPSBpbnRzLm1heCgpCgkJPzogdGhyb3cgTnVsbFBvaW50ZXJFeGNlcHRpb24oIm5vIG1heGltdW0gdmFsdWUiKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlwcmludGxuKGopCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZHBbaSArIDFdCg==</text>
+        <text encoding="base64">Cgljb25zdHJ1Y3RvcihpbnRBcnJheTogSW50QXJyYXkpIDogdGhpcyhpbnRBcnJheS5zaXplKSB7CgkJY29udGFpbmVyID0gaW50QXJyYXkudG9UeXBlZEFycmF5KCkgYXMgQXJyYXk8QW55Pz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlwcmludGxuKCJqOiRqIikK</text>
+        <text encoding="base64">Ly8gY29udGlndW91cyBzdWJzdHJpbmcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQlwcmludGxuKCJpLCBqID0gJGksICRqIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlwcmludGxuKGopCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
