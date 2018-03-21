@@ -1389,6 +1389,9 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPlusMinus.kt" timestamp="1521673185355">
+        <mark key="[" line="14" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/arr/ArrPermu.kt" timestamp="1508374174083">
         <mark key="'" line="4" column="14" />
         <mark key="[" line="25" column="22" />
@@ -1409,8 +1412,12 @@
         <mark key="." line="8" column="16" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPlusMult.kt" timestamp="1521671643009">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPlusMult.kt" timestamp="1521673818341">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="11" column="59" />
+        <mark key="]" line="11" column="58" />
+        <mark key="^" line="11" column="58" />
+        <mark key="." line="11" column="58" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/AlphaCombin.kt" timestamp="1520995311285">
         <mark key="'" line="46" column="12" />
@@ -1433,7 +1440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
       <jump line="300" column="57" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
       <jump line="154" column="11" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
       <jump line="151" column="13" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
@@ -1533,13 +1539,14 @@
       <jump line="20" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Solitaire.kt" />
       <jump line="59" column="21" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" />
       <jump line="30" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxArith.kt" />
+      <jump line="9" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPlusMult.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>arr</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>arr</text>
       </register>
       <register name="/" type="4">
         <text>util.</text>
