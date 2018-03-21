@@ -994,6 +994,13 @@
         <mark key="." line="43" column="25" />
         <mark key="^" line="43" column="25" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxSum.kt" timestamp="1521641444587">
+        <mark key="'" line="154" column="0" />
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="30" />
+        <mark key="^" line="152" column="32" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/VVR.kt" timestamp="1521637294087">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="65" column="0" />
@@ -1395,9 +1402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxQ.kt" />
-      <jump line="19" column="31" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LFBS.kt" />
-      <jump line="36" column="29" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LFBS.kt" />
       <jump line="46" column="23" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LFBS.kt" />
       <jump line="3" column="9" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LFBS.kt" />
       <jump line="16" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LFBS.kt" />
@@ -1495,19 +1499,22 @@
       <jump line="61" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxProd.kt" />
       <jump line="16" column="34" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxProd.kt" />
       <jump line="22" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxProd.kt" />
+      <jump line="154" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxSum.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxSum.kt" />
+      <jump line="153" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxSum.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>until</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXByaW50bG4oYXJyLmxhcmdlc3RTdW1OKCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>until</text>
+        <text>maxEndingHere</text>
       </register>
       <register name="/" type="4">
         <text>base</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWlmIChzaXplID09IDApIHsKCQlyZXR1cm4gMAoJfQoJaWYgKHNpemUgPT0gMSkgewoJCXJldHVybiBtYXgoMCwgdGhpc1swXSkKCX0KCgkvLyAwIGNhbmNlbHMgYWxsIG91ciBjdXJyZW50IHByb2dyZXNzISB5dWNrIQoJLy8gc28gd2Ugd2lsbCByZWN1cnNpdmVseSBjYWxsIG91cnNlbGYKCWZvciAoaSBpbiAwIHVudGlsIHNpemUpIHsKCQlpZiAodGhpc1tpXSA9PSAwKSB7CgkJCXJldHVybiBtYXgodGhpc1swIHVudGlsIGldLmxhcmdlc3RQcm9kSW50KCksIHRoaXNbaSArIDEgdW50aWwgc2l6ZV0ubGFyZ2VzdFByb2RJbnQoKSkKCQl9Cgl9Cg==</text>
+        <text encoding="base64">CXByaW50bG4oYXJyLmxhcmdlc3RTdW1OKCkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZAo=</text>
