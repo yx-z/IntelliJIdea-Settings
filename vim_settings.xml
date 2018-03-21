@@ -606,12 +606,12 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxProd.kt" timestamp="1521638088231">
-        <mark key="'" line="16" column="34" />
-        <mark key="[" line="61" column="16" />
-        <mark key="]" line="62" column="28" />
-        <mark key="." line="62" column="28" />
-        <mark key="^" line="62" column="28" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxProd.kt" timestamp="1521638353917">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="80" column="65" />
+        <mark key="." line="80" column="65" />
+        <mark key="^" line="80" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/CPS/src/retriever/BaseRetriever.java" timestamp="1509545432654">
         <mark key="'" line="23" column="6" />
@@ -1395,7 +1395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxQ.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxQ.kt" />
       <jump line="19" column="31" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LFBS.kt" />
       <jump line="36" column="29" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LFBS.kt" />
@@ -1495,19 +1494,20 @@
       <jump line="22" column="29" filename="$USER_HOME$/VCS/AlgoKt/src/util/Tuple.kt" />
       <jump line="61" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxProd.kt" />
       <jump line="16" column="34" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxProd.kt" />
+      <jump line="22" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxProd.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>until</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>until</text>
       </register>
       <register name="/" type="4">
         <text>base</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CW9wZXJhdG9yIGZ1biBjb21wb25lbnQzKCk6IEMgPSB0aGlyZAo=</text>
+        <text encoding="base64">CWlmIChzaXplID09IDApIHsKCQlyZXR1cm4gMAoJfQoJaWYgKHNpemUgPT0gMSkgewoJCXJldHVybiBtYXgoMCwgdGhpc1swXSkKCX0KCgkvLyAwIGNhbmNlbHMgYWxsIG91ciBjdXJyZW50IHByb2dyZXNzISB5dWNrIQoJLy8gc28gd2Ugd2lsbCByZWN1cnNpdmVseSBjYWxsIG91cnNlbGYKCWZvciAoaSBpbiAwIHVudGlsIHNpemUpIHsKCQlpZiAodGhpc1tpXSA9PSAwKSB7CgkJCXJldHVybiBtYXgodGhpc1swIHVudGlsIGldLmxhcmdlc3RQcm9kSW50KCksIHRoaXNbaSArIDEgdW50aWwgc2l6ZV0ubGFyZ2VzdFByb2RJbnQoKSkKCQl9Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZAo=</text>
