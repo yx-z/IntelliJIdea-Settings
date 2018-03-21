@@ -22,11 +22,11 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxArith.kt" timestamp="1520723325323">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="57" column="39" />
-        <mark key="]" line="57" column="40" />
-        <mark key="." line="57" column="40" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxArith.kt" timestamp="1521668648825">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="26" column="50" />
+        <mark key="]" line="26" column="50" />
+        <mark key="." line="26" column="50" />
         <mark key="^" line="32" column="86" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/util/ArrayBroadcast.kt" timestamp="1521558498031">
@@ -389,8 +389,8 @@
         <mark key="." line="17" column="59" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" timestamp="1521594610415">
-        <mark key="'" line="90" column="0" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" timestamp="1521668573175">
+        <mark key="'" line="59" column="21" />
         <mark key="[" line="245" column="36" />
         <mark key="]" line="207" column="59" />
         <mark key="." line="207" column="59" />
@@ -978,6 +978,9 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/VankinsMile.kt" timestamp="1521668508026">
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" timestamp="1520647677164">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="13" column="0" />
@@ -1298,6 +1301,12 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="3" column="7" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LargestSquareSolidBlock.kt" timestamp="1521668487911">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/greedy/CanJump.kt" timestamp="1508112824460">
         <mark key="[" line="9" column="3" />
         <mark key="]" line="6" column="22" />
@@ -1412,8 +1421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
-      <jump line="294" column="93" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
       <jump line="302" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
       <jump line="300" column="57" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
       <jump line="154" column="11" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
@@ -1512,22 +1519,24 @@
       <jump line="145" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/VVR.kt" />
       <jump line="15" column="16" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Solitaire.kt" />
       <jump line="20" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/Solitaire.kt" />
+      <jump line="59" column="21" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" />
+      <jump line="30" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxArith.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwuT25lQXJyYXkK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>inxanadudidkublakhan</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>util.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXByaW50bG4oZnJhY0FycmF5Lm1heFByb2RTaG9ydCgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwuT25lQXJyYXkK</text>
+        <text encoding="base64">Ly8gVE9ETwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1562,45 +1571,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CVZhbHVlWycK</text>
+        <text encoding="base64">aW1wb3J0IHV0aWwuT25lQXJyYXkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZhbCBMZXR0ZXIgPSAiaW54YW5hZHVkaWRrdWJsYWtoYW4iLnRvQ2hhck9uZUFycmF5KCkKCXZhbCBWYWx1ZSA9IE9uZUFycmF5KDI2KSB7IGl0IH0KCVZhbHVlWycK</text>
+        <text encoding="base64">CVZhbHVlWycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmltcG9ydCB1dGlsLm9uZUFycmF5T2YK</text>
+        <text encoding="base64">CXZhbCBMZXR0ZXIgPSAiaW54YW5hZHVkaWRrdWJsYWtoYW4iLnRvQ2hhck9uZUFycmF5KCkKCXZhbCBWYWx1ZSA9IE9uZUFycmF5KDI2KSB7IGl0IH0KCVZhbHVlWycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmZ1biBJbnQudG9BcnJvdygpID0gd2hlbiAodGhpcykgewoJMSAtPiBBcnJvdy5MCgkyIC0+IEFycm93LlIKCTMgLT4gQXJyb3cuVQoJNCAtPiBBcnJvdy5ECgllbHNlIC0+IHRocm93IEFycm93Q29udmVyc2lvbkV4Y2VwdGlvbigpCn0K</text>
+        <text encoding="base64">CmltcG9ydCB1dGlsLm9uZUFycmF5T2YK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vCg==</text>
+        <text encoding="base64">CmZ1biBJbnQudG9BcnJvdygpID0gd2hlbiAodGhpcykgewoJMSAtPiBBcnJvdy5MCgkyIC0+IEFycm93LlIKCTMgLT4gQXJyb3cuVQoJNCAtPiBBcnJvdy5ECgllbHNlIC0+IHRocm93IEFycm93Q29udmVyc2lvbkV4Y2VwdGlvbigpCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuIEludAo=</text>
+        <text encoding="base64">CS8vCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuIEludAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUFycm93LnZhbHVlcygpLmZvckVhY2ggeyBzb3V0IH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text encoding="base64">JzwsJz5zL3V0aWwuLy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>util.</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>util.</last-pattern>
+      <last-replace />
+      <last-substitute>util.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
         <entry>||</entry>
         <entry>forEadch</entry>
         <entry>forEach</entry>
@@ -1620,9 +1628,9 @@
         <entry>indexed</entry>
         <entry>toArray</entry>
         <entry>&quot;</entry>
+        <entry>util.</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2dldC9zZXQvZw==</entry>
         <entry>set number</entry>
         <entry encoding="base64">JzwsJz5zL2kvaXQvZw==</entry>
         <entry encoding="base64">JzwsJz5zLygvWy9n</entry>
@@ -1642,6 +1650,7 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zL3V0aWwuLy9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
