@@ -987,8 +987,12 @@
         <mark key="." line="14" column="34" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/VankinsMile.kt" timestamp="1521668508026">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/VankinsMile.kt" timestamp="1521729678019">
+        <mark key="'" line="27" column="45" />
+        <mark key="[" line="67" column="25" />
+        <mark key="]" line="69" column="13" />
+        <mark key="." line="69" column="13" />
+        <mark key="^" line="69" column="13" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" timestamp="1520647677164">
         <mark key="[" line="13" column="47" />
@@ -1440,10 +1444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="27" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" />
-      <jump line="126" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" />
-      <jump line="132" column="26" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" />
-      <jump line="2" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" />
       <jump line="153" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" />
       <jump line="150" column="15" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" />
       <jump line="149" column="21" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPoints.kt" />
@@ -1540,22 +1540,26 @@
       <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
       <jump line="336" column="47" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
       <jump line="358" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
+      <jump line="5" column="54" filename="$USER_HOME$/VCS/AlgoKt/src/dp/VankinsMile.kt" />
+      <jump line="37" column="20" filename="$USER_HOME$/VCS/AlgoKt/src/dp/VankinsMile.kt" />
+      <jump line="3" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/VankinsMile.kt" />
+      <jump line="28" column="45" filename="$USER_HOME$/VCS/AlgoKt/src/dp/VankinsMile.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IE9uZUFycmF5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vIHdlIHdhbnQgbWF4X3tpLCBqfXsgZHAoaSwgaikgfQoJcmV0dXJuIGRwLm1hcCB7IGl0Lm1heCgpIH0ubWF4QnkgeyBpdCA/OiAwIH0gPzogMAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IE9uZUFycmF5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>asSequence().</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWlubGluZSBmdW4gPFI+IG1hcCh0cmFuc2Zvcm06IChUKSAtPiBSKSA9IGNvbnRhaW5lci5tYXAodHJhbnNmb3JtKQo=</text>
+        <text encoding="base64">CQltYXggPSBtYXgobWF4LCBkcFtuLCBqXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKCTIgaW4gb25lQXJyYXlPZigxLCAyKQp9Cg==</text>
+        <text encoding="base64">CS8vIHdlIHdhbnQgbWF4X3tpLCBqfXsgZHAoaSwgaikgfQoJcmV0dXJuIGRwLm1hcCB7IGl0Lm1heCgpIH0ubWF4QnkgeyBpdCA/OiAwIH0gPzogMAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1590,28 +1594,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKCXZhbCBhcnIgPSBvbmVBcnJheU9mKDEsIDQsIDIsIDUpCglhcnIuZmlsdGVySW5kZXhlZCB7IGksIHYgLT4gaSA+PSAyICYmIHYgPj0gNCB9LmZvckVhY2ggeyBwcmludGxuKGl0KSB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIHdlIHdhbnQgbWF4X2ksIGogeyBkcChpLCBqKSB9Cgl2YXIgbWF4ID0gMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZ1biBmaW5kKHByZWRpY2F0ZTogKFQpIC0+IEJvb2xlYW4pOiBUPyB7fQo=</text>
+        <text encoding="base64">CQkJbWF4ID0gbWF4KG1heCwgZHBbaSwgal0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRwW24sIG5dID0gR1tuLCBuXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWlubGluZSBmdW4gPFQsIFI+IG1hcCh0cmFuc2Zvcm06IChUKSAtPiBSKSA9IGNvbnRhaW5lci5tYXAodHJhbnNmb3JtKQo=</text>
+        <text encoding="base64">CXZhciBtYXggPSBkcFtuLCBuXQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWFyci5maWx0ZXIgeyBpdCA+PSAyIH0udG9MaXN0KAo=</text>
+        <text encoding="base64">CS8vIHdlIHdhbnQgbWF4X3tpLCBqfXsgZHAoaSwgaikgfQoJdmFyIG1heCA9IGRwW24sIG5dCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaW50bG4oYXJyLmluZGV4T2YoMikpCg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKCXZhbCBhcnIgPSBvbmVBcnJheU9mKDEsIDUsIDIpCglhcnIuZm9yRWFjaEluZGV4ZWQgeyBpZHgsIGkgLT4gcHJpbnRsbigiJGlkeDokaSIpIH0KfQo=</text>
+        <text encoding="base64">CQkJaWYgKGkgIT0gbiAmJiBqICE9IG4pIHsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2FzU2VxdWVuY2UoKS4vL2c=</text>
