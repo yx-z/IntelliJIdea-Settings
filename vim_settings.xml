@@ -926,6 +926,12 @@
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MinAwkward.kt" timestamp="1521771062597">
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="48" />
+        <mark key="." line="17" column="48" />
+        <mark key="^" line="17" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/arr/RotateMatrix.kt" timestamp="1508027658110">
         <mark key="[" line="33" column="5" />
         <mark key="]" line="32" column="36" />
@@ -1693,7 +1699,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKCXZhbCByb290ID0gQmluVHJlZU5vZGUoMikKCXJvb3QubGVmdCA9IEJpblRyZWVOb2RlKDMpCglyb290LnJpZ2h0ID0gQmluVHJlZU5vZGUoNCkKCXJvb3QucmlnaHQhIS5yaWdodCA9IEJpblRyZWVOb2RlKDUpCglwcmludGxuKHJvb3QpCn0K</text>
+        <text encoding="base64">CVRPRAo=</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -1705,7 +1711,7 @@
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKCXZhbCByb290ID0gQmluVHJlZU5vZGUoMikKCXJvb3QubGVmdCA9IEJpblRyZWVOb2RlKDMpCglyb290LnJpZ2h0ID0gQmluVHJlZU5vZGUoNCkKCXJvb3QucmlnaHQhIS5yaWdodCA9IEJpblRyZWVOb2RlKDUpCglwcmludGxuKHJvb3QpCn0K</text>
+        <text encoding="base64">CVRPRAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1740,28 +1746,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm9vdC5kYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3BlcmF0b3IgZnVuIENoYXIudGltZXMoaTogSW50KSA9IHRvU3RyaW5nKCkucmVwZWF0KGkpCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJvb3QuZGF0YSA9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b3BlcmF0b3IgZnVuIFN0cmluZy50aW1lcyhuOiBJbnQpID0gcmVwZWF0KG4pCg==</text>
+        <text encoding="base64">CmltcG9ydCB0cmVlLmJpbnRyZWUuQmluVHJlZU5vZGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0ci50aW1lcwo=</text>
+        <text encoding="base64">CXZhbCByb290ID0gQmluVHJlZU5vZGUoMCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJvb3QubGVmdCA9IEJpblRyZWVOb2RlKDEwKQoJcm9vdC5yaWdodCA9IEJpblRyZWVOb2RlKDQpCglyb290LmxlZnQhIS5sZWZ0ID0gQmluVHJlZU5vZGUoMikKCXJvb3QubGVmdCEhLnJpZ2h0ID0gQmluVHJlZU5vZGUoMikKCXJvb3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b3BlcmF0b3IgZnVuIFN0cmluZy50aW1lcyhpOiBJbnQpID0gdGhpcy5yZXBlYXQoaSkK</text>
+        <text encoding="base64">Ly8gdGhlcmUgaXMgYW4gZWRnZSBiZXR3ZWVuIHR3byBub2RlcyBpZmYuIG9uZSBpcyBhIGRpcmVjdCBwYXJlbnQgb2YgdGhlIG90aGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXZhbCBzYiA9IFN0cmluZ0J1aWxkZXIoKQoJZm9yIChpIGluIDAgdW50aWwgY291bnQpIHsKCQlzYi5hcHBlbmQoJyAnKQoJfQoJcmV0dXJuIHNiCn0K</text>
+        <text encoding="base64">CmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKCXZhbCByb290ID0gQmluVHJlZU5vZGUoMikKCXJvb3QubGVmdCA9IEJpblRyZWVOb2RlKDMpCglyb290LnJpZ2h0ID0gQmluVHJlZU5vZGUoNCkKCXJvb3QucmlnaHQhIS5yaWdodCA9IEJpblRyZWVOb2RlKDUpCglwcmludGxuKHJvb3QpCn0K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
