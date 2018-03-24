@@ -689,7 +689,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521907662150">
+      <file name="/Dummy.txt" timestamp="1521909533424">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -957,6 +957,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="6" column="24" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/Grpah.kt" timestamp="1521910206915">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
       </file>
       <file name="F:/FHIR/src/util/GetPublicFields.java" timestamp="1510383420582">
         <mark key="[" line="56" column="37" />
@@ -1614,7 +1621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="23" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPlusMult.kt" />
       <jump line="68" column="34" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPlusMult.kt" />
       <jump line="183" column="32" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
       <jump line="42" column="45" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
@@ -1714,22 +1720,23 @@
       <jump line="57" column="35" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxValueWord.kt" />
       <jump line="67" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxValueWord.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxValueWord.kt" />
+      <jump line="10" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/Grpah.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyBkdWUK</text>
+        <text encoding="base64">CW92ZXJyaWRlIHZhciBlZGdlczogU2V0PEVkZ2U8ViwgRT4+ID0gSGFzaFNldCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>second</text>
+        <text>T</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJZHBbdGhpc10hIVtrXVswXSA9IG1pbihkcFtsZWZ0ISFdISFba11bMF0sIGRwW2xlZnQhIV0hIVtrXVsxXSkKCQkJZHBbdGhpc10hIVtrXVsxXSA9IG1pbihkcFtsZWZ0ISFdISFbayAtIDFdWzBdLCBkcFtsZWZ0ISFdISFbayAtIDFdWzFdICsgZGF0YS5zZWNvbmQhISkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBkdWUK</text>
+        <text encoding="base64">CW92ZXJyaWRlIHZhciBlZGdlczogU2V0PEVkZ2U8ViwgRT4+ID0gSGFzaFNldCgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1764,45 +1771,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaW50bG4oZ2VuU2V0cygnYScsMikpCg==</text>
+        <text encoding="base64">CQlnZXQoKSA9IFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGluaXRpYWxpemVyIG9mIGNyZWF0ZWQgcHJvcGVydGllcyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCgkJc2V0KHZhbHVlKSB7fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaW50bG4oaW5jbHVkZVN0YXJ0KQo=</text>
+        <text encoding="base64">CQlzZXQodmFsdWUpIHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWlmIChzdGFydCA+ICd6JyB8fCBudW0gPD0gMCkgewoJCXJldHVybiBoYXNoU2V0T2YoaGFzaFNldE9mKCkpCgl9Cg==</text>
+        <text encoding="base64">CQlnZXQoKSA9IFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGluaXRpYWxpemVyIG9mIGNyZWF0ZWQgcHJvcGVydGllcyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByaW50bG4oIklOQ0xVREVfU1RBUlQ6ICRpbmNsdWRlU3RhcnQiKQo=</text>
+        <text encoding="base64">CXZhcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWlmIChudW0gPT0gMSkgewoJCXZhbCBiYXNlID0gSGFzaFNldDxIYXNoU2V0PENoYXI+PigpCgkJKHN0YXJ0RnJvbS4uJ3onKS5mb3JFYWNoIHsgYmFzZS5hZGQoaGFzaFNldE9mKGl0KSkgfQoJCXJldHVybiBiYXNlCgl9CgoJdmFsIHNldHMgPSBnZW5TZXRzKHN0YXJ0RnJvbSArIDEsIG51bSAtIDEpCglzZXRzLmZvckVhY2ggeyBpdC5hZGQoc3RhcnRGcm9tKSB9CglyZXR1cm4gc2V0cwo=</text>
+        <text encoding="base64">CXZhbCB2ZXJ0ZXggPSBWZXJ0ZXgobnVsbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWlmIChudW0gPD0gMCB8fCBzdGFydEZyb20gPiAneicpIHsKCQl2YWwgZW1wdHkgPSBIYXNoU2V0PEhhc2hTZXQ8Q2hhcj4+KCkKCQllbXB0eS5hZGQoSGFzaFNldCgpKQoJCXJldHVybiBlbXB0eQoJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhbCBzZXQgPSBIYXNoU2V0PENoYXI+KG51bSkK</text>
+        <text encoding="base64">CXZhciBkYXRhOiBUPyA9IGRhdGEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJldHVybiBzZXQK</text>
+        <text encoding="base64">CXZhciBkYXRhCg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text encoding="base64">JzwsJz5zL1QvVi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>second</last-search>
+      <last-search>T</last-search>
       <last-offset />
-      <last-pattern>second</last-pattern>
-      <last-replace>first</last-replace>
-      <last-substitute>second</last-substitute>
+      <last-pattern>T</last-pattern>
+      <last-replace>V</last-replace>
+      <last-substitute>T</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Array</entry>
         <entry>as</entry>
         <entry>asSequence().</entry>
         <entry>boss</entry>
@@ -1822,9 +1828,9 @@
         <entry>pretty</entry>
         <entry>left</entry>
         <entry>second</entry>
+        <entry>T</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2Rpdi9yZW0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL211bHQvbnVtL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1wvLyUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2RwL3NlbGYvZw==</entry>
@@ -1844,6 +1850,7 @@
         <entry encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3NlY29uZC9maXJzdC9n</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zL1QvVi9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
