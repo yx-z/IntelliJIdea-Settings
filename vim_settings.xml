@@ -1200,11 +1200,12 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/GraphImpl.kt" timestamp="1521930458794">
-        <mark key="[" line="32" column="88" />
-        <mark key="]" line="32" column="87" />
-        <mark key="^" line="32" column="87" />
-        <mark key="." line="32" column="87" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/GraphImpl.kt" timestamp="1521931640087">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="17" column="4" />
+        <mark key="^" line="17" column="4" />
+        <mark key="." line="17" column="4" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/util/TreeUtil.kt" timestamp="1521772750078">
         <mark key="[" line="118" column="1" />
@@ -1615,12 +1616,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="114" column="12" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/Reachability.kt" timestamp="1521930621085">
-        <mark key="'" line="18" column="56" />
-        <mark key="[" line="41" column="48" />
-        <mark key="]" line="41" column="49" />
-        <mark key="." line="41" column="49" />
-        <mark key="^" line="17" column="58" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/Reachability.kt" timestamp="1521931715135">
+        <mark key="'" line="25" column="56" />
+        <mark key="[" line="56" column="45" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/GenTest.kt" timestamp="1508375962564">
         <mark key="[" line="1" column="0" />
@@ -1629,7 +1630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="15" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
       <jump line="227" column="19" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
       <jump line="289" column="34" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
       <jump line="330" column="44" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
@@ -1729,22 +1729,23 @@
       <jump line="15" column="33" filename="$USER_HOME$/VCS/AlgoKt/src/graph/Grpah.kt" />
       <jump line="10" column="43" filename="$USER_HOME$/VCS/AlgoKt/src/graph/Reachability.kt" />
       <jump line="18" column="56" filename="$USER_HOME$/VCS/AlgoKt/src/graph/Reachability.kt" />
+      <jump line="29" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/GraphImpl.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>weighed graph impl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlyZXR1cm4gc3VwZXIudG9TdHJpbmcoKQoJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>weighed graph impl</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>T</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJYWRqTGlzdC5tYXAgeyAoc3RhcnRWZXJ0ZXgsIGVuZFZlcnRleExpc3QpIC0+CgkJCQllbmRWZXJ0ZXhMaXN0Lm1hcCB7IGVuZFZlcnRleCAtPiBFZGdlKHN0YXJ0VmVydGV4LCBlbmRWZXJ0ZXgpIH0KCQkJfS5mbGF0dGVuKCkK</text>
+        <text encoding="base64">CQltYXJrZWQgPSBIYXNoTWFwKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZ2V0RWRnZXNPZih2ZXJ0ZXgpLmZvckVhY2ggewoJCQkJYmFnLmFkZCgpCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gc3VwZXIudG9TdHJpbmcoKQoJfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1779,28 +1780,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZhbCByYW5kID0gUmFuZG9tKCkK</text>
+        <text encoding="base64">CQlyZXR1cm4gc3VwZXIudG9TdHJpbmcoKQoJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWdyYXBoLgo=</text>
+        <text encoding="base64">CQlyZXR1cm4gc3VwZXIudG9TdHJpbmcoKQoJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhbCB2MSA9IFZlcnRleCgxKQo=</text>
+        <text encoding="base64">CQlpZiAodmVydGV4ID09PSBlbmQpIHsKCQkJcmV0dXJuIHRydWUKCQl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlnZXQoKSA9IFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGluaXRpYWxpemVyIG9mIGNyZWF0ZWQgcHJvcGVydGllcyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCgkJc2V0KHZhbHVlKSB7fQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbmQ6IFZlcnRleDxWPiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CXdoYXRldmVyRmlyc3RTZWFyY2goKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlnZXQoKSA9IFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGluaXRpYWxpemVyIG9mIGNyZWF0ZWQgcHJvcGVydGllcyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCgkJc2V0KHZhbHVlKSB7fQo=</text>
+        <text encoding="base64">CQl2YWwgbWFya2VkID0gSGFzaE1hcDxWZXJ0ZXg8Vj4sIEJvb2xlYW4+KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlnZXQoKSA9IFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGluaXRpYWxpemVyIG9mIGNyZWF0ZWQgcHJvcGVydGllcyB1c2UgRmlsZSB8IFNldHRpbmdzIHwgRmlsZSBUZW1wbGF0ZXMuCgkJc2V0KHZhbHVlKSB7fQo=</text>
+        <text encoding="base64">CXZhbCBtYXJrZWQgPSBIYXNoTWFwPFZlcnRleDxWPiwgQm9vbGVhbj4oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
