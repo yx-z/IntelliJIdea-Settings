@@ -50,11 +50,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/DeliverMsg.kt" timestamp="1521999354766">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="35" column="60" />
-        <mark key="." line="35" column="60" />
-        <mark key="^" line="35" column="60" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/DeliverMsg.kt" timestamp="1522003531167">
+        <mark key="'" line="65" column="12" />
+        <mark key="[" line="100" column="30" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="20" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/LargestBST.kt" timestamp="1503617592386">
         <mark key="'" line="47" column="0" />
@@ -715,7 +716,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521992073730">
+      <file name="/Dummy.txt" timestamp="1522003539411">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1695,8 +1696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="34" filename="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/BinTreeNode.java" />
-      <jump line="66" column="39" filename="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/BinTreeNode.java" />
       <jump line="39" column="30" filename="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/BinTreePrinter.java" />
       <jump line="91" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/BinTreePrinter.java" />
       <jump line="44" column="11" filename="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/LCA.kt" />
@@ -1795,22 +1794,24 @@
       <jump line="151" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
       <jump line="183" column="19" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
       <jump line="189" column="33" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
+      <jump line="15" column="14" filename="$USER_HOME$/VCS/AlgoKt/src/dp/DeliverMsg.kt" />
+      <jump line="65" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/dp/DeliverMsg.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>deliver msg add comments</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>deliver msg add comments</text>
       </register>
       <register name="/" type="4">
-        <text>n</text>
+        <text>right</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXJvb3QucmlnaHQhIS5sZWZ0ISEucmlnaHQgPSBCaW5UcmVlTm9kZSgwKQo=</text>
+        <text encoding="base64">CXZhbCByb290ID0gQmluVHJlZU5vZGUoMCkKCXJvb3QubGVmdCA9IEJpblRyZWVOb2RlKDApCglyb290LmxlZnQhIS5sZWZ0ID0gQmluVHJlZU5vZGUoMCkKCXJvb3QucmlnaHQgPSBCaW5UcmVlTm9kZSgwKQoJcm9vdC5yaWdodCEhLnJpZ2h0ID0gQmluVHJlZU5vZGUoMCkKCXJvb3QucmlnaHQhIS5sZWZ0ID0gQmluVHJlZU5vZGUoMCkKCXJvb3QucmlnaHQhIS5sZWZ0ISEubGVmdCA9IEJpblRyZWVOb2RlKDApCglyb290LnJpZ2h0ISEubGVmdCEhLnJpZ2h0ID0gQmluVHJlZU5vZGUoMCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlkYXRhID0gMCB0dSAwCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1845,45 +1846,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXJldHVybiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWxlZnQ/Lm1pblJvdW5kcygpCglyaWdodD8ubWluUm91bmRzKCkKCg==</text>
+        <text encoding="base64">CQlkYXRhLmZpcnN0ID0gMiArIG1pbihsZWZ0ISEuZGF0YS5maXJzdCwgbGVmdCEhLmRhdGEuc2Vjb25kKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWRhdGEgPSBtYXgobGVmdD8uZGF0YSA/OiAtMSwgcmlnaHQ/LmRhdGEgPzogLTEpICsgMQo=</text>
+        <text encoding="base64">CQlkYXRhLnNlY29uZCA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJvb3QucmlnaHQhIS5yaWdodCA9IDAKCXJvb3QucHJldHR5UHJpbnRUcmVlKCkKCXByaW50bG4ocm9vdC5taW5Sb3VuZHMoKSkKfQo=</text>
+        <text encoding="base64">CWlmICgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXJldHVybiBsZWZ0LmRhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWlmIChsZWZ0ICkK</text>
+        <text encoding="base64">CgkvLyBubyBjaGlsZHJlbiwgbm8gbWVzc2FnZSB0byBiZSBkZWxpdmVyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gMS4gbGV0IHRoZSB0cmVlIGJlIGEgYmluYXJ5IHRyZWUK</text>
+        <text encoding="base64">CS8vIG9rLCBmaW5lCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>n</last-search>
+      <last-search>right</last-search>
       <last-offset />
-      <last-pattern>n</last-pattern>
-      <last-replace>num</last-replace>
-      <last-substitute>n</last-substitute>
+      <last-pattern>right</last-pattern>
+      <last-replace>left</last-replace>
+      <last-substitute>right</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>1</entry>
         <entry>2</entry>
         <entry>3</entry>
         <entry>4</entry>
@@ -1903,9 +1903,9 @@
         <entry>.data</entry>
         <entry>curr.data.third</entry>
         <entry>n</entry>
+        <entry>right</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zL3V0aWwuLy9n</entry>
         <entry encoding="base64">JzwsJz5zL2FzU2VxdWVuY2UoKS4vL2c=</entry>
@@ -1924,6 +1924,7 @@
         <entry encoding="base64">JzwsJz5zLy5kYXRhLy5kYXRhLnRoaXJkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2N1cnIuZGF0YS50aGlyZC9udW0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL24vbnVtL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3JpZ2h0L2xlZnQvZw==</entry>
         <entry>noh</entry>
       </history-cmd>
       <history-expr />
