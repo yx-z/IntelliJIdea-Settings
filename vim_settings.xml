@@ -504,6 +504,13 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/Reachability3.kt" timestamp="1522089324786">
+        <mark key="'" line="85" column="51" />
+        <mark key="[" line="70" column="64" />
+        <mark key="]" line="70" column="63" />
+        <mark key="." line="70" column="63" />
+        <mark key="^" line="70" column="63" />
+      </file>
       <file name="$USER_HOME$/Github/Anko-Example/app/src/main/kotlin/ui/MainActivity.kt" timestamp="1505151261012">
         <mark key="'" line="92" column="0" />
         <mark key="[" line="86" column="44" />
@@ -646,7 +653,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522013523421">
+      <file name="/Dummy.txt" timestamp="1522089493178">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1462,12 +1469,12 @@
         <mark key="]" line="110" column="44" />
         <mark key="." line="110" column="44" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/GraphImpl.kt" timestamp="1521941161482">
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/GraphImpl.kt" timestamp="1522089395704">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="13" column="46" />
-        <mark key="]" line="13" column="50" />
-        <mark key="^" line="13" column="50" />
-        <mark key="." line="13" column="50" />
+        <mark key="[" line="162" column="56" />
+        <mark key="]" line="56" column="105" />
+        <mark key="." line="56" column="105" />
+        <mark key="^" line="56" column="105" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/bit/CountBit.kt" timestamp="1508378927398">
         <mark key="[" line="18" column="20" />
@@ -1540,7 +1547,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="19" filename="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/BinTreePrinter.java" />
       <jump line="30" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/BinTreePrinter.java" />
       <jump line="23" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/BinTreePrinter.kt" />
       <jump line="9" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/BinTreePrinter.kt" />
@@ -1640,78 +1646,53 @@
       <jump line="1" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/UnweighedShortestPath.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/UnweighedShortestPath.kt" />
       <jump line="66" column="38" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/FillJars.kt" />
+      <jump line="84" column="51" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/Reachability3.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXZhbCBwYXJlbnRNYXAgPSBncmFwaC5iZnMoc3RhcnQpCgl2YXIgcGFyZW50OiBWZXJ0ZXg8VHVwbGUzPEludCwgSW50LCBJbnQ+Pj8gPSBWZXJ0ZXgoNiB0dSAwIHR1IDEzKQoJd2hpbGUgKHBhcmVudCAhPSBzdGFydCkgewoJCXBhcmVudCA9IHBhcmVudE1hcFtwYXJlbnRdISEKCQlwcmludGxuKHBhcmVudCkKCX0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>reachability 3</text>
       </register>
       <register name="-" type="4">
-        <text>V</text>
+        <text>reachability 3</text>
       </register>
       <register name="/" type="4">
         <text>right</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CX0KCXByaW50bG4ocGFyZW50KQo=</text>
+        <text encoding="base64">CXZlcnRpY2VzLmZvckVhY2ggeyB2MSAtPgoJCXZlcnRpY2VzLmZvckVhY2ggeyB2MiAtPgoJCQl2ZXJ0aWNlcy5mb3JFYWNoIHsgdjMgLT4KCQkJCW5ld1ZlcnRpY2VzLmFkZChWZXJ0ZXgodjEgdHUgdjIgdHUgdjMpKQoJCQl9CgkJfQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhbCBwYXJlbnRNYXAgPSBncmFwaC5iZnMoc3RhcnQpCgl2YXIgcGFyZW50OiBWZXJ0ZXg8VHVwbGUzPEludCwgSW50LCBJbnQ+Pj8gPSBWZXJ0ZXgoNiB0dSAwIHR1IDEzKQoJd2hpbGUgKHBhcmVudCAhPSBzdGFydCkgewoJCXBhcmVudCA9IHBhcmVudE1hcFtwYXJlbnRdISEKCQlwcmludGxuKHBhcmVudCkKCX0KCg==</text>
+        <text encoding="base64">CW92ZXJyaWRlIG9wZXJhdG9yIGZ1biBjb21wb25lbnQzKCkgPSBkYXRhCglvcGVyYXRvciBmdW4gY29tcG9uZW50NCgpID0gaXNEaXJlY3RlZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="102" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="61" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="86" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="103" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="84" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="88" mods="130" />
           <key char="106" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaW50bG4ocGFyZW50KQo=</text>
+        <text encoding="base64">CW9wZXJhdG9yIGZ1biBjb21wb25lbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaW50bG4ocGFyZW50KQo=</text>
+        <text encoding="base64">CQkJCQkJZ2V0RWRnZXNPZih2MikuZm9yRWFjaCB7IHUyIC0+CgkJCQkJCQlnZXRFZGdlc09mKHYzKS5mb3JFYWNoIHsgdTMgLT4KCQkJCQkJCQlpZiAodTEgIT09IHUyICYmIHUyICE9PSB1MyAmJiB1MSAhPT0gdTMpIHsKCQkJCQkJCQkJbmV3RWRnZXMuYWRkKEVkZ2UoVmVydGV4KHYxIHR1IHYyIHR1IHYzKSwgVmVydGV4KHUxIHR1IHUyIHR1IHUzKSkpCgkJCQkJCQkJfQoJCQkJCQkJfQoJCQkJCQl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByaW50bG4ocGFyZW50TWFwW1ZlcnRleCg2IHR1IDAgdHUgMTMpXSkKCXByaW50bG4ocGFyZW50TWFwW1ZlcnRleCg2IHR1IDQgdHUgOSldKQoJcHJpbnRsbihwYXJlbnRNYXBbVmVydGV4KDAgdHUgNCB0dSAxNSldKQo=</text>
+        <text encoding="base64">CQkJCWdldEVkZ2VzT2YodjEpLmZvckVhY2ggeyBlMSAtPgoJCQkJCQoJCQkJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaW50bG4ocGFyZW50TWFwW1ZlcnRleCgwIHR1IDEwIHR1IDkpXSkK</text>
+        <text encoding="base64">CQkJCW5ld1ZlcnRpY2VzLmFkZChWZXJ0ZXgodjEgdHUgdjIgdHUgdjMpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlwcmludGxuKHZlcnRleCB0dSBsZXZlbCkK</text>
+        <text encoding="base64">VE9ETygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlwcmludGxuKCkK</text>
+        <text encoding="base64">CXZhbCBHID0gQWRqTWF0R3JhcGg8SW50PihoYXNoTWFwT2YoCgkJCVZlcnRleCgxKSB0byBoYXNoTWFwT2YoKQoJKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZhbCBwYXJlbnRNYXAgPSBncmFwaC5iZnMoc3RhcnQpCgl2YXIgcGFyZW50OiBWZXJ0ZXg8VHVwbGUzPEludCwgSW50LCBJbnQ+Pj8gPSBWZXJ0ZXgoNiB0dSAwIHR1IDEzKQoJd2hpbGUgKHBhcmVudCAhPSBzdGFydCkgewoJCXBhcmVudCA9IHBhcmVudE1hcFtwYXJlbnRdISEKCQlwcmludGxuKHBhcmVudCkKCX0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
