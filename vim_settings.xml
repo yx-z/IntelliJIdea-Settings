@@ -1242,12 +1242,11 @@
         <mark key="." line="88" column="34" />
         <mark key="^" line="88" column="34" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxWeightUnrootedTree.kt" timestamp="1522120172508">
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxWeightUnrootedTree.kt" timestamp="1522122270031">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="8" column="59" />
-        <mark key="]" line="9" column="36" />
-        <mark key="^" line="9" column="36" />
-        <mark key="." line="9" column="36" />
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Github/CS241/text_editor/editor_test.c" timestamp="1505592192709">
         <mark key="[" line="19" column="0" />
@@ -1670,11 +1669,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxWeightUnrootedTree.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>where</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXZhbCBUID0gdGhpcwoJdmFsIHYgPSBULnZlcnRpY2VzLnRvT25lQXJyYXkoKQoJdmFsIFYgPSB2LnNpemUKCS8vIGRwKGkpOiBtYXggd2VpZ2h0IGlmIGkgaGF2ZSBhZGRlZCB2WzEuLmldCgkvLyBtZW1vaXphdGlvbiBzdHJ1Y3R1cmU6IDFkIGFycmF5IGRwWzEuLlZdIDogZHBbaV0gPSBkcChpKQoJdmFsIGRwID0gT25lQXJyYXkoVikgeyAwIH0KCQoJLy8gYmFzZSBjYXNlOgoJLy8gZHAoMSkgPSAwCglkcFsxXSA9IDAKCQoJLy8gcmVjdXJzaXZlIGNhc2U6CgkvLyBkcChpKSA9IAoKCS8vIHdlIHdhbnQgZHBbVl0KCXJldHVybiBkcFtWXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>where</text>
+        <text>vertices</text>
       </register>
       <register name="/" type="4">
         <text>right</text>
@@ -1683,7 +1682,7 @@
         <text encoding="base64">CQkJV2VpZ2hlZEVkZ2UodmVydGljZXNbMV0sIHZlcnRpY2VzWzNdLCBkYXRhID0gLTcpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGdyYXBoLmFic3RyYWN0LkdyYXBoCg==</text>
+        <text encoding="base64">CXZhbCBUID0gdGhpcwoJdmFsIHYgPSBULnZlcnRpY2VzLnRvT25lQXJyYXkoKQoJdmFsIFYgPSB2LnNpemUKCS8vIGRwKGkpOiBtYXggd2VpZ2h0IGlmIGkgaGF2ZSBhZGRlZCB2WzEuLmldCgkvLyBtZW1vaXphdGlvbiBzdHJ1Y3R1cmU6IDFkIGFycmF5IGRwWzEuLlZdIDogZHBbaV0gPSBkcChpKQoJdmFsIGRwID0gT25lQXJyYXkoVikgeyAwIH0KCQoJLy8gYmFzZSBjYXNlOgoJLy8gZHAoMSkgPSAwCglkcFsxXSA9IDAKCQoJLy8gcmVjdXJzaXZlIGNhc2U6CgkvLyBkcChpKSA9IAoKCS8vIHdlIHdhbnQgZHBbVl0KCXJldHVybiBkcFtWXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1692,28 +1691,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl9IGVsc2UgaWYgKGxhZGRlcnMuYW55IHsgaXQuZmlyc3QgPT0gdi5kYXRhIH0pIHsKCQkJCgkJfQo=</text>
+        <text encoding="base64">CVRPRE8oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGdyYXBoLmFic3RyYWN0LkdyYXBoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkodiArIDEuLm1pbihlbmQsIHYgKyBrKSkuZm9yRWFjaCB7CgkJCWlmIChzbmFrZXMuYW55IHsgaXQuZmlyc3QgPT0gdiB9KSB7CgkJCQllZGdlcy5hCgkJCX0K</text>
+        <text encoding="base64">CQl9IGVsc2UgaWYgKGxhZGRlcnMuYW55IHsgaXQuZmlyc3QgPT0gdi5kYXRhIH0pIHsKCQkJCgkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZWRnZXMuYWRkKEVkZ2UoKSkK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CQkodiArIDEuLm1pbihlbmQsIHYgKyBrKSkuZm9yRWFjaCB7CgkJCWlmIChzbmFrZXMuYW55IHsgaXQuZmlyc3QgPT0gdiB9KSB7CgkJCQllZGdlcy5hCgkJCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CQkJZWRnZXMuYWRkKEVkZ2UoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZlcnRpY2VzLmZvckVhY2ggeyB2MSAtPgoJCXZlcnRpY2VzLmZvckVhY2ggeyB2MiAtPgoJCQl2ZXJ0aWNlcy5mb3JFYWNoIHsgdjMgLT4K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlsaXN0LmFkZChjdXJyKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
