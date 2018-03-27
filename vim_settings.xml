@@ -107,6 +107,13 @@
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/NumS.kt" timestamp="1521384532252">
         <mark key="[" line="13" column="9" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/PathReachability.kt" timestamp="1522165467356">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="59" column="13" />
+        <mark key="]" line="59" column="15" />
+        <mark key="." line="59" column="15" />
+        <mark key="^" line="59" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/math/Fib.kt" timestamp="1508624795141">
         <mark key="[" line="17" column="69" />
         <mark key="]" line="17" column="69" />
@@ -653,7 +660,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522126445095">
+      <file name="/Dummy.txt" timestamp="1522165474508">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -864,6 +871,13 @@
         <mark key="]" line="7" column="47" />
         <mark key="." line="7" column="47" />
         <mark key="^" line="7" column="47" />
+      </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/Island.kt" timestamp="1522165459728">
+        <mark key="'" line="42" column="31" />
+        <mark key="[" line="32" column="24" />
+        <mark key="]" line="32" column="26" />
+        <mark key="." line="32" column="26" />
+        <mark key="^" line="32" column="26" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MinAwkward.kt" timestamp="1521824345407">
         <mark key="'" line="95" column="0" />
@@ -1242,11 +1256,11 @@
         <mark key="." line="88" column="34" />
         <mark key="^" line="88" column="34" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxWeightUnrootedTree.kt" timestamp="1522126434648">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="8" />
-        <mark key="." line="12" column="38" />
-        <mark key="^" line="12" column="8" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxWeightUnrootedTree.kt" timestamp="1522165421373">
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="37" column="9" />
+        <mark key="." line="37" column="9" />
+        <mark key="^" line="37" column="9" />
       </file>
       <file name="$USER_HOME$/Github/CS241/text_editor/editor_test.c" timestamp="1505592192709">
         <mark key="[" line="19" column="0" />
@@ -1567,8 +1581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="27" filename="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/BinTreePrinter.kt" />
-      <jump line="79" column="41" filename="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/BinTreePrinter.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/BinTreePrinter.kt" />
       <jump line="17" column="2" filename="$USER_HOME$/VCS/AlgoKt/src/str/JsonXmlParser.kt" />
       <jump line="241" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/str/JsonXmlParser.kt" />
@@ -1667,16 +1679,18 @@
       <jump line="26" column="39" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxWeightUnrootedTree.kt" />
       <jump line="27" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxWeightUnrootedTree.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxWeightUnrootedTree.kt" />
+      <jump line="42" column="31" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/Island.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/PathReachability.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>snake ladder</text>
+        <text>maxWeight</text>
       </register>
       <register name="-" type="4">
-        <text>snake ladder</text>
+        <text>maxWeight</text>
       </register>
       <register name="/" type="4">
-        <text>right</text>
+        <text>maxWeight</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJZWRnZXMuZmlsdGVyIHsKCQkJCWlmIChpdC5pc0RpcmVjdGVkKSB7CgkJCQkJaXQuc3RhcnQgPT0gdmVydGV4CgkJCQl9IGVsc2UgewoJCQkJCWl0LnN0YXJ0ID09IHZlcnRleCB8fCBpdC5lbmQgPT0gdmVydGV4CgkJCQl9CgkJCX0K</text>
@@ -1719,18 +1733,16 @@
       </register>
     </registers>
     <search>
-      <last-search>right</last-search>
+      <last-search>maxWeight</last-search>
       <last-offset />
-      <last-pattern>right</last-pattern>
+      <last-pattern>maxWeight</last-pattern>
       <last-replace>left</last-replace>
       <last-substitute>right</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>2</entry>
-        <entry>3</entry>
         <entry>4</entry>
         <entry>5</entry>
         <entry>TreeNode</entry>
@@ -1749,6 +1761,8 @@
         <entry>curr.data.third</entry>
         <entry>n</entry>
         <entry>right</entry>
+        <entry>maxWei</entry>
+        <entry>maxWeight</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
