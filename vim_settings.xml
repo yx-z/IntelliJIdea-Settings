@@ -952,6 +952,13 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/ShortestPathWeighted.kt" timestamp="1522257959644">
+        <mark key="'" line="14" column="62" />
+        <mark key="[" line="41" column="32" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+        <mark key="^" line="32" column="28" />
+      </file>
       <file name="$USER_HOME$/Github/CS241/utilities_unleashed/time.c" timestamp="1505444232127">
         <mark key="[" line="31" column="37" />
         <mark key="]" line="32" column="33" />
@@ -1545,11 +1552,12 @@
         <mark key="]" line="110" column="44" />
         <mark key="." line="110" column="44" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/GraphImpl.kt" timestamp="1522198232479">
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/GraphImpl.kt" timestamp="1522257982537">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="56" column="26" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+        <mark key="[" line="17" column="42" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="17" column="42" />
+        <mark key="^" line="17" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/bit/CountBit.kt" timestamp="1508378927398">
         <mark key="[" line="18" column="20" />
@@ -1622,8 +1630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MinAwkward.kt" />
-      <jump line="89" column="93" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MinAwkward.kt" />
       <jump line="93" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MinAwkward.kt" />
       <jump line="52" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxValueWord.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxValueWord.kt" />
@@ -1722,22 +1728,24 @@
       <jump line="40" column="55" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/GameRanking.kt" />
       <jump line="22" column="13" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/MaxWeightPathDAG.kt" />
       <jump line="25" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/recur/Multiplication.kt" />
+      <jump line="11" column="63" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/ShortestPathWeighted.kt" />
+      <jump line="13" column="62" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/ShortestPathWeighted.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQp9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>maxWeight</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaW50bG4oImRpcmVjdCBtZXRob2QgdGFrZXMgJGRpcmVjdCBtcyIpCg==</text>
+        <text encoding="base64">CQkJV2VpZ2h0ZWRFZGdlKHZlcnRpY2VzWzBdLCB2ZXJ0aWNlc1szXSwgdHJ1ZSwgMykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQp9Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1746,28 +1754,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CVRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
+        <text encoding="base64">CQlUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3BlcmF0b3IgZnVuICgoKSAtPiBVbml0KS50aW1lcyhpOiBJbnQpIHsKCQp9Cg==</text>
+        <text encoding="base64">CW92ZXJyaWRlIGZ1biBjb21wYXJlVG8ob3RoZXI6IFZlcnRleDxWPikgPSBkYXRhLmNvbXBhcmVUbyhvdGhlci5kYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaW50bG4ocHJvZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZhciBjb3VudCA9IDAK</text>
+        <text encoding="base64">CW92ZXJyaWRlIGZ1biBjb21wYXJlVG8ob3RoZXI6IENvbXBhcmFibGVWZXJ0ZXg8Vj4pOiBJbnQgewoJCVRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgoJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ZnVuIDxWIDogQ29tcGFyYWJsZTxWPj4gVmVydGV4PFY+LmNvbXBhcmVUbyhvdGhlcjogVmVydGV4PFY+KSA9IGRhdGEuY29tcGFyZVRvKG90aGVyLmRhdGEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQoJCg==</text>
+        <text encoding="base64">CQkJV2VpZ2h0ZWRFZGdlKHZlcnRpY2VzWzBdLCB2ZXJ0aWNlc1szXSwgdHJ1ZSwgMykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaW50bG4oZHApCg==</text>
+        <text encoding="base64">CQp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaW50bG4oZ3JhcGgpCg==</text>
+        <text encoding="base64">CVRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
