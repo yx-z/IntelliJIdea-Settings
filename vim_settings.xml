@@ -133,6 +133,12 @@
         <mark key="." line="127" column="101" />
         <mark key="^" line="127" column="101" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/LongestPathDAG.kt" timestamp="1522197556301">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="51" />
+        <mark key="." line="2" column="12" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LAS.kt" timestamp="1521070682894">
         <mark key="'" line="14" column="44" />
         <mark key="[" line="34" column="7" />
@@ -448,11 +454,11 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="154" column="28" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/TopoSort.kt" timestamp="1522195668413">
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/TopoSort.kt" timestamp="1522197752030">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="31" column="24" />
-        <mark key="]" line="31" column="24" />
-        <mark key="." line="31" column="24" />
+        <mark key="[" line="30" column="37" />
+        <mark key="]" line="30" column="38" />
+        <mark key="." line="30" column="38" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" timestamp="1521066404335">
         <mark key="'" line="55" column="0" />
@@ -666,10 +672,10 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522189914079">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1522198517098">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxProd.kt" timestamp="1521645851461">
         <mark key="'" line="148" column="0" />
@@ -1130,17 +1136,23 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/MaxWeightPathDAG.kt" timestamp="1522198511254">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="16" column="52" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LargestProd.kt" timestamp="1520946586367">
         <mark key="[" line="28" column="31" />
         <mark key="]" line="10" column="49" />
         <mark key="." line="10" column="49" />
         <mark key="^" line="10" column="49" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/GameRanking.kt" timestamp="1522195610557">
-        <mark key="'" line="40" column="55" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/GameRanking.kt" timestamp="1522197920631">
+        <mark key="'" line="39" column="55" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LOS.java" timestamp="1521056594183">
         <mark key="'" line="30" column="0" />
@@ -1520,9 +1532,9 @@
         <mark key="]" line="110" column="44" />
         <mark key="." line="110" column="44" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/GraphImpl.kt" timestamp="1522195052715">
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/GraphImpl.kt" timestamp="1522198232479">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="103" column="37" />
+        <mark key="[" line="56" column="26" />
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
       </file>
@@ -1597,7 +1609,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MinAwkward.kt" />
       <jump line="77" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MinAwkward.kt" />
       <jump line="76" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MinAwkward.kt" />
       <jump line="89" column="93" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MinAwkward.kt" />
@@ -1697,13 +1708,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/TopoSort.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/TopoSort.kt" />
       <jump line="40" column="55" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/GameRanking.kt" />
+      <jump line="22" column="13" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/MaxWeightPathDAG.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>king</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>king</text>
       </register>
       <register name="/" type="4">
         <text>maxWeight</text>
@@ -1712,7 +1724,7 @@
         <text encoding="base64">CQkJRWRnZSh2ZXJ0aWNlc1swXSwgdmVydGljZXNbMl0sIHRydWUpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlwcmludGxuKCIkdmVydGV4IC0+ICR1IikK</text>
+        <text encoding="base64">CXByaW50bG4oZHApCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1721,28 +1733,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaW50bG4oKQo=</text>
+        <text encoding="base64">CXByaW50bG4oZ3JhcGgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXByaW50bG4oaXQpCg==</text>
+        <text encoding="base64">CXByaW50bG4oZ3JhcGgpCglwcmludGxuKGdyYXBoLm1heFdlaWdodCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlwcmludGxuKCIkZmlyc3QsICRzZWNvbmQsICR0aGlyZCIpCg==</text>
+        <text encoding="base64">ago=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZhbCBuID0gcGxheWVycy5zaXplCgl2YWwgbSA9IGdhbWVzLnNpemUK</text>
+        <text encoding="base64">CVRPRE8oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJRWRnZSh2ZXJ0aWNlc1syXSwgdmVydGljZXNbMV0sIHRydWUpKQo=</text>
+        <text encoding="base64">CXByaW50bG4oZ3JhcGgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXByaW50bG4ocykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZWxzZSAtPiB7CgkJCX0K</text>
+        <text encoding="base64">CQl2YWwgdSA9IGlmIChzID09IHZlcnRleCkgZSBlbHNlIHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gc3VwZXIudG9TdHJpbmcoKQoJfQo=</text>
+        <text encoding="base64">CQlwcmludGxuKCIkdmVydGV4IC0+ICR1IikK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
