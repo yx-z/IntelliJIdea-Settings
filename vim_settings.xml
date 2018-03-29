@@ -144,12 +144,12 @@
         <mark key="." line="30" column="4" />
         <mark key="^" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/abstract/AllPairsShortestPath.kt" timestamp="1522347509707">
-        <mark key="'" line="38" column="4" />
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="39" column="14" />
-        <mark key="^" line="39" column="14" />
-        <mark key="." line="39" column="14" />
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/abstract/AllPairsShortestPath.kt" timestamp="1522349382611">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/tree/Trim.kt" timestamp="1508050459935">
         <mark key="'" line="4" column="66" />
@@ -836,16 +836,17 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522345943666">
+      <file name="/Dummy.txt" timestamp="1522349191250">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/util/OneArray.kt" timestamp="1522275143871">
-        <mark key="[" line="57" column="24" />
-        <mark key="]" line="57" column="24" />
-        <mark key="." line="57" column="24" />
-        <mark key="^" line="59" column="14" />
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/util/OneArray.kt" timestamp="1522347987892">
+        <mark key="'" line="51" column="4" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="." line="204" column="0" />
+        <mark key="^" line="204" column="49" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/util/StringUtil.kt" timestamp="1521768443002">
         <mark key="[" line="6" column="34" />
@@ -1664,9 +1665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
-      <jump line="336" column="47" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
-      <jump line="358" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
       <jump line="5" column="54" filename="$USER_HOME$/VCS/AlgoKt/src/dp/VankinsMile.kt" />
       <jump line="37" column="20" filename="$USER_HOME$/VCS/AlgoKt/src/dp/VankinsMile.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/VankinsMile.kt" />
@@ -1764,13 +1762,16 @@
       <jump line="12" column="23" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/abstract/AllPairsShortestPath.kt" />
       <jump line="22" column="4" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/abstract/AllPairsShortestPath.kt" />
       <jump line="38" column="4" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/abstract/AllPairsShortestPath.kt" />
+      <jump line="46" column="19" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/abstract/AllPairsShortestPath.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/abstract/AllPairsShortestPath.kt" />
+      <jump line="51" column="4" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/OneArray.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXByaW50bG4oZ3JhcGguYmVsbG1hbkZvcmRBbGwoKSkK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5NYXRoLmBwb3cK</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
@@ -1779,7 +1780,7 @@
         <text encoding="base64">CXByaW50bG4oZ3JhcGguYmVsbG1hbkZvcmRBbGwoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhbCAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5NYXRoLmBwb3cK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1814,28 +1815,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gZGlzdCh1LCB2KSA9IGRpc3QodQo=</text>
+        <text encoding="base64">CQkJCQlkaXN0W2ldW3UsIHZdID0gSU5GCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCS8vIGlmIHRoZSBncmFwaCBpcyB1bmRpcmVjdGVkCg==</text>
+        <text encoding="base64">CQkJCQkJCS5jb250YWlucyh2KSAtPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCS8vIHJlbGF4IHRoZSBvdGhlciAK</text>
+        <text encoding="base64">CQkJCQkJCS5tYXAgeyAocywgZSkgLT4gaWYgKHMgPT09IHUpIGUgZWxzZSBzIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CXZhciBtYXggPSBwb3coMi4wLCBrLnRvRG91YmxlKCkpCgl3aGlsZSAobWF4IDwgViAtIDEpIHsKCQlrKysKCQltYXggPSBwb3coMi4wLCBrLnRvRG91YmxlKCkpCgl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfSBlbHNlIHsKCQkJCQo=</text>
+        <text encoding="base64">CQkJCXZlcnRpY2VzLmZvckVhY2ggeyB3IC0+CgkJCQkJCgkJCQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJaWYgKGlzRGlyZWN0ZWQpIHsK</text>
+        <text encoding="base64">CXByaW50bG4obWF4KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZ1biBsYXN0KCkgPSB0aGlzW3NpemVdCgkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
