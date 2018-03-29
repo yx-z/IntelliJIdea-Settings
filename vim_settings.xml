@@ -694,7 +694,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522269795124">
+      <file name="/Dummy.txt" timestamp="1522281041323">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -1407,6 +1407,12 @@
         <mark key="." line="57" column="15" />
         <mark key="^" line="57" column="15" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/sort/QuickSort.kt" timestamp="1522281032514">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="31" column="15" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/str/LSNoRepeat.kt" timestamp="1508079549053">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="45" column="0" />
@@ -1758,10 +1764,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlwcmludGxuKG1ldGhvZE5hbWUpCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
@@ -1770,7 +1776,7 @@
         <text encoding="base64">CQlpZiAobGVmdCA8IGNhcGFjaXR5ICYmIGFycltzbWFsbGVzdF0hISA+IGFycltsZWZ0XSEhKSB7CgkJCXNtYWxsZXN0ID0gbGVmdAoJCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlwcmludGxuKG1ldGhvZE5hbWUpCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1779,28 +1785,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXByaW50bG4oaXQubmFtZSkK</text>
+        <text encoding="base64">CXZhbCBBID0gdGhpcwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaW50bG4oQXJyYXlzLnRvU3RyaW5nKG1lcmdlKSkK</text>
+        <text encoding="base64">CXZhciBpID0gc3RhcnQgLSAxCgl2YXIgaiA9IGVuZAoJd2hpbGUgKGkgPCBqKSB7CgkJZG8gewoJCQlpKysKCQl9IHdoaWxlIChpIDwgaiAmJiBBW2ldIDwgQVtlbmRdKQoKCQlkbyB7CgkJCWotLQoJCX0gd2hpbGUgKGkgPCBqICYmIEFbal0gPiBBW2VuZF0pCgoJCWlmIChpIDwgaikgewoJCQlzd2FwKGksIGopCgkJfQoJfQoKCXN3YXAoaSwgZW5kKQoJcmV0dXJuIGkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJaSsrCg==</text>
+        <text encoding="base64">CXN3YXAoaWR4LCBlbmQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJaSsrCg==</text>
+        <text encoding="base64">aW1wb3J0IHV0aWwucHJldHR5UHJpbnRsbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZhbCBhcnIgPSBpbnRBcnJheU9mKDMsIDQsIDEwLCAyLCA4LCA1LCA2LCA5LCA3KQoJcHJpbnRsbihhcnIucGFydGl0aW9uKDAsIGFyci5zaXplIC0gMSwgMikpCglhcnIucHJldHR5UHJpbnRsbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHV0aWwucHJldHR5UHJpbnRsbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpKysK</text>
+        <text encoding="base64">CWFyci5wcmV0dHlQcmludGxuKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlpKysK</text>
+        <text encoding="base64">CXZhbCBhcnIgPSBpbnRBcnJheU9mKDUsIDMsIDIsIDEsIDQpCglwcmludGxuKGFyci5wYXJ0aXRpb24oMCwgYXJyLnNpemUgLSAxLCBhcnIuc2l6ZSAtIDEpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
