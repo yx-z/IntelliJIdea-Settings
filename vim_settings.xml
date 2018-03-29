@@ -946,12 +946,12 @@
         <mark key="." line="40" column="22" />
         <mark key="^" line="40" column="22" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/LoopedTree.kt" timestamp="1522301108643">
-        <mark key="'" line="12" column="41" />
-        <mark key="[" line="37" column="9" />
-        <mark key="]" line="38" column="4" />
-        <mark key="." line="38" column="4" />
-        <mark key="^" line="38" column="4" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/LoopedTree.kt" timestamp="1522303033081">
+        <mark key="'" line="13" column="41" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="43" column="15" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/arr/RotateMatrix.kt" timestamp="1508027658110">
         <mark key="[" line="33" column="5" />
@@ -1786,10 +1786,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CWlmICh2ZXJ0ZXggPT09IHJvb3QpIHsKCQltYXBbdmVydGV4XSA9IDAKCQlyZXR1cm4KCX0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>isLeaf</text>
       </register>
       <register name="/" type="4">
         <text>kara</text>
@@ -1798,7 +1798,7 @@
         <text encoding="base64">CXByaW50bG4oZ3JhcGguc2hvcnRlc3RQYXRoKHZlcnRpY2VzWzBdLCB2ZXJ0aWNlc1s1XSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CWlmICh2ZXJ0ZXggPT09IHJvb3QpIHsKCQltYXBbdmVydGV4XSA9IDAKCQlyZXR1cm4KCX0KCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1807,28 +1807,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJfQoJCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpZiAodiAhPT0gcm9vdCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFwOiBIYXNoTWFwPFZlcnRleDxWPiwgSW50PikgewoJaWYgKHZlcnRleCA9PT0gcm9vdCkgewoJCW1hcFt2ZXJ0ZXhdID0gMAoJCXJldHVybgoJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaW50bG4ocm9vdC5kYXRhKQo=</text>
+        <text encoding="base64">CXVwKHJvb3QsIHJvb3QsIHVwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWdldFdlaWdodGVkRWRnZXNPZih2ZXJ0ZXgpCgkJCS5maWx0ZXIgeyAoXywgZSkgLT4gZSAhPT0gcm9vdCB9CgkJCS5tYXAgeyAocywgZSkgLT4gfQoJCQkubWluKCkKCQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlUT0RPKCkK</text>
+        <text encoding="base64">CQl1cChyb290LCB2ZXJ0ZXgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhbCByb290ID0gZWRnZXMuZmlsdGVyIHsgKCkgfQo=</text>
+        <text encoding="base64">CTEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWRvd24K</text>
+        <text encoding="base64">CQltYXBbdmVydGV4XSA9IGdldFcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJaWYgKGlzRGlyZWN0ZWQpIHsKCQkJCWlmIChkaXN0W3ZdISEgKyB3ZWlnaHQhISA8IGRpc3RbZW5kXSEhKSB7CgkJCQkJZGlzdFtlbmRdID0gZGlzdFt2XSEhICsgd2VpZ2h0CgkJCQkJcGFyZW50W2VuZF0gPSB2CgkJCQkJbWluSGVhcC5hZGQoZW5kKQoJCQkJfQoJCQl9IGVsc2Ugewo=</text>
+        <text encoding="base64">CXJvb3QudXAodXApCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
