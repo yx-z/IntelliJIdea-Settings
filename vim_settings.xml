@@ -703,7 +703,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522297661251">
+      <file name="/Dummy.txt" timestamp="1522303925854">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -946,12 +946,12 @@
         <mark key="." line="40" column="22" />
         <mark key="^" line="40" column="22" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/LoopedTree.kt" timestamp="1522303033081">
-        <mark key="'" line="13" column="41" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="43" column="15" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/LoopedTree.kt" timestamp="1522303884798">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="68" column="7" />
+        <mark key="]" line="57" column="41" />
+        <mark key="." line="57" column="41" />
+        <mark key="^" line="57" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/arr/RotateMatrix.kt" timestamp="1508027658110">
         <mark key="[" line="33" column="5" />
@@ -1683,7 +1683,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/GraphImpl.kt" />
       <jump line="57" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/GraphImpl.kt" />
       <jump line="47" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/GraphImpl.kt" />
       <jump line="43" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/GraphImpl.kt" />
@@ -1783,22 +1782,23 @@
       <jump line="23" column="41" filename="$USER_HOME$/VCS/AlgoKt/src/recur/Multiplication.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/recur/Multiplication.kt" />
       <jump line="11" column="41" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/LoopedTree.kt" />
+      <jump line="72" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/LoopedTree.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWlmICh2ZXJ0ZXggPT09IHJvb3QpIHsKCQltYXBbdmVydGV4XSA9IDAKCQlyZXR1cm4KCX0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>isLeaf</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>kara</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaW50bG4oZ3JhcGguc2hvcnRlc3RQYXRoKHZlcnRpY2VzWzBdLCB2ZXJ0aWNlc1s1XSkpCg==</text>
+        <text encoding="base64">CWRvd25bcm9vdF0gPSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWlmICh2ZXJ0ZXggPT09IHJvb3QpIHsKCQltYXBbdmVydGV4XSA9IDAKCQlyZXR1cm4KCX0KCg==</text>
+        <text encoding="base64">CXVwW3Jvb3RdID0gMAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1807,28 +1807,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRvd25bcm9vdF0gPSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWFwOiBIYXNoTWFwPFZlcnRleDxWPiwgSW50PikgewoJaWYgKHZlcnRleCA9PT0gcm9vdCkgewoJCW1hcFt2ZXJ0ZXhdID0gMAoJCXJldHVybgoJfQo=</text>
+        <text encoding="base64">CQkJZG93bltlXSA9IHchISArIGRvd25bdl0hIQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXVwKHJvb3QsIHJvb3QsIHVwKQo=</text>
+        <text encoding="base64">CWRvd25bcm9vdF0gPSAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWdldFdlaWdodGVkRWRnZXNPZih2ZXJ0ZXgpCgkJCS5maWx0ZXIgeyAoXywgZSkgLT4gZSAhPT0gcm9vdCB9CgkJCS5tYXAgeyAocywgZSkgLT4gfQoJCQkubWluKCkKCQo=</text>
+        <text encoding="base64">CXByaW50bG4odXBbc10pCglwcmludGxuKGRvd25bdF0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl1cChyb290LCB2ZXJ0ZXgpCg==</text>
+        <text encoding="base64">CXByaW50bG4oZG93bltyb290XSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CTEK</text>
+        <text encoding="base64">CXVwW3Jvb3RdID0gMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQltYXBbdmVydGV4XSA9IGdldFcK</text>
+        <text encoding="base64">CQkJcXVldWUyLmFkZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJvb3QudXAodXApCg==</text>
+        <text encoding="base64">CXZhciBpc1BhcmVudCA9IGZhbHNlCglxdWV1ZS5jbGVhcigpCglxdWV1ZS5hZGQocykKCXdoaWxlIChxdWV1ZS5pc05vdEVtcHR5KCkpIHsKCQl2YWwgdiA9IHF1ZXVlLnJlbW92ZSgpCgkJaWYgKHYgPT09IHQpIHsKCQkJaXNQYXJlbnQgPSB0cnVlCgkJCWJyZWFrCgkJfQoJCQoJCWdldEVkZ2VzT2YodikuZm9yRWFjaCB7IChfLCB3KSAtPgoJCQlpZiAodyAhPT0gcm9vdCkgewoJCQkJcXVldWUuYWRkKHcpCgkJCX0KCQl9Cgl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
