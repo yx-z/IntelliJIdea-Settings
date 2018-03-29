@@ -227,6 +227,12 @@
         <mark key="^" line="9" column="53" />
         <mark key="." line="9" column="53" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathNegEdge.kt" timestamp="1522296621783">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/CPS/src/test/TestVitalSigns.java" timestamp="1509535157920">
         <mark key="[" line="16" column="80" />
         <mark key="]" line="16" column="80" />
@@ -697,7 +703,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522287438552">
+      <file name="/Dummy.txt" timestamp="1522297661251">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -920,6 +926,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestMidPoint.kt" timestamp="1522297509540">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+        <mark key="^" line="19" column="23" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/Island.kt" timestamp="1522165459728">
         <mark key="'" line="42" column="31" />
         <mark key="[" line="32" column="24" />
@@ -979,12 +991,12 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/ShortestPathWeighted.kt" timestamp="1522295681328">
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/ShortestPathWeighted.kt" timestamp="1522297570584">
         <mark key="'" line="13" column="62" />
-        <mark key="[" line="83" column="23" />
-        <mark key="]" line="83" column="2" />
-        <mark key="." line="83" column="2" />
-        <mark key="^" line="83" column="2" />
+        <mark key="[" line="28" column="31" />
+        <mark key="]" line="29" column="50" />
+        <mark key="." line="29" column="50" />
+        <mark key="^" line="29" column="50" />
       </file>
       <file name="$USER_HOME$/Github/CS241/utilities_unleashed/time.c" timestamp="1505444232127">
         <mark key="[" line="31" column="37" />
@@ -1766,20 +1778,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/recur/Multiplication.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJZgo=</text>
+      <register name="&quot;" type="4">
+        <text>shortest path with exactly one negative edge</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>shortest path with exactly one negative edge</text>
       </register>
       <register name="/" type="4">
         <text>kara</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQk6IFR1cGxlMjxNYXA8VmVydGV4PFY+LCBJbnQ+LCBNYXA8VmVydGV4PFY+LCBWZXJ0ZXg8Vj4/Pj4gewoJdmFsIGRpc3QgPSBIYXNoTWFwPFZlcnRleDxWPiwgSW50PigpCgl2YWwgcGFyZW50ID0gSGFzaE1hcDxWZXJ0ZXg8Vj4sIFZlcnRleDxWPj8+KCkKCXZlcnRpY2VzLmZvckVhY2ggewoJCWRpc3RbaXRdID0gSW50Lk1BWF9WQUxVRQoJCXBhcmVudFtpdF0gPSBudWxsCgl9CglkaXN0W3NdID0gMAoKCXZhbCBtaW5IZWFwID0gUHJpb3JpdHlRdWV1ZTxWZXJ0ZXg8Vj4+KCkKCW1pbkhlYXAuYWRkKHMpCgoJd2hpbGUgKG1pbkhlYXAuaXNOb3RFbXB0eSgpKSB7CgkJdmFsIHYgPSBtaW5IZWFwLnJlbW92ZSgpCgkJZ2V0RWRnZXNPZih2KS5mb3JFYWNoIHsgKF8sIHcsIF8sIGQpIC0+CgkJCWlmIChkaXN0W3ZdISEgKyBkISEgPCBkaXN0W3ddISEpIHsKCQkJCWRpc3Rbd10gPSBkaXN0W3ZdISEgKyBkCgkJCQlwYXJlbnRbd10gPSB2CgkJCQltaW5IZWFwLmFkZCh3KQoJCQl9CgkJfQoJfQoKCXJldHVybiBkaXN0IHR1IHBhcmVudAo=</text>
+        <text encoding="base64">CXByaW50bG4oZGlzdFMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZgo=</text>
+        <text encoding="base64">CQkJaWYgKGlzRGlyZWN0ZWQpIHsKCQkJCWlmIChkaXN0W3ZdISEgKyB3ZWlnaHQhISA8IGRpc3RbZW5kXSEhKSB7CgkJCQkJZGlzdFtlbmRdID0gZGlzdFt2XSEhICsgd2VpZ2h0CgkJCQkJcGFyZW50W2VuZF0gPSB2CgkJCQkJbWluSGVhcC5hZGQoZW5kKQoJCQkJfQoJCQl9IGVsc2Ugewo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1788,28 +1800,33 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWRwLmZvckVhY2ggeyBtYXAgLT4K</text>
+        <text encoding="base64">CS8vIGZpbmQgdGhlIG1pbl92IHsgbWF4eyBkaXN0U1t2XSwgZGlzdFRbdl0gfSB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXJldHVybiAK</text>
+      <register name="4" type="8">
+        <text>true,
+true,
+true,
+true,
+true,
+true,</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXByaW50bG4oZ3JhcGguYmVsbG1hbkZvcmQodmVydGljZXNbMF0pKQo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">LCB0cnVlLCAKLCB0cnVlLCAKLCB0cnVlLCAKLCB0cnVlLCAKLCB0cnVlLCAKLCB0cnVlLCA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuIDxWPiBXZWlnaHRlZEdyYXBoPFYsIEludD4uYmVsbG1hbkZvcmQoczogVmVydGV4PFY+KQoJCTogVHVwbGUyPE1hcDxWZXJ0ZXg8Vj4sIEludD4sIE1hcDxWZXJ0ZXg8Vj4sIFZlcnRleDxWPj8+PiB7Cgl2YWwgZGlzdCA9IEhhc2hNYXA8VmVydGV4PFY+LCBJbnQ+KCkKCXZhbCBwYXJlbnQgPSBIYXNoTWFwPFZlcnRleDxWPiwgVmVydGV4PFY+Pz4oKQoJdmVydGljZXMuZm9yRWFjaCB7CgkJZGlzdFtpdF0gPSBJbnQuTUFYX1ZBTFVFCgkJcGFyZW50W2l0XSA9IG51bGwKCX0KCWRpc3Rbc10gPSAwCgoJdmFsIHF1ZXVlOiBRdWV1ZTxWZXJ0ZXg8Vj4+ID0gTGlua2VkTGlzdDxWZXJ0ZXg8Vj4+KCkKCXF1ZXVlLmFkZChzKQoKCXdoaWxlIChxdWV1ZS5pc05vdEVtcHR5KCkpIHsKCQl2YWwgdiA9IHF1ZXVlLnJlbW92ZSgpCgkJZ2V0RWRnZXNPZih2KS5mb3JFYWNoIHsgKF8sIHcsIF8sIGQpIC0+CgkJCWlmIChkaXN0W3ZdISEgKyBkISEgPCBkaXN0W3ddISEpIHsKCQkJCWRpc3Rbd10gPSBkaXN0W3ZdISEgKyBkCgkJCQlwYXJlbnRbd10gPSB2CgkJCQlxdWV1ZS5hZGQodykKCQkJfQoJCX0KCX0KCglyZXR1cm4gZGlzdCB0dSBwYXJlbnQKfQo=</text>
+        <text encoding="base64">CXZhbCBuZXdHcmFwaCA9IFdlaWdodGVkR3JhcGgobmV3VmVydGljZXMsIG5ld0VkZ2VzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaW50bG4oa2FyYXN0dWJhKE0xLnRvRG91YmxlKCksIE0yLnRvRG91YmxlKCksIDQuMCkpCgo=</text>
+        <text encoding="base64">CXZhbCBpbmNsdWRlID0gc01hcC5maXJzdFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhbCBwID0gcG93KDEwLjAsIG0pCg==</text>
+        <text encoding="base64">CXZhbCBub3RJbmNsdWRlID0gbmV3R3JhcGguZGlqa3N0cmEocykuZmlyc3RbdF0hIQoJdmFsIGluY2x1ZGUgPSBuZXdHcmFwaC5kaWprc3RyYShzKS5maXJzdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CglwcmludGxuKCJlOiAkZSIpCglwcmludGxuKCJmOiAkZiIpCglwcmludGxuKCJnOiAkZyIpCglwcmludGxuKCJlICsgZiAtIGc6ICR7ZSArIGYgLSBnfSIpCg==</text>
+        <text encoding="base64">CXdlaWdodGVkRWRnZXMuZm9yRWFjaCB7IGVkZ2UgLT4KCQlpZiAoZWRnZS5kYXRhID4gMCkgewoJCQluZXcKCQl9Cgl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
