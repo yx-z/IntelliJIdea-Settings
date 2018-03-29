@@ -699,10 +699,12 @@
         <mark key="." line="52" column="35" />
         <mark key="^" line="52" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/abstract/GraphImpl.kt" timestamp="1522255635168">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/abstract/GraphImpl.kt" timestamp="1522350973754">
+        <mark key="'" line="58" column="4" />
+        <mark key="[" line="71" column="32" />
+        <mark key="]" line="71" column="33" />
+        <mark key="^" line="188" column="28" />
+        <mark key="." line="71" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/Xtern/src/UserGroupReport.java" timestamp="1508553338604">
         <mark key="[" line="62" column="15" />
@@ -836,7 +838,7 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522349191250">
+      <file name="/Dummy.txt" timestamp="1522350749496">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -1665,7 +1667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="54" filename="$USER_HOME$/VCS/AlgoKt/src/dp/VankinsMile.kt" />
       <jump line="37" column="20" filename="$USER_HOME$/VCS/AlgoKt/src/dp/VankinsMile.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/VankinsMile.kt" />
       <jump line="28" column="45" filename="$USER_HOME$/VCS/AlgoKt/src/dp/VankinsMile.kt" />
@@ -1765,22 +1766,23 @@
       <jump line="46" column="19" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/abstract/AllPairsShortestPath.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/abstract/AllPairsShortestPath.kt" />
       <jump line="51" column="4" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/util/OneArray.kt" />
+      <jump line="58" column="4" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/abstract/GraphImpl.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5NYXRoLmBwb3cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>getEdges</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXByaW50bG4oZ3JhcGguYmVsbG1hbkZvcmRBbGwoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5NYXRoLmBwb3cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1815,37 +1817,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlkaXN0W2ldW3UsIHZdID0gSU5GCg==</text>
+        <text encoding="base64">CW92ZXJyaWRlIGZ1biBnZXRFZGdlc09mKHZlcnRleDogVmVydGV4PFY+KSA9IGdldFdlaWdodGVkRWRnZXNPZih2ZXJ0ZXgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCS5jb250YWlucyh2KSAtPgo=</text>
+        <text encoding="base64">CS8vIGFzc3VtZSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCS5tYXAgeyAocywgZSkgLT4gaWYgKHMgPT09IHUpIGUgZWxzZSBzIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZhciBtYXggPSBwb3coMi4wLCBrLnRvRG91YmxlKCkpCgl3aGlsZSAobWF4IDwgViAtIDEpIHsKCQlrKysKCQltYXggPSBwb3coMi4wLCBrLnRvRG91YmxlKCkpCgl9Cg==</text>
+        <text encoding="base64">CW92ZXJyaWRlIGZ1biBnZXRFZGdlc09mKHZlcnRleDogVmVydGV4PFY+KSA9IGdldFdlaWdodGVkRWRnZXNPZih2ZXJ0ZXgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXZlcnRpY2VzLmZvckVhY2ggeyB3IC0+CgkJCQkJCgkJCQl9Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaW50bG4obWF4KQo=</text>
+        <text encoding="base64">CglmdW4gZ2V0V2VpZ2h0ZWRFZGdlc09mKHY6IFZlcnRleDxWPiwgY2hlY2tJZGVudGl0eTogQm9vbGVhbiA9IHRydWUpID0KCQkJd2VpZ2h0ZWRFZGdlcy5maWx0ZXIgewoJCQkJaWYgKGl0LmlzRGlyZWN0ZWQpIHsKCQkJCQlpdC52ZXJ0ZXgxID09IHYKCQkJCX0gZWxzZSB7CgkJCQkJaXQudmVydGV4MSA9PSB2IHx8IGl0LnZlcnRleDIgPT0gdgoJCQkJfQoJCQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZ1biBsYXN0KCkgPSB0aGlzW3NpemVdCgkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CW92ZXJyaWRlIGZ1biBnZXRFZGdlc09mKHY6IFZlcnRleDxWPiwgY2hlY2tJZGVudGl0eTogQm9vbGVhbiA9IHRydWUpID0gZ2V0V2VpZ2h0ZWRFZGdlc09mKHYsIGNoZWNrSWRlbnRpdHkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>getEdges</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>getEdges</last-pattern>
       <last-replace>first</last-replace>
       <last-substitute>second</last-substitute>
       <last-dir>1</last-dir>
@@ -1853,7 +1855,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asSequence().</entry>
         <entry>boss</entry>
         <entry>1</entry>
         <entry>2</entry>
@@ -1873,6 +1874,7 @@
         <entry>swap</entry>
         <entry>pretty</entry>
         <entry>print</entry>
+        <entry>getEdges</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2Rpdi9yZW0vZw==</entry>
