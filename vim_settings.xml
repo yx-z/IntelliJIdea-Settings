@@ -209,12 +209,12 @@
         <mark key="." line="27" column="14" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" timestamp="1522376750787">
-        <mark key="'" line="354" column="0" />
-        <mark key="[" line="211" column="66" />
-        <mark key="]" line="212" column="4" />
-        <mark key="." line="212" column="4" />
-        <mark key="^" line="212" column="4" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" timestamp="1522440375017">
+        <mark key="'" line="356" column="0" />
+        <mark key="[" line="349" column="59" />
+        <mark key="]" line="349" column="25" />
+        <mark key="^" line="349" column="25" />
+        <mark key="." line="349" column="25" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/other/PriorityQueue.kt" timestamp="1522258243663">
         <mark key="[" line="38" column="5" />
@@ -673,6 +673,13 @@
         <mark key="]" line="27" column="6" />
         <mark key="^" line="27" column="6" />
         <mark key="." line="27" column="6" />
+      </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LargestPattern.kt" timestamp="1522441367635">
+        <mark key="'" line="2" column="9" />
+        <mark key="[" line="41" column="48" />
+        <mark key="]" line="43" column="47" />
+        <mark key="." line="43" column="47" />
+        <mark key="^" line="43" column="47" />
       </file>
       <file name="F:/FHIR/src/util/StringUtils.java" timestamp="1510383292831">
         <mark key="[" line="8" column="27" />
@@ -1712,20 +1719,20 @@
       <jump line="19" column="17" filename="$USER_HOME$/VCS/AlgoKt/src/recur/WeightedMedian.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add time complexity analysisΩ</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQkJbWF4ID0gbWF4KG1heCwgaWYgKGN1cnIgPD0gMCkgMCBlbHNlIGN1cnIgKiBoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>add time complexity analysisΩ</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>kara</text>
+        <text encoding="base64">XDxdXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuIE9uZUFycmF5PEludD4ucGFydGl0aW9uKGlkeDogSW50KTogSW50IHsKCXZhbCBBID0gdGhpcwoJdmFsIG4gPSBzaXplCgoJc3dhcChpZHgsIG4pCgl2YXIgaSA9IDAKCXZhciBqID0gbgoJd2hpbGUgKGkgPCBqKSB7CgkJZG8gewoJCQlpKysKCQl9IHdoaWxlIChpIDwgaiAmJiBBW2ldIDwgQVtuXSkKCgkJZG8gewoJCQlqLS0KCQl9IHdoaWxlIChpIDwgaiAmJiBBW2pdID4gQVtuXSkKCgkJaWYgKGkgPCBqKSB7CgkJCXN3YXAoaSwgaikKCQl9Cgl9CgoJLy8gbm93IGlkeCA+PSBqCglzd2FwKGksIG4pCglyZXR1cm4gaQp9Cg==</text>
+        <text encoding="base64">b3BlcmF0b3IgZnVuIDxUPiBPbmVBcnJheTxPbmVBcnJheTxPbmVBcnJheTxPbmVBcnJheTxUPj4+Pi5nZXQoaTE6IEludCwgaTI6IEludCwgaTM6IEludCwgaTQ6IEludCkgPSB0aGlzW2kxXVtpMl1baTNdW2k0XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXJldHVybiBpCg==</text>
+        <text encoding="base64">CQkJCQkJbWF4ID0gbWF4KG1heCwgaWYgKGN1cnIgPD0gMCkgMCBlbHNlIGN1cnIgKiBoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1734,45 +1741,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZhciByID0gcGFydGl0aW9uVHVwbGUoMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuIE9uZUFycmF5PFR1cGxlMjxJbnQsIEludD4+LnBhcnRpdGlvbihpZHg6IEludCk6IEludCB7Cgl2YWwgQSA9IHRoaXMKCXZhbCBuID0gc2l6ZQoKCXN3YXAoaWR4LCBuKQoJdmFyIGkgPSAwCgl2YXIgaiA9IG4KCXdoaWxlIChpIDwgaikgewoJCWRvIHsKCQkJaSsrCgkJfSB3aGlsZSAoaSA8IGogJiYgQVtpXSA8IEFbbl0pCgoJCWRvIHsKCQkJai0tCgkJfSB3aGlsZSAoaSA8IGogJiYgQVtqXSA+IEFbbl0pCgoJCWlmIChpIDwgaikgewoJCQlzd2FwKGksIGopCgkJfQoJfQoKCS8vIG5vdyBpZHggPj0gagoJc3dhcChpLCBuKQoJcmV0dXJuIGkKfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuIE9uZUFycmF5PFR1cGxlMjxJbnQsIEludD4+LnBhcnRpdGlvbihpZHg6IEludCkgewoKfQo=</text>
+        <text encoding="base64">CU0ucHJldHR5UHJpbnRUYWJsZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwuVHVwbGUyCmltcG9ydCB1dGlsLm9uZUFycmF5T2YK</text>
+        <text encoding="base64">CWRwLnByZXR0eVByaW50VGFibGVzKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZhbCByb290ID0gQmluVHJlZU5vZGUoUHJlWzFdKQo=</text>
+        <text encoding="base64">CQkJCQlmb3IgKGggaW4gMS4ubikgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwuT25lQXJyYXkKaW1wb3J0IHV0aWwub25lQXJyYXlPZgo=</text>
+        <text encoding="base64">CQkJCWZvciAocSBpbiAxLi5uKSB7CgkJCQkJZm9yIChoIGluIDEuLm4pIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4udG9vbHMuamF2YWMudHJlZS5QcmV0dHkK</text>
+        <text encoding="base64">CQkJCQkJaWYgKGkgPT0gcCAmJiBqID09IHEpIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFsIFByZVRvSW4gPSBwcmVwcm9jZXNzKCkK</text>
+        <text encoding="base64">CWRwLmdldHRlckluZGV4T3V0T2ZCb3VuZHNIYW5kbGVyID0geyBPbmVBcnJheShuKSB7IDAgfX0K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>kara</last-search>
+      <last-search encoding="base64">XDxdXD4=</last-search>
       <last-offset />
-      <last-pattern>kara</last-pattern>
+      <last-pattern encoding="base64">XDxdXD4=</last-pattern>
       <last-replace>left</last-replace>
-      <last-substitute>right</last-substitute>
+      <last-substitute encoding="base64">XDxdXD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>System.out</entry>
         <entry>\\n</entry>
         <entry>\\\\</entry>
         <entry>\/</entry>
@@ -1792,6 +1798,7 @@
         <entry>divide(</entry>
         <entry>karatsuba</entry>
         <entry>kara</entry>
+        <entry encoding="base64">XDxdXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
