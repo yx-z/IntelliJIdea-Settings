@@ -691,7 +691,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522508715390">
+      <file name="/Dummy.txt" timestamp="1522514192737">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1637,11 +1637,15 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/WrongEdgeWeight.kt" timestamp="1522514161975">
+        <mark key="'" line="41" column="15" />
+        <mark key="[" line="40" column="71" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="40" column="83" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="26" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/FloodFill.kt" />
-      <jump line="132" column="30" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
-      <jump line="142" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
       <jump line="210" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
       <jump line="151" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
@@ -1739,22 +1743,25 @@
       <jump line="69" column="14" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/RectangleWalk.kt" />
       <jump line="82" column="71" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/AllPairsShortestPath.kt" />
       <jump line="104" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/AllPairsShortestPath.kt" />
+      <jump line="18" column="18" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/WrongEdgeWeight.kt" />
+      <jump line="10" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/WrongEdgeWeight.kt" />
+      <jump line="42" column="15" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/WrongEdgeWeight.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXByaW50bG4oZ3JhcGgud2Fyc2hhbGwoKSkK</text>
+        <text encoding="base64">aW1wb3J0IGdyYXBoLmFic3RyYWN0LmJlbGxtYW5Gb3JkT3B0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dist</text>
+        <text>restore</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxdXD4=</text>
+        <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaW50bG4oZ3JhcGgud2Fyc2hhbGwoKSkK</text>
+        <text encoding="base64">ZnVuIDxWPiBIYXNoTWFwPFZlcnRleDxWPiwgSGFzaE1hcDxWZXJ0ZXg8Vj4sIEludD4+LmlzQ29ycmVjdCgKCQl1OiBWZXJ0ZXg8Vj4sCgkJdjogVmVydGV4PFY+LAoJCW5ld1dlaWdodDogSW50KSA9IHRoaXNbdV0hIVt2XSEhIDw9IG5ld1dlaWdodAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWRpc3RbdSwgdiwgcl0gPSBtaW4oZGlzdFt1XSkK</text>
+        <text encoding="base64">aW1wb3J0IGdyYXBoLmFic3RyYWN0LmJlbGxtYW5Gb3JkT3B0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1763,45 +1770,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWlmIChkcFt1LCB2LCByIC0gMV0gPCBkaXN0W3UsIHIgXSkK</text>
+        <text encoding="base64">Ly8gbWlnaHQgYmUgbGFyZ2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZhbCBkaXN0ID0gSGFzaE1hcDxWZXJ0ZXg8Vj4sIEhhc2hNYXA8VmVydGV4PFY+LCBJbnQ+PigpCgl2ZXJ0aWNlcy5mb3JFYWNoIHsgdSAtPgoJCWRpc3RbdV0gPSBIYXNoTWFwKCkKCQl2ZXJ0aWNlcy5mb3JFYWNoIHsgdiAtPgoJCQlkaXN0W3UsIHZdID0gaWYgKHUgPT09IHYpIHsKCQkJCTAKCQkJfSBlbHNlIHsKCQkJCWdldFdlaWdodGVkRWRnZXNPZih1KQoJCQkJCQkuZmlyc3RPck51bGwgeyAoXywgZSkgLT4gZSA9PT0gdiB9Py5kYXRhID86IElORgoJCQl9CgkJfQoJfQoJCglyZXR1cm4gZGlzdAo=</text>
+        <text encoding="base64">ZnVuIDxWPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuIDxWPiBIYXNoTWFwPFZlcnRleDxWPiwgSGFzaE1hcDxWZXJ0ZXg8Vj4sIEludD4+LmlzQ29ycmVjdCgpID0KCQl0aGlzW3UsIHZdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWlmIChkaXN0W3UsIHZdISEgPiBkaXN0W3UsIHJdISEgKyBkaXN0W3IsIHZdISEpIHsKCQkJCQlkaXN0W3UsIHZdID0gZGlzdFt1LCByXSArIGRpCgkJCQl9Cg==</text>
+        <text encoding="base64">ZnVuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl2ZXJ0aWNlcy5mb3JFYWNoIHsgdiAtPgoJCQlkaXN0W3UsIHZdID0gaWYgKGdldFdlaWdodGVkRWRnZXNPZih1KS5hbnkgeyAoXywgZSkgLT4gZSA9PT0gdiB9KSB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJfSBlbHNlIHsKCQkJCUlORgoJCQl9Cg==</text>
+        <text encoding="base64">CmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKCQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhbCBHID0gdGhpcwoJdmFsIFYgPSB2ZXJ0aWNlcy5zaXplCgkK</text>
+        <text encoding="base64">CXZhbCBkaXN0ID0gdGhpcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXZhbCB2ID0gdmVydGljZXMudG9MaXN0KCkgLy8gbm93IHdlIGhhdmUgYSBsaXN0IG9mIHZlcnRpY2VzIG9mIHNvbWUgb3JkZXJpbmcK</text>
+        <text encoding="base64">CQkJdGhpc1t4LCB5XSA9IG1pbih0aGlzW3gsIHldISEsIHRoaXNbeCwgdV0hISArIG5ld1dlaWdodCArIHRoaXNbdiwgeV0hISkK</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text encoding="base64">JzwsJz5zL3RoaXMvZGlzdC9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxdXD4=</last-search>
+      <last-search>this</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxdXD4=</last-pattern>
-      <last-replace>left</last-replace>
-      <last-substitute encoding="base64">XDxdXD4=</last-substitute>
+      <last-pattern>this</last-pattern>
+      <last-replace>dist</last-replace>
+      <last-substitute>this</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\\n</entry>
         <entry>\\\\</entry>
         <entry>\/</entry>
         <entry>times</entry>
@@ -1821,9 +1827,9 @@
         <entry>karatsuba</entry>
         <entry>kara</entry>
         <entry encoding="base64">XDxdXD4=</entry>
+        <entry>this</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zL3V0aWwuLy9n</entry>
         <entry encoding="base64">JzwsJz5zL2FzU2VxdWVuY2UoKS4vL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2Jvc3MvbWFuYWdlci9n</entry>
@@ -1843,6 +1849,7 @@
         <entry encoding="base64">JzwsJz5zL24vbnVtL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3JpZ2h0L2xlZnQvZw==</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zL3RoaXMvZGlzdC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
