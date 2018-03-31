@@ -474,6 +474,11 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="154" column="28" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/TopoSort.kt" timestamp="1522536617481">
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/WeaklyInc.kt" timestamp="1521066404335">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="5" column="0" />
@@ -983,10 +988,10 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/ShortestPathWeighted.kt" timestamp="1522524534847">
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/ShortestPathWeighted.kt" timestamp="1522535127526">
         <mark key="'" line="13" column="62" />
         <mark key="[" line="15" column="0" />
-        <mark key="]" line="38" column="24" />
+        <mark key="]" line="36" column="4" />
         <mark key="." line="29" column="50" />
         <mark key="^" line="29" column="50" />
       </file>
@@ -1535,10 +1540,12 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="39" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/NumShortestPaths.kt" timestamp="1522524670097">
-        <mark key="[" line="9" column="50" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/NumShortestPaths.kt" timestamp="1522536662261">
+        <mark key="'" line="24" column="24" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="41" column="49" />
       </file>
       <file name="F:/FHIR/src/model/vitalsign/VitalSignUnits.java" timestamp="1510024220710">
         <mark key="[" line="12" column="11" />
@@ -1657,7 +1664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
       <jump line="183" column="19" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
       <jump line="189" column="33" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
       <jump line="15" column="14" filename="$USER_HOME$/VCS/AlgoKt/src/dp/DeliverMsg.kt" />
@@ -1757,22 +1763,23 @@
       <jump line="42" column="15" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/WrongEdgeWeight.kt" />
       <jump line="23" column="35" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/CurrencyExchange.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/CurrencyExchange.kt" />
+      <jump line="24" column="24" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/NumShortestPaths.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgl2YWwgZGlzdCA9IEhhc2hNYXA8VmVydGV4PFY+LCBJbnQ+KCkKCXZlcnRpY2VzLmZvckVhY2ggewoJCWRpc3RbaXRdID0gSU5GCgl9CglkaXN0W3NdID0gMAoKCXZhbCBtaW5IZWFwID0gUHJpb3JpdHlRdWV1ZTxWZXJ0ZXg8Vj4+KCkKCW1pbkhlYXAuYWRkKHMpCgoJd2hpbGUgKG1pbkhlYXAuaXNOb3RFbXB0eSgpKSB7CgkJdmFsIHYgPSBtaW5IZWFwLnJlbW92ZSgpCgkJZ2V0V2VpZ2h0ZWRFZGdlc09mKHYpLmZvckVhY2ggeyBlZGdlIC0+CgkJCXZhbCAoc3RhcnQsIGVuZCwgXywgd2VpZ2h0KSA9IGVkZ2UKCQkJdmFsIHUgPSBpZiAoc3RhcnQgPT09IHYpIGVuZCBlbHNlIHN0YXJ0CgkJCWlmIChkaXN0W3ZdISEgKyB3ZWlnaHQhISA8IGRpc3RbdV0hISkgewoJCQkJZGlzdFt1XSA9IGRpc3Rbdl0hISArIHdlaWdodAoJCQkJbmV3RWRnZXMuYWRkKGVkZ2UpCgkJCQltaW5IZWFwLmFkZCh1KQoJCQl9CgkJfQoJfQo=</text>
+        <text encoding="base64">CXByaW50bG4obGlzdCkK</text>
       </register>
       <register name="-" type="4">
-        <text>WeightedGraph</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXZhbCBkaXN0ID0gSGFzaE1hcDxWZXJ0ZXg8Vj4sIEludD4oKQoJdmFsIHBhcmVudCA9IEhhc2hNYXA8VmVydGV4PFY+LCBWZXJ0ZXg8Vj4/PigpCgl2ZXJ0aWNlcy5mb3JFYWNoIHsKCQlkaXN0W2l0XSA9IElORgoJCXBhcmVudFtpdF0gPSBudWxsCgl9CglkaXN0W3NdID0gMAoKCXZhbCBtaW5IZWFwID0gUHJpb3JpdHlRdWV1ZTxWZXJ0ZXg8Vj4+KCkKCW1pbkhlYXAuYWRkKHMpCgoJd2hpbGUgKG1pbkhlYXAuaXNOb3RFbXB0eSgpKSB7CgkJdmFsIHYgPSBtaW5IZWFwLnJlbW92ZSgpCgkJZ2V0V2VpZ2h0ZWRFZGdlc09mKHYpLmZvckVhY2ggeyAoc3RhcnQsIGVuZCwgXywgd2VpZ2h0KSAtPgoJCQl2YWwgdSA9IGlmIChzdGFydCA9PT0gdikgZW5kIGVsc2Ugc3RhcnQKCQkJaWYgKGRpc3Rbdl0hISArIHdlaWdodCEhIDwgZGlzdFt1XSEhKSB7CgkJCQlkaXN0W3VdID0gZGlzdFt2XSEhICsgd2VpZ2h0CgkJCQlwYXJlbnRbdV0gPSB2CgkJCQltaW5IZWFwLmFkZCh1KQoJCQl9CgkJfQoJfQoKCXJldHVybiBkaXN0IHR1IHBhcmVudAo=</text>
+        <text encoding="base64">CXZhbCBkaXN0ID0gSGFzaE1hcDxWZXJ0ZXg8Vj4sIEludD4oKQoJdmFsIHBhcmVudCA9IEhhc2hNYXA8VmVydGV4PFY+LCBWZXJ0ZXg8Vj4/PigpCgl2ZXJ0aWNlcy5mb3JFYWNoIHsKCQlkaXN0W2l0XSA9IElORgoJCXBhcmVudFtpdF0gPSBudWxsCgl9CglkaXN0W3NdID0gMAoKCXZhbCBtaW5IZWFwID0gUHJpb3JpdHlRdWV1ZTxWZXJ0ZXg8Vj4+KCkKCW1pbkhlYXAuYWRkKHMpCgoJd2hpbGUgKG1pbkhlYXAuaXNOb3RFbXB0eSgpKSB7CgkJdmFsIHYgPSBtaW5IZWFwLnJlbW92ZSgpCgkJZ2V0V2VpZ2h0ZWRFZGdlc09mKHYpLmZvckVhY2ggeyAoc3RhcnQsIGVuZCwgXywgd2VpZ2h0KSAtPgoJCQl2YWwgdSA9IGlmIChzdGFydCA9PT0gdikgZW5kIGVsc2Ugc3RhcnQKCQkJaWYgKGRpc3Rbdl0hISArIHdlaWdodCEhIDwgZGlzdFt1XSEhKSB7CgkJCQlkaXN0W3VdID0gZGlzdFt2XSEhICsgd2VpZ2h0CgkJCQlwYXJlbnRbdV0gPSB2CgkJCQltaW5IZWFwLmFkZCh1KQoJCQl9CgkJfQoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgl2YWwgZGlzdCA9IEhhc2hNYXA8VmVydGV4PFY+LCBJbnQ+KCkKCXZlcnRpY2VzLmZvckVhY2ggewoJCWRpc3RbaXRdID0gSU5GCgl9CglkaXN0W3NdID0gMAoKCXZhbCBtaW5IZWFwID0gUHJpb3JpdHlRdWV1ZTxWZXJ0ZXg8Vj4+KCkKCW1pbkhlYXAuYWRkKHMpCgoJd2hpbGUgKG1pbkhlYXAuaXNOb3RFbXB0eSgpKSB7CgkJdmFsIHYgPSBtaW5IZWFwLnJlbW92ZSgpCgkJZ2V0V2VpZ2h0ZWRFZGdlc09mKHYpLmZvckVhY2ggeyBlZGdlIC0+CgkJCXZhbCAoc3RhcnQsIGVuZCwgXywgd2VpZ2h0KSA9IGVkZ2UKCQkJdmFsIHUgPSBpZiAoc3RhcnQgPT09IHYpIGVuZCBlbHNlIHN0YXJ0CgkJCWlmIChkaXN0W3ZdISEgKyB3ZWlnaHQhISA8IGRpc3RbdV0hISkgewoJCQkJZGlzdFt1XSA9IGRpc3Rbdl0hISArIHdlaWdodAoJCQkJbmV3RWRnZXMuYWRkKGVkZ2UpCgkJCQltaW5IZWFwLmFkZCh1KQoJCQl9CgkJfQoJfQo=</text>
+        <text encoding="base64">CXByaW50bG4obGlzdCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1781,28 +1788,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlwYXJlbnRbaXRdID0gbnVsbAo=</text>
+        <text encoding="base64">CXByaW50bG4obGlzdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZhbCBwYXJlbnQgPSBIYXNoTWFwPFZlcnRleDxWPiwgVmVydGV4PFY+Pz4oKQo=</text>
+        <text encoding="base64">CXByaW50bG4odmVydGV4KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXBhcmVudFt1XSA9IHYK</text>
+        <text encoding="base64">CQkJcHJpbnRsbihjbG9jaykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJldHVybiBkaXN0IHR1IHBhcmVudAo=</text>
+        <text encoding="base64">CQlwcmludGxuKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZhbCAoZGlzdCwgcGFyZW50KSA9IGRpamtzdHJhKHYpCg==</text>
+        <text encoding="base64">CQlwcmludGxuKGl0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWUK</text>
+        <text encoding="base64">CXByaW50bG4obGlzdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhbCBuZXdWZXJ0aWNlcyA9IGRpc3QuZmlsdGVyIHsgKF8sIHYpIC0+IHYgPCBJTkYgfS5rZXlzCg==</text>
+        <text encoding="base64">CXByaW50bG4obmV3R3JhcGgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXZhbCAoZGlzdCwgcGFyZW50KSA9IGRpamtzdHJhKHYpCg==</text>
+        <text encoding="base64">CXByaW50bG4obGlzdCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RoaXMvZGlzdC9n</text>
