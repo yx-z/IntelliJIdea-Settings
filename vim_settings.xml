@@ -983,9 +983,9 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/ShortestPathWeighted.kt" timestamp="1522297570584">
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/ShortestPathWeighted.kt" timestamp="1522514251395">
         <mark key="'" line="13" column="62" />
-        <mark key="[" line="28" column="31" />
+        <mark key="[" line="86" column="45" />
         <mark key="]" line="29" column="50" />
         <mark key="." line="29" column="50" />
         <mark key="^" line="29" column="50" />
@@ -1115,6 +1115,12 @@
         <mark key="]" line="128" column="14" />
         <mark key="." line="128" column="14" />
         <mark key="^" line="128" column="14" />
+      </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/CurrencyExchange.kt" timestamp="1522521317894">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+        <mark key="^" line="18" column="23" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" timestamp="1521949995710">
         <mark key="[" line="20" column="70" />
@@ -1646,8 +1652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
       <jump line="151" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
       <jump line="183" column="19" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
       <jump line="189" column="33" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
@@ -1746,13 +1750,15 @@
       <jump line="18" column="18" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/WrongEdgeWeight.kt" />
       <jump line="10" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/WrongEdgeWeight.kt" />
       <jump line="42" column="15" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/WrongEdgeWeight.kt" />
+      <jump line="23" column="35" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/CurrencyExchange.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/CurrencyExchange.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGdyYXBoLmFic3RyYWN0LmJlbGxtYW5Gb3JkT3B0Cg==</text>
+        <text encoding="base64">CQkJb25lQXJyYXlPZigxLjAsIDEwMC4wLCA1LjAsIDIwLjApLAoJCQlvbmVBcnJheU9mKDAuMDIsIDEuMCwgMi4wLCAzLjApLAoJCQlvbmVBcnJheU9mKDAuMywgMC4xNSwgMS4wLCAxLjUpLAoJCQlvbmVBcnJheU9mKDAuMSwgMC4zLCAwLjYsIDEuMCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>restore</text>
+        <text>n main</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
@@ -1761,7 +1767,7 @@
         <text encoding="base64">ZnVuIDxWPiBIYXNoTWFwPFZlcnRleDxWPiwgSGFzaE1hcDxWZXJ0ZXg8Vj4sIEludD4+LmlzQ29ycmVjdCgKCQl1OiBWZXJ0ZXg8Vj4sCgkJdjogVmVydGV4PFY+LAoJCW5ld1dlaWdodDogSW50KSA9IHRoaXNbdV0hIVt2XSEhIDw9IG5ld1dlaWdodAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGdyYXBoLmFic3RyYWN0LmJlbGxtYW5Gb3JkT3B0Cg==</text>
+        <text encoding="base64">CQkJb25lQXJyYXlPZigxLjAsIDEwMC4wLCA1LjAsIDIwLjApLAoJCQlvbmVBcnJheU9mKDAuMDIsIDEuMCwgMi4wLCAzLjApLAoJCQlvbmVBcnJheU9mKDAuMywgMC4xNSwgMS4wLCAxLjUpLAoJCQlvbmVBcnJheU9mKDAuMSwgMC4zLCAwLjYsIDEuMCkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1770,28 +1776,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gbWlnaHQgYmUgbGFyZ2VyCg==</text>
+        <text encoding="base64">CQkJfQoJCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuIDxWPgo=</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuIDxWPiBIYXNoTWFwPFZlcnRleDxWPiwgSGFzaE1hcDxWZXJ0ZXg8Vj4sIEludD4+LmlzQ29ycmVjdCgpID0KCQl0aGlzW3UsIHZdCg==</text>
+        <text encoding="base64">CQkJaWYgKGkgIT0gaikgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuCg==</text>
+        <text encoding="base64">CQkJCQlwcmludGxuKFZbal0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CQkJCVJbaSwgal0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKCQo=</text>
+        <text encoding="base64">aW1wb3J0IHV0aWwub25lQXJyYXlPZgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhbCBkaXN0ID0gdGhpcwo=</text>
+        <text encoding="base64">aW1wb3J0IGdyYXBoLmFic3RyYWN0LlZlcnRleAppbXBvcnQgZ3JhcGguYWJzdHJhY3QuV2VpZ2h0ZWRFZGdlCmltcG9ydCBncmFwaC5hYnN0cmFjdC5XZWlnaHRlZEdyYXBoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJdGhpc1t4LCB5XSA9IG1pbih0aGlzW3gsIHldISEsIHRoaXNbeCwgdV0hISArIG5ld1dlaWdodCArIHRoaXNbdiwgeV0hISkK</text>
+        <text encoding="base64">CXZhbCB2ZXJ0aWNlcyA9ICgxLi5uKS5tYXAgeyBWZXJ0ZXgoaXQpIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RoaXMvZGlzdC9n</text>
