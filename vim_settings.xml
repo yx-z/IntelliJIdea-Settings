@@ -1001,6 +1001,12 @@
         <mark key="^" line="77" column="86" />
         <mark key="." line="77" column="86" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAlterPath.kt" timestamp="1522607626411">
+        <mark key="[" line="17" column="67" />
+        <mark key="]" line="15" column="58" />
+        <mark key="." line="15" column="58" />
+        <mark key="^" line="15" column="58" />
+      </file>
       <file name="$USER_HOME$/Github/CS241/utilities_unleashed/time.c" timestamp="1505444232127">
         <mark key="[" line="31" column="37" />
         <mark key="]" line="32" column="33" />
@@ -1767,11 +1773,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathBitonic.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXBhcmVudFtzXSA9IHMK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Int</text>
       </register>
       <register name="/" type="4">
         <text>Vertex</text>
@@ -1780,7 +1786,7 @@
         <text encoding="base64">CXZhbCBkaXN0ID0gSGFzaE1hcDxWZXJ0ZXg8Vj4sIEludD4oKQoJdmFsIHBhcmVudCA9IEhhc2hNYXA8VmVydGV4PFY+LCBWZXJ0ZXg8Vj4/PigpCgl2ZXJ0aWNlcy5mb3JFYWNoIHsKCQlkaXN0W2l0XSA9IElORgoJCXBhcmVudFtpdF0gPSBudWxsCgl9CglkaXN0W3NdID0gMAoKCXZhbCBtaW5IZWFwID0gUHJpb3JpdHlRdWV1ZTxWZXJ0ZXg8Vj4+KCkKCW1pbkhlYXAuYWRkKHMpCgoJd2hpbGUgKG1pbkhlYXAuaXNOb3RFbXB0eSgpKSB7CgkJdmFsIHYgPSBtaW5IZWFwLnJlbW92ZSgpCgkJZ2V0V2VpZ2h0ZWRFZGdlc09mKHYsIGNoZWNrSWRlbnRpdHkpLmZvckVhY2ggeyAoc3RhcnQsIGVuZCwgaXNEaXJlY3RlZCwgd2VpZ2h0KSAtPgoJCQl2YWwgdSA9IGlmIChpc0RpcmVjdGVkIHx8IHN0YXJ0ID09IHYpIGVuZCBlbHNlIHN0YXJ0CgkJCWlmIChkaXN0W3ZdISEgKyB3ZWlnaHQhISA8IGRpc3RbdV0hISkgewoJCQkJZGlzdFt1XSA9IGRpc3Rbdl0hISArIHdlaWdodAoJCQkJcGFyZW50W3VdID0gdgoJCQkJbWluSGVhcC5hZGQodSkKCQkJfQoJCX0KCX0KCglyZXR1cm4gZGlzdCB0dSBwYXJlbnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5Db21wYXJhYmxlCg==</text>
+        <text encoding="base64">CXBhcmVudFtzXSA9IHMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1789,28 +1795,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJQ29tcGFyYWJsZVZlcnRleCgxKSwgCgkpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5Db21wYXJhYmxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CVRPRE8oKQo=</text>
+        <text encoding="base64">CQkJQ29tcGFyYWJsZVZlcnRleCgxKSwgCgkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXJldHVybiBkaXN0W3RdISEK</text>
+        <text encoding="base64">CVRPRE8oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGdyYXBoLmFic3RyYWN0LlZlcnRleAo=</text>
+        <text encoding="base64">CXJldHVybiBkaXN0W3RdISEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCXBhcmVudFt1XSA9IHYK</text>
+        <text encoding="base64">aW1wb3J0IGdyYXBoLmFic3RyYWN0LlZlcnRleAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlwYXJlbnRbaXRdID0gbnVsbAo=</text>
+        <text encoding="base64">CQkJCXBhcmVudFt1XSA9IHYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhbCBwYXJlbnQgPSBIYXNoTWFwPFZlcnRleDxJbnQ+LCBWZXJ0ZXg8SW50Pj8+KCkK</text>
+        <text encoding="base64">CQlwYXJlbnRbaXRdID0gbnVsbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJldHVybiBkaXN0IHR1IHBhcmVudAo=</text>
+        <text encoding="base64">CXZhbCBwYXJlbnQgPSBIYXNoTWFwPFZlcnRleDxJbnQ+LCBWZXJ0ZXg8SW50Pj8+KCkK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
