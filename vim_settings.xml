@@ -276,6 +276,9 @@
         <mark key="." line="55" column="4" />
         <mark key="^" line="55" column="4" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" timestamp="1522548384515">
+        <mark key="^" line="32" column="89" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/tree/TreeNode.kt" timestamp="1521760890931">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="18" />
@@ -697,10 +700,10 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522539228359">
+      <file name="/Dummy.txt" timestamp="1522548396069">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxProd.kt" timestamp="1521645851461">
         <mark key="'" line="148" column="0" />
@@ -989,10 +992,10 @@
         <mark key="." line="32" column="23" />
         <mark key="^" line="32" column="23" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/ShortestPathWeighted.kt" timestamp="1522539217914">
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/ShortestPathWeighted.kt" timestamp="1522547481214">
         <mark key="'" line="13" column="62" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="86" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="38" column="24" />
         <mark key="^" line="77" column="86" />
         <mark key="." line="77" column="86" />
       </file>
@@ -1665,17 +1668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="19" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
-      <jump line="189" column="33" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LineSeg.kt" />
-      <jump line="15" column="14" filename="$USER_HOME$/VCS/AlgoKt/src/dp/DeliverMsg.kt" />
-      <jump line="65" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/dp/DeliverMsg.kt" />
-      <jump line="67" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/FillJars.kt" />
-      <jump line="76" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/FillJars.kt" />
-      <jump line="82" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/FillJars.kt" />
-      <jump line="91" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/FillJars.kt" />
-      <jump line="97" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/FillJars.kt" />
-      <jump line="106" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/FillJars.kt" />
-      <jump line="112" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/FillJars.kt" />
       <jump line="28" column="16" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/UnweighedShortestPath.kt" />
       <jump line="27" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/UnweighedShortestPath.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/UnweighedShortestPath.kt" />
@@ -1765,22 +1757,33 @@
       <jump line="23" column="35" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/CurrencyExchange.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/CurrencyExchange.kt" />
       <jump line="24" column="24" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/NumShortestPaths.kt" />
+      <jump line="35" column="24" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
+      <jump line="20" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
+      <jump line="15" column="72" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
+      <jump line="58" column="61" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
+      <jump line="14" column="47" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
+      <jump line="38" column="19" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
+      <jump line="23" column="32" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
+      <jump line="57" column="65" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
+      <jump line="55" column="43" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
+      <jump line="30" column="69" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
+      <jump line="4" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXZhbCBJTkYgPSBJbnQuTUFYX1ZBTFVFIC8gMgo=</text>
+      <register name="&quot;" type="4">
+        <text>check id</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>check id</text>
       </register>
       <register name="/" type="4">
-        <text>this</text>
+        <text>Vertex</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXZhbCBkaXN0ID0gSGFzaE1hcDxWZXJ0ZXg8Vj4sIEludD4oKQoJdmFsIHBhcmVudCA9IEhhc2hNYXA8VmVydGV4PFY+LCBWZXJ0ZXg8Vj4/PigpCgl2ZXJ0aWNlcy5mb3JFYWNoIHsKCQlkaXN0W2l0XSA9IElORgoJCXBhcmVudFtpdF0gPSBudWxsCgl9CglkaXN0W3NdID0gMAoKCXZhbCBtaW5IZWFwID0gUHJpb3JpdHlRdWV1ZTxWZXJ0ZXg8Vj4+KCkKCW1pbkhlYXAuYWRkKHMpCgoJd2hpbGUgKG1pbkhlYXAuaXNOb3RFbXB0eSgpKSB7CgkJdmFsIHYgPSBtaW5IZWFwLnJlbW92ZSgpCgkJZ2V0V2VpZ2h0ZWRFZGdlc09mKHYpLmZvckVhY2ggeyAoc3RhcnQsIGVuZCwgXywgd2VpZ2h0KSAtPgoJCQl2YWwgdSA9IGlmIChzdGFydCA9PT0gdikgZW5kIGVsc2Ugc3RhcnQKCQkJaWYgKGRpc3Rbdl0hISArIHdlaWdodCEhIDwgZGlzdFt1XSEhKSB7CgkJCQlkaXN0W3VdID0gZGlzdFt2XSEhICsgd2VpZ2h0CgkJCQlwYXJlbnRbdV0gPSB2CgkJCQltaW5IZWFwLmFkZCh1KQoJCQl9CgkJfQoJfQo=</text>
+        <text encoding="base64">CXZhbCBkaXN0ID0gSGFzaE1hcDxWZXJ0ZXg8Vj4sIEludD4oKQoJdmFsIHBhcmVudCA9IEhhc2hNYXA8VmVydGV4PFY+LCBWZXJ0ZXg8Vj4/PigpCgl2ZXJ0aWNlcy5mb3JFYWNoIHsKCQlkaXN0W2l0XSA9IElORgoJCXBhcmVudFtpdF0gPSBudWxsCgl9CglkaXN0W3NdID0gMAoKCXZhbCBtaW5IZWFwID0gUHJpb3JpdHlRdWV1ZTxWZXJ0ZXg8Vj4+KCkKCW1pbkhlYXAuYWRkKHMpCgoJd2hpbGUgKG1pbkhlYXAuaXNOb3RFbXB0eSgpKSB7CgkJdmFsIHYgPSBtaW5IZWFwLnJlbW92ZSgpCgkJZ2V0V2VpZ2h0ZWRFZGdlc09mKHYsIGNoZWNrSWRlbnRpdHkpLmZvckVhY2ggeyAoc3RhcnQsIGVuZCwgaXNEaXJlY3RlZCwgd2VpZ2h0KSAtPgoJCQl2YWwgdSA9IGlmIChpc0RpcmVjdGVkIHx8IHN0YXJ0ID09IHYpIGVuZCBlbHNlIHN0YXJ0CgkJCWlmIChkaXN0W3ZdISEgKyB3ZWlnaHQhISA8IGRpc3RbdV0hISkgewoJCQkJZGlzdFt1XSA9IGRpc3Rbdl0hISArIHdlaWdodAoJCQkJcGFyZW50W3VdID0gdgoJCQkJbWluSGVhcC5hZGQodSkKCQkJfQoJCX0KCX0KCglyZXR1cm4gZGlzdCB0dSBwYXJlbnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhbCBJTkYgPSBJbnQuTUFYX1ZBTFVFIC8gMgo=</text>
+        <text encoding="base64">aW1wb3J0IGdyYXBoLmFic3RyYWN0LlZlcnRleAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1789,46 +1792,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZhbCBJTkYgPSBJbnQuTUFYX1ZBTFVFIC8gMgo=</text>
+        <text encoding="base64">CQkJCXBhcmVudFt1XSA9IHYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJaWYgKGlzRGlyZWN0ZWQpIHsKCQkJCQkJCWUgPT0gdgoJCQkJCQl9IGVsc2UgewoJCQkJCQkJdHJ1ZQoJCQkJCQl9Cg==</text>
+        <text encoding="base64">CQlwYXJlbnRbaXRdID0gbnVsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCWlmIChjaGVja0lkZW50aXR5KSB7CgkJCQkJCQkJZSA9PT0gdgoJCQkJCQkJfSBlbHNlIHsKCQkJCQkJCQllID09IHYKCQkJCQkJCX0K</text>
+        <text encoding="base64">CXZhbCBwYXJlbnQgPSBIYXNoTWFwPFZlcnRleDxJbnQ+LCBWZXJ0ZXg8SW50Pj8+KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJKGlzRGlyZWN0ZWQgJiYgKCghY2hlY2tJZGVudGl0eSAmJiBlID09IHYpIHx8IChjaGVja0lkZW50aXR5ICYmIGUgPT09IHYpKSkgfHwgIWlzRGlyZWN0ZWQK</text>
+        <text encoding="base64">CXJldHVybiBkaXN0IHR1IHBhcmVudAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJd2VpZ2h0ZWRFZGdlcwoJCQkJCS5maWx0ZXIgeyAocywgZSwgaXNEaXJlY3RlZCwgXykgLT4KCQkJCQkJaWYgKGlzRGlyZWN0ZWQpIAoJCQkJCX0gLy8gZ2V0IGFsbCBlZGdlcyB0byB2Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">CXZhbCBJTkYgPSBJbnQuTUFYX1ZBTFVFIC8gMgo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CXZhbCBJTkYgPSBJbnQuTUFYX1ZBTFVFIC8gMgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCQkJaWYgKGlzRGlyZWN0ZWQpIHsKCQkJCQkJCWUgPT0gdgoJCQkJCQl9IGVsc2UgewoJCQkJCQkJdHJ1ZQoJCQkJCQl9Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3RoaXMvZGlzdC9n</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>this</last-search>
+      <last-search>Vertex</last-search>
       <last-offset />
-      <last-pattern>this</last-pattern>
-      <last-replace>dist</last-replace>
-      <last-substitute>this</last-substitute>
+      <last-pattern>Vertex</last-pattern>
+      <last-replace>ComparableVertex</last-replace>
+      <last-substitute>Vertex</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\\\\</entry>
-        <entry>\/</entry>
         <entry>times</entry>
         <entry>pretty</entry>
         <entry>left</entry>
@@ -1847,10 +1848,10 @@
         <entry>kara</entry>
         <entry encoding="base64">XDxdXD4=</entry>
         <entry>this</entry>
+        <entry>V</entry>
+        <entry>Vertex</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3V0aWwuLy9n</entry>
-        <entry encoding="base64">JzwsJz5zL2FzU2VxdWVuY2UoKS4vL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2Jvc3MvbWFuYWdlci9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvMC9n</entry>
         <entry encoding="base64">JzwsJz5zLzIvMC9n</entry>
@@ -1867,8 +1868,10 @@
         <entry encoding="base64">JzwsJz5zL2N1cnIuZGF0YS50aGlyZC9udW0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL24vbnVtL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3JpZ2h0L2xlZnQvZw==</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMvZGlzdC9n</entry>
+        <entry encoding="base64">JzwsJz5zL1YvSW50L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1ZlcnRleC9Db21wYXJhYmxlVmVydGV4L2c=</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
