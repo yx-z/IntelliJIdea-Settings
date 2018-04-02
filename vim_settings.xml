@@ -699,13 +699,6 @@
         <mark key="." line="52" column="35" />
         <mark key="^" line="52" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/abstract/GraphImpl.kt" timestamp="1522350973754">
-        <mark key="'" line="58" column="4" />
-        <mark key="[" line="71" column="32" />
-        <mark key="]" line="71" column="33" />
-        <mark key="^" line="188" column="28" />
-        <mark key="." line="71" column="33" />
-      </file>
       <file name="$USER_HOME$/Desktop/Xtern/src/UserGroupReport.java" timestamp="1508553338604">
         <mark key="[" line="62" column="15" />
         <mark key="]" line="67" column="15" />
@@ -1268,6 +1261,12 @@
         <mark key="." line="55" column="27" />
         <mark key="^" line="55" column="27" />
       </file>
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/variation/RemoveNode.kt" timestamp="1522688876783">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="15" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MinAwkward.kt" timestamp="1521824345407">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="51" column="62" />
@@ -1769,8 +1768,8 @@
       <jump line="58" column="4" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/abstract/GraphImpl.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGFub3RoZXIgZGlyZWN0ZWQgYW5kIHdlaWdodGVkIGdyYXBoIEcnID0gKFYnICwgRScpLCBWJyA9IFYgXCB7dn0KLy8gLCB0aGF0IGlzLCByZW1vdmluZyBhIHNwZWNpZmljIHZlcnRleCBmcm9tIFYu</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -1781,8 +1780,8 @@
       <register name="0" type="2">
         <text encoding="base64">CXByaW50bG4oZ3JhcGguYmVsbG1hbkZvcmRBbGwoKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGFub3RoZXIgZGlyZWN0ZWQgYW5kIHdlaWdodGVkIGdyYXBoIEcnID0gKFYnICwgRScpLCBWJyA9IFYgXCB7dn0KLy8gLCB0aGF0IGlzLCByZW1vdmluZyBhIHNwZWNpZmljIHZlcnRleCBmcm9tIFYu</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1817,28 +1816,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CW92ZXJyaWRlIGZ1biBnZXRFZGdlc09mKHZlcnRleDogVmVydGV4PFY+KSA9IGdldFdlaWdodGVkRWRnZXNPZih2ZXJ0ZXgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIGFzc3VtZSAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">CW92ZXJyaWRlIGZ1biBnZXRFZGdlc09mKHZlcnRleDogVmVydGV4PFY+KSA9IGdldFdlaWdodGVkRWRnZXNPZih2ZXJ0ZXgpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CS8vIGFzc3VtZSAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CglmdW4gZ2V0V2VpZ2h0ZWRFZGdlc09mKHY6IFZlcnRleDxWPiwgY2hlY2tJZGVudGl0eTogQm9vbGVhbiA9IHRydWUpID0KCQkJd2VpZ2h0ZWRFZGdlcy5maWx0ZXIgewoJCQkJaWYgKGl0LmlzRGlyZWN0ZWQpIHsKCQkJCQlpdC52ZXJ0ZXgxID09IHYKCQkJCX0gZWxzZSB7CgkJCQkJaXQudmVydGV4MSA9PSB2IHx8IGl0LnZlcnRleDIgPT0gdgoJCQkJfQoJCQl9Cg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CW92ZXJyaWRlIGZ1biBnZXRFZGdlc09mKHZlcnRleDogVmVydGV4PFY+KSA9IGdldFdlaWdodGVkRWRnZXNPZih2ZXJ0ZXgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CglmdW4gZ2V0V2VpZ2h0ZWRFZGdlc09mKHY6IFZlcnRleDxWPiwgY2hlY2tJZGVudGl0eTogQm9vbGVhbiA9IHRydWUpID0KCQkJd2VpZ2h0ZWRFZGdlcy5maWx0ZXIgewoJCQkJaWYgKGl0LmlzRGlyZWN0ZWQpIHsKCQkJCQlpdC52ZXJ0ZXgxID09IHYKCQkJCX0gZWxzZSB7CgkJCQkJaXQudmVydGV4MSA9PSB2IHx8IGl0LnZlcnRleDIgPT0gdgoJCQkJfQoJCQl9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CW92ZXJyaWRlIGZ1biBnZXRFZGdlc09mKHY6IFZlcnRleDxWPiwgY2hlY2tJZGVudGl0eTogQm9vbGVhbiA9IHRydWUpID0gZ2V0V2VpZ2h0ZWRFZGdlc09mKHYsIGNoZWNrSWRlbnRpdHkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
