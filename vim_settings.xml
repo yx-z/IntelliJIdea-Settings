@@ -47,6 +47,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/variation/MaxWeightPathDAG.kt" timestamp="1522695915142">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/DeliverMsg.kt" timestamp="1522003531167">
         <mark key="'" line="65" column="12" />
         <mark key="[" line="100" column="30" />
@@ -615,6 +621,9 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/variation/NumShortestPaths.kt" timestamp="1522698349299">
+        <mark key="'" line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/IsS.kt" timestamp="1521384033614">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="111" column="87" />
@@ -725,7 +734,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522687473548">
+      <file name="/Dummy.txt" timestamp="1522695959204">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1214,6 +1223,13 @@
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="42" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/core/GraphImpl.kt" timestamp="1522698337515">
+        <mark key="'" line="216" column="0" />
+        <mark key="[" line="210" column="21" />
+        <mark key="]" line="211" column="39" />
+        <mark key="." line="211" column="39" />
+        <mark key="^" line="211" column="39" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Intersect.kt" timestamp="1503623458901">
         <mark key="'" line="26" column="12" />
         <mark key="[" line="18" column="45" />
@@ -1685,6 +1701,13 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/variation/RemoveAddOneVertex.kt" timestamp="1522698377093">
+        <mark key="'" line="38" column="35" />
+        <mark key="[" line="33" column="31" />
+        <mark key="]" line="33" column="35" />
+        <mark key="^" line="33" column="35" />
+        <mark key="." line="33" column="35" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/WrongEdgeWeight.kt" timestamp="1522514161975">
         <mark key="'" line="41" column="15" />
         <mark key="[" line="40" column="71" />
@@ -1694,11 +1717,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/TopoSort.kt" />
-      <jump line="2" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/TopoSort.kt" />
-      <jump line="40" column="55" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/GameRanking.kt" />
-      <jump line="22" column="13" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/MaxWeightPathDAG.kt" />
-      <jump line="25" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/recur/Multiplication.kt" />
       <jump line="11" column="63" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/ShortestPathWeighted.kt" />
       <jump line="13" column="62" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/ShortestPathWeighted.kt" />
       <jump line="87" column="22" filename="$USER_HOME$/VCS/AlgoKt/src/datastructure/PriorityQueue.kt" />
@@ -1794,10 +1812,15 @@
       <jump line="26" column="8" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAltPath.kt" />
       <jump line="61" column="44" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAltPath.kt" />
       <jump line="90" column="43" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAltPath.kt" />
+      <jump line="79" column="58" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/RemoveAddOneVertex.kt" />
+      <jump line="216" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/core/GraphImpl.kt" />
+      <jump line="10" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/NumShortestPaths.kt" />
+      <jump line="29" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/NumShortestPaths.kt" />
+      <jump line="38" column="35" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/RemoveAddOneVertex.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXByaW50bG4odXBDb3VudCkKCXByaW50bG4oZG93bkNvdW50KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>!</text>
@@ -1806,10 +1829,10 @@
         <text encoding="base64">PFY+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQltaW5QYXRoLmNsZWFyKCkKCQkJCQltaW5QYXRoLmFkZEFsbChkb3duUGF0aCkK</text>
+        <text encoding="base64">CW5ld0VkZ2VzLnJlbW92ZUFsbChnZXRFZGdlc1RvKHYsIGNoZWNrSWRlbnRpdHkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaW50bG4odXBDb3VudCkKCXByaW50bG4oZG93bkNvdW50KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1818,28 +1841,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlDb2xsZWN0aW9ucy5jb3B5KG1pblBhdGgsIHVwUGF0aCkK</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQlDb2xsZWN0aW9ucy5jb3B5KG1pblBhdGgsIGRvd25QYXRoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQlDb2xsZWN0aW9ucy5jb3B5KG1pblBhdGgsIGRvd25QYXRoKQo=</text>
+        <text encoding="base64">Y2xhc3MgRWRnZU5vdERpcmVjdGVkRXhjZXB0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlDb2xsZWN0aW9ucy5jb3B5KG1pblBhdGgsIHVwUGF0aCkK</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQltaW5QYXRoID0gdXBQYXRoCgkJCQkJbWluQ291bnQgPSBkb3duQ291bnQK</text>
+        <text encoding="base64">CQkJCWlmIChpdC5pc0RpcmVjdGVkKSB7CgkJCQkJaWYgKGNoZWNrSWRlbnRpdHkpIGl0LnZlcnRleDEgPT09IHYgZWxzZSBpdC52ZXJ0ZXgxID09IHYKCQkJCX0gZWxzZSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQltaW5QYXRoID0gZG93blBhdGgK</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQltaW5QYXRoID0gZG93blBhdGgK</text>
+        <text encoding="base64">CQkJCWlmIChpdC5pc0RpcmVjdGVkKSB7CgkJCQkJaWYgKGNoZWNrSWRlbnRpdHkpIGl0LnZlcnRleDEgPT09IHYgZWxzZSBpdC52ZXJ0ZXgxID09IHYKCQkJCX0gZWxzZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaW50bG4odXBQYXRoKQoJcHJpbnRsbihkb3duUGF0aCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
