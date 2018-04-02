@@ -831,10 +831,10 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522693771021">
+      <file name="/Dummy.txt" timestamp="1522695873020">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/util/OneArray.kt" timestamp="1522347987892">
         <mark key="'" line="51" column="4" />
@@ -1261,7 +1261,7 @@
         <mark key="." line="55" column="27" />
         <mark key="^" line="55" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/variation/RemoveNode.kt" timestamp="1522694552644">
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/variation/RemoveNode.kt" timestamp="1522695250569">
         <mark key="'" line="68" column="26" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="54" column="25" />
@@ -1769,11 +1769,11 @@
       <jump line="68" column="26" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/variation/RemoveNode.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXZlcnRpY2VzLmZvckVhY2ggeyB0b1ZbaXRdID0gSU5GIH0K</text>
+      <register name="&quot;" type="4">
+        <text>rename graph core package</text>
       </register>
       <register name="-" type="4">
-        <text>allPairsShortestPathDivideAndConquer</text>
+        <text>rename graph core package</text>
       </register>
       <register name="/" type="4">
         <text>getEdges</text>
