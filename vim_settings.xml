@@ -1701,12 +1701,11 @@
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/variation/RemoveAddOneVertex.kt" timestamp="1522698377093">
-        <mark key="'" line="41" column="35" />
-        <mark key="[" line="36" column="31" />
-        <mark key="]" line="36" column="35" />
-        <mark key="^" line="36" column="35" />
-        <mark key="." line="36" column="35" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/variation/RemoveAddOneVertex.kt" timestamp="1522715921842">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/WrongEdgeWeight.kt" timestamp="1522514161975">
         <mark key="'" line="41" column="15" />
@@ -1717,8 +1716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="63" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/ShortestPathWeighted.kt" />
-      <jump line="13" column="62" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/ShortestPathWeighted.kt" />
       <jump line="87" column="22" filename="$USER_HOME$/VCS/AlgoKt/src/datastructure/PriorityQueue.kt" />
       <jump line="62" column="10" filename="$USER_HOME$/VCS/AlgoKt/src/datastructure/PriorityQueue.kt" />
       <jump line="89" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/datastructure/PriorityQueue.kt" />
@@ -1812,27 +1809,29 @@
       <jump line="26" column="8" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAltPath.kt" />
       <jump line="61" column="44" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAltPath.kt" />
       <jump line="90" column="43" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAltPath.kt" />
-      <jump line="79" column="58" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/RemoveAddOneVertex.kt" />
       <jump line="216" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/core/GraphImpl.kt" />
       <jump line="10" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/NumShortestPaths.kt" />
       <jump line="29" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/NumShortestPaths.kt" />
       <jump line="38" column="35" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/RemoveAddOneVertex.kt" />
+      <jump line="79" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/RemoveAddOneVertex.kt" />
+      <jump line="84" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/RemoveAddOneVertex.kt" />
+      <jump line="37" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/RemoveAddOneVertex.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>rename miscˆ</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>rename miscˆ</text>
+        <text>MutableList</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PFY+</text>
+        <text>g</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CW5ld0VkZ2VzLnJlbW92ZUFsbChnZXRFZGdlc1RvKHYsIGNoZWNrSWRlbnRpdHkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1841,37 +1840,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">CQkJaWYgKCEoY2hlY2tJZGVudGl0eSAmJiB1ID09PSB3KSAmJiAhKCFjaGVja0lkZW50aXR5ICYmIHUgPT0gdykpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlwcmludGxuKGcpCgkJcHJpbnRsbihyZW1vdmVkRWRnZXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgRWRnZU5vdERpcmVjdGVkRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">CQlyZW1vdmVkRWRnZXMuYWRkKEFycmF5TGlzdCgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">CQlwcmludGxuKGcpCgkJcHJpbnRsbihyZW1vdmVkRWRnZXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWlmIChpdC5pc0RpcmVjdGVkKSB7CgkJCQkJaWYgKGNoZWNrSWRlbnRpdHkpIGl0LnZlcnRleDEgPT09IHYgZWxzZSBpdC52ZXJ0ZXgxID09IHYKCQkJCX0gZWxzZSB7Cg==</text>
+        <text encoding="base64">CQlyZW1vdmVkRWRnZXNbaV0uYWRkQWxsKGksIHRtcEUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCX0K</text>
+        <text encoding="base64">CQlwcmludGxuKGcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWlmIChpdC5pc0RpcmVjdGVkKSB7CgkJCQkJaWYgKGNoZWNrSWRlbnRpdHkpIGl0LnZlcnRleDEgPT09IHYgZWxzZSBpdC52ZXJ0ZXgxID09IHYKCQkJCX0gZWxzZSB7Cg==</text>
+        <text encoding="base64">CQlnID0gZy5yZW1vdmVWZXJ0ZXgodltpXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CW5ld0VkZ2VzLnJlbW92ZUFsbChnZXRFZGdlc1RvKHYsIGNoZWNrSWRlbnRpdHkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PFY+</last-search>
+      <last-search>g</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PFY+</last-pattern>
+      <last-pattern>g</last-pattern>
       <last-replace encoding="base64">PEludD4=</last-replace>
       <last-substitute encoding="base64">PFY+</last-substitute>
       <last-dir>1</last-dir>
@@ -1879,7 +1878,6 @@
     </search>
     <history>
       <history-search>
-        <entry>left</entry>
         <entry>second</entry>
         <entry>T</entry>
         <entry>.data</entry>
@@ -1899,6 +1897,7 @@
         <entry>Weighted</entry>
         <entry>V</entry>
         <entry encoding="base64">PFY+</entry>
+        <entry>g</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzIvMC9n</entry>
