@@ -212,12 +212,12 @@
         <mark key="." line="27" column="14" />
         <mark key="^" line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" timestamp="1522805505044">
-        <mark key="'" line="242" column="71" />
-        <mark key="[" line="216" column="88" />
-        <mark key="]" line="216" column="59" />
-        <mark key="." line="216" column="59" />
-        <mark key="^" line="216" column="59" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" timestamp="1522849156055">
+        <mark key="'" line="390" column="0" />
+        <mark key="[" line="248" column="81" />
+        <mark key="]" line="250" column="79" />
+        <mark key="." line="250" column="79" />
+        <mark key="^" line="250" column="79" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/other/PriorityQueue.kt" timestamp="1522258243663">
         <mark key="[" line="38" column="5" />
@@ -732,10 +732,10 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522816391630">
+      <file name="/Dummy.txt" timestamp="1522849278679">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MaxProd.kt" timestamp="1521645851461">
         <mark key="'" line="148" column="0" />
@@ -944,12 +944,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="9" column="32" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LConvexS.kt" timestamp="1521066549895">
-        <mark key="'" line="23" column="14" />
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="7" column="47" />
-        <mark key="." line="7" column="47" />
-        <mark key="^" line="7" column="47" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LConvexS.kt" timestamp="1522849260340">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="47" column="34" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestMidPoint.kt" timestamp="1522297509540">
         <mark key="[" line="19" column="24" />
@@ -1748,11 +1748,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="36" filename="$USER_HOME$/VCS/AlgoKt/src/recur/PreInToBinTree.kt" />
-      <jump line="3" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/recur/PreInToBinTree.kt" />
-      <jump line="17" column="18" filename="$USER_HOME$/VCS/AlgoKt/src/recur/WeightedMedian.kt" />
-      <jump line="3" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/recur/WeightedMedian.kt" />
-      <jump line="19" column="17" filename="$USER_HOME$/VCS/AlgoKt/src/recur/WeightedMedian.kt" />
       <jump line="16" column="25" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
       <jump line="28" column="26" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
@@ -1848,13 +1843,18 @@
       <jump line="2" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/recur/NOverFour.kt" />
       <jump line="41" column="43" filename="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/MaxCompleteSubTree.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/MaxCompleteSubTree.kt" />
+      <jump line="44" column="86" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LConvexS.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LConvexS.kt" />
+      <jump line="52" column="13" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LConvexS.kt" />
+      <jump line="386" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
+      <jump line="22" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LConvexS.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXZhbCAobGVmdE1heENvbXBsZXRlU3ViVHJlZSwgbGVmdERlcHRoKSA9IGxlZnQhIS5tYXhDb21wbGV0ZVN1YlRyZWVSb290ZWRBdEN1cnJlbnQoKQoJdmFsIChyaWdodE1heENvbXBsZXRlU3ViVHJlZSwgcmlnaHREZXB0aCkgPSByaWdodCEhLm1heENvbXBsZXRlU3ViVHJlZVJvb3RlZEF0Q3VycmVudCgpCgoJcmV0dXJuIHRoaXMgdHUgCg==</text>
+      <register name="&quot;" type="4">
+        <text>max complete subtree</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>max complete subtree</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -1863,7 +1863,7 @@
         <text encoding="base64">CS8vIGxlZnQsIHJpZ2h0ICE9IG51bGwKCXZhbCAobGVmdE1heENvbXBsZXRlU3ViVHJlZSwgbGVmdERlcHRoKSA9IGxlZnQubWF4Q29tcGxldGVTdWJUcmVlKCkKCXZhbCAocmlnaHRNYXhDb21wbGV0ZVN1YlRyZWUsIHJpZ2h0RGVwdGgpID0gcmlnaHQubWF4Q29tcGxldGVTdWJUcmVlKCkKCQoJLy8gZmlyc3QgZmluZCB0aGUgbGFyZ2VyIHN1YnRyZWUgYmV0d2VlbiB0aGVzZSB0d28KCXZhbCBjaGlsZHJlbk1heERlcHRoID0gaWYgKGxlZnREZXB0aCA+IHJpZ2h0RGVwdGgpIGxlZnREZXB0aCBlbHNlIHJpZ2h0RGVwdGgKCXZhbCBjaGlsZHJlbk1heENvbXBsZXRlU3ViVHJlZSA9IGlmIChsZWZ0RGVwdGggPiByaWdodERlcHRoKSBsZWZ0TWF4Q29tcGxldGVTdWJUcmVlIGVsc2UgcmlnaHRNYXhDb21wbGV0ZVN1YlRyZWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhbCAobGVmdE1heENvbXBsZXRlU3ViVHJlZSwgbGVmdERlcHRoKSA9IGxlZnQhIS5tYXhDb21wbGV0ZVN1YlRyZWVSb290ZWRBdEN1cnJlbnQoKQoJdmFsIChyaWdodE1heENvbXBsZXRlU3ViVHJlZSwgcmlnaHREZXB0aCkgPSByaWdodCEhLm1heENvbXBsZXRlU3ViVHJlZVJvb3RlZEF0Q3VycmVudCgpCgoJcmV0dXJuIHRoaXMgdHUgCg==</text>
+        <text encoding="base64">CWlmIChuIDwgMykgewoJCXJldHVybiBuCgl9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1872,28 +1872,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vIGZpcnN0IGZpbmQgdGhlIGxhcmdlciBzdWJ0cmVlIGJldHdlZW4gdGhlc2UgdHdvCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CXZhbCBjaGlsZHJlbk1heERlcHRoID0gaWYgKGxlZnREZXB0aCA+IHJpZ2h0RGVwdGgpIGxlZnREZXB0aCBlbHNlIHJpZ2h0RGVwdGgKCXZhbCBjaGlsZHJlbk1heENvbXBsZXRlU3ViVHJlZSA9IGlmIChsZWZ0RGVwdGggPiByaWdodERlcHRoKSBsZWZ0TWF4Q29tcGxldGVTdWJUcmVlIGVsc2UgcmlnaHRNYXhDb21wbGV0ZVN1YlRyZWUKCQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CS8vIGxlZnQsIHJpZ2h0ICE9IG51bGwKCXZhbAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWlmIChsZWZ0ID09IG51bGwgfHwgcmlnaHQgPT0gbnVsKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXZhbCBjaGlsZHJlbk1heERlcHRoID0gaWYgKGxlZnREZXB0aCA+IHJpZ2h0RGVwdGgpIGxlZnREZXB0aCBlbHNlIHJpZ2h0RGVwdGgKCXZhbCBjaGlsZHJlbk1heENvbXBsZXRlU3ViVHJlZSA9IGlmIChsZWZ0RGVwdGggPiByaWdodERlcHRoKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CWtrCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CU8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CS8vIHdlIHdhbnQgbWF4X3tpLCBqfSB7IGRwW2ksIGpdIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CXZhciBtYXggPSAwCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJbWF4ID0gbWF4KG1heCwgZHBbaSwgal0pCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwucHJldHR5UHJpbnRUcmVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
