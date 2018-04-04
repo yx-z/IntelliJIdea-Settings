@@ -756,7 +756,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522849278679">
+      <file name="/Dummy.txt" timestamp="1522852562276">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -788,11 +788,8 @@
         <mark key="." line="30" column="44" />
         <mark key="^" line="30" column="44" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LPSubstring.kt" timestamp="1521079044512">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="0" column="9" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LPSubstring.kt" timestamp="1522852506241">
+        <mark key="'" line="2" column="12" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/recur/QuickSelect.kt" timestamp="1522806744622">
         <mark key="[" line="61" column="16" />
@@ -1781,8 +1778,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="25" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
       <jump line="28" column="26" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
       <jump line="39" column="27" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
       <jump line="20" column="33" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
@@ -1881,13 +1876,15 @@
       <jump line="52" column="13" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LConvexS.kt" />
       <jump line="386" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
       <jump line="22" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LConvexS.kt" />
+      <jump line="36" column="46" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LPSubstring.kt" />
+      <jump line="2" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LPSubstring.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>max complete subtree</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>max complete subtree</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -1896,7 +1893,7 @@
         <text encoding="base64">CS8vIGxlZnQsIHJpZ2h0ICE9IG51bGwKCXZhbCAobGVmdE1heENvbXBsZXRlU3ViVHJlZSwgbGVmdERlcHRoKSA9IGxlZnQubWF4Q29tcGxldGVTdWJUcmVlKCkKCXZhbCAocmlnaHRNYXhDb21wbGV0ZVN1YlRyZWUsIHJpZ2h0RGVwdGgpID0gcmlnaHQubWF4Q29tcGxldGVTdWJUcmVlKCkKCQoJLy8gZmlyc3QgZmluZCB0aGUgbGFyZ2VyIHN1YnRyZWUgYmV0d2VlbiB0aGVzZSB0d28KCXZhbCBjaGlsZHJlbk1heERlcHRoID0gaWYgKGxlZnREZXB0aCA+IHJpZ2h0RGVwdGgpIGxlZnREZXB0aCBlbHNlIHJpZ2h0RGVwdGgKCXZhbCBjaGlsZHJlbk1heENvbXBsZXRlU3ViVHJlZSA9IGlmIChsZWZ0RGVwdGggPiByaWdodERlcHRoKSBsZWZ0TWF4Q29tcGxldGVTdWJUcmVlIGVsc2UgcmlnaHRNYXhDb21wbGV0ZVN1YlRyZWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWlmIChuIDwgMykgewoJCXJldHVybiBuCgl9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHV0aWwuT25lQXJyYXkKaW1wb3J0IHV0aWwubWF4Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1905,28 +1902,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWlmIChuIDwgMykgewoJCXJldHVybiBuCgl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWtrCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CU8K</text>
+        <text encoding="base64">CWtrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIHdlIHdhbnQgbWF4X3tpLCBqfSB7IGRwW2ksIGpdIH0K</text>
+        <text encoding="base64">CU8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhciBtYXggPSAwCg==</text>
+        <text encoding="base64">CS8vIHdlIHdhbnQgbWF4X3tpLCBqfSB7IGRwW2ksIGpdIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJbWF4ID0gbWF4KG1heCwgZHBbaSwgal0pCg==</text>
+        <text encoding="base64">CXZhciBtYXggPSAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbWF4ID0gbWF4KG1heCwgZHBbaSwgal0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
