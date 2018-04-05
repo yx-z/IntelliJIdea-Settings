@@ -327,6 +327,13 @@
         <mark key="." line="118" column="31" />
         <mark key="^" line="118" column="31" />
       </file>
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/core/StronglyConnectedComponents.kt" timestamp="1522955037554">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="69" column="35" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="33" column="10" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LConvexS.kt" timestamp="1521066549895">
         <mark key="'" line="23" column="14" />
         <mark key="[" line="8" column="21" />
@@ -555,8 +562,11 @@
         <mark key="^" line="21" column="43" />
         <mark key="." line="21" column="43" />
       </file>
-      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/core/Reachability.kt" timestamp="1522950884512">
-        <mark key="[" line="37" column="33" />
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/core/Reachability.kt" timestamp="1522953398819">
+        <mark key="[" line="45" column="28" />
+        <mark key="]" line="45" column="28" />
+        <mark key="^" line="45" column="28" />
+        <mark key="." line="45" column="28" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/util/TreeUtil.kt" timestamp="1521772750078">
         <mark key="[" line="118" column="1" />
@@ -1398,12 +1408,12 @@
         <mark key="." line="121" column="0" />
         <mark key="^" line="117" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/variation/AnyPairNotReachable.kt" timestamp="1522950912835">
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/variation/AnyPairNotReachable.kt" timestamp="1522952793152">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="11" column="59" />
-        <mark key="]" line="10" column="23" />
-        <mark key="^" line="10" column="23" />
-        <mark key="." line="10" column="23" />
+        <mark key="[" line="9" column="64" />
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+        <mark key="." line="10" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/tree/binary_tree/LCA.kt" timestamp="1508082027646">
         <mark key="'" line="9" column="15" />
@@ -1717,8 +1727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="10" filename="$USER_HOME$/VCS/AlgoKt/src/datastructure/PriorityQueue.kt" />
-      <jump line="89" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/datastructure/PriorityQueue.kt" />
       <jump line="21" column="11" filename="$USER_HOME$/VCS/AlgoKt/src/datastructure/PriorityQueue.kt" />
       <jump line="94" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/datastructure/PriorityQueue.kt" />
       <jump line="7" column="8" filename="$USER_HOME$/VCS/AlgoKt/src/datastructure/PriorityQueue.kt" />
@@ -1817,13 +1825,15 @@
       <jump line="76" column="16" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/LPSubstring.kt" />
       <jump line="7" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/variation/AnyPairNotReachable.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/variation/AnyPairNotReachable.kt" />
+      <jump line="34" column="9" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/core/StronglyConnectedComponents.kt" />
+      <jump line="35" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/core/StronglyConnectedComponents.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>map</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJRWRnZShWWzNdLCBWWzRdLCB0cnVlKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PFY+</text>
@@ -1832,7 +1842,7 @@
         <text encoding="base64">CS8vICAgICAgICAgICAgICAgIG1heCBsZW5ndGggYW1vbmcgZHBbaSArIDEsIGpdLCBkcFtpICsgMSwgaiAtIDFdLCBkcFtpLCBqIC0gMV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaW50bG4oZGlzdFt1XSkKCXByaW50bG4odykK</text>
+        <text encoding="base64">CQkJRWRnZShWWzNdLCBWWzRdLCB0cnVlKSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1841,28 +1851,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaW50bG4oZGlzdFt1XSkK</text>
+        <text encoding="base64">CXByaW50bG4obmV3VmVydGljZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaW50bG4odykK</text>
+        <text encoding="base64">CXByaW50bG4oYSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaW50bG4oZHApCg==</text>
+        <text encoding="base64">CXByaW50bG4ocm9vdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZhbCByYW5kb21WZXJ0ZXggPSB2ZXJ0aWNlcy50b0xpc3QoKVswXQoJdmFsIHJlYWNoYWJsZUZyb21JdCA9IHdoYXRldmVyRmlyc3RTZWFyY2gocmFuZG9tVmVydGV4KQoJcHJpbnRsbihyZWFjaGFibGVGcm9tSXQpCglyZXR1cm4gaWYgKHJlYWNoYWJsZUZyb21JdC5jb250YWluc0FsbCh2ZXJ0aWNlcykpIHsKCQludWxsCgl9IGVsc2UgewoJCXJhbmRvbVZlcnRleCB0dSB2ZXJ0aWNlcy5maXJzdCB7ICFyZWFjaGFibGVGcm9tSXQuY29udGFpbnMoaXQpIH0KCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiAoZHBbaSAtIDJdLmlzRW1wdHkoKSAmJiBkcFtpIC0gMV0uaXNFbXB0eSgpKSB7CgkJCS8vIGRwW2kgLSAzXSBjYW5ub3QgYmUgZW1wdHkgc2luY2Ugby93LAoJCQkvLyBkcFtpIC0zXSwgZHBbaSAtIDJdIGlzIGJvdGggZW1wdHkgYW5kIHdlIHdpbGwgcmV0dXJuIEAgaSAtIDEKCQkJcmV0dXJuIGkgLSAzCgkJfQoJCWlmIChkcFtpIC0gMl0uaXNFbXB0eSgpKSB7CgkJCWNvbnRpbnVlCgkJfQo=</text>
+        <text encoding="base64">CXByaW50bG4oZGlzdFt1XSkKCXByaW50bG4odykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CXByaW50bG4oZGlzdFt1XSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlkcFtpIC0gMl0uZm9yRWFjaCB7CgkJCS8vIEFbaXQgLSAxLi5pdCArIGkgKyAxXSBpcyBhIHBhbGluZHJvbWUgb2Ygc2l6ZSBpCgkJCWRwW2ldLmFkZChpdCAtIDEpCgkJfQo=</text>
+        <text encoding="base64">CXByaW50bG4odykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaW50bG4oZHApCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
