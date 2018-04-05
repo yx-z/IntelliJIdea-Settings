@@ -773,7 +773,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522969333022">
+      <file name="/Dummy.txt" timestamp="1522971722559">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -834,6 +834,9 @@
         <mark key="]" line="19" column="29" />
         <mark key="^" line="19" column="29" />
         <mark key="." line="19" column="29" />
+      </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/core/Reachability.kt" timestamp="1522970970318">
+        <mark key="[" line="17" column="41" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/map/MyMap.kt" timestamp="1522872156202">
         <mark key="[" line="113" column="7" />
@@ -1000,11 +1003,12 @@
         <mark key="." line="32" column="26" />
         <mark key="^" line="32" column="26" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/RingDing.kt" timestamp="1522970945194">
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/RingDing.kt" timestamp="1522971784763">
         <mark key="'" line="2" column="12" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="66" />
+        <mark key="." line="28" column="66" />
+        <mark key="^" line="28" column="66" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/MinAwkward.kt" timestamp="1521824345407">
         <mark key="'" line="95" column="0" />
@@ -1949,11 +1953,11 @@
       <jump line="2" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/dp/RingDing.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>candy swap</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>candy swap</text>
       </register>
       <register name="/" type="4">
         <text>exchange</text>
@@ -1962,7 +1966,7 @@
         <text encoding="base64">ZnVuIE9uZUFycmF5PEludD4ucHJvZCgpID0gcmVkdWNlIHsgaTEsIGkyIC0+IGkxICogaTIgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmb3IgKGogaW4gMS4uNikgewoJCQkKCQl9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1971,28 +1975,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaW50bG4oZHAucHJlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWRwWzMsIDVdCg==</text>
+        <text encoding="base64">CXByaW50bG4oZHAucHJlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWRwW10K</text>
+        <text encoding="base64">CWRwWzMsIDVdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIGFzc3VtZSAK</text>
+        <text encoding="base64">CWRwW10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIGluaXQuOgo=</text>
+        <text encoding="base64">CS8vIGFzc3VtZSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CS8vIGluaXQuOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhbCB2ID0gd2hlbih0aGlzKSB7CgkJQSAtPiAxCgkJQiAtPiAyCgkJQyAtPiAzCgl9Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgkvLyBjb252ZW5pZW50IGZvciB0cmVhdGluZyB0eXBlcyBhcyBhcnJheSBpbmRpY2VzCglmdW4gdigpID0gd2hlbiAodGhpcykgewoJCUEgLT4gMQoJCUIgLT4gMgoJCUMgLT4gMwoJfQo=</text>
+        <text encoding="base64">CXZhbCB2ID0gd2hlbih0aGlzKSB7CgkJQSAtPiAxCgkJQiAtPiAyCgkJQyAtPiAzCgl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
