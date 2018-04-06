@@ -573,12 +573,12 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/variation/KanielDane.kt" timestamp="1522985942581">
-        <mark key="'" line="55" column="46" />
-        <mark key="[" line="43" column="5" />
-        <mark key="]" line="38" column="64" />
-        <mark key="^" line="38" column="64" />
-        <mark key="." line="38" column="64" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/variation/KanielDane.kt" timestamp="1522989017625">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="121" column="34" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="120" column="49" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LPS.kt" timestamp="1522850839851">
         <mark key="[" line="33" column="30" />
@@ -1842,8 +1842,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="61" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathBitonic.kt" />
-      <jump line="2" column="10" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathBitonic.kt" />
       <jump line="24" column="40" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathBitonic.kt" />
       <jump line="6" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathBitonic.kt" />
       <jump line="47" column="8" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
@@ -1942,22 +1940,24 @@
       <jump line="19" column="16" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/Bipartite.kt" />
       <jump line="26" column="33" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/Bipartite.kt" />
       <jump line="32" column="46" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/KanielDane.kt" />
+      <jump line="54" column="54" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/KanielDane.kt" />
+      <jump line="74" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/KanielDane.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXZhbCB2ZXJ0aWNlcyA9IEhhc2hTZXQ8VmVydGV4PFR1cGxlMjxJbnQsIEludD4+PigpCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gKGkgdHUgaiA9PSB0KSB8fCAocCB0dSBxID09IHQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>down</text>
       </register>
       <register name="/" type="4">
         <text>exchange</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlFLmFkZChFZGdlKFZlcnRleCh1IHR1IDApLCBWZXJ0ZXgodiB0dSAxKSkpCg==</text>
+        <text encoding="base64">CQl3aGlsZSAoamQgPD0gbiAmJiAhb2JzdGFjbGVzLmNvbnRhaW5zKGkgdHUgamQpICYmIChpIHR1IGpkICE9IHAgdHUgcSkpIHsKCQkJamQrKwoJCX0KCQllZGdlcy5hZGQoRWRnZShpdCwgVmVydGV4KGkgdHUgamQgLSAxIHR1IHAgdHUgcSksIHRydWUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhbCB2ZXJ0aWNlcyA9IEhhc2hTZXQ8VmVydGV4PFR1cGxlMjxJbnQsIEludD4+PigpCg==</text>
+        <text encoding="base64">CQlyZXR1cm4gKGkgdHUgaiA9PSB0KSB8fCAocCB0dSBxID09IHQpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1966,28 +1966,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwuT25lQXJyYXkKaW1wb3J0IHV0aWwuVHVwbGUyCg==</text>
+        <text encoding="base64">CXByaW50bG4oZ3JhcGgud2hhdGV2ZXJGaXJzdFNlYXJjaChzdGFydCwgZmFsc2UpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgajogSW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwOiBJbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHE6IEludCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdTogSW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2OiBJbnQpOiBCb29sZWFuIHsK</text>
+        <text encoding="base64">CXByaW50bG4oZ3JhcGgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaW50bG4oRy5rYW5pZWxEYW5lKDEsIDIsIDIsIDUsIDMsIDMpKQo=</text>
+        <text encoding="base64">CQkJaWYgKGl0ID09IHN0YXJ0KSB7CgkJCQlwcmludGxuKGUpCgkJCX0KCQkJZWRnZXMuYWRkKGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CVRPRE8oKQo=</text>
+        <text encoding="base64">CQlpZiAoaXQgPT0gc3RhcnQpIHsKCQkJcHJpbnRsbihpcikKCQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlwcmludGxuKHYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwuKgo=</text>
+        <text encoding="base64">CQlpZiAoaXQgPT0gc3RhcnQpIHsKCQkJcHJpbnRsbihqZCkKCQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQljb2xvclt2XSA9IGN1cnIK</text>
+        <text encoding="base64">CQkvLyBtb3ZlIGxlZnQgMm5kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWFzc2lnblNldE9uZVtzdGFydF0gPSBjdXJyU2V0Cg==</text>
+        <text encoding="base64">CQkvLyBtb3ZlIHJpZ2h0IDJuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
