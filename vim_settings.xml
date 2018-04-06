@@ -1561,6 +1561,13 @@
         <mark key="^" line="44" column="26" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/variation/Collide.kt" timestamp="1522976505998">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="25" column="8" />
+        <mark key="^" line="25" column="8" />
+        <mark key="." line="20" column="18" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/UnionFind.kt" timestamp="1504102457267">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="3" column="0" />
@@ -1851,10 +1858,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="61" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
-      <jump line="14" column="47" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
-      <jump line="38" column="19" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
-      <jump line="23" column="32" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
       <jump line="57" column="65" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
       <jump line="55" column="43" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
       <jump line="30" column="69" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
@@ -1951,22 +1954,26 @@
       <jump line="8" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/CandySwap.kt" />
       <jump line="20" column="22" filename="$USER_HOME$/VCS/AlgoKt/src/dp/RingDing.kt" />
       <jump line="2" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/dp/RingDing.kt" />
+      <jump line="5" column="44" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/Collide.kt" />
+      <jump line="3" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/Collide.kt" />
+      <jump line="10" column="8" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/Collide.kt" />
+      <jump line="18" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/Collide.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>candy swap</text>
+        <text>Tuple2</text>
       </register>
       <register name="-" type="4">
-        <text>candy swap</text>
+        <text>Tuple2</text>
       </register>
       <register name="/" type="4">
         <text>exchange</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuIE9uZUFycmF5PEludD4ucHJvZCgpID0gcmVkdWNlIHsgaTEsIGkyIC0+IGkxICogaTIgfQo=</text>
+        <text encoding="base64">CQlFLmFkZChFZGdlKFZlcnRleCh1IHR1IDApLCBWZXJ0ZXgodiB0dSAxKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlmb3IgKGogaW4gMS4uNikgewoJCQkKCQl9Cg==</text>
+        <text encoding="base64">CQlFLmFkZChFZGdlKFZlcnRleCh1IHR1IDApLCBWZXJ0ZXgodiB0dSAxKSkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1975,28 +1982,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmb3IgKGogaW4gMS4uNikgewoJCQkKCQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaW50bG4oZHAucHJlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWRwWzMsIDVdCg==</text>
+        <text encoding="base64">CXByaW50bG4oZHAucHJlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWRwW10K</text>
+        <text encoding="base64">CWRwWzMsIDVdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIGFzc3VtZSAK</text>
+        <text encoding="base64">CWRwW10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIGluaXQuOgo=</text>
+        <text encoding="base64">CS8vIGFzc3VtZSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CS8vIGluaXQuOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXZhbCB2ID0gd2hlbih0aGlzKSB7CgkJQSAtPiAxCgkJQiAtPiAyCgkJQyAtPiAzCgl9Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
