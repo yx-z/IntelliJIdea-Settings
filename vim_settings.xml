@@ -773,7 +773,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522971722559">
+      <file name="/Dummy.txt" timestamp="1522977461960">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1561,12 +1561,12 @@
         <mark key="^" line="44" column="26" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/variation/Collide.kt" timestamp="1522976505998">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="25" column="8" />
-        <mark key="^" line="25" column="8" />
-        <mark key="." line="20" column="18" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/variation/Collide.kt" timestamp="1522977447460">
+        <mark key="'" line="22" column="22" />
+        <mark key="[" line="40" column="30" />
+        <mark key="]" line="40" column="31" />
+        <mark key="^" line="23" column="12" />
+        <mark key="." line="40" column="31" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/other/UnionFind.kt" timestamp="1504102457267">
         <mark key="[" line="4" column="1" />
@@ -1957,14 +1957,14 @@
       <jump line="5" column="44" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/Collide.kt" />
       <jump line="3" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/Collide.kt" />
       <jump line="10" column="8" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/Collide.kt" />
-      <jump line="18" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/Collide.kt" />
+      <jump line="18" column="22" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/Collide.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Tuple2</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>Tuple2</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>exchange</text>
@@ -1973,7 +1973,7 @@
         <text encoding="base64">CQlFLmFkZChFZGdlKFZlcnRleCh1IHR1IDApLCBWZXJ0ZXgodiB0dSAxKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlFLmFkZChFZGdlKFZlcnRleCh1IHR1IDApLCBWZXJ0ZXgodiB0dSAxKSkpCg==</text>
+        <text encoding="base64">CQkJCQkJRy5iZnMoVmVydGV4KGl0IHR1IDApLCBmYWxzZSksCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1982,28 +1982,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmb3IgKGogaW4gMS4uNikgewoJCQkKCQl9Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWxpc3RPZigK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaW50bG4oZHAucHJlKQo=</text>
+        <text encoding="base64">CQlFLmFkZChFZGdlKFZlcnRleCh1IHR1IDApLCBWZXJ0ZXgodiB0dSAxKSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWRwWzMsIDVdCg==</text>
+        <text encoding="base64">CQlmb3IgKGogaW4gMS4uNikgewoJCQkKCQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWRwW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIGFzc3VtZSAK</text>
+        <text encoding="base64">CXByaW50bG4oZHAucHJlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIGluaXQuOgo=</text>
+        <text encoding="base64">CWRwWzMsIDVdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWRwW10K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
