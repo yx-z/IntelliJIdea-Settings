@@ -631,9 +631,9 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/variation/NumShortestPaths.kt" timestamp="1523124811421">
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/variation/NumShortestPaths.kt" timestamp="1523138075390">
         <mark key="'" line="11" column="46" />
-        <mark key="[" line="38" column="0" />
+        <mark key="[" line="17" column="14" />
         <mark key="]" line="40" column="17" />
         <mark key="." line="40" column="17" />
         <mark key="^" line="40" column="17" />
@@ -762,7 +762,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523118920180">
+      <file name="/Dummy.txt" timestamp="1523138089214">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1253,11 +1253,12 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" timestamp="1521949995710">
-        <mark key="[" line="20" column="70" />
-        <mark key="]" line="20" column="71" />
-        <mark key="." line="20" column="71" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" timestamp="1523138180290">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="65" column="20" />
+        <mark key="]" line="65" column="31" />
+        <mark key="." line="65" column="31" />
+        <mark key="^" line="65" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/tree/Trim.kt" timestamp="1508050459935">
         <mark key="'" line="4" column="66" />
@@ -1863,14 +1864,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="14" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
-      <jump line="20" column="15" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/MaxWeightPathDAG.kt" />
-      <jump line="44" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/graph/abstract/AllPairsShortestPath.kt" />
-      <jump line="41" column="60" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAlterPath.kt" />
-      <jump line="43" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAlterPath.kt" />
-      <jump line="34" column="9" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAltPath.kt" />
-      <jump line="96" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAltPath.kt" />
-      <jump line="19" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAltPath.kt" />
       <jump line="21" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAltPath.kt" />
       <jump line="102" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAltPath.kt" />
       <jump line="122" column="16" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAltPath.kt" />
@@ -1963,13 +1956,21 @@
       <jump line="23" column="28" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/PalindromicPath.kt" />
       <jump line="30" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/PalindromicPath.kt" />
       <jump line="15" column="6" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/PalindromicPath.kt" />
+      <jump line="7" column="21" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" />
+      <jump line="63" column="29" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" />
+      <jump line="2" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" />
+      <jump line="84" column="16" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" />
+      <jump line="41" column="52" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" />
+      <jump line="19" column="48" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" />
+      <jump line="95" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXByaW50bG4obnVtW2RpY3Rbc10hIV0pCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>exchange</text>
@@ -1978,7 +1979,7 @@
         <text encoding="base64">CQltYXggPSBtYXgobWF4LCBkcFtpLCBpXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaW50bG4obnVtW2RpY3Rbc10hIV0pCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1987,28 +1988,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaW50bG4oZGljdFtzXSkK</text>
+        <text encoding="base64">CQkJCWlmIChkcFtpIC0gMSwgaiAtIEFbaV1dKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaW50bG4oZGljdFt0XSkK</text>
+        <text encoding="base64">CXZhbCBoYW5kbGVyID0geyBfLCBfIC0+IG51bGwgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaW50bG4oZGljdCkK</text>
+        <text encoding="base64">CWZvciAoaSBpbiAwLi5uKSB7CgkJZHBbaSwgMF0gPSBIYXNoU2V0KCkKCX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByaW50bG4obGlzdCkK</text>
+        <text encoding="base64">CWZvciAoaSBpbiAwLi5uKSB7CgkJZHBbaSwgMF0gPSBIYXNoU2V0KCkKCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaW50bG4obmV3R3JhcGgpCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhbCB2ZXJ0aWNlcyA9IHNldE9mKFZlcnRleCgxKSwgVmVydGV4KDIpKQoJdmFsIGVkZ2VzID0gc2V0T2YoV2VpZ2h0ZWRFZGdlKFZlcnRleCgxKSwgVmVydGV4KDIpLCB0cnVlLCAxKSkKCXZhbCBncmFwaCA9IFdlaWdodGVkR3JhcGgodmVydGljZXMsIGVkZ2VzKQoJcHJpbnRsbihncmFwaC5udW1TaG9ydGVzdFBhdGhzKFZlcnRleCgxKSwgVmVydGV4KDIpLCBmYWxzZSkpCg==</text>
+        <text encoding="base64">CS8vIGRwWwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhbCBFID0gZWRnZXMK</text>
+        <text encoding="base64">CQlmb3IgKGkgaW4gMS4ubikgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIE8oViArIEUpCg==</text>
+        <text encoding="base64">CWZvciAoaSBpbiAxLi5uKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
