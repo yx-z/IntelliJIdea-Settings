@@ -1040,12 +1040,12 @@
         <mark key="^" line="32" column="36" />
         <mark key="." line="32" column="36" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/SCS.kt" timestamp="1523151658270">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="69" column="5" />
-        <mark key="]" line="68" column="22" />
-        <mark key="." line="68" column="22" />
-        <mark key="^" line="68" column="22" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/SCS.kt" timestamp="1523153171720">
+        <mark key="'" line="72" column="4" />
+        <mark key="[" line="80" column="20" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="80" column="19" />
       </file>
       <file name="F:/FHIR/src/util/Constants.java" timestamp="1510097665303">
         <mark key="[" line="3" column="62" />
@@ -1860,11 +1860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/RemoveAddOneVertex.kt" />
-      <jump line="15" column="46" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/NumShortestPaths.kt" />
-      <jump line="27" column="18" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/MinAltPath.kt" />
-      <jump line="25" column="23" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/MinAltPath.kt" />
-      <jump line="20" column="14" filename="$USER_HOME$/VCS/AlgoKt/src/recur/MedianTwoArr.kt" />
       <jump line="27" column="37" filename="$USER_HOME$/VCS/AlgoKt/src/recur/ArrRotateIdx.kt" />
       <jump line="318" column="55" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
       <jump line="431" column="39" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
@@ -1960,22 +1955,27 @@
       <jump line="21" column="38" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SCS.kt" />
       <jump line="18" column="41" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SCS.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SCS.kt" />
+      <jump line="100" column="16" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SCS.kt" />
+      <jump line="30" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SCS.kt" />
+      <jump line="83" column="11" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SCS.kt" />
+      <jump line="73" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SCS.kt" />
+      <jump line="72" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SCS.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CS8vIGRwKAo=</text>
+        <text encoding="base64">CQkJCQlYW2ldID09IFlbal0gfHwgWFtpXSA9PSBaW2tdIHx8IFlbal0gPT0gWltrXSAtPiBtaW4oCgkJCQkJCQlkcFtpIC0gMSwgaiAtIDEsIGsgLSAxXSArIDIsCgkJCQkJCQlkcFtpLCBqIC0gMV0KCQkJCQkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>exchange</text>
+        <text>C</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQltYXggPSBtYXgobWF4LCBkcFtpLCBpXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIGRwKAo=</text>
+        <text encoding="base64">CQkJCQlYW2ldID09IFlbal0gfHwgWFtpXSA9PSBaW2tdIHx8IFlbal0gPT0gWltrXSAtPiBtaW4oCgkJCQkJCQlkcFtpIC0gMSwgaiAtIDEsIGsgLSAxXSArIDIsCgkJCQkJCQlkcFtpLCBqIC0gMV0KCQkJCQkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1984,47 +1984,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZhbCBoYW5kbGVyID0geyBfLCBfIC0+IDAgfQo=</text>
+        <text encoding="base64">CS8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBYW2ldICE9IFlbal0gPSBaW2tdIG9yCgkvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWFtpXSA9IFpba10gIT0gWVtqXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBYW2ldICE9IFlbal0gPSBaW2tdIG9yCgkvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWFtpXSA9IFpba10gIT0gWVtqXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQp9Cg==</text>
+        <text encoding="base64">CS8vICAgICAgICAgICAgICAgICAgICAgZHAoaSAtIDEsIGogLSAxLCBrKSArIDIgfSBpZiBYW2ldID0gWVtqXSAhPSBaW2tdIG9yCgkvLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWFtpXSAhPSBZW2pdID0gWltrXSBvcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwuT25lQXJyYXkK</text>
+        <text encoding="base64">CQkJCQkJCgkJCQkJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWxvb3MucHJldHR5UHJpbnRsbigpCg==</text>
+        <text encoding="base64">CS8vICAgICAgICAgICAgIHRoYXQgaXMgZW50cmllcyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIHdlIHdhbnQgbWF4X2kgeyBsb3MoaSkgfQo=</text>
+        <text encoding="base64">CS8vICAgICAgICAgICAgICAgICAgICAgZHAoaX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vICAgICAgICAgICAgID0gbWluIHsgZHAoaSAtIDEsIGogLSAxLCBrKSArIDIsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text encoding="base64">JzwsJz5zL0MvWi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>exchange</last-search>
+      <last-search>C</last-search>
       <last-offset />
-      <last-pattern>exchange</last-pattern>
-      <last-replace encoding="base64">PEludD4=</last-replace>
-      <last-substitute encoding="base64">PFY+</last-substitute>
+      <last-pattern>C</last-pattern>
+      <last-replace>Z</last-replace>
+      <last-substitute>C</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>.data</entry>
-        <entry>curr.data.third</entry>
-        <entry>n</entry>
         <entry>right</entry>
         <entry>maxWei</entry>
         <entry>maxWeight</entry>
@@ -2042,11 +2039,11 @@
         <entry>g</entry>
         <entry>set</entry>
         <entry>exchange</entry>
+        <entry>A</entry>
+        <entry>B</entry>
+        <entry>C</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzIvMC9n</entry>
-        <entry encoding="base64">JzwsJz5zLzMvMC9n</entry>
-        <entry encoding="base64">JzwsJz5zLzQvMC9n</entry>
         <entry encoding="base64">JzwsJz5zLzUvMC9n</entry>
         <entry encoding="base64">JzwsJz5zL1RyZWVOb2RlL0dlbmVyaWNUcmVlTm9kZTxPbmVBcnJheTxJbnQ+Pi9n</entry>
         <entry encoding="base64">JzwsJz5zLzAvT25lQXJyYXkoMykgeyAwIH0vZw==</entry>
@@ -2064,6 +2061,9 @@
         <entry encoding="base64">JzwsJz5zL1YvSW50L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzxWPi88SW50Pi9n</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zL0EvWC9n</entry>
+        <entry encoding="base64">JzwsJz5zL0IvWS9n</entry>
+        <entry encoding="base64">JzwsJz5zL0MvWi9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
