@@ -401,11 +401,12 @@
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/RingDing.kt" timestamp="1523384053144">
-        <mark key="[" line="62" column="7" />
-        <mark key="]" line="62" column="55" />
-        <mark key="^" line="62" column="55" />
-        <mark key="." line="62" column="55" />
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/RingDing.kt" timestamp="1523389054964">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="110" column="42" />
       </file>
       <file name="F:/FHIR/src/model/medicationorder/DoseQuantityNotFoundException.java" timestamp="1510414452140">
         <mark key="[" line="8" column="11" />
@@ -874,7 +875,7 @@
         <mark key="^" line="63" column="33" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523387787348">
+      <file name="/Dummy.txt" timestamp="1523388933519">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1781,8 +1782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/recur/PreInToBinTree.kt" />
-      <jump line="17" column="18" filename="$USER_HOME$/VCS/AlgoKt/src/recur/WeightedMedian.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/recur/WeightedMedian.kt" />
       <jump line="19" column="17" filename="$USER_HOME$/VCS/AlgoKt/src/recur/WeightedMedian.kt" />
       <jump line="16" column="25" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
@@ -1881,13 +1880,15 @@
       <jump line="2" column="12" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/MaxSumRect.kt" />
       <jump line="25" column="8" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/MaxSumRect.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/MaxSumRect.kt" />
+      <jump line="65" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/RingDing.kt" />
+      <jump line="52" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/RingDing.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWRwLm1hcCAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>IntArray</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PFY+</text>
@@ -1896,7 +1897,7 @@
         <text encoding="base64">ZnVuIEludEFycmF5Lm1heFN1bUthZGFuZSgpOiBJbnQgewoJdmFyIG1heEVuZGluZ0hlcmUgPSAwCgl2YXIgbWF4U29GYXIgPSAwCglmb3JFYWNoIHsKCQltYXhFbmRpbmdIZXJlICs9IGl0CgkJbWF4RW5kaW5nSGVyZSA9IG1heChtYXhFbmRpbmdIZXJlLCAwKQoJCW1heFNvRmFyID0gbWF4KG1heFNvRmFyLCBtYXhFbmRpbmdIZXJlKQoJfQoJcmV0dXJuIG1heFNvRmFyCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWRwLm1hcCAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1905,28 +1906,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vIGRwKGksIGopIG1heCByZWN0IHN1bSBmcm9tIHJvdyBpIHRvIHJvdyBqLCBpLCBqIGluIDEuLm4sIGogPj0gaQoJdmFsIGRwID0gT25lQXJyYXkobikgeyBPbmVBcnJheShuKSB7IDAuMCB9IH0gLy8gc3BhY2U6IE8obl4yKQoJLy8gd2Ugd2FudCBtYXhfe2ksIGp9IHsgZHAoaSwgaikgfQoJdmFyIG1heCA9IDAuMAoKCWZvciAoaSBpbiAxIHVudGlsIG4pIHsKCQlmb3IgKGogaW4gaS4ubikgewoJCQl2YWwgcmVkdWNlZCA9IE0KCQkJCQkuZmlsdGVySW5kZXhlZCB7IGlkeCwgXyAtPiBpZHggaW4gaS4uaiB9CgkJCQkJLnJlZHVjZSB7IHIxLCByMiAtPiByMSArIHIyIH0KCQkJZHBbaSwgal0gPSByZWR1Y2VkLm1heFN1bUthZG5lKCkKCQkJbWF4ID0gbWF4KG1heCwgZHBbaSwgal0pCgkJfQoJfQoKCXJldHVybiBtYXgK</text>
+        <text encoding="base64">CS8vIHdlIHdhbnQgbWF4X3t3LCBjfSB7IGRwKG4sIHcsIGMpIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIE8obl4zKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZHBbaSwgal0gPSByZWR1Y2VkLm1heFN1bUthZG5lKCkK</text>
+        <text encoding="base64">CXZhciBtYXggPSBhYnMoQVsxXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIHdlIHdhbnQgbWF4X3tpLCBqfSB7IGRwKGksIGopIH0K</text>
+        <text encoding="base64">CQkJCQoJCQkJaWYgKGkgPT0gbikgewoJCQkJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIGRwKGksIGopIG1heCByZWN0IHN1bSBmcm9tIHJvdyBpIHRvIHJvdyBqLCBpLCBqIGluIDEuLm4sIGogPj0gaQoJdmFsIGRwID0gT25lQXJyYXkobikgeyBPbmVBcnJheShuKSB7IDAuMCB9IH0gLy8gc3BhY2U6IE8obl4yKQo=</text>
+        <text encoding="base64">CQkJCQltYXggPSBtYXgobWF4LCBkcFtpLCB3LCBjXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJcHJpbnRsbigiJGkuLiRqOiAkcmVkdWNlIikK</text>
+        <text encoding="base64">CQkvLyBkcCgxLCAyLCBfKSA9IC1BWzFdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CS8vIGRwKDEsIDIsIF8pID0gLUFbMV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWsK</text>
+        <text encoding="base64">CWZvciAoYyBpbiAxLi5jKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
