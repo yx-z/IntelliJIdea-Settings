@@ -555,6 +555,13 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="22" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/recur/MajorEle.kt" timestamp="1523479993636">
+        <mark key="'" line="19" column="59" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="19" column="59" />
+      </file>
       <file name="$USER_HOME$/Desktop/Test/src/edu/illinois/cs/Main.java" timestamp="1512494806383">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="9" column="27" />
@@ -798,6 +805,11 @@
         <mark key="]" line="5" column="51" />
         <mark key="^" line="5" column="51" />
         <mark key="." line="5" column="51" />
+      </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/recur/QuickSelect.kt" timestamp="1523479930575">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/tree/bintree/ToDLL.kt" timestamp="1508117111115">
         <mark key="[" line="29" column="7" />
@@ -1773,9 +1785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="41" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/LoopedTree.kt" />
-      <jump line="72" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/LoopedTree.kt" />
-      <jump line="23" column="27" filename="$USER_HOME$/VCS/AlgoKt/src/recur/Target.kt" />
       <jump line="37" column="36" filename="$USER_HOME$/VCS/AlgoKt/src/recur/PreInToBinTree.kt" />
       <jump line="3" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/recur/PreInToBinTree.kt" />
       <jump line="17" column="18" filename="$USER_HOME$/VCS/AlgoKt/src/recur/WeightedMedian.kt" />
@@ -1873,13 +1882,16 @@
       <jump line="3" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/ReachableK.kt" />
       <jump line="12" column="27" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/ReachableK.kt" />
       <jump line="33" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/SafeVertex.kt" />
+      <jump line="38" column="23" filename="$USER_HOME$/VCS/AlgoKt/src/recur/MajorEle.kt" />
+      <jump line="20" column="30" filename="$USER_HOME$/VCS/AlgoKt/src/recur/MajorEle.kt" />
+      <jump line="19" column="59" filename="$USER_HOME$/VCS/AlgoKt/src/recur/MajorEle.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ci8vIDIuIE5vdyBHIGlzIGFueSBkaXJlY3RlZCBncmFwaApmdW4gR3JhcGg8SW50Pi5zYWZlVmVydGljZXMoazogSW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hlY2tJZGVudGl0eTogQm9vbGVhbiA9IHRydWUpCgkJOiBDb2xsZWN0aW9uPFZlcnRleDxJbnQ+PiB7Cgl2YWwgc2NjID0gdGFyamFuKGNoZWNrSWRlbnRpdHkpCgl2YWwgc2NjVmVydGljZXMgPSBzY2MudG9wb1NvcnQoY2hlY2tJZGVudGl0eSkKCgl2YWwgZHAgPSBPbmVBcnJheShzY2NWZXJ0aWNlcy5zaXplKSB7IHNjY1ZlcnRpY2VzW2l0XS5kYXRhLm1hcCB7IGl0LmRhdGEgfS5zdW0oKSB9CglwcmludGxuKGRwKQoKCVRPRE8oKQp9Cg==</text>
+        <text encoding="base64">CXZhbCBuID0gc2l6ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>ArrayList</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>folo</text>
@@ -1888,7 +1900,7 @@
         <text encoding="base64">CQkJRWRnZShWWzJdLCBWWzRdLCB0cnVlKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8vIDIuIE5vdyBHIGlzIGFueSBkaXJlY3RlZCBncmFwaApmdW4gR3JhcGg8SW50Pi5zYWZlVmVydGljZXMoazogSW50LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY2hlY2tJZGVudGl0eTogQm9vbGVhbiA9IHRydWUpCgkJOiBDb2xsZWN0aW9uPFZlcnRleDxJbnQ+PiB7Cgl2YWwgc2NjID0gdGFyamFuKGNoZWNrSWRlbnRpdHkpCgl2YWwgc2NjVmVydGljZXMgPSBzY2MudG9wb1NvcnQoY2hlY2tJZGVudGl0eSkKCgl2YWwgZHAgPSBPbmVBcnJheShzY2NWZXJ0aWNlcy5zaXplKSB7IHNjY1ZlcnRpY2VzW2l0XS5kYXRhLm1hcCB7IGl0LmRhdGEgfS5zdW0oKSB9CglwcmludGxuKGRwKQoKCVRPRE8oKQp9Cg==</text>
+        <text encoding="base64">CXZhbCBuID0gc2l6ZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1897,28 +1909,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CVYuaW5kaWNlcy5maWx0ZXIgeyBWW2l0XS5kYXRhID09IDEgfS5mb3JFYWNoIHsgZHBbaXRdLmFkZChpdCkgfQo=</text>
+        <text encoding="base64">ZnVuIE9uZUFycmF5PEludD4ubWFqb3JFbGVNZWRpYW4oKTogSW50IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CVYuZmlsdGVyIHsgaXQuZGF0YSA9PSAxIH0uZm9yRWFjaCB7IGRwW1YuaW5kZXhPZihpdCldIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlkcFtpXSArPSBnZXRFZGdlc0Zyb20oVltpXSwgY2hlY2tJZGVudGl0eSkKCQkJCS5tYXAgeyAoXywgdykgLT4gZHBbVi5pbmRleE9mKHcpXSB9CgkJCQkuc3VtKCkKCX0KCS8vIHRpbWU6IE8oViArIEUpCg==</text>
+        <text encoding="base64">CVRPRE8oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJldHVybiBWLmZpbHRlckluZGV4ZWQgeyBpLCBfIC0+IGRwW2ldID49IGsgfQo=</text>
+        <text encoding="base64">CXJldHVybiBtYXAuZmlsdGVyVmFsdWVzIHsgaXQgPiBzaXplIC8gMiB9LmtleXMuZmlyc3QoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhbCBzYWZlVmVydGljZXMgPSBIYXNoU2V0PFZlcnRleDxJbnQ+PigpCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaW50bG4oVikK</text>
+        <text encoding="base64">CXZhbCBBID0gdGhpcwoJdmFsIG4gPSBzaXplCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aS4qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
