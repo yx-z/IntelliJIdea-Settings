@@ -889,14 +889,16 @@
         <mark key="^" line="63" column="33" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523552766242">
+      <file name="/Dummy.txt" timestamp="1523557367394">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/util/OneArray.kt" timestamp="1523386945385">
-        <mark key="[" line="364" column="0" />
-        <mark key="]" line="364" column="119" />
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/util/OneArray.kt" timestamp="1523556952094">
+        <mark key="[" line="262" column="65" />
+        <mark key="]" line="262" column="63" />
+        <mark key="^" line="262" column="63" />
+        <mark key="." line="262" column="63" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/util/StringUtil.kt" timestamp="1521768443002">
         <mark key="[" line="6" column="34" />
@@ -1054,6 +1056,13 @@
         <mark key="]" line="41" column="27" />
         <mark key="^" line="41" column="27" />
         <mark key="." line="41" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/variation/CutVertex.kt" timestamp="1523558101909">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="46" column="35" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LargestSum.kt" timestamp="1521205523559">
         <mark key="'" line="0" column="0" />
@@ -1796,10 +1805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
-      <jump line="6" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/RectangleWalk.kt" />
-      <jump line="10" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/RectangleWalk.kt" />
-      <jump line="66" column="34" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/RectangleWalk.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/RectangleWalk.kt" />
       <jump line="19" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/RectangleWalk.kt" />
       <jump line="49" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LIS.kt" />
@@ -1896,13 +1901,17 @@
       <jump line="3" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/recur/KCorrupted.kt" />
       <jump line="44" column="18" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/recur/KCorrupted.kt" />
       <jump line="10" column="22" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/recur/KCorrupted.kt" />
+      <jump line="9" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/variation/CutVertex.kt" />
+      <jump line="3" column="12" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/variation/CutVertex.kt" />
+      <jump line="10" column="44" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/variation/CutVertex.kt" />
+      <jump line="20" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/variation/CutVertex.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PFY+</text>
@@ -1911,7 +1920,7 @@
         <text encoding="base64">CQlyZXR1cm4gQVsxIHVudGlsIG0gLSBrXS5pZHhPZih4LCBrKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlmb3IgKGkgaW4gaW5kaWNlcykgewoJCQlpZiAoQVtpXSA9PSB4KSB7CgkJCQlyZXR1cm4gaQoJCQl9CgkJfQoJCXJldHVybiAwCg==</text>
+        <text encoding="base64">CQkJRWRnZShWWzFdLCBWWzNdLCB0cnVlKSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1920,28 +1929,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBPKDEpIGJydXRlIGZvcmNlIGZvciBzbWFsbCBuCg==</text>
+        <text encoding="base64">CS8vIHdlIHNob3VsZCBBTFdBWVMgc29ydCB0aGUgREFHIGluIGV2ZXJ5IERBRyBwcm9ibGVtCgkvLyBpdCdzIGxpa2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZhbAo=</text>
+        <text encoding="base64">CWRwLnRvQXJyYXkoKS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9hcnJheSBBIGNvbnRhaW5zIGEgZ2l2ZW4gaW50ZWdlciB4LiBZb3VyIGlucHV0IGNvbnNpc3RzIG9mIHRoZSBhcnJheSBBLCB0aGUgaW50ZWdlciBrLCBhbmQgdGhlCi8vdGFyZ2V0IGludGVnZXIgeC4K</text>
+        <text encoding="base64">CXJldHVybiBkcC5jb250YWlucygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJvb3QucmlnaHQhIS5yaWdodCEhLmxlZnQgPSBCaW5UcmVlTm9kZSg5KQo=</text>
+        <text encoding="base64">CS8vIGRwKFYuc2l6ZSkgPSBkcChWLnNpemUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJvb3QucmlnaHQhIS5yaWdodCA9IEJpblRyZWVOb2RlKDgpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS54cGF0aC5pbnRlcm5hbC5vcGVyYXRpb25zLkJvb2wK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhbCAobCwgcikgPSBjaGlsZHJlbk1hcFt0aGlzXSEhCglpZiAobCA9PSByKSB7CgkJcmV0dXJuIHRoaXMKCX0KCgl2YWwgbiA9IGwgKyByICsgMQoKCWlmIChsID4gcikgewoJCXZhciBwYXJlbnQgPSByICsgMQoJCXZhciBjdXJyID0gbGVmdCEhCgkJd2hpbGUgKHBhcmVudCA+IG4gLyAyKSB7CgkJCXBhcmVudCsrCgkJfQoJCXJldHVybiBjdXJyCgl9IGVsc2UgeyAvLyBsIDwgcgoJCXZhciBwYXJlbnQgPSBsICsgMQoJCXZhciBjdXJyID0gcmlnaHQhIQoJCXdoaWxlIChwYXJlbnQgPiBuIC8gMikgewoJCQlwYXJlbnQrKwoJCX0KCQlyZXR1cm4gY3VycgoJfQo=</text>
+        <text encoding="base64">CQlmb3IgKGkgaW4gaW5kaWNlcykgewoJCQlpZiAoQVtpXSA9PSB4KSB7CgkJCQlyZXR1cm4gaQoJCQl9CgkJfQoJCXJldHVybiAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwudHUK</text>
+        <text encoding="base64">CQkvLyBPKDEpIGJydXRlIGZvcmNlIGZvciBzbWFsbCBuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CXZhbAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
