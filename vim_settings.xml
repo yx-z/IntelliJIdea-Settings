@@ -773,7 +773,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523490405339">
+      <file name="/Dummy.txt" timestamp="1523492523040">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1537,6 +1537,12 @@
         <mark key="^" line="31" column="15" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/PreToBST.kt" timestamp="1523492589723">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/str/LSNoRepeat.kt" timestamp="1508079549053">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="45" column="0" />
@@ -1670,6 +1676,12 @@
         <mark key="]" line="44" column="20" />
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="49" />
+      </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/PreInToBinTree.kt" timestamp="1523492827049">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="19" />
       </file>
       <file name="F:/FHIR/src/model/vitalsign/VitalSignUnits.java" timestamp="1510024220710">
         <mark key="[" line="12" column="11" />
@@ -1897,8 +1909,8 @@
       <jump line="19" column="48" filename="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/PrePostToFullBinTree.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXZhbCByb290ID0gQmluVHJlZU5vZGUoMTApCglyb290LmxlZnQgPSBCaW5UcmVlTm9kZSgyKQoJcm9vdC5wcmV0dHlQcmludFRyZWUoKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1910,7 +1922,7 @@
         <text encoding="base64">CQkJRWRnZShWWzJdLCBWWzRdLCB0cnVlKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZhbCByb290ID0gQmluVHJlZU5vZGUoMTApCglyb290LmxlZnQgPSBCaW5UcmVlTm9kZSgyKQoJcm9vdC5wcmV0dHlQcmludFRyZWUoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1919,28 +1931,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZhbCByb290ID0gQmluVHJlZU5vZGUocHJlWzFdKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwucHJldHR5UHJpbnRUcmVlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwuT25lQXJyYXkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXZhbCByb290ID0gQmluVHJlZU5vZGUocHJlWzFdKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHV0aWwucHJldHR5UHJpbnRUcmVlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHV0aWwuT25lQXJyYXkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhbCBBID0gdGhpCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZhbCBBID0gdGhpCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
