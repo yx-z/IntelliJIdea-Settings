@@ -1890,7 +1890,7 @@
         <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>folo</text>
+        <text encoding="base64">XDwrXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJRWRnZShWWzJdLCBWWzRdLCB0cnVlKSwK</text>
@@ -1933,9 +1933,9 @@
       </register>
     </registers>
     <search>
-      <last-search>folo</last-search>
+      <last-search encoding="base64">XDwrXD4=</last-search>
       <last-offset />
-      <last-pattern>folo</last-pattern>
+      <last-pattern encoding="base64">XDwrXD4=</last-pattern>
       <last-replace encoding="base64">PEludD4=</last-replace>
       <last-substitute encoding="base64">PFY+</last-substitute>
       <last-dir>1</last-dir>
@@ -1943,7 +1943,6 @@
     </search>
     <history>
       <history-search>
-        <entry>T</entry>
         <entry>.data</entry>
         <entry>curr.data.third</entry>
         <entry>n</entry>
@@ -1963,6 +1962,7 @@
         <entry encoding="base64">PFY+</entry>
         <entry>fol</entry>
         <entry>folo</entry>
+        <entry encoding="base64">XDwrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzIvMC9n</entry>
