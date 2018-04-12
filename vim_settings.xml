@@ -24,11 +24,12 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/tree/bintree/CentralNode.kt" timestamp="1523549000655">
-        <mark key="[" line="50" column="43" />
-        <mark key="]" line="50" column="58" />
-        <mark key="." line="50" column="43" />
-        <mark key="^" line="50" column="58" />
+      <file name="$USER_HOME$/Desktop/Project/AlgoKt/src/tree/bintree/CentralNode.kt" timestamp="1523551160487">
+        <mark key="'" line="33" column="15" />
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="23" />
+        <mark key="^" line="74" column="44" />
       </file>
       <file name="/a.dummy" timestamp="1521309263672">
         <mark key="[" line="0" column="0" />
@@ -1787,10 +1788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="25" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
-      <jump line="28" column="26" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
-      <jump line="39" column="27" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
       <jump line="20" column="33" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
       <jump line="38" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
       <jump line="319" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/util/OneArray.kt" />
@@ -1887,13 +1884,17 @@
       <jump line="52" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/RingDing.kt" />
       <jump line="10" column="35" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/recur/LibertyTowers.kt" />
       <jump line="11" column="17" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/recur/LibertyTowers.kt" />
+      <jump line="77" column="27" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/tree/bintree/CentralNode.kt" />
+      <jump line="83" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/tree/bintree/CentralNode.kt" />
+      <jump line="3" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/tree/bintree/CentralNode.kt" />
+      <jump line="35" column="15" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/tree/bintree/CentralNode.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CnByaXZhdGUgZnVuIDxUPiBCaW5UcmVlTm9kZTxUPi5jb3VudFBhcmVudChtYXA6IEhhc2hNYXA8QmluVHJlZU5vZGU8VD4sIEludD4gPSBIYXNoTWFwKCkpCgkJOiBNYXA8QmluVHJlZU5vZGU8VD4sIEludD4gewoKfQo=</text>
+      <register name="&quot;" type="4">
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PFY+</text>
@@ -1902,7 +1903,7 @@
         <text encoding="base64">ZnVuIEludEFycmF5Lm1heFN1bUthZGFuZSgpOiBJbnQgewoJdmFyIG1heEVuZGluZ0hlcmUgPSAwCgl2YXIgbWF4U29GYXIgPSAwCglmb3JFYWNoIHsKCQltYXhFbmRpbmdIZXJlICs9IGl0CgkJbWF4RW5kaW5nSGVyZSA9IG1heChtYXhFbmRpbmdIZXJlLCAwKQoJCW1heFNvRmFyID0gbWF4KG1heFNvRmFyLCBtYXhFbmRpbmdIZXJlKQoJfQoJcmV0dXJuIG1heFNvRmFyCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnByaXZhdGUgZnVuIDxUPiBCaW5UcmVlTm9kZTxUPi5jb3VudFBhcmVudChtYXA6IEhhc2hNYXA8QmluVHJlZU5vZGU8VD4sIEludD4gPSBIYXNoTWFwKCkpCgkJOiBNYXA8QmluVHJlZU5vZGU8VD4sIEludD4gewoKfQo=</text>
+        <text encoding="base64">CXJvb3QucmlnaHQhIS5yaWdodCEhLmxlZnQgPSBCaW5UcmVlTm9kZSg5KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1911,28 +1912,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuIGxpYmVydHlUb3dlcnMzKG46IEludCk6IEludCB7CglyZXR1cm4gbGliZXJ0eVRvd2VyczNSZWN1cihuLCAxLCAzKQp9Cgo=</text>
+        <text encoding="base64">CXJvb3QucmlnaHQhIS5yaWdodCA9IEJpblRyZWVOb2RlKDgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJd2hlbihlbmQpIHsKCQkJCTItPiAKCQkJfQo=</text>
+        <text encoding="base64">CXZhbCAobCwgcikgPSBjaGlsZHJlbk1hcFt0aGlzXSEhCglpZiAobCA9PSByKSB7CgkJcmV0dXJuIHRoaXMKCX0KCgl2YWwgbiA9IGwgKyByICsgMQoKCWlmIChsID4gcikgewoJCXZhciBwYXJlbnQgPSByICsgMQoJCXZhciBjdXJyID0gbGVmdCEhCgkJd2hpbGUgKHBhcmVudCA+IG4gLyAyKSB7CgkJCXBhcmVudCsrCgkJfQoJCXJldHVybiBjdXJyCgl9IGVsc2UgeyAvLyBsIDwgcgoJCXZhciBwYXJlbnQgPSBsICsgMQoJCXZhciBjdXJyID0gcmlnaHQhIQoJCXdoaWxlIChwYXJlbnQgPiBuIC8gMikgewoJCQlwYXJlbnQrKwoJCX0KCQlyZXR1cm4gY3VycgoJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhbCB2YWxpZCA9IGlmIChzdGFydCA9PSAyKSB7IHNldE9mKDEsIDMpIH0gZWxzZSB7IHNldE9mKDIpIH0KCgo=</text>
+        <text encoding="base64">aW1wb3J0IHV0aWwudHUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gcmV0dXJuIHRoZSBtaW4gIyBvZiBzdGVwcyByZXF1aXJlZAo=</text>
+        <text encoding="base64">CQlwYXJlbnRNYXBbdGhpc10gPSBwYXJlbnRNYXBbcGFyZW50XSEhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWlmIChuID09IDApIHsKCQlyZXR1cm4gMAoJfQoK</text>
+        <text encoding="base64">CQkJKHBhcmVudE1hcFt0aGlzXSEhKSArPSBjaGlsZHJlbk1hcFtwYXJlbnRdISEuc2Vjb25kICsgMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gMS4gc29sdmUgYSBzcGVjaWFsIGNhc2Ugb2YgayA9IDMKLy8gb3VyIHN0cmF0ZWd5IGlzIG1vdmUgbiAtIDEgZGlza3MgZnJvbSAxIHRvIDIsIHRoZW4gMiB0byAzCi8vIG1vdmUgZGlzayAjbiBmcm9tIDEgdG8gMiwgbW92ZSBuIC0gMSBkaXNrcyBmcm9tIDMgdG8gMiwKLy8gYW5kIGZpbmFsbHkgbW92ZSBhbGwgZGlza3MgZnJvbSAyIHRvIDMK</text>
+        <text encoding="base64">CQkJcGFyZW50TWFwW3RoaXNdID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnByaXZhdGUgZnVuIDxUPiBCaW5UcmVlTm9kZTxUPi5jb3VudFBhcmVudChtYXA6IEhhc2hNYXA8QmluVHJlZU5vZGU8VD4sIEludD4gPSBIYXNoTWFwKCkpCgkJOiBNYXA8QmluVHJlZU5vZGU8VD4sIEludD4gewoKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
