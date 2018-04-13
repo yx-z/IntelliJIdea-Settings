@@ -560,11 +560,12 @@
         <mark key="'" line="46" column="5" />
         <mark key="[" line="58" column="36" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/variation/CutVertex.kt" timestamp="1523577352602">
-        <mark key="[" line="60" column="38" />
-        <mark key="]" line="60" column="50" />
-        <mark key="." line="60" column="50" />
-        <mark key="^" line="60" column="50" />
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/variation/CutVertex.kt" timestamp="1523592999902">
+        <mark key="'" line="3" column="12" />
+        <mark key="[" line="125" column="23" />
+        <mark key="]" line="127" column="25" />
+        <mark key="." line="127" column="25" />
+        <mark key="^" line="127" column="25" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/Reachability3.kt" timestamp="1522109043457">
         <mark key="'" line="82" column="51" />
@@ -1787,9 +1788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="17" filename="$USER_HOME$/VCS/AlgoKt/src/recur/WeightedMedian.kt" />
-      <jump line="16" column="25" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
       <jump line="28" column="26" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
       <jump line="39" column="27" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
       <jump line="20" column="33" filename="$USER_HOME$/VCS/AlgoKt/src/dp/ConstructAVLT.kt" />
@@ -1887,13 +1885,16 @@
       <jump line="46" column="5" filename="$USER_HOME$/VCS/AlgoKt/src/recur/EleIdx.kt" />
       <jump line="19" column="48" filename="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/PrePostToFullBinTree.kt" />
       <jump line="23" column="27" filename="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/CentralNode.kt" />
+      <jump line="46" column="6" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/CutVertex.kt" />
+      <jump line="106" column="8" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/CutVertex.kt" />
+      <jump line="3" column="12" filename="$USER_HOME$/VCS/AlgoKt/src/graph/variation/CutVertex.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCXJldHVybiB0cnVlCg==</text>
+        <text encoding="base64">CQkJaWYgKGdldEVkZ2VzRnJvbSh2KS5zaXplID09IDEpIHsKCQkJCWN1dFZlcnRpY2VzLmFkZCh2KWoKCQkJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Boolean</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwrXD4=</text>
@@ -1902,7 +1903,7 @@
         <text encoding="base64">CQkJRWRnZShWWzJdLCBWWzRdLCB0cnVlKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXJldHVybiB0cnVlCg==</text>
+        <text encoding="base64">CQkJaWYgKGdldEVkZ2VzRnJvbSh2KS5zaXplID09IDEpIHsKCQkJCWN1dFZlcnRpY2VzLmFkZCh2KWoKCQkJfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1911,28 +1912,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlnZXRFZGdlc2ZyCg==</text>
+        <text encoding="base64">CQkJCXJldHVybiB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CglUT0RPKCkK</text>
+        <text encoding="base64">CQlnZXRFZGdlc2ZyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CglUT0RPKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJBQkMiWzBdCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CSJBQkMiWzBdCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQoJaWYgKGwgPT0gcikgewoJCXJldHVybiB0aGlzCgl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
