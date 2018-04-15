@@ -858,6 +858,12 @@
         <mark key="." line="52" column="111" />
         <mark key="^" line="52" column="111" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/AVLTree.kt" timestamp="1523796958147">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="17" column="53" />
+        <mark key="." line="17" column="53" />
+        <mark key="^" line="17" column="53" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/FloodFill.kt" timestamp="1521947025484">
         <mark key="'" line="125" column="26" />
         <mark key="[" line="102" column="50" />
@@ -1024,6 +1030,12 @@
         <mark key="]" line="32" column="26" />
         <mark key="." line="32" column="26" />
         <mark key="^" line="32" column="26" />
+      </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/RBT.kt" timestamp="1523795217323">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="32" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/LoopedTree.kt" timestamp="1522619777643">
         <mark key="'" line="74" column="0" />
@@ -1918,11 +1930,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/math/Fib.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>// well, for sure you are the fastest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlvdmVycmlkZSB2YXIgbGVmdDogQVZMVHJlZU5vZGU8VD4/CgkJCWdldCgpID0gc3VwZXIubGVmdCBhcyBBVkxUcmVlTm9kZTxUPgoJCQlzZXQodmFsdWUpIHt9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>// well, for sure you are the fastest</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwrXD4=</text>
@@ -1931,7 +1943,7 @@
         <text encoding="base64">CXByaW50bG4odGltZSB7IDIwMC50aEZpYkRvdWJsaW5nKCkgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlvdmVycmlkZSB2YXIgbGVmdDogQVZMVHJlZU5vZGU8VD4/CgkJCWdldCgpID0gc3VwZXIubGVmdCBhcyBBVkxUcmVlTm9kZTxUPgoJCQlzZXQodmFsdWUpIHt9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1940,28 +1952,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gc29ycnkgYnV0IHlvdSBhcmUgVE9PIHNsb3cgdG8gYmUgdGVzdGVkLCBpIG1lYW4gcmVhbGx5LCBUT09PIHNsb3cK</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaW50bG4odGltZSB7IDIwMC50aEZpYlJlYygpIH0pCg==</text>
+        <text encoding="base64">CQlpZiAocm9vdCA9PSBudWxsKSB7CgkJCXJvb3QgPSAKCQl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaW50bG4odGltZSB7IDIwMC50aEZpYlJlYygpIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJldHVybiBRCn0gZWxzZSB7Cg==</text>
+        <text encoding="base64">Y2xhc3MgQVZMVHJlZU5vZGU8VCA6IENvbXBhcmFibGU8VD4+KGRhdGE6IFQpIDogQmluVHJlZU5vZGU8VD4oZGF0YSkgewoJdmFyIGhlaWdodDogSW50ID0gMQoKCWZ1biBpbnNlcnQodDogVCkge30KfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJldHVybiAoUSAqIFEpLnBvdyhuIC0gMSkKfQo=</text>
+        <text encoding="base64">CWNsYXNzIEFWTFRyZWVOb2RlPFQgOiBDb21wYXJhYmxlPFQ+PihkYXRhOiBUKSA6IEJpblRyZWVOb2RlPFQ+KGRhdGEpIHsKCQl2YXIgaGVpZ2h0OiBJbnQgPSAxCgoJCWZ1biBpbnNlcnQodDogVCkge30KCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWlmIChuID09IDEpIHsKCQlyZXR1cm4gdGhpcwoJfQoJCn0K</text>
+        <text encoding="base64">CQkKCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5yZWZsZWN0Lmp2bS5pbnRlcm5hbC5pbXBsLmxvYWQuamF2YS5sYXp5Lk51bGxhYmlsaXR5UXVhbGlmaWVyV2l0aEFwcGxpY2FiaWxpdHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmltcG9ydCB1dGlsLnR1CmltcG9ydCBqYXZhLmxhbmcuTWF0aC5wb3cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
