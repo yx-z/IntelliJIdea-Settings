@@ -1326,11 +1326,11 @@
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" timestamp="1525614917281">
+      <file name="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" timestamp="1525614942144">
         <mark key="'" line="102" column="0" />
-        <mark key="[" line="113" column="21" />
-        <mark key="]" line="115" column="23" />
-        <mark key="." line="115" column="23" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
         <mark key="^" line="115" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/tree/Trim.kt" timestamp="1508050459935">
@@ -2006,7 +2006,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlkcFtpLCAxXSA9IAo=</text>
+        <text encoding="base64">Ci8vIHJldHVybiB0aGUgbnVtYmVyIG9mIHN1YnNldHMgaW4gdGhpcyBhcnJheSB0aGF0IGNhbiBtYWtlIHVwIHRvIFQKLy8gYXNzdW1pbmcgYWxsIG51bWJlcnMgYXJlIGRpc3RpbmN0CmZ1biBPbmVBcnJheTxJbnQ+LnN1YnNldFN1bUNvdW50KFQ6IEludCk6IEludCB7Cgl2YWwgQSA9IHRoaXMKCXZhbCBuID0gc2l6ZQoKCS8vIGRwKGksIGopOiAjIG9mIHN1YnNldHMgaW4gQVsxLi5pXSB0aGF0IGNhbiBtYWtlIHVwIHRvIGoKCXZhbCBkcCA9IE9uZUFycmF5KG4pIHsgT25lQXJyYXkoVCkgeyAwIH0gfQoJCgkvLyBkcFtpLCAxXSA9IEFbMS4uaV0gY29udGFpbnMgMQoJZm9yIChpIGluIDEuLm4pIHsKCQlpZiAoKQoJfQp9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -2018,7 +2018,7 @@
         <text encoding="base64">CQkJCWlmIChsZWZ0ID09IG51bGwpIHsKCQkJCQlsZWZ0ID0gQVZMVHJlZU5vZGUoaywgdikKCQkJCX0gZWxzZSB7CgkJCQkJbGVmdCEhLmluc2VydChrLCB2KQoJCQkJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlkcFtpLCAxXSA9IAo=</text>
+        <text encoding="base64">Ci8vIHJldHVybiB0aGUgbnVtYmVyIG9mIHN1YnNldHMgaW4gdGhpcyBhcnJheSB0aGF0IGNhbiBtYWtlIHVwIHRvIFQKLy8gYXNzdW1pbmcgYWxsIG51bWJlcnMgYXJlIGRpc3RpbmN0CmZ1biBPbmVBcnJheTxJbnQ+LnN1YnNldFN1bUNvdW50KFQ6IEludCk6IEludCB7Cgl2YWwgQSA9IHRoaXMKCXZhbCBuID0gc2l6ZQoKCS8vIGRwKGksIGopOiAjIG9mIHN1YnNldHMgaW4gQVsxLi5pXSB0aGF0IGNhbiBtYWtlIHVwIHRvIGoKCXZhbCBkcCA9IE9uZUFycmF5KG4pIHsgT25lQXJyYXkoVCkgeyAwIH0gfQoJCgkvLyBkcFtpLCAxXSA9IEFbMS4uaV0gY29udGFpbnMgMQoJZm9yIChpIGluIDEuLm4pIHsKCQlpZiAoKQoJfQp9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2027,28 +2027,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaW50bG4ob25lQXJyYXlPZigxLCAyLCA0KS5iaW5TZWFyY2goMykpCg==</text>
+        <text encoding="base64">CQlkcFtpLCAxXSA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIHdoaWNoIGlzIGxvZyhzMSAqIHMyICogLi4uICogc2spCg==</text>
+        <text encoding="base64">CXByaW50bG4ob25lQXJyYXlPZigxLCAyLCA0KS5iaW5TZWFyY2goMykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIGFuZCB3ZSB3aWxsIHNwZW5kIGxvZyhzMSkgKyBsb2coczIpICsgLi4uICsgbG9nKHNrKSB0aW1lCg==</text>
+        <text encoding="base64">CS8vIHdoaWNoIGlzIGxvZyhzMSAqIHMyICogLi4uICogc2spCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZhbCBBcyA9IHRoaXMK</text>
+        <text encoding="base64">CS8vIGFuZCB3ZSB3aWxsIHNwZW5kIGxvZyhzMSkgKyBsb2coczIpICsgLi4uICsgbG9nKHNrKSB0aW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuIAo=</text>
+        <text encoding="base64">CXZhbCBBcyA9IHRoaXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlkcFtpLCAxXSAK</text>
+        <text encoding="base64">ZnVuIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwudG9DaGFyT25lQXJyYXkK</text>
+        <text encoding="base64">CQlkcFtpLCAxXSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIGRwKGkpOiB3W2kuLm1dIGNhbiBiZSBzcGxpdAo=</text>
+        <text encoding="base64">aW1wb3J0IHV0aWwudG9DaGFyT25lQXJyYXkK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
