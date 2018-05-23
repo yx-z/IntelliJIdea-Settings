@@ -418,6 +418,9 @@
         <mark key="." line="124" column="0" />
         <mark key="^" line="124" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/client_api_java/pom.xml" timestamp="1527093992587">
+        <mark key="'" line="235" column="59" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/CountDistinctSubsequence.kt" timestamp="1508187526002">
         <mark key="[" line="15" column="24" />
         <mark key="]" line="6" column="0" />
@@ -1334,6 +1337,7 @@
         <mark key="." line="25" column="15" />
         <mark key="^" line="25" column="18" />
       </file>
+      <file name="$USER_HOME$/Desktop/client_api_java/src/main/java/com/yahoo/dhrainbow/dhapi/DHEmitterConfig.java" timestamp="1527094267809" />
       <file name="$USER_HOME$/VCS/AlgoKt/src/greedy/JumpToEnd.kt" timestamp="1508186269712">
         <mark key="'" line="9" column="36" />
         <mark key="[" line="34" column="11" />
@@ -1511,6 +1515,9 @@
         <mark key="]" line="107" column="25" />
         <mark key="^" line="107" column="25" />
         <mark key="." line="107" column="25" />
+      </file>
+      <file name="$USER_HOME$/Desktop/client_api_java/src/test/java/com/yahoo/dhrainbow/dhapi/SpecificDeserializerTest.java" timestamp="1527094118610">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/linkedlist/Cycle.kt" timestamp="1503554872157">
         <mark key="[" line="24" column="45" />
@@ -1906,11 +1913,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="24" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/NumShortestPaths.kt" />
-      <jump line="35" column="24" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
-      <jump line="20" column="4" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
-      <jump line="15" column="72" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
-      <jump line="58" column="61" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
       <jump line="14" column="47" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
       <jump line="38" column="19" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
       <jump line="23" column="32" filename="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathInc.kt" />
@@ -2006,6 +2008,11 @@
       <jump line="111" column="17" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" />
       <jump line="102" column="0" filename="$USER_HOME$/VCS/AlgoKt/src/dp/SubsetSum.kt" />
+      <jump line="22" column="33" filename="$USER_HOME$/Desktop/client_api_java/pom.xml" />
+      <jump line="234" column="34" filename="$USER_HOME$/Desktop/client_api_java/pom.xml" />
+      <jump line="235" column="59" filename="$USER_HOME$/Desktop/client_api_java/pom.xml" />
+      <jump line="10" column="24" filename="$USER_HOME$/Desktop/client_api_java/src/test/java/com/yahoo/dhrainbow/dhapi/SpecificDeserializerTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/client_api_java/src/test/java/com/yahoo/dhrainbow/dhapi/SpecificDeserializerTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2015,7 +2022,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwrXD4=</text>
+        <text>testClass</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCWlmIChsZWZ0ID09IG51bGwpIHsKCQkJCQlsZWZ0ID0gQVZMVHJlZU5vZGUoaywgdikKCQkJCX0gZWxzZSB7CgkJCQkJbGVmdCEhLmluc2VydChrLCB2KQoJCQkJfQo=</text>
@@ -2058,9 +2065,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwrXD4=</last-search>
+      <last-search>testClass</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwrXD4=</last-pattern>
+      <last-pattern>testClass</last-pattern>
       <last-replace encoding="base64">PEludD4=</last-replace>
       <last-substitute encoding="base64">PFY+</last-substitute>
       <last-dir>1</last-dir>
@@ -2068,8 +2075,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.data</entry>
-        <entry>curr.data.third</entry>
         <entry>n</entry>
         <entry>right</entry>
         <entry>maxWei</entry>
@@ -2088,6 +2093,8 @@
         <entry>fol</entry>
         <entry>folo</entry>
         <entry encoding="base64">XDwrXD4=</entry>
+        <entry>exclude</entry>
+        <entry>testClass</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzIvMC9n</entry>
