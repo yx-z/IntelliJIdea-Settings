@@ -1753,8 +1753,8 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/vzncount/src/test/java/TestJedis.java" timestamp="1527693716950">
-        <mark key="[" line="15" column="19" />
+      <file name="$USER_HOME$/Desktop/vzncount/src/test/java/TestJedis.java" timestamp="1527737533636">
+        <mark key="[" line="12" column="1" />
         <mark key="]" line="25" column="4" />
         <mark key="." line="25" column="4" />
         <mark key="^" line="25" column="4" />
@@ -2092,8 +2092,8 @@
       <jump line="13" column="17" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0SGdldCgpIHsKICAgICAgICBqZWRpcy5kZWwoImhrIik7CiAgICAgICAgamVkaXMuaHNldCgiaGsiLCAiZmllbGQxIiwgInZhbHVlMSIpOwogICAgICAgIGplZGlzLmhzZXQoImhrIiwgImZpZWxkMiIsICJ2YWx1ZTIiKTsKICAgICAgICBhc3NlcnRFcXVhbHMoamVkaXMuaGdldCgia2V5IiwgImZpZWxkMSIpLCAidmFsdWUxIik7CiAgICB9CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RSR2V0KCkgewogICAgICAgIGplZGlzLmRlbCgicmsiKTsKICAgICAgICBqZWRpcy5ycHVzaCgicmsiLCAiMSIsICI0IiwgIjIiLCAiMyIpOwogICAgICAgIGFzc2VydEVxdWFscyhqZWRpcy5zb3J0KCJyayIsIG5ldyBTb3J0aW5nUGFyYW1zKCkuYWxwaGEoKSksIEFycmF5cy5hc0xpc3QoIjEiLCAiMiIsICIzIiwgIjQiKSk7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
@@ -2102,7 +2102,7 @@
         <text>ssl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoamVkaXMuaGdldCgia2V5IiwgImZpZWxkMSIpLCAidmFsdWUxIik7Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0SGdldCgpIHsKICAgICAgICBqZWRpcy5kZWwoImhrIik7CiAgICAgICAgamVkaXMuaHNldCgiaGsiLCAiZmllbGQxIiwgInZhbHVlMSIpOwogICAgICAgIGplZGlzLmhzZXQoImhrIiwgImZpZWxkMiIsICJ2YWx1ZTIiKTsKICAgICAgICBhc3NlcnRFcXVhbHMoamVkaXMuaGdldCgia2V5IiwgImZpZWxkMSIpLCAidmFsdWUxIik7CiAgICB9CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RSR2V0KCkgewogICAgICAgIGplZGlzLmRlbCgicmsiKTsKICAgICAgICBqZWRpcy5ycHVzaCgicmsiLCAiMSIsICI0IiwgIjIiLCAiMyIpOwogICAgICAgIGFzc2VydEVxdWFscyhqZWRpcy5zb3J0KCJyayIsIG5ldyBTb3J0aW5nUGFyYW1zKCkuYWxwaGEoKSksIEFycmF5cy5hc0xpc3QoIjEiLCAiMiIsICIzIiwgIjQiKSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oamVkaXMuc29ydCgiayIsIG5ldyBTb3J0aW5nUGFyYW1zKCkuYWxwaGEoKSkpOwo=</text>
