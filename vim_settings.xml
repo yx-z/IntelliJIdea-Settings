@@ -1448,12 +1448,11 @@
         <mark key="." line="35" column="34" />
         <mark key="^" line="35" column="34" />
       </file>
-      <file name="$USER_HOME$/Desktop/test_mdbm/src/TestMdbmHelloWorld.java" timestamp="1528231488328">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="67" column="46" />
-        <mark key="]" line="59" column="75" />
-        <mark key="." line="59" column="75" />
-        <mark key="^" line="59" column="75" />
+      <file name="$USER_HOME$/Desktop/test_mdbm/src/TestMdbmHelloWorld.java" timestamp="1528233658060">
+        <mark key="'" line="81" column="8" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/RBTree.kt" timestamp="1523799170436">
         <mark key="[" line="2" column="0" />
@@ -1464,6 +1463,12 @@
         <mark key="]" line="20" column="73" />
         <mark key="." line="20" column="73" />
         <mark key="^" line="20" column="73" />
+      </file>
+      <file name="$USER_HOME$/Desktop/vzncount/src/test/java/TestJettyJedis.java" timestamp="1527624611956">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/other/PriorityQueue.kt" timestamp="1522258243663">
         <mark key="[" line="38" column="5" />
@@ -1809,9 +1814,9 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/vzncount/src/test/java/TestJedis.java" timestamp="1528227788225">
+      <file name="$USER_HOME$/Desktop/vzncount/src/test/java/TestJedis.java" timestamp="1528233354726">
         <mark key="'" line="18" column="17" />
-        <mark key="[" line="81" column="42" />
+        <mark key="[" line="92" column="20" />
         <mark key="]" line="81" column="42" />
         <mark key="." line="81" column="42" />
       </file>
@@ -2052,9 +2057,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/SCS.kt" />
-      <jump line="69" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/SCS.kt" />
-      <jump line="36" column="35" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPlusMult.kt" />
       <jump line="10" column="42" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPlusMult.kt" />
       <jump line="42" column="36" filename="$USER_HOME$/VCS/AlgoKt/src/dp/MaxPlusMult.kt" />
       <jump line="11" column="39" filename="$USER_HOME$/VCS/AlgoKt/src/dp/LCS.kt" />
@@ -2152,22 +2154,25 @@
       <jump line="1" column="17" filename="$USER_HOME$/Desktop/test_mdbm/test_mdbm.iml" />
       <jump line="55" column="94" filename="$USER_HOME$/Desktop/test_mdbm/src/TestMdbmHelloWorld.java" />
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/test_mdbm/src/TestMdbmHelloWorld.java" />
+      <jump line="101" column="65" filename="$USER_HOME$/Desktop/test_mdbm/src/TestMdbmHelloWorld.java" />
+      <jump line="118" column="8" filename="$USER_HOME$/Desktop/test_mdbm/src/TestMdbmHelloWorld.java" />
+      <jump line="81" column="8" filename="$USER_HOME$/Desktop/test_mdbm/src/TestMdbmHelloWorld.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWRibS5mZXRjaFN0cmluZyhmaWVsZCkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>store</text>
+        <text>System.out.println</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExpc3Q8U3RyaW5nPiBzZW5kRW1pdHRlckRhdGEgPSBnZW4xMDAwMFNlbmRFbWl0dGVyKCk7CgogICAgcHJpdmF0ZSBzdGF0aWMgTGlzdDxTdHJpbmc+IGdlbjEwMDAwU2VuZEVtaXR0ZXIoKSB7CiAgICAgICAgUmFuZG9tIHJhbmQgPSBuZXcgUmFuZG9tKCk7CiAgICAgICAgTGlzdDxTdHJpbmc+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oMTAwMCk7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAxMDAwMDsgaSsrKSB7CiAgICAgICAgICAgIC8vIGNvdW50fHRpbWVNaW58c3JjQ29sb3xzcmNIb3N0fHNyY1JvbGV8ZHN0SG9zdHxhbm5vdGF0aW9ufHNjaGVtYQogICAgICAgICAgICBsaXN0LmFkZChyYW5kLm5leHRJbnQoNTApICsgInwiICsgaSArICJ8IiArICJicTEiICsgInwiICsgInNhbXBsZS5ob3N0IiArICJ8IiArICJlbWl0dGVyIiArICJ8IiArICJhbm90aGVyLnNhbXBsZS5ob3N0IiArICJ8IiArICJWSUFfV1MiICsgInwiICsgInNjaGVtYTEiKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGxpc3Q7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBBcnJheUxpc3Q8U3RyaW5nPihtZGJtLmZldGNoU3RyaW5nKHJlY29yZCkuc3BsaXQoIiwiKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWRibS5mZXRjaFN0cmluZyhmaWVsZCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2176,37 +2181,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBBcnJheUxpc3Q8U3RyaW5nPihtZGJtLmZldGNoU3RyaW5nKHJlY29yZCkuc3BsaXQoIiwiKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWRibS5mZXRjaFN0cmluZyhmaWVsZCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBjb3VudEFyciA9IG5ldyBpbnRbXXswfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBob3VyID0gc3RhcnRIb3VyOyBob3VyIDw9IGVuZEhvdXI7IGhvdXIrKykgewogICAgICAgICAgICBTdHJpbmcgcmVjb3JkID0gInBsYXlwZW4iICsgInwiICsgaG91cjsKICAgICAgICAgICAgU2V0PFN0cmluZz4gZmllbGRzID0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImNvdW50OiAiICsgY291bnRBcnJbMF0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gcmVzdWx0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb3VudEFyclswXSArPSByZWNvcmRzLnNpemUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBob3VyID0gc3RhcnRIb3VyOyBob3VyIDw9IGVuZEhvdXI7IGhvdXIrKykgewogICAgICAgICAgICBTdHJpbmcgcmVjb3JkID0gInBsYXlwZW4iICsgInwiICsgaG91cjsKICAgICAgICAgICAgU2V0PFN0cmluZz4gZmllbGRzID0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEludGVnZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgTGlzdDxTdHJpbmc+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBBcnJheUxpc3Q8U3RyaW5nPihtZGJtLmZldGNoU3RyaW5nKHJlY29yZCkuc3BsaXQoIiwiKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWRibS5zdG9yZVN0cmluZyhyZWNvcmQsIGZpZWxkTGlzdCArICIsIiArIGxpc3RJZCwgU3RvcmUuTURCTV9SRVBMQUNFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBBcnJheUxpc3Q8U3RyaW5nPihtZGJtLmZldGNoU3RyaW5nKHJlY29yZCkuc3BsaXQoIiwiKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>store</last-search>
+      <last-search>System.out.println</last-search>
       <last-offset />
-      <last-pattern>store</last-pattern>
+      <last-pattern>System.out.println</last-pattern>
       <last-replace>row</last-replace>
       <last-substitute>v</last-substitute>
       <last-dir>1</last-dir>
@@ -2214,7 +2219,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kara</entry>
         <entry encoding="base64">XDxdXD4=</entry>
         <entry>this</entry>
         <entry>Vertex</entry>
@@ -2234,6 +2238,7 @@
         <entry>zadd</entry>
         <entry>v</entry>
         <entry>store</entry>
+        <entry>System.out.println</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxUPi88SW50Pi9n</entry>
