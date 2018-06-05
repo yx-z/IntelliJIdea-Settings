@@ -327,6 +327,9 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
       </file>
+      <file name="$USER_HOME$/Desktop/test_mdbm/yjava_mdbm-1.4.4.jar!/com/yahoo/db/mdbm/MdbmInterface.class" timestamp="1528228165113">
+        <mark key="'" line="20" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/arr/FindTarget.kt" timestamp="1508718744940">
         <mark key="[" line="45" column="46" />
         <mark key="]" line="45" column="46" />
@@ -1438,11 +1441,11 @@
         <mark key="." line="35" column="34" />
         <mark key="^" line="35" column="34" />
       </file>
-      <file name="$USER_HOME$/Desktop/test_mdbm/src/TestMdbmHelloWorld.java" timestamp="1528227434209">
-        <mark key="'" line="62" column="4" />
-        <mark key="[" line="50" column="81" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Desktop/test_mdbm/src/TestMdbmHelloWorld.java" timestamp="1528228328618">
+        <mark key="'" line="61" column="4" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/RBTree.kt" timestamp="1523799170436">
         <mark key="[" line="2" column="0" />
@@ -2047,9 +2050,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="4" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/graph/core/StronglyConnectedComponents.kt" />
-      <jump line="19" column="44" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/SCS.kt" />
-      <jump line="48" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/SCS.kt" />
       <jump line="49" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/SCS.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/SCS.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/Desktop/Project/AlgoKt/src/dp/SCS.kt" />
@@ -2147,22 +2147,25 @@
       <jump line="1" column="32" filename="$USER_HOME$/Desktop/test_mdbm/src/TestMdbmHelloWorld.java" />
       <jump line="65" column="0" filename="$USER_HOME$/Desktop/test_mdbm/src/TestMdbmHelloWorld.java" />
       <jump line="60" column="4" filename="$USER_HOME$/Desktop/test_mdbm/src/TestMdbmHelloWorld.java" />
+      <jump line="22" column="9" filename="$USER_HOME$/Desktop/test_mdbm/yjava_mdbm-1.4.4.jar!/com/yahoo/db/mdbm/MdbmInterface.class" />
+      <jump line="86" column="9" filename="$USER_HOME$/Desktop/test_mdbm/yjava_mdbm-1.4.4.jar!/com/yahoo/db/mdbm/MdbmInterface.class" />
+      <jump line="20" column="12" filename="$USER_HOME$/Desktop/test_mdbm/yjava_mdbm-1.4.4.jar!/com/yahoo/db/mdbm/MdbmInterface.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1kYm0uc3RvcmUoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>v</text>
+        <text>store</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExpc3Q8U3RyaW5nPiBzZW5kRW1pdHRlckRhdGEgPSBnZW4xMDAwMFNlbmRFbWl0dGVyKCk7CgogICAgcHJpdmF0ZSBzdGF0aWMgTGlzdDxTdHJpbmc+IGdlbjEwMDAwU2VuZEVtaXR0ZXIoKSB7CiAgICAgICAgUmFuZG9tIHJhbmQgPSBuZXcgUmFuZG9tKCk7CiAgICAgICAgTGlzdDxTdHJpbmc+IGxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oMTAwMCk7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAxMDAwMDsgaSsrKSB7CiAgICAgICAgICAgIC8vIGNvdW50fHRpbWVNaW58c3JjQ29sb3xzcmNIb3N0fHNyY1JvbGV8ZHN0SG9zdHxhbm5vdGF0aW9ufHNjaGVtYQogICAgICAgICAgICBsaXN0LmFkZChyYW5kLm5leHRJbnQoNTApICsgInwiICsgaSArICJ8IiArICJicTEiICsgInwiICsgInNhbXBsZS5ob3N0IiArICJ8IiArICJlbWl0dGVyIiArICJ8IiArICJhbm90aGVyLnNhbXBsZS5ob3N0IiArICJ8IiArICJWSUFfV1MiICsgInwiICsgInNjaGVtYTEiKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGxpc3Q7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1kYm0uc3RvcmVTdHJpbmcobGlzdElkLCByb3dzLmdldCgwKSwgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1kYm0uc3RvcmUoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2171,37 +2174,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcm93cy5mb3JFYWNoKHJvd2ApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1kYm0uc3RvcmUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1kYm0uc3RvcmVTdHJpbmcobGlzdElkLCByb3dzLmdldCgwKSwgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcm93cy5mb3JFYWNoKHJvd2ApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEZ1bmN0aW8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNZGJtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEZ1bmN0aW8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdGVzdFdyaXRlU2VuZEVtaXR0ZXJEdW1wKCkgewogICAgICAgIHNlbmRFbWl0dGVyRGF0YU5vUmFuZ2UuZm9yRWFjaCgocmVjb3JkLCBmaWVsZE1hcCkgLT4gewogICAgICAgICAgICBmaWVsZE1hcC5mb3JFYWNoKChmaWVsZCwgcm93cykgLT4gewogICAgICAgICAgICAgICAgamVkaXMuaHNldChyZWNvcmQsIGZpZWxkLCByb3dzLmdldCgwKSk7CiAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gMTsgaSA8IHJvd3Muc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgICAgICAgICBqZWRpcy5oc2V0KHJlY29yZCwgZmllbGQsIGplZGlzLmhnZXQocmVjb3JkLCBmaWVsZCkgKyAiXG4iICsgcm93cy5nZXQoaSkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsKICAgICAgICB9KTtqampqCiAgICB9CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHRlc3RSZWFkU2VuZEVtaXR0ZXJEdW1wKCkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBNZGJtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvd3MuZm9yRWFjaChyb3cgLT4gamVkaXMuaHNldChyZWNvcmQsIGZpZWxkLCBqZWRpcy5oZ2V0KHJvdywgZmllbGQpID09ICJudWxsIiArICJcbiIgKyByb3cpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>v</last-search>
+      <last-search>store</last-search>
       <last-offset />
-      <last-pattern>v</last-pattern>
+      <last-pattern>store</last-pattern>
       <last-replace>row</last-replace>
       <last-substitute>v</last-substitute>
       <last-dir>1</last-dir>
@@ -2209,7 +2212,6 @@
     </search>
     <history>
       <history-search>
-        <entry>karatsuba</entry>
         <entry>kara</entry>
         <entry encoding="base64">XDxdXD4=</entry>
         <entry>this</entry>
@@ -2229,6 +2231,7 @@
         <entry>&quot;hashedReqq&quot;</entry>
         <entry>zadd</entry>
         <entry>v</entry>
+        <entry>store</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxUPi88SW50Pi9n</entry>
