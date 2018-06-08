@@ -651,11 +651,12 @@
         <mark key="." line="28" column="31" />
         <mark key="^" line="28" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/VCount/pom.xml" timestamp="1528485681308">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Desktop/VCount/pom.xml" timestamp="1528487116053">
+        <mark key="'" line="105" column="39" />
+        <mark key="[" line="26" column="48" />
+        <mark key="]" line="105" column="39" />
+        <mark key="." line="105" column="39" />
+        <mark key="^" line="105" column="39" />
       </file>
       <file name="$USER_HOME$/Desktop/vzncount/src/main/java/Main.java" timestamp="1527271234927">
         <mark key="'" line="36" column="0" />
@@ -1442,11 +1443,11 @@
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" timestamp="1528485822556">
-        <mark key="'" line="162" column="0" />
-        <mark key="[" line="15" column="51" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
+      <file name="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" timestamp="1528487203262">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="2" column="60" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/EditDist.kt" timestamp="1503542615358">
         <mark key="[" line="31" column="3" />
@@ -1971,6 +1972,9 @@
         <mark key="^" line="2" column="38" />
         <mark key="." line="2" column="38" />
       </file>
+      <file name="$USER_HOME$/Desktop/VCount/src/test/java/TestRead.java" timestamp="1528486599673">
+        <mark key="[" line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/SplitInPalindrome.kt" timestamp="1520655916902">
         <mark key="'" line="24" column="41" />
         <mark key="[" line="6" column="16" />
@@ -2146,11 +2150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="59" filename="$USER_HOME$/Desktop/client_api_java/pom.xml" />
-      <jump line="10" column="24" filename="$USER_HOME$/Desktop/client_api_java/src/test/java/com/yahoo/dhrainbow/dhapi/SpecificDeserializerTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/client_api_java/src/test/java/com/yahoo/dhrainbow/dhapi/SpecificDeserializerTest.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desktop/vzncount/src/main/java/Main.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/Desktop/vzncount/src/main/java/Main.java" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/vzncount/src/test/java/TestJettyJedis.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/vzncount/src/test/java/TestJettyJedis.java" />
       <jump line="67" column="19" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
@@ -2237,7 +2236,6 @@
       <jump line="95" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/Plot.java" />
       <jump line="185" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="37" column="20" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
-      <jump line="145" column="8" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="163" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="54" column="32" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
       <jump line="172" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
@@ -2245,7 +2243,13 @@
       <jump line="112" column="18" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="344" column="15" filename="$MAVEN_REPOSITORY$/com/github/yannrichet/JMathPlot/1.0.1/JMathPlot-1.0.1-sources.jar!/org/math/plot/Plot2DPanel.java" />
       <jump line="100" column="0" filename="$USER_HOME$/Desktop/VCount/pom.xml" />
+      <jump line="107" column="12" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="162" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
+      <jump line="143" column="41" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
+      <jump line="18" column="55" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
+      <jump line="145" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
+      <jump line="104" column="39" filename="$USER_HOME$/Desktop/VCount/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2255,7 +2259,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>histogram</text>
+        <text>200</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGludGVnZXIgPj0gOTk5OSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
@@ -2270,37 +2274,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsYXRlbmN5LmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLkhUVFA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8am1hdGhwbG90LnZlcnNpb24+MS4wLjE8L2ptYXRocGxvdC52ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5naXRodWIueWFubnJpY2hldDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+Sk1hdGhQbG90PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke2ptYXRocGxvdC52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHModHJ1ZSwgZnJhbWUuZ2V0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBIVFRQX1JFU1BPTlNFX1NUQVRVU19PSyA9IDIwMDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEh0dHBTdGF0dXMuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGVbXSBsYXRlbmN5QXJyID0gbmV3IGRvdWJsZVtsYXRlbmN5LnNpemUoKV07CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBsYXRlbmN5LnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgIGxhdGVuY3lBcnJbaV0gPSBsYXRlbmN5LmdldChpKTsKICAgICAgICB9CiAgICAgICAgUGxvdDJEUGFuZWwgcGFuZWwgPSBuZXcgUGxvdDJEUGFuZWwoKTsKICAgICAgICBwYW5lbC5hZGRIaXN0b2dyYW1QbG90KCJsYXRlbmN5Iik7CiAgICAgICAgSkZyYW1lIGZyYW1lID0gbmV3IEpGcmFtZSgibGF0ZW5jeSIpOwogICAgICAgIGZyYW1lLnNldENvbnRlbnRQYW5lKHBhbmVsKTsKICAgICAgICBmcmFtZS5zZXRTaXplKDY0MCwgNDgwKTsKICAgICAgICBmcmFtZS5zZXREZWZhdWx0Q2xvc2VPcGVyYXRpb24oV2luZG93Q29uc3RhbnRzLkVYSVRfT05fQ0xPU0UpOwogICAgICAgIGZyYW1lLnNldFR5cGUoV2luZG93LlR5cGUuTk9STUFMKTsKICAgICAgICBmcmFtZS5zZXRGb2N1c2FibGUodHJ1ZSk7CiAgICAgICAgZnJhbWUuc2V0UmVzaXphYmxlKHRydWUpOwogICAgICAgIGZyYW1lLnNldEVuYWJsZWQodHJ1ZSk7CiAgICAgICAgZnJhbWUuc2V0VmlzaWJsZSh0cnVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYW5lbC5hZGRIaXN0b2dyYW1QbG90Owo=</text>
+        <text encoding="base64">ICAgICAgICBsYXRlbmN5LmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTYW1wbGUK</text>
+        <text encoding="base64">ICAgICAgICA8am1hdGhwbG90LnZlcnNpb24+MS4wLjE8L2ptYXRocGxvdC52ZXJzaW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>histogram</last-search>
+      <last-search>200</last-search>
       <last-offset />
-      <last-pattern>histogram</last-pattern>
+      <last-pattern>200</last-pattern>
       <last-replace>row</last-replace>
       <last-substitute>v</last-substitute>
       <last-dir>1</last-dir>
@@ -2308,7 +2312,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Weighted</entry>
         <entry>V</entry>
         <entry encoding="base64">PFY+</entry>
         <entry>fol</entry>
@@ -2328,6 +2331,7 @@
         <entry>port</entry>
         <entry>handle</entry>
         <entry>histogram</entry>
+        <entry>200</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxUPi88SW50Pi9n</entry>
