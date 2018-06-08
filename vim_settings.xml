@@ -651,12 +651,12 @@
         <mark key="." line="28" column="31" />
         <mark key="^" line="28" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/VCount/pom.xml" timestamp="1528487116053">
-        <mark key="'" line="105" column="39" />
-        <mark key="[" line="26" column="48" />
-        <mark key="]" line="105" column="39" />
-        <mark key="." line="105" column="39" />
-        <mark key="^" line="105" column="39" />
+      <file name="$USER_HOME$/Desktop/VCount/pom.xml" timestamp="1528491613800">
+        <mark key="'" line="104" column="10" />
+        <mark key="[" line="101" column="9" />
+        <mark key="]" line="101" column="10" />
+        <mark key="." line="101" column="10" />
+        <mark key="^" line="101" column="10" />
       </file>
       <file name="$USER_HOME$/Desktop/vzncount/src/main/java/Main.java" timestamp="1527271234927">
         <mark key="'" line="36" column="0" />
@@ -1200,7 +1200,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1528403656150">
+      <file name="/fragment.java" timestamp="1528492550479">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/tree/bintree/LCS.kt" timestamp="1523651408688">
@@ -1443,11 +1443,12 @@
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" timestamp="1528487213574">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" timestamp="1528492678860">
+        <mark key="'" line="116" column="10" />
+        <mark key="[" line="21" column="46" />
+        <mark key="]" line="176" column="35" />
+        <mark key="." line="176" column="35" />
+        <mark key="^" line="176" column="18" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/EditDist.kt" timestamp="1503542615358">
         <mark key="[" line="31" column="3" />
@@ -2150,7 +2151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/Desktop/vzncount/src/test/java/TestJettyJedis.java" />
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/vzncount/src/test/java/TestJettyJedis.java" />
       <jump line="67" column="19" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
       <jump line="188" column="12" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
@@ -2249,14 +2249,15 @@
       <jump line="18" column="55" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="145" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="20" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
-      <jump line="104" column="39" filename="$USER_HOME$/Desktop/VCount/pom.xml" />
+      <jump line="104" column="10" filename="$USER_HOME$/Desktop/VCount/pom.xml" />
+      <jump line="115" column="10" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>200</text>
@@ -2265,7 +2266,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGludGVnZXIgPj0gOTk5OSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGVbXSB4ID0gbmV3IGRvdWJsZVtsYXRlbmN5LnNpemUoKV07Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2274,28 +2275,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tYXRoLnBsb3QuKjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeFtpXSA9IGk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGF0ZW5jeUFycltpXSA9IGxhdGVuY3kuZ2V0KGkpOwogICAgICAgICAgICB4W2ldID0gaTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLkhUVFA7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgSGlzdG9ncmFtUGxvdDJELm1haW4obmV3IFN0cmluZ1swXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBsYXVuY2gK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHModHJ1ZSwgZnJhbWUuZ2V0KTsK</text>
+        <text encoding="base64">ICAgICAgICBIaXN0b2dyYW1QbG90MkQubWFpbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBIVFRQX1JFU1BPTlNFX1NUQVRVU19PSyA9IDIwMDsK</text>
+        <text encoding="base64">ICAgICAgICBmcmFtZS5zZXRWaXNpYmxlKHRydWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEh0dHBTdGF0dXMuCg==</text>
+        <text encoding="base64">ICAgICAgICBmcmFtZS5zZXRDb250ZW50UGFuZShwbG90KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcmFtZS5zZXRTaXplKHcsIGgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
