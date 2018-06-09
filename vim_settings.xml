@@ -1446,11 +1446,12 @@
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" timestamp="1528494909687">
-        <mark key="'" line="119" column="10" />
-        <mark key="[" line="178" column="78" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
+      <file name="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" timestamp="1528575711322">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/EditDist.kt" timestamp="1503542615358">
         <mark key="[" line="31" column="3" />
@@ -1889,6 +1890,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/VCount/src/main/java/util/Constants.java" timestamp="1528575702494">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="3" />
+      </file>
       <file name="F:/FHIR/src/retriever/MedicationOrderRetriever.java" timestamp="1510414730677">
         <mark key="'" line="28" column="30" />
         <mark key="[" line="11" column="0" />
@@ -2153,11 +2161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="12" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
-      <jump line="187" column="22" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
-      <jump line="186" column="12" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
-      <jump line="66" column="9" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
-      <jump line="65" column="9" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
       <jump line="64" column="9" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
       <jump line="60" column="23" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
       <jump line="59" column="69" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
@@ -2238,7 +2241,6 @@
       <jump line="163" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="54" column="32" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
       <jump line="172" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
-      <jump line="110" column="4" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="112" column="18" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="344" column="15" filename="$MAVEN_REPOSITORY$/com/github/yannrichet/JMathPlot/1.0.1/JMathPlot-1.0.1-sources.jar!/org/math/plot/Plot2DPanel.java" />
       <jump line="100" column="0" filename="$USER_HOME$/Desktop/VCount/pom.xml" />
@@ -2253,22 +2255,28 @@
       <jump line="21" column="31" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
       <jump line="25" column="20" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
+      <jump line="110" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
+      <jump line="6" column="4" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/Constants.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
+      <jump line="92" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/Constants.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/Constants.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/Constants.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZW50cmllcyk7CiAgICAgICAgamVkaXMua2V5cygiKiIpLmZvckVhY2goayAtPiBTeXN0ZW0ub3V0LnByaW50bG4oamVkaXMuenNjYW4oaywgMCkuZ2V0UmVzdWx0KCkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>200</text>
+        <text>private</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGludGVnZXIgPj0gOTk5OSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZW50cmllcyk7CiAgICAgICAgamVkaXMua2V5cygiKiIpLmZvckVhY2goayAtPiBTeXN0ZW0ub3V0LnByaW50bG4oamVkaXMuenNjYW4oaywgMCkuZ2V0UmVzdWx0KCkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2277,45 +2285,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBqZWRpcy5rZXlzKCIqIikuZm9yRWFjaChrIC0+IHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGplZGlzLnpzY2FuKGssIDApLmdldFJlc3VsdCgpKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyB1dGlsLkNvbnN0YW50cy4qOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamVkaXMuenNhbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKHJlcUNvdW50KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlcUNvdW50WzBdKys7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyB1dGlsLkNvbnN0YW50czsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFNldDxTdHJpbmc+IFRSQUNLUyA9IG5ldyBIYXNoU2V0PFN0cmluZz4oKSB7ewogICAgICAgIGFkZCgicGVyZmF3cyIpOwogICAgICAgIGFkZCgicGxheXBlbiIpOwogICAgICAgIGFkZCgic2FuZGJveCIpOwogICAgICAgIGFkZCgiYXVkaWVuY2UiKTsKICAgICAgICBhZGQoImFwdGNsaWNrIik7CiAgICB9fTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFNldDxTdHJpbmc+IFNSQ19ST0xFUyA9IG5ldyBIYXNoU2V0PFN0cmluZz4oKSB7ewogICAgICAgIGFkZCgiR2F0ZXdheSIpOwogICAgICAgIGFkZCgiUHJpc20iKTsKICAgIH19OwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU2V0PFN0cmluZz4gRFNUX1JPTEVTID0gbmV3IEhhc2hTZXQ8U3RyaW5nPigpIHt7CiAgICAgICAgYWRkKCJHcmlkU3RhZ2luZyIpOwogICAgICAgIGFkZCgiR3JpZENvbXBsZXRlIik7CiAgICAgICAgYWRkKCJTdHJlYW1pbmciKTsKICAgIH19OwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU2V0PFN0cmluZz4gRFNUX0NPTE9TID0gbmV3IEhhc2hTZXQ8U3RyaW5nPigpIHt7CiAgICAgICAgYWRkKCJiZjEiKTsKICAgICAgICBhZGQoImJmMiIpOwogICAgICAgIGFkZCgiZ3ExIik7CiAgICAgICAgYWRkKCJncTIiKTsKICAgICAgICBhZGQoIm5lMSIpOwogICAgICAgIGFkZCgibmUyIik7CiAgICB9fTsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFNldDxTdHJpbmc+IERTVF9OQU1FUyA9IG5ldyBIYXNoU2V0PFN0cmluZz4oKSB7ewogICAgICAgIGFkZCgiR1ItQlItTVVMRTY4OSIpOwogICAgICAgIGFkZCgiR1ItQlItVVNFUkxPQ0FUSU9ONzAyIik7CiAgICAgICAgYWRkKCJHUi1CUi1ZQU1BU1JBVzczMyIpOwogICAgICAgIGFkZCgiR1ItQlQtRUROQTY0NyIpOwogICAgICAgIGFkZCgiR1ItQlQtTUFJTDY0OCIpOwogICAgICAgIGFkZCgiR1ItQlQtTVVMRTcxOCIpOwogICAgICAgIGFkZCgiR1ItQlQtU01QTU9ERVJBVEVVR0M3MDAiKTsKICAgICAgICBhZGQoIkdSLUJULVRSSVBPRDY5OSIpOwogICAgICAgIGFkZCgiR1ItQlQtVFJJUE9ELUFHR1I2OTgiKTsKICAgICAgICBhZGQoIkdSLUJULVRSSVBPRC1FTlJJQ0g2OTciKTsKICAgICAgICBhZGQoIkdSLUJULVRSSVBPRC1QSVhFTDcwMSIpOwogICAgICAgIGFkZCgiR1ItQlQtVFJJUE9ELVNBTkQ3MjAiKTsKICAgICAgICBhZGQoIkdSLURCLTFNT0JJTEU2ODYiKTsKICAgICAgICBhZGQoIkdSLURCLUFERkVFREJBQ0s2NDkiKTsKICAgICAgICBhZGQoIkdSLURCLUFQT0xMTzcxNiIpOwogICAgICAgIGFkZCgiR1ItREItRkxVUlJZLURFVklDRU1BUDczMCIpOwogICAgICAgIGFkZCgiR1ItREItR1VDRTY1MiIpOwogICAgICAgIGFkZCgiR1ItREItSUxTNjUzIik7CiAgICAgICAgYWRkKCJHUi1EQi1LSVRFNjU0Iik7CiAgICAgICAgYWRkKCJHUi1EQi1QSU5UNzE1Iik7CiAgICAgICAgYWRkKCJHUi1EQi1TTElOR1NUT05FNzExIik7CiAgICAgICAgYWRkKCJHUi1EQi1UR1RDTVM2NTYiKTsKICAgICAgICBhZGQoIkdSLURCLVRHVERBVEE2OTQiKTsKICAgICAgICBhZGQoIkdSLURCLVlBUDUwIik7CiAgICAgICAgYWRkKCJHUi1EQi1ZV0E2NTgiKTsKICAgICAgICBhZGQoIkdSLURSLUFERkVFREJBQ0s2NjIiKTsKICAgICAgICBhZGQoIkdSLURSLUZMVVJSWTY2NSIpOwogICAgICAgIGFkZCgiR1ItRFItVEdUREFUQTY2NiIpOwogICAgICAgIGFkZCgiR1ItRFItWUFQNTEiKTsKICAgICAgICBhZGQoIkdSLURSLVlXQTcyMiIpOwogICAgICAgIGFkZCgiR1ItSkItQVNTSVNUQU5UNzM4Iik7CiAgICAgICAgYWRkKCJHUi1LRy1TVEFHSU5HLUxDT0U3MzkiKTsKICAgICAgICBhZGQoIkdSLUtHLVNURy1FTlJJQ0hFRExDT0U3MjYiKTsKICAgICAgICBhZGQoIkdSLU1SLUFTU0lTVEFOVDY3MCIpOwogICAgICAgIGFkZCgiR1ItUEItQ1VSVkVCQUxMNjcxIik7CiAgICAgICAgYWRkKCJHUi1QQi1TRUFSQ0hEQVRBNzM2Iik7CiAgICAgICAgYWRkKCJHUi1QRy1FTlJJQ0hFRExDT0U3MzciKTsKICAgICAgICBhZGQoIkdSLVBHLUxDT0U2OTYiKTsKICAgICAgICBhZGQoIkdSLVBSLUNCLVlBUDY3MiIpOwogICAgICAgIGFkZCgiR1ItUFItQ1VSVkVCQUxMNjczIik7CiAgICAgICAgYWRkKCJHUi1QUi1TRUFSQ0hEQVRBNzIxIik7CiAgICAgICAgYWRkKCJHUi1QVC0xTU9CSUxFNjg3Iik7CiAgICAgICAgYWRkKCJHUi1QVC1BREZFRURCQUNLNjc0Iik7CiAgICAgICAgYWRkKCJHUi1QVC1BUE9MTE82NzciKTsKICAgICAgICBhZGQoIkdSLVBULUlMUzY3OCIpOwogICAgICAgIGFkZCgiR1ItUFQtS0lURTY4MSIpOwogICAgICAgIGFkZCgiR1ItVFQtUElOVDY4MiIpOwogICAgICAgIGFkZCgiR1ItVUItQVVESUVOQ0U3MDgiKTsKICAgICAgICBhZGQoIkdSLVVCLUVWQUxVQVRFNjg0Iik7CiAgICAgICAgYWRkKCJHUi1VQi1GTFVSUlk2ODUiKTsKICAgICAgICBhZGQoIkdSLVVULUFVRElFTkNFNzA5Iik7CiAgICAgICAgYWRkKCJHUi1VVC1FVkFMVUFURSIpOwogICAgfX07CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTZXQ8U3RyaW5nPiBTUkNfSE9TVFMgPSBuZXcgSGFzaFNldDxTdHJpbmc+KCkge3sKICAgICAgICBhZGQoInNhbXBsZS5ob3N0Iik7CiAgICAgICAgYWRkKCJleGFtcGxlLmNvbSIpOwogICAgICAgIGFkZCgiY29ycC55YWhvby5jb20iKTsKICAgIH19OwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZW50cmllcywgKTsK</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZW50cmllcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZW50cmllcyk7CiAgICAgICAgamVkaXMua2V5cygiKiIpLmZvckVhY2goayAtPiBTeXN0ZW0ub3V0LnByaW50bG4oamVkaXMuenNjYW4oaywgMCkuZ2V0UmVzdWx0KCkpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBlbnRyaWVzID0gbmV3IGludFtdezB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBqZWRpcy5rZXlzKCIqIikuZm9yRWFjaChrIC0+IHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGplZGlzLnpzY2FuKGssIDApLmdldFJlc3VsdCgpKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">amsgICAgICAgIGFzc2VydEVxdWFscyhOVU1fUkVRVUVTVFMsIFZDb3VudEhhbmRsZXIuZ2V0Q291bnQoKS5nZXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgamVkaXMuenNhbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>200</last-search>
+      <last-search>private</last-search>
       <last-offset />
-      <last-pattern>200</last-pattern>
-      <last-replace>row</last-replace>
-      <last-substitute>v</last-substitute>
+      <last-pattern>private</last-pattern>
+      <last-replace>public</last-replace>
+      <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>V</entry>
         <entry encoding="base64">PFY+</entry>
         <entry>fol</entry>
         <entry>folo</entry>
@@ -2335,9 +2342,9 @@
         <entry>handle</entry>
         <entry>histogram</entry>
         <entry>200</entry>
+        <entry>private</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzxUPi88SW50Pi9n</entry>
         <entry encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3NlY29uZC9maXJzdC9n</entry>
         <entry encoding="base64">JzwsJz5zL1QvVi9n</entry>
@@ -2357,6 +2364,7 @@
         <entry encoding="base64">JzwsJz5zLyJoYXNoZWRSZXFxIi9hbm90aGVySGFzaA==</entry>
         <entry encoding="base64">JzwsJz5zL3Yvcm93L2c=</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
