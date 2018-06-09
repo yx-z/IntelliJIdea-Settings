@@ -638,6 +638,9 @@
         <mark key="^" line="7" column="40" />
         <mark key="." line="7" column="40" />
       </file>
+      <file name="$USER_HOME$/Desktop/VCount/src/main/java/ws/Test.java" timestamp="1528495097116">
+        <mark key="[" line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/greedy/CanJumpToEnd.kt" timestamp="1508113315814">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="10" />
@@ -1443,12 +1446,11 @@
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" timestamp="1528492678860">
-        <mark key="'" line="116" column="10" />
-        <mark key="[" line="21" column="46" />
-        <mark key="]" line="176" column="35" />
-        <mark key="." line="176" column="35" />
-        <mark key="^" line="176" column="18" />
+      <file name="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" timestamp="1528494909687">
+        <mark key="'" line="119" column="10" />
+        <mark key="[" line="178" column="78" />
+        <mark key="]" line="180" column="0" />
+        <mark key="." line="180" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/EditDist.kt" timestamp="1503542615358">
         <mark key="[" line="31" column="3" />
@@ -1793,12 +1795,12 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" timestamp="1528484910943">
-        <mark key="'" line="53" column="32" />
-        <mark key="[" line="50" column="0" />
-        <mark key="m" line="21" column="3" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" timestamp="1528493693485">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="m" line="22" column="3" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/VCount/src/main/java/util/Plot.java" timestamp="1528482829082">
         <mark key="'" line="96" column="0" />
@@ -2151,8 +2153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Desktop/vzncount/src/test/java/TestJettyJedis.java" />
-      <jump line="67" column="19" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
       <jump line="188" column="12" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
       <jump line="187" column="22" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
       <jump line="186" column="12" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
@@ -2224,7 +2224,6 @@
       <jump line="96" column="17" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="136" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="75" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
       <jump line="6" column="7" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="108" column="25" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
@@ -2251,13 +2250,16 @@
       <jump line="20" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="104" column="10" filename="$USER_HOME$/Desktop/VCount/pom.xml" />
       <jump line="115" column="10" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
+      <jump line="21" column="31" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
+      <jump line="25" column="20" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZW50cmllcyk7CiAgICAgICAgamVkaXMua2V5cygiKiIpLmZvckVhY2goayAtPiBTeXN0ZW0ub3V0LnByaW50bG4oamVkaXMuenNjYW4oaywgMCkuZ2V0UmVzdWx0KCkpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>200</text>
@@ -2266,7 +2268,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGludGVnZXIgPj0gOTk5OSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGVbXSB4ID0gbmV3IGRvdWJsZVtsYXRlbmN5LnNpemUoKV07Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZW50cmllcyk7CiAgICAgICAgamVkaXMua2V5cygiKiIpLmZvckVhY2goayAtPiBTeXN0ZW0ub3V0LnByaW50bG4oamVkaXMuenNjYW4oaywgMCkuZ2V0UmVzdWx0KCkpKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2275,28 +2277,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeFtpXSA9IGk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBqZWRpcy5rZXlzKCIqIikuZm9yRWFjaChrIC0+IHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGplZGlzLnpzY2FuKGssIDApLmdldFJlc3VsdCgpKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGF0ZW5jeUFycltpXSA9IGxhdGVuY3kuZ2V0KGkpOwogICAgICAgICAgICB4W2ldID0gaTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgamVkaXMuenNhbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgSGlzdG9ncmFtUGxvdDJELm1haW4obmV3IFN0cmluZ1swXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzeW5jaHJvbml6ZWQgKHJlcUNvdW50KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlcUNvdW50WzBdKys7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBsYXVuY2gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBIaXN0b2dyYW1QbG90MkQubWFpbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZW50cmllcywgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFtZS5zZXRWaXNpYmxlKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZW50cmllcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFtZS5zZXRDb250ZW50UGFuZShwbG90KTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBlbnRyaWVzID0gbmV3IGludFtdezB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFtZS5zZXRTaXplKHcsIGgpOwo=</text>
+        <text encoding="base64">amsgICAgICAgIGFzc2VydEVxdWFscyhOVU1fUkVRVUVTVFMsIFZDb3VudEhhbmRsZXIuZ2V0Q291bnQoKS5nZXQoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
