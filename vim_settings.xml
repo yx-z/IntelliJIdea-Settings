@@ -1446,12 +1446,12 @@
         <mark key="." line="12" column="13" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" timestamp="1528577718272">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="96" column="8" />
+      <file name="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" timestamp="1528643909915">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="59" column="66" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/dp/EditDist.kt" timestamp="1503542615358">
         <mark key="[" line="31" column="3" />
@@ -2164,7 +2164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="9" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
       <jump line="60" column="23" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
       <jump line="59" column="69" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
       <jump line="56" column="9" filename="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Connection.java" />
@@ -2264,10 +2263,11 @@
       <jump line="93" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/Constants.java" />
       <jump line="22" column="44" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
       <jump line="6" column="43" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/Constants.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdGFydE1pbik7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFRocmVhZExvY2FsUmFuZG9tID0gbmV3IFRocmVhZExvY2FsUmFuZG9tKCkuCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -2279,7 +2279,7 @@
         <text encoding="base64">ICAgICAgICAvLyBodHRwOi8vZGguY3MucHJvZC5iZjEuYTA0LnlhaG9vZG5zLm5ldDo0MDgwL0RIQ291bnRlcldlYlNlcnZpY2UvdjIvYXB0Y2xpY2svY29iP2RzdENvbG89YmYxJnN0YXJ0PTIwMTQwMjA4MDYwMCZlbmQ9MjAxNDAyMDgwNjA0JmRzdE5hbWU9R1ItRFItQVBUCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdGFydE1pbik7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFRocmVhZExvY2FsUmFuZG9tID0gbmV3IFRocmVhZExvY2FsUmFuZG9tKCkuCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2288,28 +2288,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvY2FsRGF0ZSBzdGFydERhdGUgPSBMb2NhbERhdGUucGFyc2Uoc3RhcnQsIGZvcm1hdHRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhbmQubmV4dExvbmcoKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBTaW1wbGVEYXRlRm9ybWF0KCkuCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFRocmVhZExvY2FsUmFuZG9tID0gbmV3IFRocmVhZExvY2FsUmFuZG9tKCkuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBEYXRlKHN0YXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRocmVhZExvY2FsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgc3RhcnQgPSBMb25nLnBhcnNlTG9uZyhwYXJhbXMuZ2V0KCJzdGFydCIpWzBdKTsKICAgICAgICAgICAgICAgIGxvbmcgZW5kID0gTG9uZy5wYXJzZUxvbmcocGFyYW1zLmdldCgiZW5kIilbMF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdGFydE1pbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpbXBsZURhdGVGb3JtYXQgZm9ybWF0dGVyID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoKTsKICAgICAgICAgICAgICAgIGZvcm1hdHRlci5mb3JtYXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvY2FsRGF0ZSBzdGFydERhdGUgPSBMb2NhbERhdGUucGFyc2Uoc3RhcnQsIGZvcm1hdHRlcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBTaW1wbGVEYXRlRm9ybWF0KCkuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIGtleSA9IHRyYWNrTmFtZSArICJ8IiArIHNvdXJjZVJvbGUgKyAifCIgKyBkZXN0Ugo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBEYXRlKHN0YXJ0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKFN0cmluZyBzcmNSb2xlTmFtZSA6IENvbnN0YW50cy5TZW5kQmFja2VuZC5TUkNfUk9MRVMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgc3RhcnQgPSBMb25nLnBhcnNlTG9uZyhwYXJhbXMuZ2V0KCJzdGFydCIpWzBdKTsKICAgICAgICAgICAgICAgIGxvbmcgZW5kID0gTG9uZy5wYXJzZUxvbmcocGFyYW1zLmdldCgiZW5kIilbMF0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</text>
