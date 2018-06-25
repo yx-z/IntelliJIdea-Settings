@@ -254,12 +254,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/cobbuilder/BaseCobBuilder.java" timestamp="1529943022951">
-        <mark key="'" line="83" column="32" />
-        <mark key="[" line="260" column="0" />
-        <mark key="]" line="262" column="29" />
-        <mark key="." line="262" column="29" />
-        <mark key="^" line="262" column="29" />
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/cobbuilder/BaseCobBuilder.java" timestamp="1529945253300">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="96" column="34" />
+        <mark key="]" line="96" column="33" />
+        <mark key="." line="96" column="33" />
+        <mark key="^" line="96" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/ws/handler/QueryHandlerV2.java" timestamp="1529702071467">
         <mark key="[" line="3" column="0" />
@@ -570,7 +570,7 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529704587557">
+      <file name="/Dummy.txt" timestamp="1529944897624">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="14" />
@@ -2231,12 +2231,12 @@
       <file name="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/model/ReceiveRecord.java" timestamp="1528913256132">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/util/CollectionUtil.java" timestamp="1529943106217">
-        <mark key="'" line="28" column="32" />
-        <mark key="[" line="136" column="40" />
-        <mark key="]" line="136" column="14" />
-        <mark key="." line="136" column="14" />
-        <mark key="^" line="136" column="14" />
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/util/CollectionUtil.java" timestamp="1529944879176">
+        <mark key="'" line="41" column="5" />
+        <mark key="[" line="155" column="51" />
+        <mark key="]" line="151" column="53" />
+        <mark key="." line="151" column="53" />
+        <mark key="^" line="151" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/CPS/src/util/XmlUtils.java" timestamp="1509546811935">
         <mark key="[" line="21" column="50" />
@@ -2331,10 +2331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="7" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
-      <jump line="108" column="25" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
-      <jump line="134" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="152" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="105" column="20" filename="$USER_HOME$/Desktop/VCount/pom.xml" />
       <jump line="27" column="31" filename="$USER_HOME$/Desktop/VCount/pom.xml" />
@@ -2431,22 +2427,26 @@
       <jump line="92" column="0" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/util/CollectionUtil.java" />
       <jump line="28" column="32" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/util/CollectionUtil.java" />
       <jump line="84" column="32" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/cobbuilder/BaseCobBuilder.java" />
+      <jump line="40" column="5" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/util/CollectionUtil.java" />
+      <jump line="52" column="43" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/cobbuilder/BaseCobBuilder.java" />
+      <jump line="272" column="0" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/cobbuilder/BaseCobBuilder.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/cobbuilder/BaseCobBuilder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByYXdRdWVyaWVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>·</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>maxSendEmitter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBzdGFydEluY2x1c2l2ZSBpbmNsdXNpdmUgc3RhcnRpbmcgcG9pbnQgb2YgdGhlIGludGVydmFsCiAgICAgKiBAcGFyYW0gZW5kSW5jbHVzaXZlICAgaW5jbHVzaXZlIGVuZGluZyBwb2ludCBvZiB0aGUgaW50ZXJ2YWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYXdRdWVyaWVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2455,37 +2455,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBOb25udWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbGxlY3Rpb24uc3RyZWFtKCkubWF4KGNvbXBhcmF0b3IpLmdldCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgbG9uZyBJTlZBTElEX1FVRVJJRURfTUlOVVRFID0gLTE7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4LmlmUHJlc2VudCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdGFydEluY2x1c2l2ZSBpbmNsdXNpdmUgc3RhcnRpbmcKICAgICAqIEBwYXJhbSBlbmRJbmNsdXNpdmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1heC5pKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSA8VD4gICAgICAgIHR5cGUgb2YgZWxlbWVudHMgaW4gdGhlIGNvbGxlY3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBMaXN0PFN0cmluZ1tdPj4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogY291bnQgdGhlIG51bWJlciBvZiBncm91cHMgaW4gYSBjb2xsZWN0aW9uCiAgICAgKgogICAgICogQHBhcmFtIGNvbGxlY3Rpb24gY29sbGVjdGlvbiB0byBiZSBncm91cGVkIGFuZCBjb3VudGVkCiAgICAgKiBAcGFyYW0gY2xhc3NpZmllciBhIGZ1bmN0aW9uIHRoYXQgZ3JvdXBzIGVsZW1lbnRzIGluIHRoZSBjb2xsZWN0aW9uCiAgICAgKiBAcGFyYW0gPEs+ICAgICAgICB0eXBlIG9mIHRoZSBpZGVudGlmaWVyIHVzZWQgZm9yIGdyb3VwaW5nCiAgICAgKiBAcGFyYW0gPFQ+ICAgICAgICB0eXBlIG9mIGVsZW1lbnRzIGluIHRoZSBjb2xsZWN0aW9uCiAgICAgKiBAcmV0dXJuIGEgbWFwIHRoYXQgYXNzb2NpYXRlcyBlYWNoIGdyb3VwIGFzICZsdDtncm91cCBpZGVudGlmaWVyLCBlbGVtZW50cyBpbiB0aGUgZ3JvdXAmZ3Q7CiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICBncm91cEJ5KHJhd1F1ZXJpZWQsIFNlbmRCYWNrZW5kUmVjb3JkOjpnZXRFcG9jaE1pbnV0ZSkuZm9yRWFjaCgobWludXRlLCBsaXN0KSAtPiB7CiAgICAgICAgICAgIGxpc3QKICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xsZWN0aW9uLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdW0oKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29sbGVjdGlvbi5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgcmV0dXJuIAogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZXZlbnRzLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwVG9JbnQoSW50ZWdlcjo6aW50VmFsdWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbGlzdCAocG9pbnRlcikgaXMgcmVkaXJlY3RlZCB0byB0aGUgbWF4LWFnZ3JlZ2F0ZWQgbGlzdAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>maxSendEmitter</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>maxSendEmitter</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -2493,7 +2493,6 @@
     </search>
     <history>
       <history-search>
-        <entry>System.out.println</entry>
         <entry>port</entry>
         <entry>handle</entry>
         <entry>histogram</entry>
@@ -2513,9 +2512,9 @@
         <entry>UnModifiableMap</entry>
         <entry>doPost</entry>
         <entry>dhutil</entry>
+        <entry>maxSendEmitter</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3NlY29uZC9maXJzdC9n</entry>
         <entry encoding="base64">JzwsJz5zL1QvVi9n</entry>
         <entry encoding="base64">JzwsJz5zLy5kYXRhLy5kYXRhLnRoaXJkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2N1cnIuZGF0YS50aGlyZC9udW0vZw==</entry>
@@ -2535,6 +2534,7 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</entry>
         <entry encoding="base64">JzwsJz4vcy9TZW5kUGF5bG9hZFYxL0Fic3RyYWN0UGF5bG9hZC9n</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
