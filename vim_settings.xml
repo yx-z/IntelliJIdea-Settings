@@ -593,11 +593,11 @@
         <mark key="." line="49" column="26" />
         <mark key="^" line="49" column="26" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/util/Consts.java" timestamp="1529942690184">
-        <mark key="k" line="6" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/util/Consts.java" timestamp="1529947645795">
+        <mark key="k" line="7" column="0" />
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/oop/WebCrawler.kt" timestamp="1508724093632">
         <mark key="[" line="25" column="36" />
@@ -1985,15 +1985,15 @@
         <mark key="." line="54" column="30" />
         <mark key="^" line="54" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/SendEmitterRecord.java" timestamp="1529701243438">
-        <mark key="'" line="54" column="60" />
-        <mark key="[" line="127" column="24" />
-        <mark key="]" line="127" column="28" />
-        <mark key="." line="127" column="28" />
-        <mark key="^" line="127" column="28" />
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/SendEmitterRecord.java" timestamp="1529947727103">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="130" column="22" />
+        <mark key="]" line="130" column="35" />
+        <mark key="." line="130" column="35" />
+        <mark key="^" line="130" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/SendBackendRecord.java" timestamp="1529947586853">
-        <mark key="'" line="138" column="37" />
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/SendBackendRecord.java" timestamp="1529947739068">
+        <mark key="'" line="178" column="0" />
         <mark key="[" line="28" column="38" />
         <mark key="]" line="34" column="11" />
         <mark key="." line="28" column="37" />
@@ -2343,11 +2343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="17" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/Plot.java" />
-      <jump line="95" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/Plot.java" />
-      <jump line="185" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
-      <jump line="37" column="20" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
-      <jump line="163" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="54" column="32" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
       <jump line="172" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="112" column="18" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
@@ -2443,22 +2438,27 @@
       <jump line="11" column="34" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/cobbuilder/SchemaLevelIncludedCobBuilder.java" />
       <jump line="134" column="37" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/SendBackendRecord.java" />
       <jump line="49" column="4" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/util/CollectionUtil.java" />
+      <jump line="126" column="57" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/SendEmitterRecord.java" />
+      <jump line="127" column="16" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/SendEmitterRecord.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/SendEmitterRecord.java" />
+      <jump line="14" column="58" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/SendBackendRecord.java" />
+      <jump line="178" column="0" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/SendBackendRecord.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ueWFob28uZGhyYWluYm93Lm1vY2tzaGVycGEudXRpbC5Db25zdHMuS0VZX1NFUEFSQVRPUjsK</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>maxSendEmitter</text>
+        <text>KEY</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBzdGFydEluY2x1c2l2ZSBpbmNsdXNpdmUgc3RhcnRpbmcgcG9pbnQgb2YgdGhlIGludGVydmFsCiAgICAgKiBAcGFyYW0gZW5kSW5jbHVzaXZlICAgaW5jbHVzaXZlIGVuZGluZyBwb2ludCBvZiB0aGUgaW50ZXJ2YWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ueWFob28uZGhyYWluYm93Lm1vY2tzaGVycGEudXRpbC5Db2xsZWN0aW9uVXRpbC5jYWxjdWxhdGVTcGFuOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ueWFob28uZGhyYWluYm93Lm1vY2tzaGVycGEudXRpbC5Db25zdHMuS0VZX1NFUEFSQVRPUjsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2467,48 +2467,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ueWFob28uZGhyYWluYm93Lm1vY2tzaGVycGEudXRpbC5Db2xsZWN0aW9uVXRpbC5jYWxjdWxhdGVTcGFuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nW10gRU1QVFlfU1RSSU5HX0FSUkFZID0gbmV3IFN0cmluZ1swXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nW10gRU1QVFlfU1RSSU5HX0FSUkFZID0gbmV3IFN0cmluZ1swXTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB0aGF0aC50b0ludEV4YWN0KGNhbGN1bGF0ZVNwYW4oCiAgICAgICAgICBlLAogICAgICAgICAgCiAgICAgICAgKSkK</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>is.minutesInRange = M
       startEpochMinut
       endEpochMinute
 ;</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgZmluYWwgaW50IG1pbnV0ZXNJblJhbmdlOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBuZXcgU2NoZW1hTGV2ZWxJbmNsdWRlZENvYigpCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGZpbmFsIGludCBtaW51dGVzSW5SYW5nZTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">bmV3IFNjaGVtYUxldmVsQ29iKCkK</text>
-      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text encoding="base64">JzwsJz5zL0tFWS9JVEVNL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>maxSendEmitter</last-search>
+      <last-search>KEY</last-search>
       <last-offset />
-      <last-pattern>maxSendEmitter</last-pattern>
-      <last-replace>public</last-replace>
-      <last-substitute>private</last-substitute>
+      <last-pattern>KEY</last-pattern>
+      <last-replace>ITEM</last-replace>
+      <last-substitute>KEY</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>port</entry>
         <entry>handle</entry>
         <entry>histogram</entry>
         <entry>200</entry>
@@ -2528,9 +2527,9 @@
         <entry>doPost</entry>
         <entry>dhutil</entry>
         <entry>maxSendEmitter</entry>
+        <entry>KEY</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1QvVi9n</entry>
         <entry encoding="base64">JzwsJz5zLy5kYXRhLy5kYXRhLnRoaXJkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2N1cnIuZGF0YS50aGlyZC9udW0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL24vbnVtL2c=</entry>
@@ -2550,6 +2549,7 @@
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</entry>
         <entry encoding="base64">JzwsJz4vcy9TZW5kUGF5bG9hZFYxL0Fic3RyYWN0UGF5bG9hZC9n</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL0tFWS9JVEVNL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
