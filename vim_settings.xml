@@ -192,12 +192,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/daemon/DaemonConfig.java" timestamp="1530561675702">
-        <mark key="'" line="160" column="0" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-        <mark key="^" line="156" column="7" />
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/daemon/DaemonConfig.java" timestamp="1530563482610">
+        <mark key="'" line="170" column="0" />
+        <mark key="[" line="120" column="39" />
+        <mark key="]" line="120" column="39" />
+        <mark key="." line="120" column="39" />
+        <mark key="^" line="120" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/CPS/src/example/TestVitalSignRetriever.java" timestamp="1509547609460">
         <mark key="[" line="9" column="19" />
@@ -1418,11 +1418,11 @@
       <file name="$USER_HOME$/Desktop/VznCount/src/main/java/Test.java" timestamp="1528836480182">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/ws/handler/WriteHandlerV1.java" timestamp="1530560494575">
-        <mark key="[" line="48" column="12" />
-        <mark key="]" line="68" column="16" />
-        <mark key="." line="68" column="16" />
-        <mark key="^" line="68" column="16" />
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/ws/handler/WriteHandlerV1.java" timestamp="1530562631846">
+        <mark key="[" line="30" column="51" />
+        <mark key="]" line="30" column="52" />
+        <mark key="." line="30" column="52" />
+        <mark key="^" line="82" column="79" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/base/AbstractRecord.java" timestamp="1529700990651">
         <mark key="[" line="21" column="23" />
@@ -2668,8 +2668,11 @@
         <mark key="." line="27" column="27" />
         <mark key="^" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/resources/conf.properties" timestamp="1530560432679">
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/resources/conf.properties" timestamp="1530563151135">
         <mark key="[" line="4" column="14" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/ws/aggregator/SumAggregator.java" timestamp="1528835413924">
         <mark key="[" line="2" column="28" />
@@ -2816,11 +2819,11 @@
       <jump line="160" column="0" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/daemon/DaemonConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ClassLoader</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>ClassLoader</text>
       </register>
       <register name="/" type="4">
         <text>load</text>
