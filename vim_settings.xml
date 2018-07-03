@@ -255,6 +255,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/exception/BadReqeustException.java" timestamp="1530640506398">
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="4" column="47" />
+        <mark key="^" line="4" column="47" />
+        <mark key="." line="4" column="47" />
+      </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/ws/handler/v1/BaseHandlerV1.java" timestamp="1529421932781">
         <mark key="[" line="14" column="50" />
         <mark key="]" line="15" column="52" />
@@ -1285,12 +1291,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/ws/handler/base/AbstractBaseHandler.java" timestamp="1530638546841">
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/ws/handler/base/AbstractBaseHandler.java" timestamp="1530640659867">
         <mark key="'" line="49" column="0" />
-        <mark key="[" line="48" column="23" />
-        <mark key="]" line="48" column="29" />
-        <mark key="^" line="48" column="29" />
-        <mark key="." line="48" column="29" />
+        <mark key="[" line="54" column="40" />
+        <mark key="]" line="55" column="11" />
+        <mark key="^" line="55" column="11" />
+        <mark key="." line="55" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/ws/handler/AbstractWriteHandler.java" timestamp="1529423062813">
         <mark key="[" line="12" column="13" />
@@ -2644,7 +2650,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHRpb24uZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0IGNvbnN1bWVkUmVzdWx0Owo=</text>
       </register>
       <register name="-" type="4">
         <text>contain</text>
@@ -2656,7 +2662,7 @@
         <text encoding="base64">ICAgICAgICBMT0cuaW5mbygic3RhcnRFcG9jaE1pbnV0ZToge30iLCBzdGFydEVwb2NoTWludXRlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHRpb24uZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0IGNvbnN1bWVkUmVzdWx0Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2665,28 +2671,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEJhZFJlcWV1c3RFeGNlcHRpb24oIm1pc3NpbmcgcmVxdWlyZWQgdGltZSBwYXJhbWV0ZXIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxEYXRlVGltZSB0aW1lID0gc3RyaW5nVG9Mb2NhbERhdGVUaW1lKHBhcmFtVGltZSk7CiAgICAgICAgICAgIHJldHVybiBsb2NhbERhdGVUaW1lVG9FcG9jaE1pbnV0ZSh0aW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghKGV4Y2VwdGlvbiBpbnN0YW5jZW9mIEJhZFJlcWV1c3RFeGNlcHRpb24pKSB7CiAgICAgICAgICAgICAgICAgICAgc2VydmVyRXJyb3IgPSB0cnVlOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmdbXT4gcGFyYW1zTWFwID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXJNYXAoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghKGV4Y2VwdGlvbiBpbnN0YW5jZW9mIEJhZFJlcWV1c3RFeGNlcHRpb24pKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuaW5mbygicGFyYW1zOiB7fSIsIHBhcmFtc01hcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmdbXT4gcGFyYW1zTWFwID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXJNYXAoKTsKICAgICAgICBMT0cuaW5mbygicGFyYW1zOiB7fSIsIHBhcmFtc01hcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghKGV4Y2VwdGlvbiBpbnN0YW5jZW9mIEJhZFJlcWV1c3RFeGNlcHRpb24pKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBnZXRTaW5nbGVSZXF1aXJlZFBhcmFtKEBOb25udWxsIGZpbmFsIE1hcDxTdHJpbmcsIFN0cmluZ1tdPiBwYXJhbXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBATm9ubnVsbCBmaW5hbCBTdHJpbmcga2V5KQogICAgICAgICAgICB0aHJvd3MgQmFkUmVxZXVzdEV4Y2VwdGlvbiB7CiAgICAgICAgU3RyaW5nW10gdmFsdWVzID0gcGFyYW1zLmdldChrZXkpOwogICAgICAgIGlmICh2YWx1ZXMgPT0gbnVsbCB8fCB2YWx1ZXMubGVuZ3RoICE9IDEpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEJhZFJlcWV1c3RFeGNlcHRpb24oImludmFsaWQgcGFyYW1ldGVyIGZvciAiICsga2V5KTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gcGFyYW1zLmdldChrZXkpWzBdOwogICAgICAgIH0KICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGVyZSBhcmUgZGlmZmVyZW5jZXMgYmV0d2VlbiByZXF1ZXN0IHByb3ZpZGluZyBgc2NoZW1hPWAgKFN0cmluZ1swXSkKICAgICAgICAvLyBhbmQgcmVxdWVzdHMgbWlzc2luZyB0aGUgYHNjaGVtYWAgcGFyYW1ldGVyIGF0IGFsbCAobnVsbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmdldFBhcmFtZXRlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghKGV4Y2VwdGlvbiBpbnN0YW5jZW9mIEJhZFJlcWV1c3RFeGNlcHRpb24pKSB7CiAgICAgICAgICAgICAgICAgICAgc2VydmVyRXJyb3IgPSB0cnVlOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3B1YmxpYy9wcml2YXRlL2c=</text>
