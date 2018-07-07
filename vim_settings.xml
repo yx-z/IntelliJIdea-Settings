@@ -474,12 +474,12 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/metadata/MetadataSendEmitterRequest.java" timestamp="1530913164098">
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/metadata/MetadataSendEmitterRequest.java" timestamp="1530914027828">
         <mark key="'" line="75" column="12" />
-        <mark key="[" line="114" column="57" />
-        <mark key="]" line="102" column="60" />
-        <mark key="." line="102" column="60" />
-        <mark key="^" line="102" column="60" />
+        <mark key="[" line="104" column="55" />
+        <mark key="]" line="104" column="32" />
+        <mark key="." line="104" column="32" />
+        <mark key="^" line="104" column="32" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/ws/handler/CobHandlerV1.java" timestamp="1530891456890">
         <mark key="[" line="13" column="36" />
@@ -505,8 +505,10 @@
         <mark key="^" line="2" column="51" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/exception/ParamMissingException.java" timestamp="1530890794297">
-        <mark key="[" line="6" column="42" />
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/exception/ParamMissingException.java" timestamp="1530913891044">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/dp/DistinctSubsequences.kt" timestamp="1508112026983">
         <mark key="[" line="10" column="9" />
@@ -783,8 +785,8 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="47" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/exception/InvalidParamException.java" timestamp="1530912841780">
-        <mark key="[" line="8" column="47" />
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/exception/InvalidParamException.java" timestamp="1530913880243">
+        <mark key="[" line="8" column="51" />
         <mark key="]" line="8" column="64" />
         <mark key="^" line="8" column="64" />
         <mark key="." line="8" column="64" />
@@ -861,11 +863,10 @@
         <mark key="^" line="96" column="24" />
         <mark key="." line="96" column="24" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/CobRequest.java" timestamp="1530913054696">
-        <mark key="[" line="70" column="73" />
-        <mark key="]" line="70" column="48" />
-        <mark key="." line="70" column="48" />
-        <mark key="^" line="70" column="48" />
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/CobRequest.java" timestamp="1530914396863">
+        <mark key="[" line="87" column="44" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/KtCTest/build.gradle" timestamp="1529383098529">
         <mark key="[" line="42" column="0" />
@@ -1378,12 +1379,12 @@
         <mark key="^" line="31" column="15" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/responsebuilder/cob/SchemaLevelIncludedCobBuilder.java" timestamp="1530903331406">
-        <mark key="'" line="29" column="98" />
-        <mark key="[" line="112" column="35" />
-        <mark key="]" line="112" column="36" />
-        <mark key="." line="112" column="36" />
-        <mark key="^" line="115" column="59" />
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/responsebuilder/cob/SchemaLevelIncludedCobBuilder.java" timestamp="1530914475702">
+        <mark key="'" line="30" column="98" />
+        <mark key="[" line="80" column="62" />
+        <mark key="]" line="83" column="15" />
+        <mark key="." line="83" column="15" />
+        <mark key="^" line="83" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/arr/FindMissing.kt" timestamp="1508119595324">
         <mark key="[" line="12" column="49" />
@@ -2816,11 +2817,11 @@
       <jump line="75" column="12" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/metadata/MetadataSendEmitterRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>maxSendEmitter</text>
@@ -2829,7 +2830,7 @@
         <text encoding="base64">ICAgICAgICBDT0xVTU5TLmFkZChDT0xfVFJBQ0spOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2838,28 +2839,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIUFHR1JFR0FUSU9OUy5jb250YWlucyhhZ2dyZWdhdGlvbk1ldGhvZCkpIHsKICAgICAgICAgICAgCiAgICAgICAgfQogICAgICAgIHRoaXMuYWdncmVnYXRpb25NZXRob2QgPSBhZ2dyZWdhdGlvbk1ldGhvZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCBzdXBlci5zZW5kRW1pdHRlciAhPSBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydCBzdXBlci5zZW5kQmFja2VuZCAhPSBudWxsOwogICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBR0dSRUdBVElPTl9NQVggPSAibWF4IjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBR0dSRUdBVElPTl9TVU0gPSAic3VtIjsK</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2V7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFNldDxTdHJpbmc+IEFHR1JFR0FUSU9OUyA9IG5ldyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDT0xVTU5TLmFkZChDT0xfQU5OT1RBVElPTik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2V7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDT0xfQU5OT1RBVElPTiA9ICJhbm5vdGF0aW9uIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLnJlcXVlc3QuZ2V0U2NoZW1hcygpLnN0cmVhbSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDT0xVTU5TLmFkZChDT0xfU1JDX0hPU1QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbmNhdChleHRyYWN0U2NoZW1hcyhzdXBlci5zZW5kRW1pdHRlci52YWx1ZXMoKSwgV3JpdGVTZW5kRW1pdHRlclJlcXVlc3Q6OmdldFNjaGVtYSksCiAgICAgICAgICAgICAgICAgICAgZXh0cmFjdFNjaGVtYXMoc3VwZXIuc2VuZEJhY2tlbmQudmFsdWVzKCksIFdyaXRlU2VuZEJhY2tlbmRSZXF1ZXN0OjpnZXRTY2hlbWEpKQogICAgICAgICAgICAgICAgICAgIC5kaXN0aW5jdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
