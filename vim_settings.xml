@@ -645,6 +645,12 @@
         <mark key="." line="62" column="7" />
         <mark key="^" line="62" column="7" />
       </file>
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/exception/BadRequestException.java" timestamp="1531771422448">
+        <mark key="[" line="10" column="81" />
+        <mark key="]" line="10" column="86" />
+        <mark key="^" line="10" column="86" />
+        <mark key="." line="10" column="86" />
+      </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/test/java/com/yahoo/dhrainbow/mocksherpa/model/responsebuilder/MetadataBuilder.java" timestamp="1531253301460">
         <mark key="[" line="12" column="9" />
         <mark key="]" line="11" column="15" />
@@ -786,7 +792,7 @@
         <mark key="^" line="32" column="56" />
         <mark key="." line="32" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531769254552">
+      <file name="/Dummy.txt" timestamp="1531771376379">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1420,12 +1426,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/cob/CobRequest.java" timestamp="1531765458128">
-        <mark key="'" line="120" column="19" />
-        <mark key="[" line="120" column="15" />
-        <mark key="]" line="120" column="19" />
-        <mark key="." line="120" column="19" />
-        <mark key="^" line="120" column="19" />
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/cob/CobRequest.java" timestamp="1531771612010">
+        <mark key="'" line="115" column="19" />
+        <mark key="[" line="61" column="69" />
+        <mark key="]" line="62" column="11" />
+        <mark key="." line="62" column="11" />
+        <mark key="^" line="62" column="11" />
       </file>
       <file name="F:/FHIR/src/util/XmlUtils.java" timestamp="1510084877699">
         <mark key="[" line="41" column="42" />
@@ -2806,11 +2812,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/util/CollectionUtil.java" timestamp="1531755353965">
-        <mark key="'" line="41" column="41" />
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/util/CollectionUtil.java" timestamp="1531771541234">
+        <mark key="'" line="81" column="23" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="175" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/CPS/src/util/XmlUtils.java" timestamp="1509546811935">
         <mark key="[" line="21" column="50" />
@@ -2944,7 +2951,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="16" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/response/metadata/SendEmitterMetadata.java" />
       <jump line="29" column="0" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/response/metadata/SendBackendMetadata.java" />
       <jump line="57" column="0" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/response/metadata/SendBackendMetadata.java" />
       <jump line="51" column="0" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/response/metadata/SendBackendMetadata.java" />
@@ -3044,13 +3050,14 @@
       <jump line="34" column="3" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/responsebuilder/metadata/AbstractMetadataBuilder.java" />
       <jump line="120" column="19" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/cob/CobRequest.java" />
       <jump line="119" column="13" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/test/java/com/yahoo/dhrainbow/mocksherpa/model/dao/RedisDaoTest.java" />
+      <jump line="81" column="23" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/util/CollectionUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpLCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSwgQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>metadataList</text>
@@ -3059,7 +3066,7 @@
         <text encoding="base64">ICAgICAgICBBYnN0cmFjdFdyaXRlUGF5bG9hZCBwYXlsb2FkID0gQWJzdHJhY3RXcml0ZVBheWxvYWQuZnJvbUpzb24oU0FNUExFX0pTT05fUEFZTE9BRF9WMSwgV3JpdGVQYXlsb2FkVjEuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpLCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSwgQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3068,28 +3075,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29iLmdldEpzb25SZXNwb25zZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBCYXNlQ29iIGV4cGVjdGVkID0gbmV3IEJhc2VDb2IoCiAgICAgICAgICAgICAgICBBcnJheXMuYXNMaXN0KCkKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFxdWVyeUFsbFNjaGVtYXMoa2V5U2NoZW1hcykKICAgICAgICAgICAgICAgICAgICAmJiBhbnkoa2V5U2NoZW1hcywgc2NoZW1hIC0+ICFpc1ZhbGlkU2NoZW1hTmFtZShzY2hlbWEpKSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRQYXJhbUV4Y2VwdGlvbigic2NoZW1hIiwga2V5U2NoZW1hcyk7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29iLmdldEpzb25SZXNwb25zZSgpKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogZ3JvdXAgZWxlbWVudHMgaW4gYSBjb2xsZWN0aW9uCiAgICAgKgogICAgICogQHBhcmFtIGNvbGxlY3Rpb24gY29sbGVjdGlvbiB0byBiZSBncm91cGVkCiAgICAgKiBAcGFyYW0gY2xhc3NpZmllciBhIGZ1bmN0aW9uIHRoYXQgZ2VuZXJhdGVzIGlkZW50aWZpZXJzIGZvciBncm91cGluZwogICAgICogQHBhcmFtIDxLPiAgICAgICAgdHlwZSBvZiB0aGUgaWRlbnRpZmllciB1c2VkIGZvciBncm91cGluZwogICAgICogQHBhcmFtIDxUPiAgICAgICAgdHlwZSBvZiBlbGVtZW50cyBpbiB0aGUgY29sbGVjdGlvbgogICAgICogQHJldHVybiBhIG1hcCB0aGF0IGFzc29jaWF0ZXMgZWFjaCBncm91cCBhcyAmbHQ7Z3JvdXAgaWRlbnRpZmllciwgZWxlbWVudHMgaW4gdGhlIGdyb3VwJmd0OwogICAgICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZy52YWx1ZU9mKDI1NDYxOSksCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogc3VtIG9mIGEgY29sbGVjdGlvbiBhZnRlciBzb21lIG1hcHBpbmcKICAgICAqCiAgICAgKiBAcGFyYW0gY29sbGVjdGlvbiBjb2xsZWN0aW9uIHRvIGJlIHN1bW1lZAogICAgICogQHBhcmFtIG1hcHBlciAgICAgYSBmdW5jdGlvbiB0aGF0IG1hcHMgZWxlbWVudHMgaW4gdGhlIGNvbGxlY3Rpb24gdG8gaW50CiAgICAgKiBAcGFyYW0gPFQ+ICAgICAgICB0eXBlIG9mIGVsZW1lbnRzIGloZSBjb2xsZWN0aW9uCiAgICAgKiBAcmV0dXJuIHRoZSBzdW0gb2YgZWxlbWVudHMgaW4gdGhlIGNvbGxlY3Rpb24gYWZ0ZXIgbWFwcGluZwogICAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29iLmdldEpzb25SZXNwb25zZSgpKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogZ2V0IHRoZSBtYXhpbXVtIGVsZW1lbnQgb2YgYSBjb2xsZWN0aW9uIGluIHNvbWUgb3JkZXJpbmcKICAgICAqCiAgICAgKiBAcGFyYW0gY29sbGVjdGlvbiBjb2xsZWN0aW9uIHRvIGJlIG1heGltaXplZAogICAgICogQHBhcmFtIGNvbXBhcmF0b3IgYSBmdW5jdGlvbiB0aGF0IGdpdmVzIHNvbWUgb3JkZXJpbmcgb2YgZWxlbWVudHMgaW4gdGhlIGNvbGxlY3Rpb24KICAgICAqIEBwYXJhbSA8VD4gICAgICAgIHR5cGUgb2YgZWxlbWVudHMgaW4gdGhlIGNvbGxlY3Rpb24KICAgICAqIEByZXR1cm4gdGhlIG1heGltdW0gZWxlbWVudCBpbiB0aGUgY29sbGVjdGlvbiBnaXZlbiB0aGUgb3JkZXJpbmcgaWYgaXQgZXhpc3RzCiAgICAgKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoY29iLmdldFNjaGVtYUxldmVsQ29icygpLCBleHBlY3RlZC5nZXRTY2hlbWFMZXZlbENvYnMoKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogY29sbGVjdCBhIFN0cmVhbSBvZiBQYWlyJmx0O0ssIFYmZ3Q7IHRvIGEgTWFwJmx0O0ssIFYmZ3Q7CiAgICAgKgogICAgICogQHBhcmFtIDxLPiB0eXBlIG9mIGtleQogICAgICogQHBhcmFtIDxWPiB0eXBlIG9mIHZhbHVlCiAgICAgKiBAcmV0dXJuIGEgY29sbGVjdG9yIHRoYXQgY2FuIGJlIGNhbGxlZCBmcm9tIHRoZSBjb2xsZWN0KCkgbWV0aG9kIGluIFN0cmVhbQogICAgICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5lcQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogZGV0ZXJtaW5lIGlmIGFueSBvZiB0aGUgZWxlbWVudCBpbiB0aGUgY29sbGVjdGlvbiBmdWxmaWxscyB0aGUgcHJlZGljYXQKICAgICAqCiAgICAgKiBAcGFyYW0gY29sbGVjdGlvbiBjb2xsZWN0aW9uIG9mIGVsZW1lbnRzCiAgICAgKiBAcGFyYW0gcHJlZGljYXRlICBwcmVkaWNhdGUgZm9yIGNoZWNraW5nIGVsZW1lbnRzCiAgICAgKiBAcGFyYW0gPFQ+ICAgICAgICB0eXBlIG9mIGVsZW1lbnRzCiAgICAgKiBAcmV0dXJuIHRydWUgaWYgdGhlcmUgaXMgYXQgbGVhc3Qgb25lIGVsZW1lbnQgaW4gdGhlIGNvbGxlY3Rpb24gZnVsZmlsbHMgdGhlIHByZWRpY2F0ZQogICAgICogZmFsc2Ugb3RoZXJ3aXNlCiAgICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoYnVpbGRlci5idWlsZCgpLCBleHBlY3RlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiAodGltZVJhbmdlTWludXRlcyA+IE1BWF9RVUVSWV9NSU5VVEVTKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBCYWRSZXF1ZXN0RXhjZXB0aW9uKCJleGNlZWRzIG1heGltdW0gcXVlcmllZCB0aW1lIHJhbmdlIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21ldGFkYXRhTGlzdC9hZ2dyZWdhdGlvbmVkL2c=</text>
