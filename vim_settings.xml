@@ -1210,12 +1210,12 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="13" column="71" />
       </file>
-      <file name="$USER_HOME$/Desktop/Playground/src/Solution.kt" timestamp="1533235174836">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="59" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="13" />
+      <file name="$USER_HOME$/Desktop/Playground/src/Solution.kt" timestamp="1533236240191">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="15" column="56" />
+        <mark key="]" line="15" column="56" />
+        <mark key="." line="15" column="56" />
+        <mark key="^" line="15" column="56" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/write/WritePayloadV1.java" timestamp="1532622729697">
         <mark key="[" line="16" column="2" />
@@ -3175,8 +3175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
-      <jump line="92" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/Constants.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/Constants.java" />
       <jump line="93" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/Constants.java" />
       <jump line="22" column="44" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
@@ -3275,10 +3273,12 @@
       <jump line="0" column="14" filename="$USER_HOME$/Desktop/Playground/src/3sum.kt" />
       <jump line="32" column="4" filename="$USER_HOME$/Desktop/Playground/src/Solution.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Playground/src/Solution.kt" />
+      <jump line="28" column="0" filename="$USER_HOME$/Desktop/Playground/src/Solution.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Desktop/Playground/src/Solution.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlUT0RPKCkK</text>
+        <text encoding="base64">CQkJCWlmIChjdXJyRGlmZiA8IGRpZmYpIHsKCQkJCQlkaWZmID0gY3VyckRpZmYKCQkJCX0K</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -3290,7 +3290,7 @@
         <text encoding="base64">ICAgICAgICA8amV0dHkudmVyc2lvbj45LjQuMTAudjIwMTgwNTAzPC9qZXR0eS52ZXJzaW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlUT0RPKCkK</text>
+        <text encoding="base64">CQkJCWlmIChjdXJyRGlmZiA8IGRpZmYpIHsKCQkJCQlkaWZmID0gY3VyckRpZmYKCQkJCX0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3299,28 +3299,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZ1biB0aHJlZVN1bShudW1zOiBJbnRBcnJheSk6IExpc3Q8TGlzdDxJbnQ+PiB7CgkJbnVtcy5zb3J0KCkKCQl2YWwgYW5zID0gSGFzaFNldDxMaXN0PEludD4+KCkKCQl2YXIgYmFzZUlkeCA9IDAKCQl3aGlsZSAoYmFzZUlkeCA8IG51bXMuc2l6ZSAmJiBudW1zW2Jhc2VJZHhdIDw9IDApIHsKCQkJdmFyIHN0YXJ0ID0gYmFzZUlkeCArIDEKCQkJdmFyIGVuZCA9IG51bXMuc2l6ZSAtIDEKCQkJd2hpbGUgKGVuZCA+IHN0YXJ0KSB7CgkJCQl2YWwgbmIgPSBudW1zW2Jhc2VJZHhdCgkJCQl2YWwgbnMgPSBudW1zW3N0YXJ0XQoJCQkJdmFsIG5lID0gbnVtc1tlbmRdCgkJCQl2YWwgc3VtID0gbmIgKyBucyArIG5lCgkJCQl3aGVuIHsKCQkJCQlzdW0gPT0gMCAtPiB7CgkJCQkJCXZhbCBscyA9IGxpc3RPZihuYiwgbnMsIG5lKQoJCQkJCQlpZiAoIWFucy5jb250YWlucyhscykpIHsKCQkJCQkJCWFucy5hZGQobHMpCgkJCQkJCX0KCQkJCQkJc3RhcnQrKwoJCQkJCQllbmQtLQoJCQkJCX0KCQkJCQlzdW0gPiAwIC0+IGVuZC0tCgkJCQkJZWxzZSAtPiBzdGFydCsrCgkJCQl9CgkJCX0KCQkJYmFzZUlkeCsrCgkJfQoJCXJldHVybiBhbnMudG9MaXN0KCkKCX0K</text>
+        <text encoding="base64">CQkJCQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKCXByaW50bG4oIkhpIikKfQo=</text>
+        <text encoding="base64">CQkJCXdoZW4gewoJCQkJCQoJCQkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCQlzdW0gPT0gMCAtPiByZXR1cm4gdGFyZ2V0CgkJCQkJc3VtID4gMCAtPiB7CgkJCQkJCWVuZC0tCgkJCQkJfQoJCQkJCWVsc2UgLT4gewoJCQkJCQlzdGFydCsrCgkJCQkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKCQlwcmludGxuKCJIaSIpCgl9Cg==</text>
+        <text encoding="base64">CQkJCXZhbCBjdXJyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXBzdm0gICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewoJcHJpbnRsbih0aHJlZVN1bShpbnRBcnJheU9mKDMsIDAsIC0yLCAtMSwgMSwgMikpKQp9Cgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CWNvbXBhbmlvbiBvYmplY3QgewoJCWNvbnN0IHZhbCBJTkYgPSBJbnQuTUFYX1ZBTFVFIC8gMgoJfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWoK</text>
+        <text encoding="base64">CWNvbnN0IHZhbCBJTkYgPSBJbnQuTUFYX1ZBTFVFIC8gMgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
