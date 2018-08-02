@@ -335,11 +335,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Playground/src/3sum.kt" timestamp="1533233930958">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Desktop/Playground/src/3sum.kt" timestamp="1533235015651">
+        <mark key="'" line="0" column="14" />
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+        <mark key="^" line="31" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/model/payload/ValueFieldPayload.java" timestamp="1528998335917">
         <mark key="[" line="10" column="0" />
@@ -1208,6 +1209,13 @@
         <mark key="]" line="13" column="71" />
         <mark key="^" line="43" column="0" />
         <mark key="." line="13" column="71" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Playground/src/Solution.kt" timestamp="1533235174836">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="59" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/write/WritePayloadV1.java" timestamp="1532622729697">
         <mark key="[" line="16" column="2" />
@@ -3167,9 +3175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="31" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
-      <jump line="25" column="20" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
-      <jump line="110" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="27" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="92" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/Constants.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/Constants.java" />
@@ -3267,13 +3272,16 @@
       <jump line="105" column="11" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/daemon/DaemonConfig.java" />
       <jump line="12" column="32" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/daemon/DaemonConfig.java" />
       <jump line="90" column="8" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/daemon/DaemonMain.java" />
+      <jump line="0" column="14" filename="$USER_HOME$/Desktop/Playground/src/3sum.kt" />
+      <jump line="32" column="4" filename="$USER_HOME$/Desktop/Playground/src/Solution.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Playground/src/Solution.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CW51bXMuc28K</text>
+        <text encoding="base64">CQlUT0RPKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>Misc</text>
@@ -3282,7 +3290,7 @@
         <text encoding="base64">ICAgICAgICA8amV0dHkudmVyc2lvbj45LjQuMTAudjIwMTgwNTAzPC9qZXR0eS52ZXJzaW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CW51bXMuc28K</text>
+        <text encoding="base64">CQlUT0RPKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3291,28 +3299,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZ1biB0aHJlZVN1bShudW1zOiBJbnRBcnJheSk6IExpc3Q8TGlzdDxJbnQ+PiB7CgkJbnVtcy5zb3J0KCkKCQl2YWwgYW5zID0gSGFzaFNldDxMaXN0PEludD4+KCkKCQl2YXIgYmFzZUlkeCA9IDAKCQl3aGlsZSAoYmFzZUlkeCA8IG51bXMuc2l6ZSAmJiBudW1zW2Jhc2VJZHhdIDw9IDApIHsKCQkJdmFyIHN0YXJ0ID0gYmFzZUlkeCArIDEKCQkJdmFyIGVuZCA9IG51bXMuc2l6ZSAtIDEKCQkJd2hpbGUgKGVuZCA+IHN0YXJ0KSB7CgkJCQl2YWwgbmIgPSBudW1zW2Jhc2VJZHhdCgkJCQl2YWwgbnMgPSBudW1zW3N0YXJ0XQoJCQkJdmFsIG5lID0gbnVtc1tlbmRdCgkJCQl2YWwgc3VtID0gbmIgKyBucyArIG5lCgkJCQl3aGVuIHsKCQkJCQlzdW0gPT0gMCAtPiB7CgkJCQkJCXZhbCBscyA9IGxpc3RPZihuYiwgbnMsIG5lKQoJCQkJCQlpZiAoIWFucy5jb250YWlucyhscykpIHsKCQkJCQkJCWFucy5hZGQobHMpCgkJCQkJCX0KCQkJCQkJc3RhcnQrKwoJCQkJCQllbmQtLQoJCQkJCX0KCQkJCQlzdW0gPiAwIC0+IGVuZC0tCgkJCQkJZWxzZSAtPiBzdGFydCsrCgkJCQl9CgkJCX0KCQkJYmFzZUlkeCsrCgkJfQoJCXJldHVybiBhbnMudG9MaXN0KCkKCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmdbXT4gcGFyYW1NYXAgPSByZXF1ZXN0LmdldFBhcmFtZXRlck1hcCgpOwo=</text>
+        <text encoding="base64">CmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKCXByaW50bG4oIkhpIikKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dJbmZvKExPRywgImZvcm1hdCIsIGZvcm1hdCk7Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dJbmZvKExPRywgInNjaGVtYXMiLCBzY2hlbWFzKTsK</text>
+        <text encoding="base64">CWZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKCQlwcmludGxuKCJIaSIpCgl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dJbmZvKExPRywgImRzdE5hbWUiLCBkc3ROYW1lKTsK</text>
+        <text encoding="base64">CXBzdm0gICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dJbmZvKExPRywgImRzdENvbG8iLCBkc3RDb2xvKTsK</text>
+        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewoJcHJpbnRsbih0aHJlZVN1bShpbnRBcnJheU9mKDMsIDAsIC0yLCAtMSwgMSwgMikpKQp9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dJbmZvKExPRywgImVuZEVwb2NoTWludXRlIiwgZW5kRXBvY2hNaW51dGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dJbmZvKExPRywgInN0YXJ0RXBvY2hNaW51dGUiLCBzdGFydEVwb2NoTWludXRlKTsK</text>
+        <text encoding="base64">CQkJCWoK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
