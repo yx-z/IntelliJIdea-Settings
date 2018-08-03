@@ -1886,6 +1886,9 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/List.java" timestamp="1533310992870">
+        <mark key="'" line="503" column="10" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestPathNegEdge.kt" timestamp="1522296621783">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="40" column="0" />
@@ -2335,11 +2338,11 @@
         <mark key="^" line="14" column="11" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/responsebuilder/metadata/AbstractMetadataBuilder.java" timestamp="1533226312691">
-        <mark key="'" line="97" column="89" />
-        <mark key="[" line="171" column="54" />
-        <mark key="]" line="172" column="15" />
-        <mark key="." line="172" column="15" />
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/responsebuilder/metadata/AbstractMetadataBuilder.java" timestamp="1533310951198">
+        <mark key="'" line="26" column="10" />
+        <mark key="[" line="89" column="32" />
+        <mark key="]" line="89" column="33" />
+        <mark key="." line="89" column="33" />
         <mark key="^" line="172" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/response/package-info.java" timestamp="1529700145328">
@@ -3025,6 +3028,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/util/CollectionUtil.java" timestamp="1533311327683">
+        <mark key="[" line="109" column="35" />
+        <mark key="]" line="109" column="3" />
+        <mark key="^" line="109" column="3" />
+        <mark key="." line="109" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/CPS/src/util/XmlUtils.java" timestamp="1509546811935">
         <mark key="[" line="21" column="50" />
         <mark key="]" line="7" column="0" />
@@ -3200,11 +3209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/Constants.java" />
-      <jump line="22" column="44" filename="$USER_HOME$/Desktop/VCount/src/main/java/ws/VCountHandler.java" />
-      <jump line="6" column="43" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/Constants.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
-      <jump line="112" column="35" filename="$USER_HOME$/Desktop/VCount/pom.xml" />
       <jump line="28" column="0" filename="$USER_HOME$/Desktop/VCount/pom.xml" />
       <jump line="17" column="33" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestTime.java" />
       <jump line="27" column="16" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestRead.java" />
@@ -3300,6 +3304,11 @@
       <jump line="28" column="0" filename="$USER_HOME$/Desktop/Playground/src/Solution.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/Desktop/Playground/src/Solution.kt" />
       <jump line="5" column="25" filename="$USER_HOME$/Desktop/cwsfx/src/main/kotlin/com/yahoo/dhrainbow/cwsfx/Main.kt" />
+      <jump line="26" column="10" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/responsebuilder/metadata/AbstractMetadataBuilder.java" />
+      <jump line="110" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/List.java" />
+      <jump line="133" column="54" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/List.java" />
+      <jump line="244" column="59" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/List.java" />
+      <jump line="503" column="10" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/List.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3309,7 +3318,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>Misc</text>
+        <text>equals</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8amV0dHkudmVyc2lvbj45LjQuMTAudjIwMTgwNTAzPC9qZXR0eS52ZXJzaW9uPgo=</text>
@@ -3352,9 +3361,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Misc</last-search>
+      <last-search>equals</last-search>
       <last-offset />
-      <last-pattern>Misc</last-pattern>
+      <last-pattern>equals</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -3362,7 +3371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>require</entry>
         <entry>toList()</entry>
         <entry>getAs</entry>
         <entry>cobRequest</entry>
@@ -3382,6 +3390,7 @@
         <entry>getKey</entry>
         <entry>kotlin</entry>
         <entry>Misc</entry>
+        <entry>equals</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3B0ci9lbnZpcm9uL2c=</entry>
