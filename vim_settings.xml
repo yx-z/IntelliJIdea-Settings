@@ -855,7 +855,7 @@
         <mark key="^" line="122" column="75" />
         <mark key="." line="122" column="75" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533310083376">
+      <file name="/Dummy.txt" timestamp="1533324714461">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1097,6 +1097,7 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/BinaryJedis.java" timestamp="1533327993193" />
       <file name="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/model/payload/ValueDeserializer.java" timestamp="1528998138578">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1171,12 +1172,11 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/dao/RedisDao.java" timestamp="1533324675829">
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/dao/RedisDao.java" timestamp="1533328926696">
         <mark key="'" line="0" column="26" />
-        <mark key="[" line="62" column="47" />
-        <mark key="]" line="62" column="24" />
-        <mark key="^" line="62" column="24" />
-        <mark key="." line="57" column="43" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/vzncount/ws/handler/WriteHandler.java" timestamp="1529087712167">
         <mark key="[" line="11" column="51" />
@@ -2872,6 +2872,12 @@
         <mark key="^" line="74" column="11" />
         <mark key="." line="74" column="11" />
       </file>
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/scripts/dh_rainbow_mock_sherpa_wsapi_java_start" timestamp="1533328788733">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/write/v1/SendEmitterSendRecord.java" timestamp="1529439440848">
         <mark key="[" line="86" column="23" />
         <mark key="]" line="86" column="23" />
@@ -3312,19 +3318,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBqZWRpcy5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBvb2wuCg==</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>equals</text>
+        <text>shut</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8amV0dHkudmVyc2lvbj45LjQuMTAudjIwMTgwNTAzPC9qZXR0eS52ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgKEplZGlzIGplZGlzID0gdGhpcy5wb29sLmdldFJlc291cmNlKCkpIHsKICAgICAgICAgICAgamVkaXMuZmx1c2hEQigpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqZWRpcy5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBvb2wuCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3333,25 +3339,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3dzIEplZGlzRXhjZXB0aW9uIHsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBvb2wuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgamVkaXMuZGlzY29ubmVjdCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqZWRpcy5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBvb2wuZ2V0UmVzb3VyY2UoKS5zaHV0ZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFdyaXRlU3RhdChudW1Sb3dzV3JpdHRlbiwgMSAtIG51bVJvd3NXcml0dGVuLCAwKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgKEplZGlzIGplZGlzID0gdGhpcy5wb29sLmdldFJlc291cmNlKCkpIHsKICAgICAgICAgICAgamVkaXMuYmdzYXZlKCk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSmVkaXMgamVkaXMgPSB0aGlzLnBvb2wuZ2V0UmVzb3VyY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBvb2wuZ2V0UmVzb3VyY2UoKS5iZ3NhdmUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSmVkaXMgamVkaXMgPSB0aGlzLnBvb2wuZ2V0UmVzb3VyY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBqZWRpcy5jbG9zZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqZWRpcy5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3dzIEplZGlzRXhjZXB0aW9uIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -3361,9 +3367,9 @@
       </register>
     </registers>
     <search>
-      <last-search>equals</last-search>
+      <last-search>shut</last-search>
       <last-offset />
-      <last-pattern>equals</last-pattern>
+      <last-pattern>shut</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -3371,8 +3377,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toList()</entry>
-        <entry>getAs</entry>
         <entry>cobRequest</entry>
         <entry>private</entry>
         <entry>KEY</entry>
@@ -3391,6 +3395,8 @@
         <entry>kotlin</entry>
         <entry>Misc</entry>
         <entry>equals</entry>
+        <entry>shutdown</entry>
+        <entry>shut</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3B0ci9lbnZpcm9uL2c=</entry>
