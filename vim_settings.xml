@@ -1596,10 +1596,10 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/daemon/DaemonMain.java" timestamp="1533070907666">
+      <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/daemon/DaemonMain.java" timestamp="1533673063530">
         <mark key="'" line="90" column="8" />
-        <mark key="[" line="63" column="78" />
-        <mark key="]" line="63" column="77" />
+        <mark key="[" line="42" column="16" />
+        <mark key="]" line="42" column="86" />
         <mark key="^" line="63" column="77" />
         <mark key="." line="63" column="77" />
       </file>
@@ -3060,9 +3060,9 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/util/CollectionUtil.java" timestamp="1533671598581">
-        <mark key="[" line="173" column="6" />
-        <mark key="]" line="173" column="6" />
-        <mark key="." line="173" column="6" />
+        <mark key="[" line="165" column="6" />
+        <mark key="]" line="165" column="6" />
+        <mark key="." line="165" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/CPS/src/util/XmlUtils.java" timestamp="1509546811935">
         <mark key="[" line="21" column="50" />
@@ -3341,8 +3341,8 @@
       <jump line="96" column="37" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/dao/IDao.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBEYWVtb25NZXRyaWNzIG1ldHJpY3MgPSBuZXcgRGFlbW9uTWV0cmljcyh0aGlzLnlhbWFzLCBDb2xsZWN0aW9ucy5lbXB0eU1hcCgpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -3351,7 +3351,7 @@
         <text>shut</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgKEplZGlzIGplZGlzID0gdGhpcy5wb29sLmdldFJlc291cmNlKCkpIHsKICAgICAgICAgICAgamVkaXMuZmx1c2hEQigpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBEYWVtb25NZXRyaWNzIG1ldHJpY3MgPSBuZXcgRGFlbW9uTWV0cmljcyh0aGlzLnlhbWFzLCBDb2xsZWN0aW9ucy5lbXB0eU1hcCgpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTZW5kRW1pdHRlckRiUm93PiByb3dzID0gZW50cnkuZ2V0VmFsdWUoKTsKCg==</text>
