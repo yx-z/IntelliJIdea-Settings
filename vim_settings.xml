@@ -231,12 +231,12 @@
         <mark key="^" line="96" column="24" />
         <mark key="." line="96" column="24" />
       </file>
-      <file name="$USER_HOME$/VCS/241/yzhng223/vector/vector.c" timestamp="1536017689385">
-        <mark key="'" line="120" column="0" />
-        <mark key="[" line="211" column="4" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
-        <mark key="^" line="205" column="0" />
+      <file name="$USER_HOME$/VCS/241/yzhng223/vector/vector.c" timestamp="1536021877052">
+        <mark key="'" line="212" column="30" />
+        <mark key="[" line="118" column="28" />
+        <mark key="]" line="118" column="10" />
+        <mark key="." line="118" column="10" />
+        <mark key="^" line="118" column="10" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/resources/com/yahoo/dhrainbow/mocksherpa/settings.conf" timestamp="1529608336157">
         <mark key="[" line="6" column="13" />
@@ -2407,7 +2407,7 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/VCS/241/yzhng223/vector/vector_test.c" timestamp="1536020705520">
+      <file name="$USER_HOME$/VCS/241/yzhng223/vector/vector_test.c" timestamp="1536021612557">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="23" />
         <mark key="." line="55" column="0" />
@@ -3316,7 +3316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/IOUtil.java" />
       <jump line="38" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/IOUtil.java" />
       <jump line="11" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
       <jump line="42" column="20" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
@@ -3416,13 +3415,14 @@
       <jump line="114" column="0" filename="$USER_HOME$/VCS/241/yzhng223/vector/vector.c" />
       <jump line="123" column="14" filename="$USER_HOME$/VCS/241/yzhng223/vector/vector.c" />
       <jump line="124" column="0" filename="$USER_HOME$/VCS/241/yzhng223/vector/vector.c" />
+      <jump line="212" column="30" filename="$USER_HOME$/VCS/241/yzhng223/vector/vector.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXByaW50X2ludF92ZWModmVjKTsK</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>vec</text>
@@ -3431,7 +3431,7 @@
         <text encoding="base64">CXByaW50X2ludF92ZWModmVjKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZlY3RvcHVzCg==</text>
+        <text encoding="base64">CQlmcmVlKHRoaXMtPmRlc3RydWN0b3IpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3440,28 +3440,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZhbCA9IE5VTEw7Cg==</text>
+        <text encoding="base64">CXZlY3Rvcl9jbGVhcih0aGlzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZlY3Rvcgo=</text>
+        <text encoding="base64">CXZlY3RvcHVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZlY3Rvcl9yZXNpemUodmVjLCA0MCk7Cg==</text>
+        <text encoding="base64">CXZhbCA9IE5VTEw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZlY3Rvcl9yZXNpemUodmVjLCA0MCk7Cg==</text>
+        <text encoding="base64">CXZlY3Rvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZlY3Rvcl9zZXQoKQo=</text>
+        <text encoding="base64">CXZlY3Rvcl9yZXNpemUodmVjLCA0MCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZvciAoc2l6ZV90IGkgPSAwOyBpIDwgdmVjdG9yX3NpemUoaW50X3ZlYyk7IGkrKykgewoJfQo=</text>
+        <text encoding="base64">CXZlY3Rvcl9yZXNpemUodmVjLCA0MCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZlY3Rvciogc3RyaW5nX3ZlYyA9IHN0cmluZ192ZWN0b3JfY3JlYXRlKCk7Cgl2ZWN0b3JfcHVzaF9iYWNrKHN0cmluZ192ZWMsICJoZWxsbyIpOwoJdmVjdG9yX3B1c2hfYmFjayhzdHJpbmdfdmVjLCAid29ybGQiKTsKCWZvciAoc2l6ZV90IGkgPSAwOyBpIDwgdmVjdG9yX3NpemUoc3RyaW5nX3ZlYyk7IGkrKykgewoJfQoJdmVjdG9yX3BvcF9iYWNrKHN0cmluZ192ZWMpOwoJZm9yIChzaXplX3QgaSA9IDA7IGkgPCB2ZWN0b3Jfc2l6ZShzdHJpbmdfdmVjKTsgaSsrKSB7CgkJcHJpbnRmKCIlenU6ICVzXG4iLCBpLCAgKGNoYXIqKSB2ZWN0b3JfZ2V0KHN0cmluZ192ZWMsIGkpKTsKCX0KCXZlY3Rvcl9kZXN0cm95KHN0cmluZ192ZWMpOwoJCg==</text>
+        <text encoding="base64">CXZlY3Rvcl9zZXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwcmludGYoIiVkXG4iLCAoaW50KikK</text>
+        <text encoding="base64">CWZvciAoc2l6ZV90IGkgPSAwOyBpIDwgdmVjdG9yX3NpemUoaW50X3ZlYyk7IGkrKykgewoJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
