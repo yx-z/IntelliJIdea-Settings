@@ -121,6 +121,12 @@
         <mark key="." line="56" column="21" />
         <mark key="^" line="56" column="21" />
       </file>
+      <file name="$USER_HOME$/VCS/241/yzhng223/vector/vector.h" timestamp="1536017007539">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="256" column="2" />
+        <mark key="." line="256" column="2" />
+        <mark key="^" line="256" column="2" />
+      </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/test/java/com/yahoo/dhrainbow/mocksherpa/model/ws/ConfigTest.java" timestamp="1529595880284">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -225,12 +231,12 @@
         <mark key="^" line="96" column="24" />
         <mark key="." line="96" column="24" />
       </file>
-      <file name="$USER_HOME$/VCS/241/yzhng223/vector/vector.c" timestamp="1536013669033">
-        <mark key="'" line="123" column="14" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="11" />
-        <mark key="." line="150" column="11" />
-        <mark key="^" line="150" column="11" />
+      <file name="$USER_HOME$/VCS/241/yzhng223/vector/vector.c" timestamp="1536017689385">
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="211" column="4" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
+        <mark key="^" line="205" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/resources/com/yahoo/dhrainbow/mocksherpa/settings.conf" timestamp="1529608336157">
         <mark key="[" line="6" column="13" />
@@ -902,6 +908,12 @@
         <mark key="]" line="15" column="30" />
         <mark key="." line="15" column="30" />
         <mark key="^" line="15" column="30" />
+      </file>
+      <file name="$USER_HOME$/VCS/241/yzhng223/vector/sstring_test.c" timestamp="1536018125321">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="35" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/recur/NQueens.kt" timestamp="1525610312304">
         <mark key="[" line="13" column="22" />
@@ -2395,6 +2407,12 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
       </file>
+      <file name="$USER_HOME$/VCS/241/yzhng223/vector/vector_test.c" timestamp="1536019685527">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+        <mark key="^" line="23" column="20" />
+      </file>
       <file name="$USER_HOME$/Desktop/cwsfx/src/com/yahoo/dhrainbow/Main.kt" timestamp="1533239512972">
         <mark key="[" line="2" column="0" />
       </file>
@@ -3298,7 +3316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/IOUtil.java" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/IOUtil.java" />
       <jump line="38" column="0" filename="$USER_HOME$/Desktop/VCount/src/main/java/util/IOUtil.java" />
       <jump line="11" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestWrite.java" />
@@ -3398,22 +3415,23 @@
       <jump line="96" column="37" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/dao/IDao.java" />
       <jump line="114" column="0" filename="$USER_HOME$/VCS/241/yzhng223/vector/vector.c" />
       <jump line="123" column="14" filename="$USER_HOME$/VCS/241/yzhng223/vector/vector.c" />
+      <jump line="124" column="0" filename="$USER_HOME$/VCS/241/yzhng223/vector/vector.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gV2hlbiBjYXBhY2l0eSA8IG4sIHJlc2l6ZSBpdHMgYXJyYXkncyBtZW1vcnkgYW5kIHB1c2hfYmFjayBkZWZhdWx0IGlucHV0cwovLyBXaGVuIHNpemUgPCBuIDw9IGNhcGFjaXR5LCBqdXN0IHB1c2hfYmFjayBkZWZhdWx0IGlucHV0cwo=</text>
+        <text encoding="base64">CXZlY3Rvcl9zZXQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>this</text>
+        <text>vec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEYWVtb25NZXRyaWNzIG1ldHJpY3MgPSBuZXcgRGFlbW9uTWV0cmljcyh0aGlzLnlhbWFzLCBDb2xsZWN0aW9ucy5lbXB0eU1hcCgpKTsK</text>
+        <text encoding="base64">CWZvciAoc2l6ZV90IGkgPSAwOyBpIDwgdmVjdG9yX3NpemUoc3RyaW5nX3ZlYyk7IGkrKykgewoJCXByaW50ZigiJXp1OiAlc1xuIiwgaSwgIChjaGFyKikgdmVjdG9yX2dldChzdHJpbmdfdmVjLCBpKSk7Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gV2hlbiBjYXBhY2l0eSA8IG4sIHJlc2l6ZSBpdHMgYXJyYXkncyBtZW1vcnkgYW5kIHB1c2hfYmFjayBkZWZhdWx0IGlucHV0cwovLyBXaGVuIHNpemUgPCBuIDw9IGNhcGFjaXR5LCBqdXN0IHB1c2hfYmFjayBkZWZhdWx0IGlucHV0cwo=</text>
+        <text encoding="base64">CXZlY3Rvcl9zZXQoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3422,45 +3440,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gV2hlbiBuIDw9IHNpemUsIHBvcF9iYWNrIGFzIG1hbnkgYXMgZGlmZmVyZW5jZQo=</text>
+        <text encoding="base64">CWZvciAoc2l6ZV90IGkgPSAwOyBpIDwgdmVjdG9yX3NpemUoaW50X3ZlYyk7IGkrKykgewoJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHlvdXIgY29kZSBoZXJlCg==</text>
+        <text encoding="base64">CXZlY3Rvciogc3RyaW5nX3ZlYyA9IHN0cmluZ192ZWN0b3JfY3JlYXRlKCk7Cgl2ZWN0b3JfcHVzaF9iYWNrKHN0cmluZ192ZWMsICJoZWxsbyIpOwoJdmVjdG9yX3B1c2hfYmFjayhzdHJpbmdfdmVjLCAid29ybGQiKTsKCWZvciAoc2l6ZV90IGkgPSAwOyBpIDwgdmVjdG9yX3NpemUoc3RyaW5nX3ZlYyk7IGkrKykgewoJfQoJdmVjdG9yX3BvcF9iYWNrKHN0cmluZ192ZWMpOwoJZm9yIChzaXplX3QgaSA9IDA7IGkgPCB2ZWN0b3Jfc2l6ZShzdHJpbmdfdmVjKTsgaSsrKSB7CgkJcHJpbnRmKCIlenU6ICVzXG4iLCBpLCAgKGNoYXIqKSB2ZWN0b3JfZ2V0KHN0cmluZ192ZWMsIGkpKTsKCX0KCXZlY3Rvcl9kZXN0cm95KHN0cmluZ192ZWMpOwoJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHlvdXIgY29kZSBoZXJlCg==</text>
+        <text encoding="base64">CQlwcmludGYoIiVkXG4iLCAoaW50KikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">CQlwcmludGYoIiV6dTogJXNcbiIsIGksICAoY2hhciopIHZlY3Rvcl9nZXQoc3RyaW5nX3ZlYywgaSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdoaWxlKHRoaXMtPnNpemUgPj0gMSkgewogICAgfQo=</text>
+        <text encoding="base64">CXZlY3Rvcl9jbGVhcihpbnRfdmVjKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KHRoaXMtPmRlc3RydWN0b3IpCg==</text>
+        <text encoding="base64">CQlwcmludGYoInN0cmluZzogJXNcbiIsIChjaGFyKikgdmVjdG9yX2dldCh2ZWMsIGkpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAxawo=</text>
+        <text encoding="base64">CSAgICBwcmludGYoIiV6dTogJXNcbiIsIGksICAoY2hhciopIHZlY3Rvcl9nZXQodmVjLCBpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdoaWxlKHRoaXMtPnNpemUgPiAwKSB7CiAgICAgICAgMWsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3RoaXMvdmVjL2c=</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>this</last-search>
+      <last-search>vec</last-search>
       <last-offset />
-      <last-pattern>this</last-pattern>
-      <last-replace>vec</last-replace>
-      <last-substitute>this</last-substitute>
+      <last-pattern>vec</last-pattern>
+      <last-replace>this</last-replace>
+      <last-substitute>vec</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>KEY</entry>
         <entry>schema</entry>
         <entry>toList</entry>
         <entry>final</entry>
@@ -3480,10 +3497,9 @@
         <entry>shut</entry>
         <entry>rtn_vtr</entry>
         <entry>this</entry>
+        <entry>vec</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NoYXIgKi9zdHJpbmcvZw==</entry>
-        <entry>noh</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2luaXRpYWwvZGlyL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Jhd0RiUm93L3Jhd0RhdGE=</entry>
@@ -3502,6 +3518,8 @@
         <entry encoding="base64">JzwsJz5zL21ldHJpY3MvdGhpcy5tZXRyaWNzL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3J0bl92dHIvdmVjL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMvdmVjL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3ZlYy90aGlzL2c=</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
