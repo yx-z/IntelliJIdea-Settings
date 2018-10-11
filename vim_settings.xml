@@ -1482,6 +1482,11 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/Desktop/release-master/mp1/CoffeeMaker_WebDB/src/main/java/edu/ncsu/csc326/coffeemaker/Inventory.java" timestamp="1539284116624">
+        <mark key="[" line="31" column="40" />
+        <mark key="]" line="31" column="40" />
+        <mark key="." line="31" column="40" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/graph/AdjMat.kt" timestamp="1508766980241">
         <mark key="[" line="43" column="13" />
         <mark key="]" line="43" column="13" />
@@ -3445,11 +3450,11 @@
       <jump line="272" column="48" filename="$USER_HOME$/OneDrive/Work/Course/427/mp1/CoffeeMaker_WebDB/src/edu/ncsu/csc326/coffeemaker/Inventory.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgogICAgICAgICAgICAvL0ludmVudG9yeS5taWxrICs9IGFtdE1pbGs7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ingredientsInventory</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>ingredientsInventory</text>
       </register>
       <register name="/" type="4">
         <text>Used</text>
@@ -3501,7 +3506,7 @@
       <last-replace />
       <last-substitute>Used</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
