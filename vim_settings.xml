@@ -1464,11 +1464,11 @@
         <mark key="." line="52" column="9" />
         <mark key="^" line="52" column="9" />
       </file>
-      <file name="$USER_HOME$/241/password_cracker/cracker1.c" timestamp="1539744833387">
-        <mark key="[" line="37" column="15" />
-        <mark key="]" line="39" column="4" />
-        <mark key="." line="39" column="4" />
-        <mark key="^" line="39" column="4" />
+      <file name="$USER_HOME$/241/password_cracker/cracker1.c" timestamp="1539967273444">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="164" column="13" />
+        <mark key="." line="164" column="13" />
+        <mark key="^" line="40" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/test/java/com/yahoo/dhrainbow/mocksherpa/model/ws/cobbuilder/BaseCobBuilderTest.java" timestamp="1529939464700">
         <mark key="[" line="44" column="37" />
@@ -3422,20 +3422,20 @@
       <jump line="9" column="16" filename="$USER_HOME$/241/ideal_indirection/mmu.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvKgogICAgICAgIGlmICghZW50cnktPnJlYWRfd3JpdGUpIHsKICAgICAgICAgICAgbW11X3JhaXNlX3NlZ21lbnRhdGlvbl9mYXVsdCh0aGlzKTsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IERPIE5PVCBjaGFuZ2UgdGhlIHJldHVybiBjb2RlIHNpbmNlIEFHIHVzZXMgaXQgdG8gY2hlY2sgaWYgeW91cg==</text>
       </register>
       <register name="-" type="4">
-        <text>BUFFER_SIZE</text>
+        <text encoding="base64">IERPIE5PVCBjaGFuZ2UgdGhlIHJldHVybiBjb2RlIHNpbmNlIEFHIHVzZXMgaXQgdG8gY2hlY2sgaWYgeW91cg==</text>
       </register>
       <register name="/" type="4">
-        <text>vec</text>
+        <text encoding="base64">XDxET1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXZlY3Rvcl9yZXNpemUodmVjLCA0MCk7CglwcmludGYoInJlc2l6ZSB0byA0MDogIik7CglwcmludF9pbnRfdmVjKHZlYyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvKgogICAgICAgIGlmICghZW50cnktPnJlYWRfd3JpdGUpIHsKICAgICAgICAgICAgbW11X3JhaXNlX3NlZ21lbnRhdGlvbl9mYXVsdCh0aGlzKTsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICAqLwo=</text>
+        <text encoding="base64">CS8vIHByb2dyYW0gZXhpdGVkIG5vcm1hbGx5Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3444,25 +3444,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CS8vIGZyZWUgYWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWZlcSAoJChJU19WTSksKQppZm5lcSAoJChWTV9PVkVSUklERSksY3MyNDFncmFkZXIpCiQoZXJyb3IgVGhpcyBhc3NpZ25tZW50IG11c3QgYmUgY29tcGlsZWQgb24gdGhlIENTMjQxIFZNcykKZW5kaWYKZW5kaWYK</text>
+        <text encoding="base64">ICAgICAgICAvKgogICAgICAgIGlmICghZW50cnktPnJlYWRfd3JpdGUpIHsKICAgICAgICAgICAgbW11X3JhaXNlX3NlZ21lbnRhdGlvbl9mYXVsdCh0aGlzKTsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KICAgICAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl0YXNrc1t0YXNrX2luZGV4XS51c2VybmFtZSA9IHVzZXJuYW1lX2J1ZmZlcjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3RhdGljIGNvbnN0IGludCBCVUZGRVJfU0laRSA9IDEwMDA7Cg==</text>
+        <text encoding="base64">aWZlcSAoJChJU19WTSksKQppZm5lcSAoJChWTV9PVkVSUklERSksY3MyNDFncmFkZXIpCiQoZXJyb3IgVGhpcyBhc3NpZ25tZW50IG11c3QgYmUgY29tcGlsZWQgb24gdGhlIENTMjQxIFZNcykKZW5kaWYKZW5kaWYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RhdGljIGNvbnN0IGNoYXIqIFNBTFQgPSAieHgiOwpzdGF0aWMgY29uc3QgaW50IFRBU0tfTElNSVQgPSAxMDA7CnN0YXRpYyBjb25zdCBpbnQgQlVGRkVSX1NJWkUgPSAxMDAwOwoK</text>
+        <text encoding="base64">CQl0YXNrc1t0YXNrX2luZGV4XS51c2VybmFtZSA9IHVzZXJuYW1lX2J1ZmZlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RhdGljIGNvbnN0IGludCBCVUZGRVJfU0laRSA9IDEwMDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG50c2lkLmg+Cg==</text>
+        <text encoding="base64">c3RhdGljIGNvbnN0IGNoYXIqIFNBTFQgPSAieHgiOwpzdGF0aWMgY29uc3QgaW50IFRBU0tfTElNSVQgPSAxMDA7CnN0YXRpYyBjb25zdCBpbnQgQlVGRkVSX1NJWkUgPSAxMDAwOwoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -3472,17 +3472,16 @@
       </register>
     </registers>
     <search>
-      <last-search>vec</last-search>
+      <last-search encoding="base64">XDxET1w+</last-search>
       <last-offset />
-      <last-pattern>vec</last-pattern>
+      <last-pattern encoding="base64">XDxET1w+</last-pattern>
       <last-replace>this</last-replace>
       <last-substitute>vec</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>schema</entry>
         <entry>toList</entry>
         <entry>final</entry>
         <entry>toString</entry>
@@ -3502,6 +3501,7 @@
         <entry>rtn_vtr</entry>
         <entry>this</entry>
         <entry>vec</entry>
+        <entry encoding="base64">XDxET1w+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
