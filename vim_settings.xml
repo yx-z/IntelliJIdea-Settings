@@ -1464,12 +1464,12 @@
         <mark key="." line="52" column="9" />
         <mark key="^" line="52" column="9" />
       </file>
-      <file name="$USER_HOME$/241/password_cracker/cracker1.c" timestamp="1539967535605">
-        <mark key="'" line="126" column="12" />
-        <mark key="[" line="150" column="27" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
-        <mark key="^" line="164" column="0" />
+      <file name="$USER_HOME$/241/password_cracker/cracker1.c" timestamp="1540062868145">
+        <mark key="'" line="164" column="4" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
+        <mark key="^" line="164" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/test/java/com/yahoo/dhrainbow/mocksherpa/model/ws/cobbuilder/BaseCobBuilderTest.java" timestamp="1529939464700">
         <mark key="[" line="44" column="37" />
@@ -1664,12 +1664,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/241/password_cracker/cracker2.c" timestamp="1539967754282">
-        <mark key="'" line="187" column="0" />
-        <mark key="[" line="109" column="14" />
-        <mark key="]" line="109" column="13" />
-        <mark key="^" line="109" column="13" />
-        <mark key="." line="109" column="13" />
+      <file name="$USER_HOME$/241/password_cracker/cracker2.c" timestamp="1540062917284">
+        <mark key="'" line="11" column="7" />
+        <mark key="[" line="124" column="17" />
+        <mark key="]" line="124" column="20" />
+        <mark key="." line="167" column="59" />
+        <mark key="^" line="124" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/vzncount/src/test/java/TestMultiJedis.java" timestamp="1528401298896">
         <mark key="[" line="8" column="16" />
@@ -3328,11 +3328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/TestMetrics.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/Desktop/VCount/src/test/java/MetricsApplication.java" />
-      <jump line="112" column="8" filename="$USER_HOME$/Desktop/VznCount/pom.xml" />
-      <jump line="39" column="10" filename="$USER_HOME$/Desktop/VznCount/src/main/java/ws/VznCountHandler.java" />
-      <jump line="122" column="0" filename="$USER_HOME$/Desktop/VznCount/src/main/java/ws/VznCountHandler.java" />
       <jump line="40" column="0" filename="$USER_HOME$/Desktop/VznCount/src/test/java/TestWrite.java" />
       <jump line="90" column="24" filename="$USER_HOME$/Desktop/VznCount/src/main/java/ws/VznCountHandler.java" />
       <jump line="135" column="0" filename="$USER_HOME$/Desktop/VznCount/src/main/java/ws/VznCountHandler.java" />
@@ -3428,13 +3423,18 @@
       <jump line="9" column="16" filename="$USER_HOME$/241/ideal_indirection/mmu.c" />
       <jump line="126" column="12" filename="$USER_HOME$/241/password_cracker/cracker1.c" />
       <jump line="190" column="0" filename="$USER_HOME$/241/password_cracker/cracker2.c" />
+      <jump line="109" column="0" filename="$USER_HOME$/241/password_cracker/cracker2.c" />
+      <jump line="173" column="0" filename="$USER_HOME$/241/password_cracker/cracker2.c" />
+      <jump line="164" column="4" filename="$USER_HOME$/241/password_cracker/cracker1.c" />
+      <jump line="171" column="15" filename="$USER_HOME$/241/password_cracker/cracker2.c" />
+      <jump line="11" column="7" filename="$USER_HOME$/241/password_cracker/cracker2.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IERPIE5PVCBjaGFuZ2UgdGhlIHJldHVybiBjb2RlIHNpbmNlIEFHIHVzZXMgaXQgdG8gY2hlY2sgaWYgeW91cg==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxET1w+</text>
@@ -3443,7 +3443,7 @@
         <text encoding="base64">CXZlY3Rvcl9yZXNpemUodmVjLCA0MCk7CglwcmludGYoInJlc2l6ZSB0byA0MDogIik7CglwcmludF9pbnRfdmVjKHZlYyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3452,28 +3452,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwdGhyZWFkX2JhcnJpZXJfd2FpdCgmYmFycmllcik7Cg==</text>
+        <text encoding="base64">CQloYXNoX2NvdW50ID0gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CS8vIHByb2dyYW0gZXhpdGVkIG5vcm1hbGx5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CS8vIFRPRE8geW91ciBjb2RlIGhlcmUsIG1ha2Ugc3VyZSB0byB1c2UgdGhyZWFkX2NvdW50IQoJLy8gUmVtZW1iZXIgdG8gT05MWSBjcmFjayBwYXNzd29yZHMgaW4gb3RoZXIgdGhyZWFkcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyBGSU5EIE5VTV9ET1RTCg==</text>
+        <text encoding="base64">CXJldHVybjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkvLyBXYWl0IGZvciBzdGFydCBzaWduYWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgIGludCAqbnVtX2hhc2g7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgIHNpemVfdCB0aHJlYWRfY291bnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -3486,7 +3486,7 @@
       <last-replace>this</last-replace>
       <last-substitute>vec</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
