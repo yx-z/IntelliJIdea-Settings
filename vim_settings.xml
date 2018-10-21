@@ -1640,6 +1640,13 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
+      <file name="$USER_HOME$/241/ideal_indirection/mmu.c" timestamp="1540164487559">
+        <mark key="'" line="82" column="10" />
+        <mark key="[" line="82" column="9" />
+        <mark key="]" line="79" column="10" />
+        <mark key="^" line="79" column="10" />
+        <mark key="." line="79" column="10" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/math/DNF.kt" timestamp="1524078344301">
         <mark key="[" line="22" column="48" />
         <mark key="]" line="22" column="49" />
@@ -3328,7 +3335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Desktop/VznCount/src/test/java/TestWrite.java" />
       <jump line="90" column="24" filename="$USER_HOME$/Desktop/VznCount/src/main/java/ws/VznCountHandler.java" />
       <jump line="135" column="0" filename="$USER_HOME$/Desktop/VznCount/src/main/java/ws/VznCountHandler.java" />
       <jump line="5" column="22" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/util/constant/ReceiveConst.java" />
@@ -3428,16 +3434,17 @@
       <jump line="164" column="4" filename="$USER_HOME$/241/password_cracker/cracker1.c" />
       <jump line="171" column="15" filename="$USER_HOME$/241/password_cracker/cracker2.c" />
       <jump line="11" column="7" filename="$USER_HOME$/241/password_cracker/cracker2.c" />
+      <jump line="82" column="10" filename="$USER_HOME$/241/ideal_indirection/mmu.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxET1w+</text>
+        <text>buff</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXZlY3Rvcl9yZXNpemUodmVjLCA0MCk7CglwcmludGYoInJlc2l6ZSB0byA0MDogIik7CglwcmludF9pbnRfdmVjKHZlYyk7Cg==</text>
@@ -3476,21 +3483,20 @@
         <text encoding="base64">ICAgIHNpemVfdCB0aHJlYWRfY291bnQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text encoding="base64">JzwsJz5zL2J1ZmYvdG1wX2J1ZmZlci9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxET1w+</last-search>
+      <last-search>buff</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxET1w+</last-pattern>
-      <last-replace>this</last-replace>
-      <last-substitute>vec</last-substitute>
+      <last-pattern>buff</last-pattern>
+      <last-replace>tmp_buffer</last-replace>
+      <last-substitute>buff</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>toList</entry>
         <entry>final</entry>
         <entry>toString</entry>
         <entry encoding="base64">KyA=</entry>
@@ -3510,9 +3516,9 @@
         <entry>this</entry>
         <entry>vec</entry>
         <entry encoding="base64">XDxET1w+</entry>
+        <entry>buff</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2luaXRpYWwvZGlyL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3Jhd0RiUm93L3Jhd0RhdGE=</entry>
         <entry encoding="base64">JzwsJz5zL3JlcXVpcmUvT2JqZWN0cy9yZXF1aXJlL2c=</entry>
@@ -3532,6 +3538,7 @@
         <entry encoding="base64">JzwsJz5zL3RoaXMvdmVjL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3ZlYy90aGlzL2c=</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zL2J1ZmYvdG1wX2J1ZmZlci9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
