@@ -2042,6 +2042,13 @@
         <mark key="^" line="18" column="56" />
         <mark key="." line="18" column="56" />
       </file>
+      <file name="$USER_HOME$/241/mapreduce/mapreduce.c" timestamp="1540437227315">
+        <mark key="'" line="175" column="0" />
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="29" />
+        <mark key="." line="17" column="29" />
+        <mark key="^" line="17" column="29" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/tree/TreeNode.kt" timestamp="1521760890931">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="18" />
@@ -3335,11 +3342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="24" filename="$USER_HOME$/Desktop/VznCount/src/main/java/ws/VznCountHandler.java" />
-      <jump line="135" column="0" filename="$USER_HOME$/Desktop/VznCount/src/main/java/ws/VznCountHandler.java" />
-      <jump line="5" column="22" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/util/constant/ReceiveConst.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/util/constant/ReceiveConst.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/ws/handler/QueryTriangulationHandler.java" />
       <jump line="54" column="9" filename="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5-sources.jar!/com/google/gson/JsonPrimitive.java" />
       <jump line="94" column="36" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/pom.xml" />
       <jump line="93" column="56" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/pom.xml" />
@@ -3435,13 +3437,18 @@
       <jump line="171" column="15" filename="$USER_HOME$/241/password_cracker/cracker2.c" />
       <jump line="11" column="7" filename="$USER_HOME$/241/password_cracker/cracker2.c" />
       <jump line="82" column="10" filename="$USER_HOME$/241/ideal_indirection/mmu.c" />
+      <jump line="119" column="0" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
+      <jump line="139" column="0" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
+      <jump line="90" column="0" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
+      <jump line="13" column="42" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
+      <jump line="161" column="0" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>buff</text>
@@ -3450,7 +3457,7 @@
         <text encoding="base64">CXZlY3Rvcl9yZXNpemUodmVjLCA0MCk7CglwcmludGYoInJlc2l6ZSB0byA0MDogIik7CglwcmludF9pbnRfdmVjKHZlYyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3462,25 +3469,25 @@
         <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQloYXNoX2NvdW50ID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIHByb2dyYW0gZXhpdGVkIG5vcm1hbGx5Cg==</text>
+        <text encoding="base64">cGlkX3Qgc3BsaXR0ZXJfYW5kX21hcHBlcihjb25zdCBjaGFyKiBmaWxlbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBjaGFyKiBudW1fbWFwcGVycywKICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgbWFwcGVyX2luZGV4LAogICAgICAgICAgICAgICAgICAgICAgICAgIGNoYXIqIG1hcHBlcl9leGVjLAogICAgICAgICAgICAgICAgICAgICAgICAgIGludCogbWFwcGVyX3BpcGVmZCkgewoJcGlwZShtYXBwZXJfcGlwZWZkKTsKCXBpZF90IHBpZCA9IGZvcmsoKTsKCQoJaWYgKHBpZCA8IDApIGV4aXQoMSk7CgllbHNlIGlmIChwaWQgPT0gMCkgewoJCQoJCWludCBzcGxpdHRlcl9waXBlZmRbMl07CgkJcGlwZShzcGxpdHRlcl9waXBlZmQpOwoJCXBpZF90IHNwbGl0dGVyX3BpZCA9IGZvcmsoKTsKCQlpZiAoc3BsaXR0ZXJfcGlkIDwgMCkgZXhpdCgxKTsKCQllbHNlIGlmIChzcGxpdHRlcl9waWQgPT0gMCkgewoJCQljbG9zZShzcGxpdHRlcl9waXBlZmRbMF0pOwoJCQlkdXAyKHNwbGl0dGVyX3BpcGVmZFsxXSwgU1RET1VUX0ZJTEVOTyk7CgkJCWNoYXIgbnVtX2luZGV4WzVdOwoJCQlzcHJpbnRmKG51bV9pbmRleCwgIiVkIiwgbWFwcGVyX2luZGV4KTsKCQkJZXhlY2woIi4vc3BsaXR0ZXIiLCAiLi9zcGxpdHRlciIsIGZpbGVuYW1lLCBudW1fbWFwcGVycywgbnVtX2luZGV4LAoJCQkgICAgICAoY2hhciopIE5VTEwpOwoJCX0KCQljbG9zZShzcGxpdHRlcl9waXBlZmRbMV0pOwoJCWludCBzdGF0dXM7CgkJaWYgKHdhaXRwaWQoc3BsaXR0ZXJfcGlkLCAmc3RhdHVzLCAwKSA9PSAtMSkgZXhpdCgxKTsKCQljbG9zZShzcGxpdHRlcl9waXBlZmRbMV0pOwoJCWlmIChzdGF0dXMgIT0gMCkgewoJCQlwcmludF9ub256ZXJvX2V4aXRfc3RhdHVzKCJzcGxpdHRlciIsIHN0YXR1cyk7CgkJCWNsb3NlKHNwbGl0dGVyX3BpcGVmZFswXSk7CgkJCWV4aXQoMSk7CgkJfQoJCQoJCWludCByZWFkX21hcHBlclsyXTsKCQlwaXBlKHJlYWRfbWFwcGVyKTsKCQkKCQlwaWRfdCBtYXBwZXJfcGlkID0gZm9yaygpOwoJCWlmIChtYXBwZXJfcGlkIDwgMCkgZXhpdCgxKTsKCQllbHNlIGlmIChtYXBwZXJfcGlkID09IDApIHsKCQkJY2xvc2UocmVhZF9tYXBwZXJbMF0pOwoJCQlkdXAyKHNwbGl0dGVyX3BpcGVmZFswXSwgU1RESU5fRklMRU5PKTsKCQkJZHVwMihyZWFkX21hcHBlclsxXSwgU1RET1VUX0ZJTEVOTyk7CgkJCWV4ZWNsKG1hcHBlcl9leGVjLCBtYXBwZXJfZXhlYywgKGNoYXIqKSBOVUxMKTsKCQl9CgkJY2xvc2UocmVhZF9tYXBwZXJbMV0pOwoJCQoJCWlmICh3YWl0cGlkKG1hcHBlcl9waWQsICZzdGF0dXMsIDApID09IC0xKSBleGl0KDEpOwoJCWlmIChzdGF0dXMgIT0gMCkgewoJCQlwcmludF9ub256ZXJvX2V4aXRfc3RhdHVzKG1hcHBlcl9leGVjLCBzdGF0dXMpOwoJCQljbG9zZShyZWFkX21hcHBlclswXSk7CgkJCWV4aXQoMSk7CgkJfQoJCWNoYXIgbWFwcGVyX2J1ZmZbMjAwXTsKCQlpbnQgcmMgPSAwOwoJCWludCBieXRlc193cml0dGVuID0gMDsKCQlpbnQgbiA9IDA7CgkJd2hpbGUgKChyYyA9IChpbnQpIHJlYWQocmVhZF9tYXBwZXJbMF0sIG1hcHBlcl9idWZmLCAxOTApKSA+IDApIHsKCQkJYnl0ZXNfd3JpdHRlbiA9IDA7CgkJCXdoaWxlIChieXRlc193cml0dGVuIDwgcmMpIHsKCQkJCW4gPSAoaW50KSB3cml0ZShtYXBwZXJfcGlwZWZkWzFdLCBtYXBwZXJfYnVmZiArIGJ5dGVzX3dyaXR0ZW4sCgkJCQkgICAgICAgICAgICAgICAgKHNpemVfdCkgKHJjIC0gYnl0ZXNfd3JpdHRlbikpOwoJCQkJYnl0ZXNfd3JpdHRlbiArPSBuOwoJCQl9CgkJfQoJCWV4aXQoMCk7CgkJCgl9CgljbG9zZShtYXBwZXJfcGlwZWZkWzFdKTsKCQoJcmV0dXJuIHBpZDsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIFRPRE8geW91ciBjb2RlIGhlcmUsIG1ha2Ugc3VyZSB0byB1c2UgdGhyZWFkX2NvdW50IQoJLy8gUmVtZW1iZXIgdG8gT05MWSBjcmFjayBwYXNzd29yZHMgaW4gb3RoZXIgdGhyZWFkcwo=</text>
+        <text encoding="base64">cGlkX3Qgc3BsaXR0ZXJfYW5kX21hcHBlcihjb25zdCBjaGFyKiBmaWxlbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zdCBjaGFyKiBudW1fbWFwcGVycywKICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgbWFwcGVyX2luZGV4LAogICAgICAgICAgICAgICAgICAgICAgICAgIGNoYXIqIG1hcHBlcl9leGVjLAogICAgICAgICAgICAgICAgICAgICAgICAgIGludCogbWFwcGVyX3BpcGVmZCk7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXJldHVybjsK</text>
+        <text encoding="base64">dm9pZCB1c2FnZSgpIHsKCXByaW50X3VzYWdlKCk7Cn0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyBXYWl0IGZvciBzdGFydCBzaWduYWwK</text>
+        <text encoding="base64">Lyogc2VsZiBkZWZpbmUgZnVuY3Rpb24gKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGludCAqbnVtX2hhc2g7Cg==</text>
+        <text encoding="base64">CQkvKiBwYXJlbnQgcHJvY2VzcyAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNpemVfdCB0aHJlYWRfY291bnQ7Cg==</text>
+        <text encoding="base64">CQkvKiBwYXJlbnQgcHJvY2VzcyAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2J1ZmYvdG1wX2J1ZmZlci9n</text>
@@ -3493,7 +3500,7 @@
       <last-replace>tmp_buffer</last-replace>
       <last-substitute>buff</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
