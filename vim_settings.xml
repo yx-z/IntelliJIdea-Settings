@@ -2049,12 +2049,11 @@
         <mark key="^" line="18" column="56" />
         <mark key="." line="18" column="56" />
       </file>
-      <file name="$USER_HOME$/241/mapreduce/mapreduce.c" timestamp="1540437227315">
-        <mark key="'" line="175" column="0" />
-        <mark key="[" line="17" column="37" />
-        <mark key="]" line="17" column="29" />
-        <mark key="." line="17" column="29" />
-        <mark key="^" line="17" column="29" />
+      <file name="$USER_HOME$/241/mapreduce/mapreduce.c" timestamp="1540536071482">
+        <mark key="'" line="1" column="18" />
+        <mark key="[" line="103" column="39" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/tree/TreeNode.kt" timestamp="1521760890931">
         <mark key="[" line="18" column="17" />
@@ -3349,8 +3348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Desktop/untitled/src/Test.kt" />
-      <jump line="42" column="46" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/ws/Config.java" />
       <jump line="214" column="31" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/cobbuilder/BaseCobBuilder.java" />
       <jump line="198" column="25" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/cobbuilder/BaseCobBuilder.java" />
       <jump line="11" column="0" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/cobbuilder/BaseCobBuilder.java" />
@@ -3449,10 +3446,12 @@
       <jump line="435" column="32" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="275" column="4" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="15" column="10" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="96" column="18" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
+      <jump line="1" column="18" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>// put all cycle nodes in cycle set and remove the cycle nodes</text>
@@ -3464,7 +3463,7 @@
         <text encoding="base64">dm9pZCBtYWtlKHNpemVfdCB0aHJlYWRfY291bnQsIGNoYXIqIHRhcmdldCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3473,28 +3472,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJcmV0ID0gZXhlY19zeXNfY21kKHJ1bGUtPmNvbW1hbmRzLCBydWxlKTsK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">ICAgIAkJCS8vaW50IGV4aXRfdmFsID0gV0VYSVRTVEFUVVMoc3RhdHVzX3ApOwogICAgCQkJLy9mcHJpbnRmKHN0ZGVyciwgImJhZCBudW0gPSAlZFxuIiwgZXhpdF92YWwpOwogICAgCQkJLy9pZiAoZXhpdF92YWwgIT0gMCkgcHJpbnRfbm9uemVyb19leGl0X3N0YXR1cyhhcmd2WzRdLCBleGl0X3ZhbCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCX0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgIAkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBub3QgYSBsZWFmIGNtZCwgcnVuIGRlcGVuZGVuY2llcwo=</text>
+        <text encoding="base64">CQkvL2ZwcmludGYoc3RkZXJyLCAiYmFkIG51bSA9ICVkXG4iLCBleGl0X3ApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvL2xlYWYgY21kCg==</text>
+        <text encoding="base64">ICAgIAoKICAgIC8vIENyZWF0ZSBhbiBpbnB1dCBwaXBlIGZvciBlYWNoIG1hcHBlci4KCQogICAgLy8gQ3JlYXRlIG9uZSBpbnB1dCBwaXBlIGZvciB0aGUgcmVkdWNlci4KCiAgICAvLyBPcGVuIHRoZSBvdXRwdXQgZmlsZS4KCiAgICAvLyBTdGFydCBhIHNwbGl0dGVyIHByb2Nlc3MgZm9yIGVhY2ggbWFwcGVyLgoKICAgIC8vIFN0YXJ0IGFsbCB0aGUgbWFwcGVyIHByb2Nlc3Nlcy4KCiAgICAvLyBTdGFydCB0aGUgcmVkdWNlciBwcm9jZXNzLgoKICAgIC8vIFdhaXQgZm9yIHRoZSByZWR1Y2VyIHRvIGZpbmlzaC4KCiAgICAvLyBQcmludCBub256ZXJvIHN1YnByb2Nlc3MgZXhpdCBjb2Rlcy4KCiAgICAvLyBDb3VudCB0aGUgbnVtYmVyIG9mIGxpbmVzIGluIHRoZSBvdXRwdXQgZmlsZS4KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vcHJpbnRmKCJydWxlIHN0YXRlIGlzICVkXG4iLCBydWxlLT5zdGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgIAkvL2ZwcmludGYoc3RkZXJyLCAibGluZXMgPSAlZFxuIiwgbGluZXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCS8vIGlmIGRlcGVuZCA8IGZhdGhlciwgY29udGludWUsIG5vdCBydW4K</text>
+        <text encoding="base64">ICAgCQkKICAgCQkKICAgCQkKICAgCQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyBub3QgYSBsZWFmIGZpbGUsIHJ1biBkZXBlbmRlbmNpZXMK</text>
+        <text encoding="base64">ICAgIAkvL2Nsb3NlKDEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3NodWp1L2RhdHVtL2c=</text>
