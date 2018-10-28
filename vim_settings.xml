@@ -1384,8 +1384,12 @@
         <mark key="." line="133" column="19" />
         <mark key="^" line="133" column="19" />
       </file>
-      <file name="$USER_HOME$/241/parallel_make/parmake.c" timestamp="1540707262327">
-        <mark key="[" line="28" column="11" />
+      <file name="$USER_HOME$/241/parallel_make/parmake.c" timestamp="1540708671797">
+        <mark key="'" line="5" column="17" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="26" column="3" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="39" />
       </file>
       <file name="$USER_HOME$/Desktop/VCount/src/test/java/TestException.java" timestamp="1528742134805">
         <mark key="[" line="12" column="34" />
@@ -3345,8 +3349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="15" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/response/cob/SchemaLevelIncludedCob.java" />
-      <jump line="70" column="0" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/daemon/DaemonMain.java" />
       <jump line="228" column="0" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/pom.xml" />
       <jump line="93" column="11" filename="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/pom.xml" />
       <jump line="1" column="53" filename="$USER_HOME$/Desktop/mocksherpa-kt/src/dao/Dao.kt" />
@@ -3445,22 +3447,24 @@
       <jump line="142" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="454" column="13" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="17" column="49" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="58" column="9" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="5" column="17" filename="$USER_HOME$/241/parallel_make/parmake.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CU5VTV9USFJFQURTID0gbnVtX3RocmVhZHM7Cg==</text>
+        <text encoding="base64">LyoqCiAqIEBwYXJhbSBtb2NrX3J1biBkZXBlbmRlbmN5IGdyYXBoIHRoYXQgaXMgbW9ja2VkIHRvIGJlIHJ1bgogKiBAcGFyYW0gdGFyZ2V0CiAqIEByZXR1cm4gdHJ1ZSBpZiB0aGUgZ3JhcGggY29udGFpbnMgTk8gY3ljbGVzLCBmYWxzZSBvdGhlcndpc2UKICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>UKNOWN</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>it</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ym9vbCBjaGVja19maWxlKGNoYXIqIGZpbGVfbmFtZSkgewo=</text>
+        <text encoding="base64">Ym9vbCBkZnMoZ3JhcGgqIG1vY2tfcnVuLCBjaGFyKiB0YXJnZXQpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CU5VTV9USFJFQURTID0gbnVtX3RocmVhZHM7Cg==</text>
+        <text encoding="base64">LyoqCiAqIEBwYXJhbSBtb2NrX3J1biBkZXBlbmRlbmN5IGdyYXBoIHRoYXQgaXMgbW9ja2VkIHRvIGJlIHJ1bgogKiBAcGFyYW0gdGFyZ2V0CiAqIEByZXR1cm4gdHJ1ZSBpZiB0aGUgZ3JhcGggY29udGFpbnMgTk8gY3ljbGVzLCBmYWxzZSBvdGhlcndpc2UKICovCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3469,28 +3473,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2l6ZV90IE5VTV9USFJFQURTOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">cHRocmVhZF9tdXRleF90IE1VVEVYID0gUFRIUkVBRF9NVVRFWF9JTklUSUFMSVpFUjsK</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2RlZmluZSBFWElUICgzKWRkCg==</text>
+        <text encoding="base64">CQkJfSBlbHNlIHsKCQkJCWN1cnItPnN0YXRlID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIGdvb2QgbHVjayEK</text>
+        <text encoding="base64">CU5VTV9USFJFQURTID0gbnVtX3RocmVhZHM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljaGFyKiBjdXJyID0gdmVjdG9yX2dldChjbWQsIGkpOwo=</text>
+        <text encoding="base64">c2l6ZV90IE5VTV9USFJFQURTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXNpemVfdCBjbWRfc2l6ZSA9IHZlY3Rvcl9zaXplKGNtZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljaGFyKiBjb21tYW5kID0gdmVjdG9yX2dldChjbWRzLCBpKTsK</text>
+        <text encoding="base64">cHRocmVhZF9tdXRleF90IE1VVEVYID0gUFRIUkVBRF9NVVRFWF9JTklUSUFMSVpFUjsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2l0L2tleS9n</text>
