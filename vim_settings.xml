@@ -1384,6 +1384,9 @@
         <mark key="." line="133" column="19" />
         <mark key="^" line="133" column="19" />
       </file>
+      <file name="$USER_HOME$/241/parallel_make/parmake.c" timestamp="1540707262327">
+        <mark key="[" line="28" column="11" />
+      </file>
       <file name="$USER_HOME$/Desktop/VCount/src/test/java/TestException.java" timestamp="1528742134805">
         <mark key="[" line="12" column="34" />
         <mark key="]" line="12" column="38" />
@@ -3395,7 +3398,6 @@
       <jump line="555" column="1" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="330" column="36" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="4" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="17" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="19" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="96" column="7" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="118" column="9" filename="$USER_HOME$/241/parallel_make/parmake.c" />
@@ -3442,13 +3444,14 @@
       <jump line="207" column="50" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="142" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="454" column="13" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="17" column="49" filename="$USER_HOME$/241/parallel_make/parmake.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQljaGFyKiBjdXJyID0gdmVjdG9yX2dldChjbWQsIGkpOwo=</text>
+        <text encoding="base64">CU5VTV9USFJFQURTID0gbnVtX3RocmVhZHM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>curr</text>
+        <text>UKNOWN</text>
       </register>
       <register name="/" type="4">
         <text>it</text>
@@ -3457,7 +3460,7 @@
         <text encoding="base64">Ym9vbCBjaGVja19maWxlKGNoYXIqIGZpbGVfbmFtZSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljaGFyKiBjdXJyID0gdmVjdG9yX2dldChjbWQsIGkpOwo=</text>
+        <text encoding="base64">CU5VTV9USFJFQURTID0gbnVtX3RocmVhZHM7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3466,28 +3469,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXNpemVfdCBjbWRfc2l6ZSA9IHZlY3Rvcl9zaXplKGNtZCk7Cg==</text>
+        <text encoding="base64">c2l6ZV90IE5VTV9USFJFQURTOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQljaGFyKiBjb21tYW5kID0gdmVjdG9yX2dldChjbWRzLCBpKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXNpemVfdCBjbWRfc2l6ZSA9IHZlY3Rvcl9zaXplKGNtZHMpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXNpemVfdCBudW1fbmVpZ2hib3JzID0gdmVjdG9yX3NpemUobmVpZ2hib3JzKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXNldCogY29udGFpbnM7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHRocmVhZF9tdXRleF90IE1VVEVYID0gUFRIUkVBRF9NVVRFWF9JTklUSUFMSVpFUjsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">I2RlZmluZSBFWElUICgzKWRkCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CS8vIGdvb2QgbHVjayEK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQljaGFyKiBjdXJyID0gdmVjdG9yX2dldChjbWQsIGkpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgp0eXBlZGVmIHN0cnVjdCAgewoJcXVldWUqIHE7CglzZXQqIGNvbnRhaW5zOwoJc2V0KiB0b19kbzsKfSBhcmc7Cg==</text>
+        <text encoding="base64">CXNpemVfdCBjbWRfc2l6ZSA9IHZlY3Rvcl9zaXplKGNtZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ym9vbCBpc19lbXB0eV9zdHJpbmcoY2hhciogYyk7Cgpib29sIGNoZWNrX2ZpbGUoY2hhciogZmlsZV9uYW1lKTsKCg==</text>
+        <text encoding="base64">CQljaGFyKiBjb21tYW5kID0gdmVjdG9yX2dldChjbWRzLCBpKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2l0L2tleS9n</text>
