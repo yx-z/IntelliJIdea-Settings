@@ -148,11 +148,10 @@
         <mark key="." line="49" column="10" />
         <mark key="^" line="49" column="10" />
       </file>
-      <file name="$USER_HOME$/241/charming_chatroom/server.c" timestamp="1541288901787">
-        <mark key="'" line="153" column="48" />
-        <mark key="[" line="81" column="74" />
-        <mark key="]" line="77" column="15" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/241/charming_chatroom/server.c" timestamp="1541290412981">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/vzncount/ws/aggregator/IAggregator.java" timestamp="1529087785745">
         <mark key="[" line="4" column="31" />
@@ -2340,9 +2339,10 @@
         <mark key="^" line="93" column="22" />
         <mark key="." line="93" column="22" />
       </file>
-      <file name="$USER_HOME$/241/charming_chatroom/client.c" timestamp="1541287825577">
-        <mark key="[" line="64" column="9" />
-        <mark key="." line="64" column="67" />
+      <file name="$USER_HOME$/241/charming_chatroom/client.c" timestamp="1541289692970">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/ItTraverse.kt" timestamp="1503541257958">
         <mark key="[" line="18" column="4" />
@@ -3366,10 +3366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="330" column="36" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="4" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="19" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="96" column="7" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="118" column="9" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="563" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="442" column="12" filename="$USER_HOME$/241/parallel_make/parmake.c" />
@@ -3466,13 +3462,17 @@
       <jump line="65" column="16" filename="$USER_HOME$/241/charming_chatroom/utils.c" />
       <jump line="146" column="48" filename="$USER_HOME$/241/charming_chatroom/server.c" />
       <jump line="68" column="26" filename="$USER_HOME$/241/charming_chatroom/client.c" />
+      <jump line="79" column="18" filename="$USER_HOME$/241/charming_chatroom/server.c" />
+      <jump line="101" column="21" filename="$USER_HOME$/241/charming_chatroom/server.c" />
+      <jump line="135" column="22" filename="$USER_HOME$/241/charming_chatroom/server.c" />
+      <jump line="97" column="28" filename="$USER_HOME$/241/charming_chatroom/server.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWludCBBUlJbMV07CglBUlJbMF0gPSAxOwo=</text>
+        <text encoding="base64">Ly8gICAgZnByaW50ZihzdGRlcnIsICIlZFxuIiwgc29ja19mZCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>rue</text>
       </register>
       <register name="/" type="4">
         <text>make</text>
@@ -3481,7 +3481,7 @@
         <text encoding="base64">CS8vIE1PRElGSUVECg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWludCBBUlJbMV07CglBUlJbMF0gPSAxOwo=</text>
+        <text encoding="base64">Ly8gICAgZnByaW50ZihzdGRlcnIsICIlZFxuIiwgc29ja19mZCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3490,28 +3490,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUFSUlswXSA9IDE7Cg==</text>
+        <text encoding="base64">CXN0cnVjdCBzb2NrYWRkcl9pbiBjbGllbnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWludCBzb2NrZXQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CWludCBmZDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">I2RlZmluZSBDT05OX0ZBSUwgKC0xKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQljbGllbnRfaWR4ID0gMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWlmIChjb25uZWN0KHNvY2ssIGluZm8tPmFpX2FkZHIsIGluZm8tPmFpX2FkZHJsZW4pID09IENPTk5fRkFJTCkgewoJCXBlcnJvcihOVUxMKTsKCQlleGl0KEVYSVRfRkFJTCk7Cgl9CgkKCXJldHVybiBzb2NrOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWNsaWVudHNDb3VudCA9IDA7Cglmb3IgKGludCBpID0gMDsgaSA8IE1BWF9DTElFTlRTOyBpKyspCgkJY2xpZW50c1tpXSA9IC0xOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3BhcnMvc3VjY2Vzc29ycy9n</text>
