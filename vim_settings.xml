@@ -148,10 +148,11 @@
         <mark key="." line="49" column="10" />
         <mark key="^" line="49" column="10" />
       </file>
-      <file name="$USER_HOME$/241/charming_chatroom/server.c" timestamp="1541290412981">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/241/charming_chatroom/server.c" timestamp="1541291364565">
+        <mark key="'" line="132" column="22" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/vzncount/ws/aggregator/IAggregator.java" timestamp="1529087785745">
         <mark key="[" line="4" column="31" />
@@ -3366,7 +3367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="9" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="563" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="442" column="12" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="124" column="14" filename="$USER_HOME$/241/parallel_make/parmake.c" />
@@ -3464,24 +3464,25 @@
       <jump line="68" column="26" filename="$USER_HOME$/241/charming_chatroom/client.c" />
       <jump line="79" column="18" filename="$USER_HOME$/241/charming_chatroom/server.c" />
       <jump line="101" column="21" filename="$USER_HOME$/241/charming_chatroom/server.c" />
-      <jump line="135" column="22" filename="$USER_HOME$/241/charming_chatroom/server.c" />
       <jump line="97" column="28" filename="$USER_HOME$/241/charming_chatroom/server.c" />
+      <jump line="95" column="8" filename="$USER_HOME$/241/charming_chatroom/server.c" />
+      <jump line="135" column="22" filename="$USER_HOME$/241/charming_chatroom/server.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgZnByaW50ZihzdGRlcnIsICIlZFxuIiwgc29ja19mZCk7Cg==</text>
+        <text encoding="base64">c3RhdGljIGludHB0cl90IGNsaWVudF9pZHggPSAwOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>rue</text>
+        <text>OUT</text>
       </register>
       <register name="/" type="4">
-        <text>make</text>
+        <text>addr_info</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CS8vIE1PRElGSUVECg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgZnByaW50ZihzdGRlcnIsICIlZFxuIiwgc29ja19mZCk7Cg==</text>
+        <text encoding="base64">c3RhdGljIGludHB0cl90IGNsaWVudF9pZHggPSAwOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3490,45 +3491,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXN0cnVjdCBzb2NrYWRkcl9pbiBjbGllbnQ7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CWludCBzb2NrZXQ7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWludCBmZDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">I2RlZmluZSBDT05OX0ZBSUwgKC0xKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQljbGllbnRfaWR4ID0gMDsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CWludCBvcHRpb24gPSAxOwoJaW50IHNlcnZlcl9zb2NrZXRfZmQgPSBzb2NrZXQoQUZfSU5FVCwgU09DS19TVFJFQU0sIDApOwoJaW50IHNvY2tvcHQgPSBzZXRzb2Nrb3B0KHNlcnZlcl9zb2NrZXRfZmQsCgkgICAgICAgICAgICAgICAgICAgICAgICAgU09MX1NPQ0tFVCwKCSAgICAgICAgICAgICAgICAgICAgICAgICBTT19SRVVTRUFERFIsCgkgICAgICAgICAgICAgICAgICAgICAgICAgKGNvbnN0IHZvaWQqKSBvcHRpb24sCgkgICAgICAgICAgICAgICAgICAgICAgICAgc2l6ZW9mKGludCkpOwoJaWYgKHNvY2tvcHQgIT0gQ09OTl9TVUNDRVNTKSB7CgkJcGVycm9yKGdhaV9zdHJlcnJvcihzb2Nrb3B0KSk7CgkJZXhpdChFWElUX0ZBSUwpOwoJfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlmcHJpbnRmKHN0ZG91dCwgImNsaWVudCBhcnJpdmUgaWQ6ICVkXG4iLCBjbGllbnRfZmQpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlmcHJpbnRmKHN0ZG91dCwgIldhaXRpbmcgZm9yIGNvbm5lY3Rpb24uLi5cbiIpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNsaWVudHNDb3VudCA9IDA7Cglmb3IgKGludCBpID0gMDsgaSA8IE1BWF9DTElFTlRTOyBpKyspCgkJY2xpZW50c1tpXSA9IC0xOwo=</text>
+        <text encoding="base64">CQljbGllbnRzQ291bnQrKzsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3BhcnMvc3VjY2Vzc29ycy9n</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>make</last-search>
+      <last-search>addr_info</last-search>
       <last-offset />
-      <last-pattern>make</last-pattern>
-      <last-replace>successors</last-replace>
-      <last-substitute>pars</last-substitute>
+      <last-pattern>addr_info</last-pattern>
+      <last-replace>sockopt</last-replace>
+      <last-substitute>addr_info</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>;</entry>
         <entry>metadataList</entry>
         <entry>metrics</entry>
         <entry>getKey</entry>
@@ -3548,9 +3548,9 @@
         <entry>it</entry>
         <entry>pars</entry>
         <entry>make</entry>
+        <entry>addr_info</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3RvTGlzdCgpL0NvbGxlY3RvcnMudG9MaXN0KCkvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2NvYlJlcXVlc3QvY29uc3VtZWRSZXN1bHQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHJpdmF0ZSBmaW5hbC9n</entry>
@@ -3564,12 +3564,13 @@
         <entry encoding="base64">JzwsJz5zL3J0bl92dHIvdmVjL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMvdmVjL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3ZlYy90aGlzL2c=</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL2J1ZmYvdG1wX2J1ZmZlci9n</entry>
         <entry encoding="base64">JzwsJz5zL2luZGV4L2lkeC9n</entry>
         <entry encoding="base64">JzwsJz5zL3NodWp1L2RhdHVtL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2l0L2tleS9n</entry>
         <entry encoding="base64">JzwsJz5zL3BhcnMvc3VjY2Vzc29ycy9n</entry>
+        <entry encoding="base64">JzwsJz5zL2FkZHJfaW5mby9zb2Nrb3B0L2c=</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
