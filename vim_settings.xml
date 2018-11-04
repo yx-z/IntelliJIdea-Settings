@@ -1390,12 +1390,12 @@
         <mark key="." line="133" column="19" />
         <mark key="^" line="133" column="19" />
       </file>
-      <file name="$USER_HOME$/241/parallel_make/parmake.c" timestamp="1541297824098">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="133" column="24" />
-        <mark key="]" line="133" column="11" />
-        <mark key="^" line="133" column="11" />
-        <mark key="." line="133" column="11" />
+      <file name="$USER_HOME$/241/parallel_make/parmake.c" timestamp="1541304074265">
+        <mark key="'" line="19" column="21" />
+        <mark key="[" line="263" column="23" />
+        <mark key="]" line="200" column="12" />
+        <mark key="." line="200" column="12" />
+        <mark key="^" line="200" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/VCount/src/test/java/TestException.java" timestamp="1528742134805">
         <mark key="[" line="12" column="34" />
@@ -3367,14 +3367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="441" column="20" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="435" column="32" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="275" column="4" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="15" column="10" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="96" column="18" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
-      <jump line="1" column="18" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
-      <jump line="11" column="18" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
-      <jump line="139" column="8" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
       <jump line="164" column="14" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
       <jump line="16" column="23" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
       <jump line="91" column="0" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
@@ -3411,7 +3403,6 @@
       <jump line="37" column="13" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="40" column="43" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="523" column="4" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="0" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="89" column="3" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="338" column="28" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="376" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
@@ -3467,22 +3458,31 @@
       <jump line="396" column="21" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="371" column="22" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="22" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="123" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="279" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="187" column="12" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="191" column="8" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="256" column="41" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="121" column="42" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="34" column="17" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="19" column="21" filename="$USER_HOME$/241/parallel_make/parmake.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW50IHN0YXJ0ZWQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>target</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>addr_info</text>
+        <text>graph_get_vertex_value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dm9pZCogcnVuX3BhcmFsbGVsKHZvaWQqIGlnbm9yZWQpIHsK</text>
+        <text encoding="base64">CQlpbnQgaXNfZmlsZSA9IGFjY2VzcyhydWxlX2NtZC0+dGFyZ2V0LCBGX09LKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW50IHN0YXJ0ZWQ7Cg==</text>
+        <text encoding="base64">CQkJc3RhdF90IHRpbWUyOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3491,45 +3491,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWlmIChmYWlsZWQpIHsKCQljdXJyX3J1bGUtPnN0YXRlID0gLTE7CgkJdmVjdG9yX2Rlc3Ryb3koZGVwX3J1bGVzKTsKCQlyZXR1cm4gLTE7Cgl9Cg==</text>
+        <text encoding="base64">CQkJaWYgKGRpZmZ0aW1lKGN1cnJfdGltZS5zdF9tdGltZSwgbmVpZ2hib3JfdGltZS5zdF9tdGltZSkgPCAwKSB7CgkJCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWJyZWFrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmdyYXBoKiBkZXBlbmRlbmN5OwpzZXQqIHZpc2l0ZWQ7CnNldCogdGFza3M7CnZlY3RvciogdGFyZ2V0X3ZlYzsKaW50IHN0YXJ0ZWQ7CnB0aHJlYWRfbXV0ZXhfdCBtOwpwdGhyZWFkX2NvbmRfdCBjdjsKCg==</text>
+        <text encoding="base64">CQkJCXNob3VsZF9ydW4gPSB0cnVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmJvb2wgbmV3ZXIoY2hhciogZmlsZTEsIGNoYXIqIGZpbGUyKSB7CgkKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8qKgogKiB0cnVlIGlmIAogKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ym9vbCBuZXdlcihjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIGdvb2QgbHVjayEK</text>
+        <text encoding="base64">Ym9vbCBuZXdlcihjaGFyKiBmaWxlMSwgY2hhciogZmlsZTIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text encoding="base64">JzwsJz5zL2dyYXBoX2dldF92ZXJ0ZXhfdmFsdWUvZ2V0X3ZlcnRleC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>addr_info</last-search>
+      <last-search>graph_get_vertex_value</last-search>
       <last-offset />
-      <last-pattern>addr_info</last-pattern>
-      <last-replace>sockopt</last-replace>
-      <last-substitute>addr_info</last-substitute>
+      <last-pattern>graph_get_vertex_value</last-pattern>
+      <last-replace>get_vertex</last-replace>
+      <last-substitute>graph_get_vertex_value</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>metadataList</entry>
         <entry>metrics</entry>
         <entry>getKey</entry>
         <entry>kotlin</entry>
@@ -3549,9 +3548,9 @@
         <entry>pars</entry>
         <entry>make</entry>
         <entry>addr_info</entry>
+        <entry>graph_get_vertex_value</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NvYlJlcXVlc3QvY29uc3VtZWRSZXN1bHQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHJpdmF0ZSBmaW5hbC9n</entry>
         <entry encoding="base64">JzwsJz5zL0tFWS9DT0wvZw==</entry>
@@ -3571,6 +3570,7 @@
         <entry encoding="base64">JzwsJz5zL3BhcnMvc3VjY2Vzc29ycy9n</entry>
         <entry encoding="base64">JzwsJz5zL2FkZHJfaW5mby9zb2Nrb3B0L2c=</entry>
         <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zL2dyYXBoX2dldF92ZXJ0ZXhfdmFsdWUvZ2V0X3ZlcnRleC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
