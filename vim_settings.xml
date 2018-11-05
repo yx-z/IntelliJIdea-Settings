@@ -1390,12 +1390,11 @@
         <mark key="." line="133" column="19" />
         <mark key="^" line="133" column="19" />
       </file>
-      <file name="$USER_HOME$/241/parallel_make/parmake.c" timestamp="1541385521708">
-        <mark key="'" line="27" column="33" />
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
-        <mark key="." line="227" column="0" />
-        <mark key="^" line="226" column="46" />
+      <file name="$USER_HOME$/241/parallel_make/parmake.c" timestamp="1541386555635">
+        <mark key="[" line="142" column="41" />
+        <mark key="]" line="142" column="40" />
+        <mark key="^" line="142" column="40" />
+        <mark key="." line="142" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/VCount/src/test/java/TestException.java" timestamp="1528742134805">
         <mark key="[" line="12" column="34" />
@@ -3367,11 +3366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="129" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="92" column="23" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="76" column="115" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="475" column="23" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="463" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="35" column="3" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="451" column="4" filename="$USER_HOME$/241/parallel_make/parmake.c" />
@@ -3380,7 +3374,6 @@
       <jump line="424" column="4" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="387" column="16" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="25" column="25" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="128" column="33" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="362" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="155" column="16" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="252" column="47" filename="$USER_HOME$/241/parallel_make/parmake.c" />
@@ -3467,10 +3460,16 @@
       <jump line="125" column="17" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="134" column="24" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="26" column="33" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="118" column="19" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="28" column="34" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="128" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="117" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="60" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="206" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlpZiAoZmFpbCkgewoJCQljbWRfcnVsZS0+c3RhdGUgPSBGQUlMOwoJCX0gZWxzZSB7CgkJCWNtZF9ydWxlLT5zdGF0ZSA9IERPTkU7CgkJfQo=</text>
+      <register name="&quot;" type="4">
+        <text>target</text>
       </register>
       <register name="-" type="4">
         <text>target</text>
@@ -3479,10 +3478,10 @@
         <text>graph_get_vertex_value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dm9pZCogcnVuX3BhcmFsbGVsKHZvaWQqIGlnbm9yZWQpIHsK</text>
+        <text encoding="base64">dm9pZCB1cGRhdGVfbmVpZ2hib3IoY2hhciogdGFyZ2V0KSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpZiAoZmFpbCkgewoJCQljbWRfcnVsZS0+c3RhdGUgPSBGQUlMOwoJCX0gZWxzZSB7CgkJCWNtZF9ydWxlLT5zdGF0ZSA9IERPTkU7CgkJfQo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3491,28 +3490,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ym9vbCBTVEFSVEVEOwo=</text>
+        <text encoding="base64">CQljaGFyKiBjbWQgPSBOVUxMOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ym9vbCBTVEFSVEVEOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChjaGFyKikgdmVjdG9yX2dldCgKCQkJCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmVpZ2hib3JzLAoJCQkJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CXNldF9hZGQoVE9ET19TRVQsIHRhcmdldCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CX0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CmludCBleGVjX3RhcmdldChjaGFyKiB0YXJnZXQpIHsKCXJ1bGVfdCogcnVsZSA9IGdyYXBoX2dldF92ZXJ0ZXhfdmFsdWUoREVQLCB0YXJnZXQpOwoJaWYgKHJ1bGUtPnN0YXRlICE9IFRPRE8pIHJldHVybiBydWxlLT5zdGF0ZTsKCXZlY3RvciogbmVpZ2hib3JzID0gZ3JhcGhfbmVpZ2hib3JzKERFUCwgdGFyZ2V0KTsKCWJvb2wgZmFpbGVkID0gZmFsc2U7Cglmb3IgKHNpemVfdCBpID0gMDsgaSA8IHZlY3Rvcl9zaXplKG5laWdoYm9ycyk7IGkrKykgewoJCWNoYXIqIG5laWdoYm9yID0gdmVjdG9yX2dldChuZWlnaGJvcnMsIGkpOwoJCXJ1bGVfdCogdGVtcF9ydWxlID0gKHJ1bGVfdCopIGdyYXBoX2dldF92ZXJ0ZXhfdmFsdWUoREVQLCBuZWlnaGJvcik7CgkJaWYgKGV4ZWNfdGFyZ2V0KHRlbXBfcnVsZS0+dGFyZ2V0KSA9PSBGQUlMKSBmYWlsZWQgPSB0cnVlOwoJfQoJaWYgKGZhaWxlZCkgewoJCXJ1bGUtPnN0YXRlID0gRkFJTDsKCQl2ZWN0b3JfZGVzdHJveShuZWlnaGJvcnMpOwoJCXJldHVybiBGQUlMOwoJfQoJCglpbnQgaXNfZmlsZSA9IGFjY2VzcyhydWxlLT50YXJnZXQsIEZfT0spOwoJYm9vbCBzaG91bGRfcnVuID0gZmFsc2U7CglpZiAoaXNfZmlsZSAhPSAtMSkgewoJCXN0cnVjdCBzdGF0IHRpbWUxOwoJCXN0cnVjdCBzdGF0IHRpbWUyOwoJCXN0YXQocnVsZS0+dGFyZ2V0LCAmdGltZTEpOwoJCWZvciAoc2l6ZV90IGkgPSAwOyBpIDwgdmVjdG9yX3NpemUobmVpZ2hib3JzKTsgaSsrKSB7CgkJCWNoYXIqIGN1cnJfcnVsZV9kZXAgPSB2ZWN0b3JfZ2V0KG5laWdoYm9ycywgaSk7CgkJCWlmIChhY2Nlc3MoY3Vycl9ydWxlX2RlcCwgRl9PSykgPT0gLTEpIHsKCQkJCXNob3VsZF9ydW4gPSB0cnVlOwoJCQkJYnJlYWs7CgkJCX0KCQkJc3RhdChjdXJyX3J1bGVfZGVwLCAmdGltZTIpOwoJCQlpZiAoZGlmZnRpbWUodGltZTEuc3RfbXRpbWUsIHRpbWUyLnN0X210aW1lKSA8IDApIHsKCQkJCXNob3VsZF9ydW4gPSB0cnVlOwoJCQkJYnJlYWs7CgkJCX0KCQl9CgkJaWYgKCFzaG91bGRfcnVuKSB7CgkJCXJ1bGUtPnN0YXRlID0gRE9ORTsKCQkJdmVjdG9yX2Rlc3Ryb3kobmVpZ2hib3JzKTsKCQkJcmV0dXJuIERPTkU7CgkJfQoJfQoJdmVjdG9yKiBjb21tYW5kcyA9IHJ1bGUtPmNvbW1hbmRzOwoJZm9yIChzaXplX3QgaSA9IDA7IGkgPCB2ZWN0b3Jfc2l6ZShjb21tYW5kcyk7IGkrKykgewoJCWlmIChzeXN0ZW0odmVjdG9yX2dldChjb21tYW5kcywgaSkpICE9IDApIHsKCQkJcnVsZS0+c3RhdGUgPSBGQUlMOwoJCQl2ZWN0b3JfZGVzdHJveShuZWlnaGJvcnMpOwoJCQlyZXR1cm4gRkFJTDsKCQl9Cgl9CglpZiAoZmFpbGVkKSB7CgkJcnVsZS0+c3RhdGUgPSBGQUlMOwoJCXZlY3Rvcl9kZXN0cm95KG5laWdoYm9ycyk7CgkJcmV0dXJuIEZBSUw7Cgl9CglydWxlLT5zdGF0ZSA9IERPTkU7Cgl2ZWN0b3JfZGVzdHJveShuZWlnaGJvcnMpOwoJcmV0dXJuIERPTkU7Cn0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW50IHBhcm1ha2UoY2hhciogbWFrZWZpbGUsIHNpemVfdCBudW1fdGhyZWFkcywgY2hhcioqIHRhcmdldHMpIHsKCURFUCA9IHBhcnNlcl9wYXJzZV9tYWtlZmlsZShtYWtlZmlsZSwgdGFyZ2V0cyk7Cgl2ZWN0b3IqIHRhcmdldF9kZXAgPSBncmFwaF9uZWlnaGJvcnMoREVQLCAiIik7Cglmb3IgKHNpemVfdCBpID0gMDsgaSA8IHZlY3Rvcl9zaXplKHRhcmdldF9kZXApOyBpKyspIHsKCQlWSVNJVEVEID0gc3RyaW5nX3NldF9jcmVhdGUoKTsKCQlUT0RPX1NFVCA9IHN0cmluZ19zZXRfY3JlYXRlKCk7CgkJY2hhciogdGFyZ2V0ID0gKGNoYXIqKSB2ZWN0b3JfZ2V0KHRhcmdldF9kZXAsIGkpOwoJCWlmIChjb250YWluc19jeWNsZSh0YXJnZXQpKSB7CgkJCXByaW50X2N5Y2xlX2ZhaWx1cmUodGFyZ2V0KTsKCQl9IGVsc2UgewoJCQlpZiAobnVtX3RocmVhZHMgPT0gMSkgewoJCQkJZXhlY190YXJnZXQodGFyZ2V0KTsKCQkJfSBlbHNlIHsKCQkJCXB0aHJlYWRfbXV0ZXhfaW5pdCgmTVVURVgsIE5VTEwpOwoJCQkJcHRocmVhZF9jb25kX2luaXQoJkNPTkRfVkFSLCBOVUxMKTsKCQkJCVRBUkdFVF9WRUMgPSBzZXRfZWxlbWVudHMoVE9ET19TRVQpOwoJCQkJcHRocmVhZF90IHBpZHNbbnVtX3RocmVhZHNdOwoJCQkJZm9yIChzaXplX3QgcGlkID0gMDsgcGlkIDwgbnVtX3RocmVhZHM7IHBpZCsrKSB7CgkJCQkJcGlkc1twaWRdID0gKHB0aHJlYWRfdCkgcGlkOwoJCQkJCXB0aHJlYWRfY3JlYXRlKHBpZHMgKyBwaWQsIE5VTEwsIHJ1bl9wYXJhbGxlbCwgKHZvaWQqKSBwaWQpOwoJCQkJfQoJCQkJdm9pZCogcmVzdWx0W251bV90aHJlYWRzXTsKCQkJCWZvciAoc2l6ZV90IHBpZCA9IDA7IHBpZCA8IG51bV90aHJlYWRzOyBwaWQrKykKCQkJCQlwdGhyZWFkX2pvaW4ocGlkc1twaWRdLCByZXN1bHQgKyBwaWQpOwoJCQkJdmVjdG9yX2Rlc3Ryb3koVEFSR0VUX1ZFQyk7CgkJCQlwdGhyZWFkX211dGV4X2Rlc3Ryb3koJk1VVEVYKTsKCQkJCXB0aHJlYWRfY29uZF9kZXN0cm95KCZDT05EX1ZBUik7CgkJCX0KCQl9CgkJc2V0X2Rlc3Ryb3koVklTSVRFRCk7CgkJc2V0X2Rlc3Ryb3koVE9ET19TRVQpOwoJfQoJZ3JhcGhfZGVzdHJveShERVApOwoJdmVjdG9yX2Rlc3Ryb3kodGFyZ2V0X2RlcCk7CglyZXR1cm4gMDsKfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ym9vbCBjb250YWluc19jeWNsZShjaGFyKiB0YXJnZXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInNldC5oIgo=</text>
+        <text encoding="base64">dm9pZCB1cGRhdGVfbmVpZ2hib3IoY2hhciogdGFyZ2V0KSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2dyYXBoX2dldF92ZXJ0ZXhfdmFsdWUvZ2V0X3ZlcnRleC9n</text>
