@@ -148,11 +148,11 @@
         <mark key="." line="49" column="10" />
         <mark key="^" line="49" column="10" />
       </file>
-      <file name="$USER_HOME$/241/charming_chatroom/server.c" timestamp="1541291364565">
-        <mark key="'" line="132" column="22" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/241/charming_chatroom/server.c" timestamp="1541430332209">
+        <mark key="[" line="145" column="14" />
+        <mark key="]" line="156" column="22" />
+        <mark key="." line="156" column="22" />
+        <mark key="^" line="156" column="22" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/vzncount/ws/aggregator/IAggregator.java" timestamp="1529087785745">
         <mark key="[" line="4" column="31" />
@@ -2339,10 +2339,11 @@
         <mark key="^" line="93" column="22" />
         <mark key="." line="93" column="22" />
       </file>
-      <file name="$USER_HOME$/241/charming_chatroom/client.c" timestamp="1541289692970">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/241/charming_chatroom/client.c" timestamp="1541429856433">
+        <mark key="[" line="58" column="16" />
+        <mark key="]" line="57" column="19" />
+        <mark key="." line="57" column="19" />
+        <mark key="^" line="57" column="19" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/tree/ItTraverse.kt" timestamp="1503541257958">
         <mark key="[" line="18" column="4" />
@@ -2755,12 +2756,11 @@
         <mark key="." line="28" column="35" />
         <mark key="^" line="28" column="35" />
       </file>
-      <file name="$USER_HOME$/241/charming_chatroom/utils.c" timestamp="1541286650546">
-        <mark key="'" line="65" column="16" />
-        <mark key="[" line="78" column="23" />
-        <mark key="]" line="78" column="23" />
-        <mark key="." line="78" column="23" />
-        <mark key="^" line="83" column="8" />
+      <file name="$USER_HOME$/241/charming_chatroom/utils.c" timestamp="1541430409138">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="54" column="23" />
+        <mark key="." line="54" column="23" />
+        <mark key="^" line="54" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/dao/IDao.java" timestamp="1533669138553">
         <mark key="'" line="96" column="37" />
@@ -3468,11 +3468,11 @@
       <jump line="206" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>target</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlwdGhyZWFkX3QgdGlkOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>target</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>graph_get_vertex_value</text>
@@ -3481,7 +3481,7 @@
         <text encoding="base64">dm9pZCB1cGRhdGVfbmVpZ2hib3IoY2hhciogdGFyZ2V0KSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQlwdGhyZWFkX3QgdGlkOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3490,28 +3490,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljaGFyKiBjbWQgPSBOVUxMOwo=</text>
+        <text encoding="base64">CXNlcnZlclNvY2tldCA9IHNlcnZlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJfQoJCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWFkZHJfaW5mb190KiByZXN1bHQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmludCBleGVjX3RhcmdldChjaGFyKiB0YXJnZXQpIHsKCXJ1bGVfdCogcnVsZSA9IGdyYXBoX2dldF92ZXJ0ZXhfdmFsdWUoREVQLCB0YXJnZXQpOwoJaWYgKHJ1bGUtPnN0YXRlICE9IFRPRE8pIHJldHVybiBydWxlLT5zdGF0ZTsKCXZlY3RvciogbmVpZ2hib3JzID0gZ3JhcGhfbmVpZ2hib3JzKERFUCwgdGFyZ2V0KTsKCWJvb2wgZmFpbGVkID0gZmFsc2U7Cglmb3IgKHNpemVfdCBpID0gMDsgaSA8IHZlY3Rvcl9zaXplKG5laWdoYm9ycyk7IGkrKykgewoJCWNoYXIqIG5laWdoYm9yID0gdmVjdG9yX2dldChuZWlnaGJvcnMsIGkpOwoJCXJ1bGVfdCogdGVtcF9ydWxlID0gKHJ1bGVfdCopIGdyYXBoX2dldF92ZXJ0ZXhfdmFsdWUoREVQLCBuZWlnaGJvcik7CgkJaWYgKGV4ZWNfdGFyZ2V0KHRlbXBfcnVsZS0+dGFyZ2V0KSA9PSBGQUlMKSBmYWlsZWQgPSB0cnVlOwoJfQoJaWYgKGZhaWxlZCkgewoJCXJ1bGUtPnN0YXRlID0gRkFJTDsKCQl2ZWN0b3JfZGVzdHJveShuZWlnaGJvcnMpOwoJCXJldHVybiBGQUlMOwoJfQoJCglpbnQgaXNfZmlsZSA9IGFjY2VzcyhydWxlLT50YXJnZXQsIEZfT0spOwoJYm9vbCBzaG91bGRfcnVuID0gZmFsc2U7CglpZiAoaXNfZmlsZSAhPSAtMSkgewoJCXN0cnVjdCBzdGF0IHRpbWUxOwoJCXN0cnVjdCBzdGF0IHRpbWUyOwoJCXN0YXQocnVsZS0+dGFyZ2V0LCAmdGltZTEpOwoJCWZvciAoc2l6ZV90IGkgPSAwOyBpIDwgdmVjdG9yX3NpemUobmVpZ2hib3JzKTsgaSsrKSB7CgkJCWNoYXIqIGN1cnJfcnVsZV9kZXAgPSB2ZWN0b3JfZ2V0KG5laWdoYm9ycywgaSk7CgkJCWlmIChhY2Nlc3MoY3Vycl9ydWxlX2RlcCwgRl9PSykgPT0gLTEpIHsKCQkJCXNob3VsZF9ydW4gPSB0cnVlOwoJCQkJYnJlYWs7CgkJCX0KCQkJc3RhdChjdXJyX3J1bGVfZGVwLCAmdGltZTIpOwoJCQlpZiAoZGlmZnRpbWUodGltZTEuc3RfbXRpbWUsIHRpbWUyLnN0X210aW1lKSA8IDApIHsKCQkJCXNob3VsZF9ydW4gPSB0cnVlOwoJCQkJYnJlYWs7CgkJCX0KCQl9CgkJaWYgKCFzaG91bGRfcnVuKSB7CgkJCXJ1bGUtPnN0YXRlID0gRE9ORTsKCQkJdmVjdG9yX2Rlc3Ryb3kobmVpZ2hib3JzKTsKCQkJcmV0dXJuIERPTkU7CgkJfQoJfQoJdmVjdG9yKiBjb21tYW5kcyA9IHJ1bGUtPmNvbW1hbmRzOwoJZm9yIChzaXplX3QgaSA9IDA7IGkgPCB2ZWN0b3Jfc2l6ZShjb21tYW5kcyk7IGkrKykgewoJCWlmIChzeXN0ZW0odmVjdG9yX2dldChjb21tYW5kcywgaSkpICE9IDApIHsKCQkJcnVsZS0+c3RhdGUgPSBGQUlMOwoJCQl2ZWN0b3JfZGVzdHJveShuZWlnaGJvcnMpOwoJCQlyZXR1cm4gRkFJTDsKCQl9Cgl9CglpZiAoZmFpbGVkKSB7CgkJcnVsZS0+c3RhdGUgPSBGQUlMOwoJCXZlY3Rvcl9kZXN0cm95KG5laWdoYm9ycyk7CgkJcmV0dXJuIEZBSUw7Cgl9CglydWxlLT5zdGF0ZSA9IERPTkU7Cgl2ZWN0b3JfZGVzdHJveShuZWlnaGJvcnMpOwoJcmV0dXJuIERPTkU7Cn0K</text>
+        <text encoding="base64">c3RhdGljIGFkZHJfaW5mb190KiBpbmZvOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW50IHBhcm1ha2UoY2hhciogbWFrZWZpbGUsIHNpemVfdCBudW1fdGhyZWFkcywgY2hhcioqIHRhcmdldHMpIHsKCURFUCA9IHBhcnNlcl9wYXJzZV9tYWtlZmlsZShtYWtlZmlsZSwgdGFyZ2V0cyk7Cgl2ZWN0b3IqIHRhcmdldF9kZXAgPSBncmFwaF9uZWlnaGJvcnMoREVQLCAiIik7Cglmb3IgKHNpemVfdCBpID0gMDsgaSA8IHZlY3Rvcl9zaXplKHRhcmdldF9kZXApOyBpKyspIHsKCQlWSVNJVEVEID0gc3RyaW5nX3NldF9jcmVhdGUoKTsKCQlUT0RPX1NFVCA9IHN0cmluZ19zZXRfY3JlYXRlKCk7CgkJY2hhciogdGFyZ2V0ID0gKGNoYXIqKSB2ZWN0b3JfZ2V0KHRhcmdldF9kZXAsIGkpOwoJCWlmIChjb250YWluc19jeWNsZSh0YXJnZXQpKSB7CgkJCXByaW50X2N5Y2xlX2ZhaWx1cmUodGFyZ2V0KTsKCQl9IGVsc2UgewoJCQlpZiAobnVtX3RocmVhZHMgPT0gMSkgewoJCQkJZXhlY190YXJnZXQodGFyZ2V0KTsKCQkJfSBlbHNlIHsKCQkJCXB0aHJlYWRfbXV0ZXhfaW5pdCgmTVVURVgsIE5VTEwpOwoJCQkJcHRocmVhZF9jb25kX2luaXQoJkNPTkRfVkFSLCBOVUxMKTsKCQkJCVRBUkdFVF9WRUMgPSBzZXRfZWxlbWVudHMoVE9ET19TRVQpOwoJCQkJcHRocmVhZF90IHBpZHNbbnVtX3RocmVhZHNdOwoJCQkJZm9yIChzaXplX3QgcGlkID0gMDsgcGlkIDwgbnVtX3RocmVhZHM7IHBpZCsrKSB7CgkJCQkJcGlkc1twaWRdID0gKHB0aHJlYWRfdCkgcGlkOwoJCQkJCXB0aHJlYWRfY3JlYXRlKHBpZHMgKyBwaWQsIE5VTEwsIHJ1bl9wYXJhbGxlbCwgKHZvaWQqKSBwaWQpOwoJCQkJfQoJCQkJdm9pZCogcmVzdWx0W251bV90aHJlYWRzXTsKCQkJCWZvciAoc2l6ZV90IHBpZCA9IDA7IHBpZCA8IG51bV90aHJlYWRzOyBwaWQrKykKCQkJCQlwdGhyZWFkX2pvaW4ocGlkc1twaWRdLCByZXN1bHQgKyBwaWQpOwoJCQkJdmVjdG9yX2Rlc3Ryb3koVEFSR0VUX1ZFQyk7CgkJCQlwdGhyZWFkX211dGV4X2Rlc3Ryb3koJk1VVEVYKTsKCQkJCXB0aHJlYWRfY29uZF9kZXN0cm95KCZDT05EX1ZBUik7CgkJCX0KCQl9CgkJc2V0X2Rlc3Ryb3koVklTSVRFRCk7CgkJc2V0X2Rlc3Ryb3koVE9ET19TRVQpOwoJfQoJZ3JhcGhfZGVzdHJveShERVApOwoJdmVjdG9yX2Rlc3Ryb3kodGFyZ2V0X2RlcCk7CglyZXR1cm4gMDsKfQo=</text>
+        <text encoding="base64">I2RlZmluZSBFWElUX0ZBSUwgKDEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2RlZmluZSBFWElUX0ZBSUwgKC0xKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dm9pZCB1cGRhdGVfbmVpZ2hib3IoY2hhciogdGFyZ2V0KSB7Cg==</text>
+        <text encoding="base64">I2RlZmluZSBDTElFTlRfVU5JTklUICgtMSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2dyYXBoX2dldF92ZXJ0ZXhfdmFsdWUvZ2V0X3ZlcnRleC9n</text>
