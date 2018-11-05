@@ -1390,12 +1390,12 @@
         <mark key="." line="133" column="19" />
         <mark key="^" line="133" column="19" />
       </file>
-      <file name="$USER_HOME$/241/parallel_make/parmake.c" timestamp="1541383456684">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/241/parallel_make/parmake.c" timestamp="1541385521708">
+        <mark key="'" line="27" column="33" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="." line="227" column="0" />
+        <mark key="^" line="226" column="46" />
       </file>
       <file name="$USER_HOME$/Desktop/VCount/src/test/java/TestException.java" timestamp="1528742134805">
         <mark key="[" line="12" column="34" />
@@ -3367,12 +3367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="0" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
-      <jump line="14" column="5" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
-      <jump line="91" column="29" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="113" column="28" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="452" column="3" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="24" column="3" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="64" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="129" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="92" column="23" filename="$USER_HOME$/241/parallel_make/parmake.c" />
@@ -3467,22 +3461,28 @@
       <jump line="122" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="228" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="22" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="48" column="15" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="57" column="22" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="18" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="125" column="17" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="134" column="24" filename="$USER_HOME$/241/parallel_make/parmake.c" />
+      <jump line="26" column="33" filename="$USER_HOME$/241/parallel_make/parmake.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZiAoZmFpbCkgewoJCQljbWRfcnVsZS0+c3RhdGUgPSBGQUlMOwoJCX0gZWxzZSB7CgkJCWNtZF9ydWxlLT5zdGF0ZSA9IERPTkU7CgkJfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Spring</text>
+        <text>target</text>
       </register>
       <register name="/" type="4">
         <text>graph_get_vertex_value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ym9vbCBjb250YWluc19jeWNsZShjaGFyKiB0YXJnZXQpIHsK</text>
+        <text encoding="base64">dm9pZCogcnVuX3BhcmFsbGVsKHZvaWQqIGlnbm9yZWQpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZiAoZmFpbCkgewoJCQljbWRfcnVsZS0+c3RhdGUgPSBGQUlMOwoJCX0gZWxzZSB7CgkJCWNtZF9ydWxlLT5zdGF0ZSA9IERPTkU7CgkJfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3491,29 +3491,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ym9vbCBjb250YWluc19jeWNsZShjaGFyKiB0YXJnZXQpOwo=</text>
+        <text encoding="base64">Ym9vbCBTVEFSVEVEOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInNldC5oIgo=</text>
+        <text encoding="base64">Ym9vbCBTVEFSVEVEOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgInBhcm1ha2UuaCIK</text>
+        <text encoding="base64">CQkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChjaGFyKikgdmVjdG9yX2dldCgKCQkJCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmVpZ2hib3JzLAoJCQkJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImZvcm1hdC5oIgo=</text>
+        <text encoding="base64">CXNldF9hZGQoVE9ET19TRVQsIHRhcmdldCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkvLyBmcHJpbnRmKHN0ZGVyciwgIiVkICV6dVxuIiwgX19MSU5FX18sIGkpOwo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIGdvb2QgbHVjayEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyBjaGVjayBmb3IgZmFpbGVkCg==</text>
+        <text encoding="base64">Ym9vbCBjb250YWluc19jeWNsZShjaGFyKiB0YXJnZXQpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>d
-		for</text>
+      <register name="9" type="2">
+        <text encoding="base64">I2luY2x1ZGUgInNldC5oIgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2dyYXBoX2dldF92ZXJ0ZXhfdmFsdWUvZ2V0X3ZlcnRleC9n</text>
