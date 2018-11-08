@@ -1962,6 +1962,7 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/241/finding_filesystems/minixfs_utils.c" timestamp="1541702098447" />
       <file name="$USER_HOME$/VCS/AlgoKt/src/other/PriorityQueue.kt" timestamp="1522258243663">
         <mark key="[" line="38" column="5" />
         <mark key="]" line="39" column="11" />
@@ -2701,12 +2702,11 @@
         <mark key="." line="19" column="17" />
         <mark key="^" line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/241/finding_filesystems/minixfs.c" timestamp="1541701254476">
-        <mark key="'" line="190" column="21" />
-        <mark key="[" line="100" column="47" />
-        <mark key="]" line="100" column="19" />
-        <mark key="." line="100" column="19" />
-        <mark key="^" line="100" column="19" />
+      <file name="$USER_HOME$/241/finding_filesystems/minixfs.c" timestamp="1541703317554">
+        <mark key="'" line="189" column="21" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="$USER_HOME$/241/finding_filesystems/minixfs.h" timestamp="1541699558149">
         <mark key="[" line="261" column="0" />
@@ -3479,10 +3479,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CW1ha2Vfc3RyaW5nX2Zyb21fZGlyZW50KCk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -3491,7 +3491,7 @@
         <text encoding="base64">ICogIGBtaW4oY291bnQsIHNpemVfb2ZfZmlsZSAtICpvZmYpYCBieXRlcyB3aWxsIGJlIGNvcGllZCBmcm9tIHRoZSBmaWxlIGludG8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CW1ha2Vfc3RyaW5nX2Zyb21fZGlyZW50KCk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3500,28 +3500,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWluaXRfaW5vZGUobmV3KTsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWlmICghdmFsaWRfZmlsZW5hbWUocGF0aCkpIHsKCQlyZXR1cm4gTlVMTDsKCX0K</text>
+        <text encoding="base64">CWlkeCsrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXNpemVfdCB3cml0ZSA9IEJMT0NLIC0gdG1wX29mICUgQkxPQ0s7Cgl3cml0ZSA9ICh3cml0ZSA8IGNvdW50KSA/IHdyaXRlIDogY291bnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQlieXRlc193cml0ZSArPSB3cml0ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9IGVsc2Ugewo=</text>
+        <text encoding="base64">CQlpZHgrKzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXVpbnQ2NF90IGlkeCA9IHRtcF9vZmYgLyBCTE9DSzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIE5VTEw7Cg==</text>
+        <text encoding="base64">CXVpbnQ2NF90IGlkeCA9IHRtcF9vZmYgLyBCTE9DSzsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
