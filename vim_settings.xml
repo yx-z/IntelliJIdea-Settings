@@ -2708,13 +2708,13 @@
         <mark key="." line="19" column="17" />
         <mark key="^" line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/241/finding_filesystems/minixfs.c" timestamp="1541709650674">
-        <mark key="[" line="119" column="33" />
-        <mark key="]" line="124" column="28" />
-        <mark key="." line="124" column="28" />
-        <mark key="^" line="124" column="32" />
+      <file name="$USER_HOME$/241/finding_filesystems/minixfs.c" timestamp="1541720090121">
+        <mark key="[" line="144" column="30" />
+        <mark key="]" line="145" column="33" />
+        <mark key="." line="145" column="46" />
+        <mark key="^" line="145" column="33" />
       </file>
-      <file name="$USER_HOME$/241/finding_filesystems/minixfs.h" timestamp="1541704405688">
+      <file name="$USER_HOME$/241/finding_filesystems/minixfs.h" timestamp="1541718284359">
         <mark key="[" line="261" column="0" />
         <mark key="]" line="261" column="77" />
       </file>
@@ -3484,11 +3484,11 @@
       <jump line="92" column="0" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlwcmludGYoIiVzIiwgYmxvY2tfaW5mb19zdHJpbmcobnVtX3VzZWRfYmxvY2tzKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -3497,7 +3497,7 @@
         <text encoding="base64">ICogIGBtaW4oY291bnQsIHNpemVfb2ZfZmlsZSAtICpvZmYpYCBieXRlcyB3aWxsIGJlIGNvcGllZCBmcm9tIHRoZSBmaWxlIGludG8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWJvb2wgaW5kaXJlY3QgPSBmYWxzZTsK</text>
+        <text encoding="base64">CQlwcmludGYoIiVzIiwgYmxvY2tfaW5mb19zdHJpbmcobnVtX3VzZWRfYmxvY2tzKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3506,28 +3506,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWJvb2wgaW5kaXJlY3QgPSBmYWxzZTsK</text>
+        <text encoding="base64">CQkvLyBUT0RPIGltcGxlbWVudCB0aGUgImluZm8iIHZpcnR1YWwgZmlsZSBoZXJlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWRhdGFfYmxvY2tfbnVtYmVyKiBia3MgPSBiZWdpbl9ibG9jayhmcywgcGFyZW50LCBsYXN0KTsK</text>
+        <text encoding="base64">CS8vIFRPRE8gaW1wbGVtZW50IHlvdXIgb3duIHZpcnR1YWwgZmlsZSBoZXJlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXBhcmVudC0+c2l6ZSArPSBGSUxFX05BTUVfRU5UUlk7CgljbG9ja19nZXR0aW1lKENMT0NLX1JFQUxUSU1FLCAmcGFyZW50LT5tdGltKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWJvb2wgaW5kaXJlY3QgPSBmYWxzZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXBhcmVudC0+c2l6ZSArPSBGSUxFX05BTUVfRU5UUlk7Cg==</text>
+        <text encoding="base64">CWJvb2wgaW5kaXJlY3QgPSBmYWxzZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXBhcmVudC0+c2l6ZSArPSBGSUxFX05BTUVfRU5UUlk7Cg==</text>
+        <text encoding="base64">CWRhdGFfYmxvY2tfbnVtYmVyKiBia3MgPSBiZWdpbl9ibG9jayhmcywgcGFyZW50LCBsYXN0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXBhcmVudC0+c2l6ZSArPSBGSUxFX05BTUVfRU5UUlk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
