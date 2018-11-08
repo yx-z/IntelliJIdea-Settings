@@ -179,6 +179,12 @@
         <mark key="." line="32" column="137" />
         <mark key="^" line="32" column="137" />
       </file>
+      <file name="$USER_HOME$/241/finding_filesystems/minixfs_test.c" timestamp="1541708075955">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
+      </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/str/LPS.kt" timestamp="1503631134919">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="11" column="9" />
@@ -2702,11 +2708,11 @@
         <mark key="." line="19" column="17" />
         <mark key="^" line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/241/finding_filesystems/minixfs.c" timestamp="1541705122170">
-        <mark key="'" line="214" column="21" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="36" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/241/finding_filesystems/minixfs.c" timestamp="1541709569944">
+        <mark key="[" line="119" column="33" />
+        <mark key="]" line="124" column="28" />
+        <mark key="." line="124" column="28" />
+        <mark key="^" line="124" column="32" />
       </file>
       <file name="$USER_HOME$/241/finding_filesystems/minixfs.h" timestamp="1541704405688">
         <mark key="[" line="261" column="0" />
@@ -3376,7 +3382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="387" column="16" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="25" column="25" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="362" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="155" column="16" filename="$USER_HOME$/241/parallel_make/parmake.c" />
@@ -3470,19 +3475,20 @@
       <jump line="117" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="60" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="206" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="146" column="21" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
       <jump line="130" column="37" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
       <jump line="162" column="0" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
       <jump line="0" column="0" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
       <jump line="44" column="0" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
       <jump line="136" column="21" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
+      <jump line="146" column="23" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
+      <jump line="92" column="0" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXBhcmVudC0+c2l6ZSArPSBGSUxFX05BTUVfRU5UUlk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -3491,7 +3497,7 @@
         <text encoding="base64">ICogIGBtaW4oY291bnQsIHNpemVfb2ZfZmlsZSAtICpvZmYpYCBieXRlcyB3aWxsIGJlIGNvcGllZCBmcm9tIHRoZSBmaWxlIGludG8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXBhcmVudC0+c2l6ZSArPSBGSUxFX05BTUVfRU5UUlk7Cg==</text>
+        <text encoding="base64">CWJvb2wgaW5kaXJlY3QgPSBmYWxzZTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3500,28 +3506,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXNpemVfdCBvZmYgPSBwYXJlbnQtPnNpemUgJSBCTE9DSzsK</text>
+        <text encoding="base64">CWJvb2wgaW5kaXJlY3QgPSBmYWxzZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpbmRpcmVjdCA9IHRydWU7Cg==</text>
+        <text encoding="base64">CWRhdGFfYmxvY2tfbnVtYmVyKiBia3MgPSBiZWdpbl9ibG9jayhmcywgcGFyZW50LCBsYXN0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWlmIChnZXRfaW5vZGUoZnMsIHBhdGgpICE9IE5VTEwpIHJldHVybiBOVUxMOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWlmIChnZXRfaW5vZGUoZnMsIHBhdGgpICE9IE5VTEwpIHJldHVybiBOVUxMOwo=</text>
+        <text encoding="base64">CXBhcmVudC0+c2l6ZSArPSBGSUxFX05BTUVfRU5UUlk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWlub2RlKiBwYXJlbnRfY3B5ID0gcGFyZW50Owo=</text>
+        <text encoding="base64">CXBhcmVudC0+c2l6ZSArPSBGSUxFX05BTUVfRU5UUlk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZyZWUoY3B5KTsK</text>
+        <text encoding="base64">CXBhcmVudC0+c2l6ZSArPSBGSUxFX05BTUVfRU5UUlk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNoYXIqIGNweSA9IHN0cmR1cChuYW1lKTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
