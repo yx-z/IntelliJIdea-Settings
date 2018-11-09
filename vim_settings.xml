@@ -1026,7 +1026,6 @@
         <mark key="^" line="13" column="51" />
         <mark key="." line="13" column="51" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAltPath.kt" timestamp="1536011207783" />
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/exception/BadRequestException.java" timestamp="1532554411794">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -2569,6 +2568,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/241/finding_filesystems/minixfs_provided.c" timestamp="1541723640489">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="32" />
+      </file>
       <file name="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/config/ConfigBuilder.java" timestamp="1528915913940">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="7" column="21" />
@@ -2708,11 +2711,12 @@
         <mark key="." line="19" column="17" />
         <mark key="^" line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/241/finding_filesystems/minixfs.c" timestamp="1541720090121">
-        <mark key="[" line="144" column="30" />
-        <mark key="]" line="145" column="33" />
-        <mark key="." line="145" column="46" />
-        <mark key="^" line="145" column="33" />
+      <file name="$USER_HOME$/241/finding_filesystems/minixfs.c" timestamp="1541723921947">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="231" column="0" />
+        <mark key="." line="231" column="0" />
+        <mark key="^" line="70" column="65" />
       </file>
       <file name="$USER_HOME$/241/finding_filesystems/minixfs.h" timestamp="1541718284359">
         <mark key="[" line="261" column="0" />
@@ -3382,9 +3386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="25" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="362" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="155" column="16" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="252" column="47" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="207" column="50" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="142" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
@@ -3482,22 +3483,25 @@
       <jump line="136" column="21" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
       <jump line="146" column="23" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
       <jump line="92" column="0" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
+      <jump line="150" column="16" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
+      <jump line="232" column="38" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
+      <jump line="9" column="0" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlwcmludGYoIiVzIiwgYmxvY2tfaW5mb19zdHJpbmcobnVtX3VzZWRfYmxvY2tzKSk7Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogIGBtaW4oY291bnQsIHNpemVfb2ZfZmlsZSAtICpvZmYpYCBieXRlcyB3aWxsIGJlIGNvcGllZCBmcm9tIHRoZSBmaWxlIGludG8K</text>
+        <text encoding="base64">I2RlZmluZSBNSU4oeCwgeSkgKHggPCB5ID8geCA6IHkpCiNkZWZpbmUgTUFYKHgsIHkpICh4ID4geSA/IHggOiB5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlwcmludGYoIiVzIiwgYmxvY2tfaW5mb19zdHJpbmcobnVtX3VzZWRfYmxvY2tzKSk7Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3506,28 +3510,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIGltcGxlbWVudCB0aGUgImluZm8iIHZpcnR1YWwgZmlsZSBoZXJlCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIFRPRE8gaW1wbGVtZW50IHlvdXIgb3duIHZpcnR1YWwgZmlsZSBoZXJlCg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXBhcmVudC0+c2l6ZSArPSBGSUxFX05BTUVfRU5UUlk7CgljbG9ja19nZXR0aW1lKENMT0NLX1JFQUxUSU1FLCAmcGFyZW50LT5tdGltKTsK</text>
+        <text encoding="base64">I2luY2x1ZGUgIm1pbml4ZnNfcHJvdmlkZWQuYyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWJvb2wgaW5kaXJlY3QgPSBmYWxzZTsK</text>
+        <text encoding="base64">CQkJZGF0YV9ibG9jayogZiA9IGZzLT5kYXRhX3Jvb3QgKyBpOwoJCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWJvb2wgaW5kaXJlY3QgPSBmYWxzZTsK</text>
+        <text encoding="base64">CSh0bXBfb2ZmICsgY291bnQgPiBub2RlLT5zaXplKSA/ICh0bXBfb2ZmICsgY291bnQpIDogbm9kZS0+c2l6ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWRhdGFfYmxvY2tfbnVtYmVyKiBia3MgPSBiZWdpbl9ibG9jayhmcywgcGFyZW50LCBsYXN0KTsK</text>
+        <text encoding="base64">CQkoY291bnQgLSBieXRlc193cml0ZSkgPiBCTE9DSyA/IEJMT0NLIDogKGNvdW50IC0gYnl0ZXNfd3JpdGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CSh3cml0ZSA8IGNvdW50KSA/IHdyaXRlIDogY291bnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQljb3VudCA9ICgobG9uZykgKCpvZmYgKyBjb3VudCkgPiBzaXplKSA/IChzaXplIC0gKm9mZikgOiBjb3VudDsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
