@@ -1598,6 +1598,13 @@
         <mark key="^" line="113" column="31" />
         <mark key="." line="113" column="31" />
       </file>
+      <file name="$USER_HOME$/241/mad_mad_access_patterns/lookup2.c" timestamp="1541876065170">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="57" column="26" />
+        <mark key="]" line="58" column="45" />
+        <mark key="^" line="58" column="45" />
+        <mark key="." line="58" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/greedy/CanJump.kt" timestamp="1508112824460">
         <mark key="[" line="9" column="3" />
         <mark key="]" line="6" column="22" />
@@ -1754,11 +1761,12 @@
         <mark key="^" line="41" column="27" />
         <mark key="." line="41" column="27" />
       </file>
-      <file name="$USER_HOME$/241/mad_mad_access_patterns/lookup1.c" timestamp="1541869944129">
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/241/mad_mad_access_patterns/lookup1.c" timestamp="1541875897942">
+        <mark key="'" line="91" column="36" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="66" column="45" />
+        <mark key="^" line="66" column="45" />
       </file>
       <file name="$USER_HOME$/Desktop/cwsfx/src/main/kotlin/com/yahoo/dhrainbow/cwsfx/Main.kt" timestamp="1533241865034">
         <mark key="'" line="10" column="25" />
@@ -3391,20 +3399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="47" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="207" column="50" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="142" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="454" column="13" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="17" column="49" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="58" column="9" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="5" column="17" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="56" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="27" column="3" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="37" column="13" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="40" column="43" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="523" column="4" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="89" column="3" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="338" column="28" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="376" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="306" column="25" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="431" column="13" filename="$USER_HOME$/241/parallel_make/parmake.c" />
@@ -3491,19 +3485,33 @@
       <jump line="150" column="16" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
       <jump line="232" column="38" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
       <jump line="9" column="0" filename="$USER_HOME$/241/finding_filesystems/minixfs.c" />
+      <jump line="33" column="8" filename="$USER_HOME$/241/mad_mad_access_patterns/lookup1.c" />
+      <jump line="6" column="15" filename="$USER_HOME$/241/mad_mad_access_patterns/lookup1.c" />
+      <jump line="48" column="31" filename="$USER_HOME$/241/mad_mad_access_patterns/lookup1.c" />
+      <jump line="66" column="37" filename="$USER_HOME$/241/mad_mad_access_patterns/lookup1.c" />
+      <jump line="19" column="0" filename="$USER_HOME$/241/mad_mad_access_patterns/lookup1.c" />
+      <jump line="59" column="0" filename="$USER_HOME$/241/mad_mad_access_patterns/lookup1.c" />
+      <jump line="74" column="36" filename="$USER_HOME$/241/mad_mad_access_patterns/lookup1.c" />
+      <jump line="21" column="3" filename="$USER_HOME$/241/mad_mad_access_patterns/lookup2.c" />
+      <jump line="13" column="21" filename="$USER_HOME$/241/mad_mad_access_patterns/lookup2.c" />
+      <jump line="38" column="0" filename="$USER_HOME$/241/mad_mad_access_patterns/lookup2.c" />
+      <jump line="10" column="0" filename="$USER_HOME$/241/mad_mad_access_patterns/lookup2.c" />
+      <jump line="22" column="6" filename="$USER_HOME$/241/mad_mad_access_patterns/lookup2.c" />
+      <jump line="46" column="26" filename="$USER_HOME$/241/mad_mad_access_patterns/lookup2.c" />
+      <jump line="16" column="0" filename="$USER_HOME$/241/mad_mad_access_patterns/lookup2.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>G</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2RlZmluZSBNSU4oeCwgeSkgKHggPCB5ID8geCA6IHkpCiNkZWZpbmUgTUFYKHgsIHkpICh4ID4geSA/IHggOiB5KQo=</text>
+        <text encoding="base64">QmluYXJ5VHJlZU5vZGUqIGZpbmQoY2hhciogd29yZCwgaW50IG9mZik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3515,28 +3523,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">LyoKICBMb29rIHVwIGEgZmV3IG5vZGVzIGluIHRoZSB0cmVlIGFuZCBwcmludCB0aGUgaW5mbyB0aGV5IGNvbnRhaW4uCiAgVGhpcyB2ZXJzaW9uIHVzZXMgbW1hcCB0byBhY2Nlc3MgdGhlIGRhdGEuCgogIC4vbG9va3VwMiA8ZGF0YV9maWxlPiA8d29yZD4gWzx3b3JkPiAuLi5dCiovCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGZjbnRsLmg+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmb3IgKHNpemVfdCBpID0gMDsgaSA8IGZzLT5tZXRhLT5kYmxvY2tfY291bnQ7IGkrKykgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlmb3IgKHNpemVfdCBpID0gMDsgaSA8IGZzLT5tZXRhLT5kYmxvY2tfY291bnQ7IGkrKykgewo=</text>
+        <text encoding="base64">dHlwZWRlZiBzdHJ1Y3Qgc3RhdCBzdGF0X3Q7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">I2RlZmluZSBOT05fV09SRF9BUkdTICgyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmb3IgKHNpemVfdCBpID0gMDsgaSA8IGZzLT5tZXRhLT5kYmxvY2tfY291bnQ7IGkrKykgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJcHJpbnRmKCIlc1xuIiwgbWFwKTsK</text>
+        <text encoding="base64">I2RlZmluZSBJT19FUlIgKC0xKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
