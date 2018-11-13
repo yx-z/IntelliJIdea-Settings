@@ -2162,12 +2162,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/427/proj/iTrust/WebRoot/auth/hcp/laborRecords.jsp" timestamp="1542134307993">
-        <mark key="'" line="102" column="39" />
-        <mark key="[" line="154" column="37" />
-        <mark key="]" line="159" column="21" />
-        <mark key="." line="159" column="21" />
-        <mark key="^" line="159" column="21" />
+      <file name="$USER_HOME$/427/proj/iTrust/WebRoot/auth/hcp/laborRecords.jsp" timestamp="1542145314456">
+        <mark key="'" line="173" column="0" />
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/base/BasePayload.java" timestamp="1529947454891">
         <mark key="[" line="70" column="26" />
@@ -3468,9 +3467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="0" filename="$USER_HOME$/Desktop/VznCount/src/main/java/ws/VznCountHandler.java" />
-      <jump line="5" column="22" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/util/constant/ReceiveConst.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/util/constant/ReceiveConst.java" />
       <jump line="5" column="0" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/ws/handler/QueryTriangulationHandler.java" />
       <jump line="54" column="9" filename="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5-sources.jar!/com/google/gson/JsonPrimitive.java" />
       <jump line="94" column="36" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/pom.xml" />
@@ -3568,22 +3564,25 @@
       <jump line="11" column="7" filename="$USER_HOME$/241/password_cracker/cracker2.c" />
       <jump line="82" column="10" filename="$USER_HOME$/241/ideal_indirection/mmu.c" />
       <jump line="92" column="39" filename="$USER_HOME$/427/proj/iTrust/WebRoot/auth/hcp/laborRecords.jsp" />
+      <jump line="205" column="53" filename="$USER_HOME$/427/proj/iTrust/WebRoot/auth/hcp/laborRecords.jsp" />
+      <jump line="203" column="0" filename="$USER_HOME$/427/proj/iTrust/WebRoot/auth/hcp/laborRecords.jsp" />
+      <jump line="165" column="0" filename="$USER_HOME$/427/proj/iTrust/WebRoot/auth/hcp/laborRecords.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZm9ybU5hbWUuZXF1YWxzKCJhZGRMYWJvclJlY29yZCIpKSB7CiAgICAgICAgICAgIAogICAgICAgIH0gZWxzZSAK</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>buff</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDaGlsZERldGFpbHNCZWFuIGRldGFpbHMgPSBuZXcgQ2hpbGREZXRhaWxzQmVhbigpOwogICAgICAgICAgICAgICAgICAgIFN0cmluZyBkYXRlID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoImRhdGUiKTsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgdGltZSA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJ0aW1lIik7CiAgICAgICAgICAgICAgICAgICAgU2ltcGxlRGF0ZUZvcm1hdCBmb3JtYXQgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgieXl5eS1NTS1kZCBoaDptbSIpOwogICAgICAgICAgICAgICAgICAgIFRpbWVzdGFtcCB0aW1lc3RhbXAgPSBuZXcgVGltZXN0YW1wKGZvcm1hdC5wYXJzZShkYXRlICsgIiAiICsgdGltZSkuZ2V0VGltZSgpKTsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgbWV0aG9kID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoImRlbGl2ZXJ5bWV0aG9kIik7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHNleCA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJzZXgiKTsKICAgICAgICAgICAgICAgICAgICBkZXRhaWxzLnNldERhdGVUaW1lKHRpbWVzdGFtcCk7CiAgICAgICAgICAgICAgICAgICAgZGV0YWlscy5zZXREZWxpdmVyeU1ldGhvZChtZXRob2QpOwogICAgICAgICAgICAgICAgICAgIGRldGFpbHMuc2V0U2V4KHNleCk7CiAgICAgICAgICAgICAgICAgICAgYWN0aW9uLmFkZENoaWxkRGV0YWlscyhkZXRhaWxzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIGlkPSJmb3JtbmFtZSIgcmVhZG9ubHk9InJlYWRvbmx5IiBuYW1lPSJmb3JtbmFtZSIgdmFsdWU9InVwZGF0ZUxhYm9yRHJ1Z3MiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZm9ybU5hbWUuZXF1YWxzKCJhZGRMYWJvclJlY29yZCIpKSB7CiAgICAgICAgICAgIAogICAgICAgIH0gZWxzZSAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3592,28 +3591,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHMuc2V0U3RyaW5nKDEsIGJlYW4uZ2V0RHJ1Z05hbWUoKSk7CiAgICAgICAgICAgIHBzLnNldEludCgyLCBiZWFuLmdldERvc2FnZSgpKTsKICAgICAgICAgICAgcHMuc2V0TG9uZygzLCBsYWJvckRydWdJZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5nZXRQYXJhbWV0ZXIoImRvc2FnZSIpICE9IG51bGwgJiYKICAgICAgICAgICAgcmVxdWVzdC5nZXRQYXJhbWV0ZXIoImxhYm9yaWQiKSAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB1cGRhdGUgTGFib3JEcnVncwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IChSZXN1bHRTZXQgcnMgPSBwcy5leGVjdXRlUXVlcnkoKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGxhYm9yRHJ1Z3NMb2FkZXIubG9hZExpc3QocnMpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmIChyZXF1ZXN0LmdldFBhcmFtZXRlcigiZHJ1Z25hbWUiKSAhPSBudWxsICYmCiAgICAgICAgICAgIHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJkb3NhZ2UiKSAhPSBudWxsICYmCiAgICAgICAgICAgIHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJsYWJvcmlkIikgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHMuc2V0TG9uZygxLCBsYWJvclJlY29yZElkKTsK</text>
+        <text encoding="base64">Cjxici8+Cjxici8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9kREFPLmdldExhYm9yRHJ1Z3NEQU8oKS5hZGRMYWJvckRydWcoZHJ1Z3NCZWFuKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9kREFPLmdldENoaWxkRGV0YWlsc0RBTygpLmFkZENoaWxkRGV0YWlscyhkZXRhaWxzKTsK</text>
+        <text encoding="base64">Q29sbGFwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXRhaWxzLnNldERhdGVUaW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2J1ZmYvdG1wX2J1ZmZlci9n</text>
