@@ -122,6 +122,12 @@
         <mark key="^" line="8" column="64" />
         <mark key="." line="8" column="64" />
       </file>
+      <file name="$USER_HOME$/427/proj/iTrust/sql/createTables.sql" timestamp="1542146572265">
+        <mark key="[" line="573" column="0" />
+        <mark key="]" line="574" column="99" />
+        <mark key="." line="574" column="60" />
+        <mark key="^" line="574" column="60" />
+      </file>
       <file name="F:/FHIR/src/model/observation/ObservationType.java" timestamp="1510411349867">
         <mark key="[" line="56" column="22" />
         <mark key="]" line="56" column="21" />
@@ -420,6 +426,12 @@
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/427/proj/iTrust/src/main/edu/ncsu/csc/itrust/model/old/beans/LaborRecordBean.java" timestamp="1542146613166">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+        <mark key="^" line="18" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/test/java/com/yahoo/dhrainbow/mocksherpa/model/responsebuilder/MetadataBuilder.java" timestamp="1531253301460">
         <mark key="[" line="12" column="9" />
@@ -2162,11 +2174,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/427/proj/iTrust/WebRoot/auth/hcp/laborRecords.jsp" timestamp="1542145314456">
-        <mark key="'" line="173" column="0" />
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/427/proj/iTrust/WebRoot/auth/hcp/laborRecords.jsp" timestamp="1542147437138">
+        <mark key="[" line="37" column="37" />
+        <mark key="]" line="43" column="39" />
+        <mark key="." line="43" column="39" />
+        <mark key="^" line="43" column="39" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/base/BasePayload.java" timestamp="1529947454891">
         <mark key="[" line="70" column="26" />
@@ -2221,11 +2233,12 @@
         <mark key="^" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/427/proj/iTrust/src/main/edu/ncsu/csc/itrust/action/LaborRecordAction.java" timestamp="1542134005570">
-        <mark key="[" line="85" column="22" />
-        <mark key="]" line="92" column="41" />
-        <mark key="^" line="92" column="41" />
-        <mark key="." line="92" column="41" />
+      <file name="$USER_HOME$/427/proj/iTrust/src/main/edu/ncsu/csc/itrust/action/LaborRecordAction.java" timestamp="1542147296883">
+        <mark key="'" line="24" column="26" />
+        <mark key="[" line="128" column="41" />
+        <mark key="]" line="128" column="40" />
+        <mark key="." line="128" column="40" />
+        <mark key="^" line="128" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/vzncount/db/IDao.java" timestamp="1529099113813">
         <mark key="'" line="7" column="72" />
@@ -3448,6 +3461,12 @@
         <mark key="." line="8" column="16" />
         <mark key="^" line="9" column="16" />
       </file>
+      <file name="$USER_HOME$/427/proj/iTrust/src/main/edu/ncsu/csc/itrust/model/old/dao/mysql/LaborRecordDAO.java" timestamp="1542147250932">
+        <mark key="[" line="21" column="72" />
+        <mark key="]" line="21" column="75" />
+        <mark key="." line="21" column="75" />
+        <mark key="^" line="21" column="75" />
+      </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/cobbuilder/SchemaLevelCobIncludedBuilder.java" timestamp="1529945448368">
         <mark key="[" line="22" column="40" />
         <mark key="]" line="24" column="0" />
@@ -3467,13 +3486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/ws/handler/QueryTriangulationHandler.java" />
-      <jump line="54" column="9" filename="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5-sources.jar!/com/google/gson/JsonPrimitive.java" />
-      <jump line="94" column="36" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/pom.xml" />
-      <jump line="93" column="56" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/pom.xml" />
-      <jump line="40" column="0" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/db/JedisDao.java" />
-      <jump line="42" column="39" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/db/IDao.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/util/TimeUtil.java" />
       <jump line="48" column="38" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/test/java/com/yahoo/dhrainbow/vzncount/model/model/JsonToPayloadTestCase.java" />
       <jump line="7" column="104" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/test/java/com/yahoo/dhrainbow/vzncount/model/model/JsonToPayloadTestCase.java" />
       <jump line="55" column="0" filename="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/test/java/com/yahoo/dhrainbow/vzncount/model/model/JsonToPayloadTestCase.java" />
@@ -3567,22 +3579,29 @@
       <jump line="205" column="53" filename="$USER_HOME$/427/proj/iTrust/WebRoot/auth/hcp/laborRecords.jsp" />
       <jump line="203" column="0" filename="$USER_HOME$/427/proj/iTrust/WebRoot/auth/hcp/laborRecords.jsp" />
       <jump line="165" column="0" filename="$USER_HOME$/427/proj/iTrust/WebRoot/auth/hcp/laborRecords.jsp" />
+      <jump line="66" column="45" filename="$USER_HOME$/427/proj/iTrust/WebRoot/auth/hcp/laborRecords.jsp" />
+      <jump line="111" column="4" filename="$USER_HOME$/427/proj/iTrust/src/main/edu/ncsu/csc/itrust/action/LaborRecordAction.java" />
+      <jump line="106" column="0" filename="$USER_HOME$/427/proj/iTrust/src/main/edu/ncsu/csc/itrust/action/LaborRecordAction.java" />
+      <jump line="95" column="0" filename="$USER_HOME$/427/proj/iTrust/src/main/edu/ncsu/csc/itrust/action/LaborRecordAction.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/427/proj/iTrust/src/main/edu/ncsu/csc/itrust/action/LaborRecordAction.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/427/proj/iTrust/src/main/edu/ncsu/csc/itrust/action/LaborRecordAction.java" />
+      <jump line="24" column="26" filename="$USER_HOME$/427/proj/iTrust/src/main/edu/ncsu/csc/itrust/action/LaborRecordAction.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZm9ybU5hbWUuZXF1YWxzKCJhZGRMYWJvclJlY29yZCIpKSB7CiAgICAgICAgICAgIAogICAgICAgIH0gZWxzZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHMuc2V0U3RyaW47Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>mid</text>
       </register>
       <register name="/" type="4">
         <text>buff</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIGlkPSJmb3JtbmFtZSIgcmVhZG9ubHk9InJlYWRvbmx5IiBuYW1lPSJmb3JtbmFtZSIgdmFsdWU9InVwZGF0ZUxhYm9yRHJ1Z3MiPgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGFkZExhYm9yUmVjb3JkKExhYm9yUmVjb3JkQmVhbiBiZWFuKSB0aHJvd3MgREJFeGNlcHRpb24gewogICAgICAgIHRyeSAoQ29ubmVjdGlvbiBjb25uID0gZmFjdG9yeS5nZXRDb25uZWN0aW9uKCk7CiAgICAgICAgICAgICBQcmVwYXJlZFN0YXRlbWVudCBwcyA9IGNvbm4ucHJlcGFyZVN0YXRlbWVudChJTlNFUlRfU1RNVCwgU3RhdGVtZW50LlJFVFVSTl9HRU5FUkFURURfS0VZUykpIHsKICAgICAgICAgICAgbGFib3JSZWNvcmRMb2FkZXIubG9hZFBhcmFtZXRlcnMocHMsIGJlYW4pOwogICAgICAgICAgICBwcy5leGVjdXRlVXBkYXRlKCk7CiAgICAgICAgICAgIHRyeSAoUmVzdWx0U2V0IHJzID0gcHMuZ2V0R2VuZXJhdGVkS2V5cygpKSB7CiAgICAgICAgICAgICAgICBpZiAocnMubmV4dCgpKSB7CiAgICAgICAgICAgICAgICAgICAgYmVhbi5zZXRJZChycy5nZXRMb25nKDEpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgREJFeGNlcHRpb24oZSk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZm9ybU5hbWUuZXF1YWxzKCJhZGRMYWJvclJlY29yZCIpKSB7CiAgICAgICAgICAgIAogICAgICAgIH0gZWxzZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHMuc2V0U3RyaW47Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3591,28 +3610,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5nZXRQYXJhbWV0ZXIoImRvc2FnZSIpICE9IG51bGwgJiYKICAgICAgICAgICAgcmVxdWVzdC5nZXRQYXJhbWV0ZXIoImxhYm9yaWQiKSAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFib3JSZWNvcmRMb2FkZXIubG9hZFBhcmFtZXRlcnMocHMsIGJlYW4pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB1cGRhdGUgTGFib3JEcnVncwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChyZXF1ZXN0LmdldFBhcmFtZXRlcigiZHJ1Z25hbWUiKSAhPSBudWxsICYmCiAgICAgICAgICAgIHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJkb3NhZ2UiKSAhPSBudWxsICYmCiAgICAgICAgICAgIHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJsYWJvcmlkIikgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHVwZGF0ZUxhYm9yUmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cjxici8+Cjxici8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobW90aGVyTWlkID09IG51bGwpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFZhbGlkYXRpb25FeGNlcHRpb24oIlBsZWFzZSBwcm92aWRlIG1vdGhlciBNSUQuIik7CiAgICAgICAgfQoKICAgICAgICBpZiAoYWRtaXRUeXBlID09IG51bGwpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFZhbGlkYXRpb25FeGNlcHRpb24oIlBsZWFzZSBwcm92aWRlIEFkbWl0IFR5cGUuIik7CiAgICAgICAgfQoKICAgICAgICBpZiAocHJlZmVycmVkQmlydGhNZXRob2QgPT0gbnVsbCkgewogICAgICAgICAgICB0aHJvdyBuZXcgVmFsaWRhdGlvbkV4Y2VwdGlvbigiUGxlYXNlIHByb3ZpZGUgUHJlZmVycmVkIEJpcnRoIE1ldGhvZC4iKTsKICAgICAgICB9CgogICAgICAgIGxvbmcgbWlkOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIG1pZCA9IExvbmcucGFyc2VMb25nKG1vdGhlck1pZCk7CiAgICAgICAgfSBjYXRjaCAoTnVtYmVyRm9ybWF0RXhjZXB0aW9uIGlnbm9yZWQpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFZhbGlkYXRpb25FeGNlcHRpb24oIk1vdGhlciBNSUQgaXMgbm90IGEgbnVtYmVyIik7CiAgICAgICAgfQogICAgICAgIAogICAgICAgIGlmICghTGFib3JSZWNvcmRCZWFuLkFETUlUX1RZUEVTLmNvbnRhaW5zKGFkbWl0VHlwZSkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFZhbGlkYXRpb25FeGNlcHRpb24oIk5vdCBhIHZhbGlkIEFkbWl0IFR5cGUiKTsKICAgICAgICB9CiAgICAgICAgCiAgICAgICAgaWYgKCFMYWJvclJlY29yZEJlYW4uQklSVEhfTUVUSE9EUy5jb250YWlucyhwcmVmZXJyZWRCaXJ0aE1ldGhvZCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFZhbGlkYXRpb25FeGNlcHRpb24oIk5vdCBhIHZhbGlkIFByZWZlcnJlZCBCaXJ0aCBNZXRob2QiKTsKICAgICAgICB9CiAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExhYm9yUmVjb3JkQmVhbiByZWNvcmQgPSBuZXcgTGFib3JSZWNvcmRCZWFuKCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Q29sbGFwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBiZWFuLnNldE1vdGhlck1pZChtaWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2J1ZmYvdG1wX2J1ZmZlci9n</text>
