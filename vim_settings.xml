@@ -959,10 +959,11 @@
         <mark key="." line="11" column="7" />
         <mark key="^" line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/241/nonstop_networking/client.c" timestamp="1542255549585">
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/241/nonstop_networking/client.c" timestamp="1542259176200">
+        <mark key="[" line="31" column="49" />
+        <mark key="]" line="30" column="27" />
+        <mark key="." line="30" column="27" />
+        <mark key="^" line="30" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/response/MetadataResponse.java" timestamp="1530826974136">
         <mark key="[" line="2" column="31" />
@@ -1659,7 +1660,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/241/nonstop_networking/common.h" timestamp="1542255480501" />
+      <file name="$USER_HOME$/241/nonstop_networking/common.h" timestamp="1542259020363">
+        <mark key="'" line="8" column="21" />
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+      </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/test/java/com/yahoo/dhrainbow/mocksherpa/model/model/write/JsonToPayloadTest.java" timestamp="1529426242589">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -3405,7 +3412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="306" column="25" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="431" column="13" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="148" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
@@ -3505,13 +3511,14 @@
       <jump line="22" column="6" filename="$USER_HOME$/241/mad_mad_access_patterns/lookup2.c" />
       <jump line="46" column="26" filename="$USER_HOME$/241/mad_mad_access_patterns/lookup2.c" />
       <jump line="16" column="0" filename="$USER_HOME$/241/mad_mad_access_patterns/lookup2.c" />
+      <jump line="8" column="21" filename="$USER_HOME$/241/nonstop_networking/common.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CS8vIEdvb2QgbHVjayEK</text>
+        <text encoding="base64">CWNoYXIqIHIK</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -3520,7 +3527,7 @@
         <text encoding="base64">QmluYXJ5VHJlZU5vZGUqIGZpbmQoY2hhciogd29yZCwgaW50IG9mZik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIEdvb2QgbHVjayEK</text>
+        <text encoding="base64">CWNoYXIqIHIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3529,28 +3536,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoKICBMb29rIHVwIGEgZmV3IG5vZGVzIGluIHRoZSB0cmVlIGFuZCBwcmludCB0aGUgaW5mbyB0aGV5IGNvbnRhaW4uCiAgVGhpcyB2ZXJzaW9uIHVzZXMgbW1hcCB0byBhY2Nlc3MgdGhlIGRhdGEuCgogIC4vbG9va3VwMiA8ZGF0YV9maWxlPiA8d29yZD4gWzx3b3JkPiAuLi5dCiovCgo=</text>
+        <text encoding="base64">CS8vIEdvb2QgbHVjayEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGZjbnRsLmg+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoKICBMb29rIHVwIGEgZmV3IG5vZGVzIGluIHRoZSB0cmVlIGFuZCBwcmludCB0aGUgaW5mbyB0aGV5IGNvbnRhaW4uCiAgVGhpcyB2ZXJzaW9uIHVzZXMgbW1hcCB0byBhY2Nlc3MgdGhlIGRhdGEuCgogIC4vbG9va3VwMiA8ZGF0YV9maWxlPiA8d29yZD4gWzx3b3JkPiAuLi5dCiovCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPGZjbnRsLmg+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHlwZWRlZiBzdHJ1Y3Qgc3RhdCBzdGF0X3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2RlZmluZSBOT05fV09SRF9BUkdTICgyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZWRlZiBzdHJ1Y3Qgc3RhdCBzdGF0X3Q7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
