@@ -1072,11 +1072,12 @@
         <mark key="." line="19" column="38" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/241/savvy_scheduler/libscheduler.c" timestamp="1542477709089">
-        <mark key="[" line="137" column="57" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-        <mark key="^" line="138" column="0" />
+      <file name="$USER_HOME$/241/savvy_scheduler/libscheduler.c" timestamp="1542479777382">
+        <mark key="'" line="123" column="22" />
+        <mark key="[" line="186" column="14" />
+        <mark key="]" line="187" column="18" />
+        <mark key="." line="187" column="18" />
+        <mark key="^" line="187" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/linkedlist/MiddleNode.kt" timestamp="1508371921806">
         <mark key="[" line="10" column="0" />
@@ -3433,7 +3434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="50" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="42" column="62" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
       <jump line="167" column="0" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
       <jump line="46" column="21" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
@@ -3533,22 +3533,23 @@
       <jump line="236" column="30" filename="$USER_HOME$/241/nonstop_networking/client.c" />
       <jump line="35" column="34" filename="$USER_HOME$/241/nonstop_networking/client.c" />
       <jump line="143" column="0" filename="$USER_HOME$/241/nonstop_networking/client.c" />
+      <jump line="133" column="22" filename="$USER_HOME$/241/savvy_scheduler/libscheduler.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXBxdWV1ZV9zY2hlbWUgPSBzOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>is_started</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWpvYl9pbmZvKiBpMSA9IChqb2JfaW5mbyopICgoKGpvYiopIGEpLT5tZXRhZGF0YSk7Cglqb2JfaW5mbyogaTIgPSAoam9iX2luZm8qKSAoKChqb2IqKSBiKS0+bWV0YWRhdGEpOwoJCg==</text>
+        <text encoding="base64">CQlpZiAocHF1ZXVlX3NjaGVtZSA9PSBGQ0ZTIHx8CgkJICAgIHBxdWV1ZV9zY2hlbWUgPT0gU0pGIHx8CgkJICAgIHBxdWV1ZV9zY2hlbWUgPT0gUFJJKSB7CgkJCXJldHVybiBqb2JfZXZpY3RlZDsKCQl9IGVsc2Ugewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXBxdWV1ZV9zY2hlbWUgPSBzOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3557,28 +3558,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vIFRPRE8gY29tcGxldGUgbWUhCg==</text>
+        <text encoding="base64">CWpvYl9udW0gPSAwOwoJcmVzcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIFRPRE8gY29tcGxldGUgbWUhCg==</text>
+        <text encoding="base64">CXRpbWVfdHVybmFyb3VuZCArPSB0aW1lIC0gaS0+dGltZV9hcnJpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vIFRPRE8gY29tcGxldGUgbWUhCg==</text>
+        <text encoding="base64">CWktPnRpbWVfcGFzdCA9IDA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vIFRPRE8gY29tcGxldGUgbWUhCg==</text>
+        <text encoding="base64">CWktPnRpbWVfZW5kID0gMDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIFRPRE8gY29tcGxldGUgbWUhCg==</text>
+        <text encoding="base64">CWRvdWJsZSB0aW1lX3Bhc3Q7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIFRPRE8gY29tcGxldGUgbWUhCg==</text>
+        <text encoding="base64">CWRvdWJsZSB0aW1lX2VuZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWRvdWJsZSB0aW1lX2J1cnN0Owo=</text>
+        <text encoding="base64">ZG91YmxlIHRpbWVfdHVybmFyb3VuZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJldHVybiAwOwo=</text>
+        <text encoding="base64">ZG91YmxlIHRpbWVfdHVybmFyb3VuZDsK</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
