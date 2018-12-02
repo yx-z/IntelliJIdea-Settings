@@ -687,12 +687,12 @@
         <mark key="^" line="12" column="50" />
         <mark key="." line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/241/nonstop_networking/server.c" timestamp="1543770597949">
-        <mark key="'" line="37" column="24" />
-        <mark key="[" line="134" column="4" />
-        <mark key="]" line="133" column="9" />
-        <mark key="^" line="133" column="9" />
-        <mark key="." line="133" column="9" />
+      <file name="$USER_HOME$/241/nonstop_networking/server.c" timestamp="1543778289284">
+        <mark key="'" line="393" column="34" />
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="18" />
+        <mark key="^" line="27" column="19" />
+        <mark key="." line="27" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/KtCTest/build.gradle" timestamp="1529383098529">
         <mark key="[" line="42" column="0" />
@@ -974,12 +974,12 @@
         <mark key="." line="11" column="7" />
         <mark key="^" line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/241/nonstop_networking/client.c" timestamp="1543769791965">
+      <file name="$USER_HOME$/241/nonstop_networking/client.c" timestamp="1543776816686">
         <mark key="'" line="181" column="0" />
         <mark key="[" line="67" column="27" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="141" column="41" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/response/MetadataResponse.java" timestamp="1530826974136">
         <mark key="[" line="2" column="31" />
@@ -1698,12 +1698,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/241/nonstop_networking/common.h" timestamp="1543770393108">
+      <file name="$USER_HOME$/241/nonstop_networking/common.h" timestamp="1543777534495">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="48" column="20" />
-        <mark key="]" line="48" column="15" />
-        <mark key="^" line="48" column="15" />
-        <mark key="." line="48" column="15" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="50" column="24" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/test/java/com/yahoo/dhrainbow/mocksherpa/model/model/write/JsonToPayloadTest.java" timestamp="1529426242589">
         <mark key="[" line="18" column="0" />
@@ -3456,10 +3456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="28" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
-      <jump line="105" column="15" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
-      <jump line="148" column="0" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
-      <jump line="168" column="0" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
       <jump line="127" column="35" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
       <jump line="111" column="0" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
       <jump line="50" column="0" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
@@ -3556,13 +3552,17 @@
       <jump line="14" column="29" filename="$USER_HOME$/241/nonstop_networking/server.c" />
       <jump line="46" column="0" filename="$USER_HOME$/241/nonstop_networking/server.c" />
       <jump line="37" column="24" filename="$USER_HOME$/241/nonstop_networking/server.c" />
+      <jump line="138" column="4" filename="$USER_HOME$/241/nonstop_networking/server.c" />
+      <jump line="30" column="17" filename="$USER_HOME$/241/nonstop_networking/server.c" />
+      <jump line="31" column="49" filename="$USER_HOME$/241/nonstop_networking/server.c" />
+      <jump line="391" column="34" filename="$USER_HOME$/241/nonstop_networking/server.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZy5oPgojaW5jbHVkZSA8dW5pc3RkLmg+CiNpbmNsdWRlIDxzeXMvZXBvbGwuaD4KI2luY2x1ZGUgPHNpZ25hbC5oPgojaW5jbHVkZSA8YXJwYS9pbmV0Lmg+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -3571,7 +3571,7 @@
         <text encoding="base64">CQlyZXMtPnN1Y2Nlc3MgPSAwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZy5oPgojaW5jbHVkZSA8dW5pc3RkLmg+CiNpbmNsdWRlIDxzeXMvZXBvbGwuaD4KI2luY2x1ZGUgPHNpZ25hbC5oPgojaW5jbHVkZSA8YXJwYS9pbmV0Lmg+Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHNpZ25hbC5oPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3580,28 +3580,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN5cy9zb2NrZXQuaD4KI2luY2x1ZGUgPHN0ZGlvLmg+CiNpbmNsdWRlIDxzdGRsaWIuaD4KI2luY2x1ZGUgPGVycm5vLmg+CiNpbmNsdWRlIDxzeXMvdHlwZXMuaD4K</text>
+        <text encoding="base64">CQkJd3JpdGVfYWxsX3RvX3NvY2tldChjdXJyX3N0YXRlLT5maWxkZXMsIGJ1ZmYsCgkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY291bnQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGVycm5vLmg+CiNpbmNsdWRlIDxzeXMvdHlwZXMuaD4KI2luY2x1ZGUgPHN5cy9zb2NrZXQuaD4KI2luY2x1ZGUgPGZjbnRsLmg+Cg==</text>
+        <text encoding="base64">CQl3cml0ZV9tZXNzYWdlX3NpemUoKHVpbnQ2NF90KSAoZmlsZV9zaXplICsgbnVtYmVyIC0gMSksIGZkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImRpY3Rpb25hcnkuaCIK</text>
+        <text encoding="base64">CQl3cml0ZV9tZXNzYWdlX3NpemUoMCwgZmQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMDIzKSkgPiAwKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNvbW1vbi5oIgojaW5jbHVkZSAiZm9ybWF0LmgiCg==</text>
+        <text encoding="base64">CQkJCQlyZWFkX2FsbF9mcm9tX3NvY2tldChjdXJyX3N0YXRlLT5maWxkZXMsIGJ1ZmZlciwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaW50ZigiTGlzdGVuaW5nICIpCg==</text>
+        <text encoding="base64">CQkJd3JpdGVfbWVzc2FnZV9zaXplKCh1aW50NjRfdCkgc2l6ZV90ZW1wLCBmZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CV9fc25wcmludGZfY2hrKCIiKQo=</text>
+        <text encoding="base64">CQkJCQkKCQkJCQkvKgoJCQkJCXdyaXRlX2FsbF90b19zb2NrZXQoY3Vycl9zdGF0ZS0+ZmlsZGVzLAoJCQkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3Vycl9zdGF0ZS0+aGVhZGVyICsKCQkJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJfc3RhdGUtPm9mZnNldCArCgkJCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA5LCBzaXplKTsKCQkJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlMT0coImdldGFkZHJpbmZvOiAlc1xuIiwgZ2FpX3N0cmVycm9yKHJldCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
