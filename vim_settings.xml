@@ -981,6 +981,13 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/427/proj/iTrust/WebRoot/auth/hcp/laborAndDeliveryRecords.jsp" timestamp="1543865625662">
+        <mark key="'" line="41" column="56" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+        <mark key="^" line="130" column="27" />
+      </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/response/MetadataResponse.java" timestamp="1530826974136">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="4" column="0" />
@@ -2817,6 +2824,13 @@
         <mark key="." line="19" column="23" />
         <mark key="^" line="19" column="23" />
       </file>
+      <file name="$USER_HOME$/427/proj/iTrust/src/main/edu/ncsu/csc/itrust/action/LaborDeliveryReportAction.java" timestamp="1543865656691">
+        <mark key="'" line="60" column="49" />
+        <mark key="[" line="54" column="47" />
+        <mark key="]" line="54" column="46" />
+        <mark key="." line="54" column="46" />
+        <mark key="^" line="54" column="46" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/main/kotlin/dp/MinDecomp.kt" timestamp="1535499340520">
         <mark key="[" line="18" column="54" />
         <mark key="]" line="18" column="54" />
@@ -3456,8 +3470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="35" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
-      <jump line="111" column="0" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
       <jump line="50" column="0" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
       <jump line="72" column="39" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
       <jump line="51" column="39" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
@@ -3556,22 +3568,24 @@
       <jump line="30" column="17" filename="$USER_HOME$/241/nonstop_networking/server.c" />
       <jump line="31" column="49" filename="$USER_HOME$/241/nonstop_networking/server.c" />
       <jump line="391" column="34" filename="$USER_HOME$/241/nonstop_networking/server.c" />
+      <jump line="54" column="49" filename="$USER_HOME$/427/proj/iTrust/src/main/edu/ncsu/csc/itrust/action/LaborDeliveryReportAction.java" />
+      <jump line="38" column="56" filename="$USER_HOME$/427/proj/iTrust/WebRoot/auth/hcp/laborAndDeliveryRecords.jsp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBUcmFuc2FjdGlvbkxvZ2dlci5nZXRJbnN0YW5jZSgpLmxvZ1RyYW5zYWN0aW9uKAogICAgICAgICAgICAgICAgVHJhbnNhY3Rpb25UeXBlLlZJRVdfTEFCT1JfRFJVRywgbG9nZ2VkSW5NSUQsIHBpZCwgbnVsbCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlyZXMtPnN1Y2Nlc3MgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBUcmFuc2FjdGlvbkxvZ2dlci5nZXRJbnN0YW5jZSgpLmxvZ1RyYW5zYWN0aW9uKAogICAgICAgICAgICAgICAgVHJhbnNhY3Rpb25UeXBlLlZJRVdfTEFCT1JfRFJVRywgbG9nZ2VkSW5NSUQsIHBpZCwgbnVsbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHNpZ25hbC5oPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3580,28 +3594,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJd3JpdGVfYWxsX3RvX3NvY2tldChjdXJyX3N0YXRlLT5maWxkZXMsIGJ1ZmYsCgkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY291bnQpOwo=</text>
+        <text encoding="base64">ICAgIGFsbGVyZ3lCZWFucy5mb3JFYWNoKGEgLT4gYS5nZXQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl3cml0ZV9tZXNzYWdlX3NpemUoKHVpbnQ2NF90KSAoZmlsZV9zaXplICsgbnVtYmVyIC0gMSksIGZkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl3cml0ZV9tZXNzYWdlX3NpemUoMCwgZmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBUcmFuc2FjdGlvbkxvZ2dlci5nZXRJbnN0YW5jZSgpLmxvZ1RyYW5zYWN0aW9uKAogICAgICAgICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAxMDIzKSkgPiAwKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRyYW5zYWN0aW9uVHlwZS5WSUVXXwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlyZWFkX2FsbF9mcm9tX3NvY2tldChjdXJyX3N0YXRlLT5maWxkZXMsIGJ1ZmZlciwK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUGVyc0Rhbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJd3JpdGVfbWVzc2FnZV9zaXplKCh1aW50NjRfdCkgc2l6ZV90ZW1wLCBmZCk7Cg==</text>
+        <text encoding="base64">ICAgIHBhdGllbnRpbmZvLmdldGlkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkKCQkJCQkvKgoJCQkJCXdyaXRlX2FsbF90b19zb2NrZXQoY3Vycl9zdGF0ZS0+ZmlsZGVzLAoJCQkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3Vycl9zdGF0ZS0+aGVhZGVyICsKCQkJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJfc3RhdGUtPm9mZnNldCArCgkJCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA5LCBzaXplKTsKCQkJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHNpZ25hbC5oPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJd3JpdGVfYWxsX3RvX3NvY2tldChjdXJyX3N0YXRlLT5maWxkZXMsIGJ1ZmYsCgkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY291bnQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
