@@ -527,11 +527,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/427/mp3/src/main/java/office/MeetingScheduler.java" timestamp="1544327878768">
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="67" column="7" />
+      <file name="$USER_HOME$/427/mp3/src/main/java/office/MeetingScheduler.java" timestamp="1544334451361">
+        <mark key="[" line="46" column="34" />
+        <mark key="]" line="47" column="57" />
+        <mark key="." line="47" column="57" />
+        <mark key="^" line="47" column="57" />
       </file>
       <file name="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/ws/handler/IHandler.java" timestamp="1528900500488">
         <mark key="[" line="4" column="13" />
@@ -681,12 +681,12 @@
         <mark key="^" line="66" column="36" />
         <mark key="." line="66" column="36" />
       </file>
-      <file name="$USER_HOME$/427/mp3/src/main/java/office/Meeting.java" timestamp="1544328550880">
-        <mark key="'" line="41" column="62" />
-        <mark key="[" line="47" column="5" />
-        <mark key="]" line="21" column="12" />
-        <mark key="^" line="21" column="12" />
-        <mark key="." line="21" column="12" />
+      <file name="$USER_HOME$/427/mp3/src/main/java/office/Meeting.java" timestamp="1544334345453">
+        <mark key="'" line="48" column="62" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="31" />
+        <mark key="^" line="28" column="31" />
+        <mark key="." line="28" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/kotlin_javascript_hello_world/src/index.html" timestamp="1530470724013">
         <mark key="[" line="6" column="26" />
@@ -1908,6 +1908,9 @@
         <mark key="^" line="61" column="0" />
         <mark key="." line="68" column="14" />
       </file>
+      <file name="$USER_HOME$/427/mp3/src/test/java/office/MeetingSchedulePrinterTest.java" timestamp="1544328736249">
+        <mark key="." line="26" column="31" />
+      </file>
       <file name="$USER_HOME$/Desktop/MvnHelloWorld/src/test/java/TestHelloWorld.java" timestamp="1528381964091">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="7" column="40" />
@@ -2797,12 +2800,6 @@
         <mark key="." line="19" column="17" />
         <mark key="^" line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/241/finding_filesystems/minixfs.c" timestamp="1541801886028">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/write/base/AbstractWriteRequest.java" timestamp="1531161518531">
         <mark key="[" line="25" column="76" />
         <mark key="]" line="25" column="77" />
@@ -2828,8 +2825,8 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="68" column="20" />
       </file>
-      <file name="$USER_HOME$/427/mp3/src/main/java/office/MeetingSchedulePrinter.java" timestamp="1544328699166">
-        <mark key="[" line="38" column="0" />
+      <file name="$USER_HOME$/427/mp3/src/main/java/office/MeetingSchedulePrinter.java" timestamp="1544334037807">
+        <mark key="[" line="31" column="47" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
@@ -3591,7 +3588,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -3609,28 +3606,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLmFwcGVuZCh0aW1lRm9ybWF0dGVyLnByaW50KG1lZXRpbmcuZ2V0U3RhcnRUaW1lKCkpKS5hcHBlbmQoIiAiKTsKICAgICAgICAgICAgICAgIHNiLmFwcGVuZCh0aW1lRm9ybWF0dGVyLnByaW50KG1lZXRpbmcuZ2V0RmluaXNoVGltZSgpKSkuYXBwZW5kKCIgIik7CiAgICAgICAgICAgICAgICBzYi5hcHBlbmQobWVldGluZy5nZXRFbXBsb3llZUlkKCkpLmFwcGVuZCgiXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lZXRpbmdzLmNvbnRhaW5zS2V5KG1lZXRpbmdEYXRlKSkgewogICAgICAgICAgICAgICAgbWVldGluZ3MuZ2V0KG1lZXRpbmdEYXRlKS5yZW1vdmUobWVldGluZyk7CiAgICAgICAgICAgICAgICBtZWV0aW5ncy5nZXQobWVldGluZ0RhdGUpLmFkZChtZWV0aW5nKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIFNldDxNZWV0aW5nPiBtZWV0aW5nc0ZvckRheSA9IG5ldyBIYXNoU2V0PE1lZXRpbmc+KCk7CiAgICAgICAgICAgICAgICBtZWV0aW5nc0ZvckRheS5hZGQobWVldGluZyk7CiAgICAgICAgICAgICAgICBtZWV0aW5ncy5wdXQobWVldGluZ0RhdGUsIG1lZXRpbmdzRm9yRGF5KTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtZWV0aW5nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtZWV0aW5nLmdldFN0YXJ0VGltZSgpKTsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtZWV0aW5nLmdldEVtcGxveWVlSWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKG1lZXRpbmcpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtZWV0aW5nLmdldFN0YXJ0VGltZSgpKTsKICAgICAgICAgICAgICAgIHNvdQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEFycmF5cy50b1N0cmluZyhtZWV0aW5nU2xvdFJlcXVlc3QpKTsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1lZXRpbmdzKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKG1lZXRpbmcpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKHJlcXVlc3QpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtZWV0aW5nID09IG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1lZXRpbmdzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihtZWV0aW5nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1lZXRpbmdEYXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
