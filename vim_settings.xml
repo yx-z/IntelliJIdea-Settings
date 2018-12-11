@@ -448,11 +448,10 @@
         <mark key="." line="12" column="54" />
         <mark key="^" line="12" column="54" />
       </file>
-      <file name="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" timestamp="1544503359006">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="47" column="20" />
+      <file name="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" timestamp="1544506078640">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/util/StringUtil.kt" timestamp="1521768443002">
         <mark key="[" line="6" column="34" />
@@ -3476,17 +3475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="279" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="187" column="12" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="191" column="8" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="256" column="41" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="121" column="42" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="34" column="17" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="19" column="21" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="122" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="228" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="22" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="48" column="15" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="57" column="22" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="18" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
@@ -3576,22 +3564,33 @@
       <jump line="37" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
       <jump line="60" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
       <jump line="27" column="4" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="29" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="118" column="6" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="31" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="120" column="19" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="18" column="30" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="93" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="12" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="103" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="62" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="112" column="12" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="24" column="12" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWcuYWRqX21hdCgmZHcpLT5wcmludF9tYXRyaXgoKTsK</text>
+        <text encoding="base64">CS8vfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>~</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJY291dCA8PCBpZHhbaV0gPDwgZW5kbDsK</text>
+        <text encoding="base64">CX5HcmFwaCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWcuYWRqX21hdCgmZHcpLT5wcmludF9tYXRyaXgoKTsK</text>
+        <text encoding="base64">CS8vfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3600,28 +3599,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJY291dCA8PCBpZHhbaV0gPDwgZW5kbDsKCQkJY291dCA8PCBpZHhbaSArIDFdIDw8IGVuZGw7CgkJCWNvdXQgPDwgZW5kbDsK</text>
+        <text encoding="base64">CS8vZm9yIChpbnQgaSA9IDA7IGkgPCBuOyBpKyspIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJY291dCA8PCAiaWR4WyIgPDwgaSA8PCAiXTogIiA8PCBpZHhbaV0gPDwgZW5kbDsK</text>
+        <text encoding="base64">CS8qCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmb3IgKCkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJY291dCA8PCAidjE6ICIgPDwgdjEgPDwgZW5kbDsKCQkJY291dCA8PCAidjI6ICIgPDwgdjIgPDwgZW5kbDsK</text>
+        <text encoding="base64">CX5HcmFwaCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZmlsbFtpXSA9IDE7CgkJCWZpbGxbaSArIDFdID0gMTsK</text>
+        <text encoding="base64">CkdyYXBoOjp+R3JhcGgoKSB7CglkZWxldGUgdGhpcy0+ZWRnZXM7Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlhdXRvIGZpbGwgPSBuZXcgaW50W20yXTsK</text>
+        <text encoding="base64">CWRlbGV0ZSB0aGlzLT5lZGdlczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJY291dCA8PCAidjE6ICIgPDwgdjEgPDwgZW5kbDsKCQkJY291dCA8PCAidjI6ICIgPDwgdjIgPDwgZW5kbDsK</text>
+        <text encoding="base64">CWZyZWUoZyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkKCQljb3V0IDw8ICJpMTogIiA8PCB0aGlzLT5pMSA8PCBlbmRsOwoJCWNvdXQgPDwgImkyOiAiIDw8IHRoaXMtPmkyIDw8IGVuZGw7Cg==</text>
+        <text encoding="base64">R3JhcGg6On5HcmFwaCgpIHt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
