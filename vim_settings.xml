@@ -448,10 +448,11 @@
         <mark key="." line="12" column="54" />
         <mark key="^" line="12" column="54" />
       </file>
-      <file name="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" timestamp="1544538675130">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="46" />
-        <mark key="." line="119" column="0" />
+      <file name="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" timestamp="1544545945410">
+        <mark key="[" line="90" column="28" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="91" column="0" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/util/StringUtil.kt" timestamp="1521768443002">
         <mark key="[" line="6" column="34" />
@@ -3475,14 +3476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="15" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="57" column="22" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="18" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="125" column="17" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="134" column="24" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="26" column="33" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="118" column="19" filename="$USER_HOME$/241/parallel_make/parmake.c" />
-      <jump line="28" column="34" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="128" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="117" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
       <jump line="60" column="0" filename="$USER_HOME$/241/parallel_make/parmake.c" />
@@ -3565,32 +3558,40 @@
       <jump line="60" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
       <jump line="27" column="4" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
       <jump line="29" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
-      <jump line="118" column="6" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
       <jump line="31" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
       <jump line="120" column="19" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
       <jump line="18" column="30" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
       <jump line="93" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
       <jump line="12" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
-      <jump line="103" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
       <jump line="62" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
       <jump line="112" column="12" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
       <jump line="24" column="12" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="86" column="29" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="84" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="103" column="24" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="4" column="24" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="122" column="23" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="125" column="20" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="118" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="113" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="82" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
+      <jump line="52" column="0" filename="$USER_HOME$/LPNA/ctf/examples/connectivity.cxx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWF1dG8gdyA9IG5ldyBWZWN0b3I8aW50PihuLCAqQS53cmxkLCB0c3IpOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>file</text>
+        <text>int</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CX5HcmFwaCgpOwo=</text>
+        <text encoding="base64">CVNlbWlyaW5nPGZsb2F0PiB0c3IoMC4wLAoJICAgICAgICAgICAgICAgICAgICBbXShmbG9hdCBhLCBmbG9hdCBiKSB7IHJldHVybiBzdGQ6Om1heChhLCBiKTsgfSwKCSAgICAgICAgICAgICAgICAgICAgTVBJX01BWCwKCSAgICAgICAgICAgICAgICAgICAgMS4wLAoJICAgICAgICAgICAgICAgICAgICBbXShmbG9hdCBhLCBmbG9hdCBiKSB7IHJldHVybiBhICogYjsgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWF1dG8gdyA9IG5ldyBWZWN0b3I8aW50PihuLCAqQS53cmxkLCB0c3IpOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3599,45 +3600,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUEtPnNyID0gdG1wOwo=</text>
+        <text encoding="base64">CSAqIGxpc3Qgb2YgZWRnZXMgYXMgYSBwYWlyIG9mIHR3byB2ZXJ0aWNlcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWF1dG8gdG1wID0gQS0+c3I7Cg==</text>
+        <text encoding="base64">CWNvdXQgPDwgIkV4YW1wbGUgMToiIDw8IGVuZGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXRoaXMtPmkyID0gcC5pMjsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CXRoaXMtPmkxID0gcC5pMTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">SW50UGFpcjo6SW50UGFpcihjb25zdCBJbnRQYWlyICZwKSB7Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">CQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CS8qCgljb3V0IDw8IGVuZGw7CgkKCWNvdXQgPDwgIkV4YW1wbGUgMjoiIDw8IGVuZGw7CglpbnQgbiA9IDc7CglhdXRvIEEgPSBNYXRyaXg8ZmxvYXQ+KG4sIG4sIHcsIFRTUik7CglpbnQgdiA9IDEyOwoJYXV0byBpZHggPSBuZXcgaW50NjRfdFt2XXsxLCAyLCA3LCA5LCAxMCwgMTQsIDE1LCAxOCwgMTksIDIyLCAzMCwgMzd9OwoJYXV0byBkYXRhID0gbmV3IGZsb2F0W3ZdOwoJZm9yIChpbnQgaSA9IDA7IGkgPCB2OyBpKyspIHsKCQlkYXRhW2ldID0gUExBQ0VfVkVSVEVYOwoJfQoJQS53cml0ZSh2LCBpZHgsIGRhdGEpOwoJQS5wcmludF9tYXRyaXgoKTsKCWZyZWUoaWR4KTsKCWZyZWUoZGF0YSk7CgkKCWF1dG8gcmV0ID0gY29ubmVjdGl2aXR5KEEpOwoJcmV0LT5wcmludCgpOwoJZnJlZShyZXQpOwoJKi8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWZyZWUoaWR4KTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CT0gbmV3IGludDY0X3RbbTJdOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CWZyZWUoZmlsbCk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQlhdXRvIHYxID0gZWRnZS5pMTsKCQlhdXRvIHYyID0gZWRnZS5pMjsK</text>
+      </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>file</last-search>
+      <last-search>int</last-search>
       <last-offset />
-      <last-pattern>file</last-pattern>
-      <last-replace>node</last-replace>
-      <last-substitute>file</last-substitute>
+      <last-pattern>int</last-pattern>
+      <last-replace>float</last-replace>
+      <last-substitute>int</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getKey</entry>
         <entry>kotlin</entry>
         <entry>Misc</entry>
         <entry>equals</entry>
@@ -3657,9 +3657,9 @@
         <entry>addr_info</entry>
         <entry>graph_get_vertex_value</entry>
         <entry>file</entry>
+        <entry>int</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2ZpbmFsLy9n</entry>
         <entry encoding="base64">JzwsJz5zLysgLysgdGhpcy4vZw==</entry>
         <entry encoding="base64">JzwsJz5zL3JlcXVlc3QuZ2V0UGFyYW1ldGVyL2ZpcnN0T2YocGFyYW1NYXAuZ2V0L2c=</entry>
         <entry encoding="base64">JzwsJz5zLzsvKTsvZw==</entry>
@@ -3676,9 +3676,10 @@
         <entry encoding="base64">JzwsJz5zL2FkZHJfaW5mby9zb2Nrb3B0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL2dyYXBoX2dldF92ZXJ0ZXhfdmFsdWUvZ2V0X3ZlcnRleC9n</entry>
         <entry encoding="base64">JzwsJz5zL2ZpbGUvbm9kZS9n</entry>
-        <entry>noh</entry>
         <entry>w</entry>
         <entry>nohlsearch</entry>
+        <entry encoding="base64">JzwsJz5zL2ludC9mbG9hdC9n</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
