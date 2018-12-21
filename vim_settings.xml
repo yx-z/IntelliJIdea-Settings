@@ -232,6 +232,9 @@
         <mark key="." line="52" column="57" />
         <mark key="^" line="52" column="15" />
       </file>
+      <file name="$USER_HOME$/LPNA/konnectivity/src/Tuple.kt" timestamp="1545395173686">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/KtCTest/src/main/kotlin/Main.kt" timestamp="1529383817061">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -1500,6 +1503,12 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/LPNA/konnectivity/src/Graph.kt" timestamp="1545394361890">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/greedy/CanJumpToEnd.kt" timestamp="1508113315814">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="10" />
@@ -1947,9 +1956,6 @@
         <mark key="^" line="61" column="0" />
         <mark key="." line="68" column="14" />
       </file>
-      <file name="$USER_HOME$/427/mp3/src/test/java/office/MeetingSchedulePrinterTest.java" timestamp="1544338390017">
-        <mark key="." line="26" column="31" />
-      </file>
       <file name="$USER_HOME$/Desktop/MvnHelloWorld/src/test/java/TestHelloWorld.java" timestamp="1528381964091">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="7" column="40" />
@@ -2229,6 +2235,13 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/LPNA/konnectivity/src/OneArray.kt" timestamp="1545394659040">
+        <mark key="'" line="486" column="0" />
+        <mark key="[" line="486" column="1" />
+        <mark key="]" line="486" column="0" />
+        <mark key="^" line="486" column="0" />
+        <mark key="." line="486" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/base/BasePayload.java" timestamp="1529947454891">
         <mark key="[" line="70" column="26" />
         <mark key="]" line="70" column="83" />
@@ -2253,11 +2266,12 @@
         <mark key="^" line="4" column="49" />
         <mark key="." line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/LPNA/konnectivity/src/Konnectivity.kt" timestamp="1545233879407">
-        <mark key="[" line="51" column="56" />
-        <mark key="]" line="51" column="57" />
-        <mark key="." line="51" column="57" />
-        <mark key="^" line="51" column="57" />
+      <file name="$USER_HOME$/LPNA/konnectivity/src/Konnectivity.kt" timestamp="1545394401043">
+        <mark key="'" line="19" column="36" />
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="36" />
+        <mark key="." line="19" column="36" />
+        <mark key="^" line="19" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/mocksherpa-kt/src/main/Dao.kt" timestamp="1533050653577">
         <mark key="[" line="2" column="17" />
@@ -3545,10 +3559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="0" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
-      <jump line="149" column="0" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
-      <jump line="190" column="0" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
-      <jump line="59" column="37" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
       <jump line="70" column="16" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
       <jump line="86" column="0" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
       <jump line="136" column="4" filename="$USER_HOME$/241/mapreduce/mapreduce.c" />
@@ -3645,13 +3655,17 @@
       <jump line="13" column="0" filename="$USER_HOME$/LPNA/connectivity/Konnectivity/src/Graph.kt" />
       <jump line="16" column="30" filename="$USER_HOME$/LPNA/connectivity/Konnectivity/src/Graph.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/LPNA/connectivity/Konnectivity/src/Graph.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/LPNA/konnectivity/src/Graph.kt" />
+      <jump line="15" column="14" filename="$USER_HOME$/LPNA/konnectivity/src/Konnectivity.kt" />
+      <jump line="19" column="36" filename="$USER_HOME$/LPNA/konnectivity/src/Konnectivity.kt" />
+      <jump line="486" column="0" filename="$USER_HOME$/LPNA/konnectivity/src/OneArray.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJPzogdGhyb3cgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJubyB2ZXJ0ZXggZm91bmQiKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -3660,7 +3674,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc20pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJPzogdGhyb3cgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJubyB2ZXJ0ZXggZm91bmQiKQo=</text>
+        <text encoding="base64">CS8vIGluIHN0YXIgaWZmLiBncmFuZHBhcmVudCA9PSBwYXJlbnQKCWZ1biBpblN0YXIoRjogUGFyZW50TWFwLCB2OiBJbnQpID0gRltGW3ZdXSA9PSBGW3ZdCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3669,28 +3683,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqICogCiAqLwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+        <text encoding="base64">Y2xhc3MgR3JhcGggewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">Y2xhc3MgR3JhcGgodmFsIG51bVZlcnRpY2VzOiBJbnQsIHZhbCBlZGdlczogTGlzdDxQYWlyPEludCwgSW50Pj4pIHsKCXZhbCB2ZXJ0aWNlcyA9IEludFJhbmdlKDEsIG51bVZlcnRpY2VzKQoKCS8vIGluIHN0YXIgaWZmLiBncmFuZHBhcmVudCA9PSBwYXJlbnQKCWZ1biBpblN0YXIoRjogUGFyZW50TWFwLCB2OiBJbnQpID0gRltGW3ZdXSA9PSBGW3ZdCn0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CW9iamVjdCB7Cg==</text>
+        <text encoding="base64">CQkJPzogdGhyb3cgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJubyB2ZXJ0ZXggZm91bmQiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqICogCiAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIAogKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgUGFyZW50TWFwIDogSGFzaE1hcDxJbnQsIEludD4oKSB7CglvdmVycmlkZSBvcGVyYXRvciBmdW4gZ2V0KGtleTogSW50KSA9IHN1cGVyLmdldChrZXkpISEKfQo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNvbXBhbmlvbiBvYmplY3QgewoJfQo=</text>
+        <text encoding="base64">CW9iamVjdCB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
