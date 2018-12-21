@@ -1503,11 +1503,11 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/LPNA/konnectivity/src/Graph.kt" timestamp="1545394361890">
+      <file name="$USER_HOME$/LPNA/konnectivity/src/Graph.kt" timestamp="1545395747815">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/greedy/CanJumpToEnd.kt" timestamp="1508113315814">
         <mark key="[" line="11" column="11" />
@@ -1844,6 +1844,11 @@
         <mark key="]" line="9" column="1" />
         <mark key="^" line="3" column="46" />
         <mark key="." line="9" column="1" />
+      </file>
+      <file name="$USER_HOME$/LPNA/konnectivity/src/util/Graph.kt" timestamp="1545395992057">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/vzncount/src/main/java/ws/Main.java" timestamp="1528403214444">
         <mark key="[" line="9" column="0" />
@@ -2235,12 +2240,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/LPNA/konnectivity/src/OneArray.kt" timestamp="1545394659040">
+      <file name="$USER_HOME$/LPNA/konnectivity/src/OneArray.kt" timestamp="1545395675117">
         <mark key="'" line="486" column="0" />
-        <mark key="[" line="486" column="1" />
-        <mark key="]" line="486" column="0" />
-        <mark key="^" line="486" column="0" />
-        <mark key="." line="486" column="0" />
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="425" column="18" />
+        <mark key="^" line="425" column="18" />
+        <mark key="." line="425" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/base/BasePayload.java" timestamp="1529947454891">
         <mark key="[" line="70" column="26" />
@@ -2749,7 +2754,7 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1545183236317">
+      <file name="/fragment.java" timestamp="1545395959562">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/VCount/src/main/java/util/ConvertTime.java" timestamp="1528644218574">
@@ -3354,6 +3359,11 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
       </file>
+      <file name="$USER_HOME$/LPNA/konnectivity/src/util/Matrix.kt" timestamp="1545396276206">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/base/AbstractMetadataRequest.java" timestamp="1532726788362">
         <mark key="'" line="37" column="7" />
         <mark key="[" line="19" column="42" />
@@ -3661,11 +3671,11 @@
       <jump line="486" column="0" filename="$USER_HOME$/LPNA/konnectivity/src/OneArray.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -3674,7 +3684,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc20pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIGluIHN0YXIgaWZmLiBncmFuZHBhcmVudCA9PSBwYXJlbnQKCWZ1biBpblN0YXIoRjogUGFyZW50TWFwLCB2OiBJbnQpID0gRltGW3ZdXSA9PSBGW3ZdCg==</text>
+        <text encoding="base64">ZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3686,25 +3696,25 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgR3JhcGggewo=</text>
+        <text encoding="base64">CU1hdHJpeCgxLDIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgR3JhcGgodmFsIG51bVZlcnRpY2VzOiBJbnQsIHZhbCBlZGdlczogTGlzdDxQYWlyPEludCwgSW50Pj4pIHsKCXZhbCB2ZXJ0aWNlcyA9IEludFJhbmdlKDEsIG51bVZlcnRpY2VzKQoKCS8vIGluIHN0YXIgaWZmLiBncmFuZHBhcmVudCA9PSBwYXJlbnQKCWZ1biBpblN0YXIoRjogUGFyZW50TWFwLCB2OiBJbnQpID0gRltGW3ZdXSA9PSBGW3ZdCn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJPzogdGhyb3cgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJubyB2ZXJ0ZXggZm91bmQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqICogCiAqLwo=</text>
+        <text encoding="base64">CS8vIGluIHN0YXIgaWZmLiBncmFuZHBhcmVudCA9PSBwYXJlbnQKCWZ1biBpblN0YXIoRjogUGFyZW50TWFwLCB2OiBJbnQpID0gRltGW3ZdXSA9PSBGW3ZdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">Y2xhc3MgR3JhcGggewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CW9iamVjdCB7Cg==</text>
+        <text encoding="base64">Y2xhc3MgR3JhcGgodmFsIG51bVZlcnRpY2VzOiBJbnQsIHZhbCBlZGdlczogTGlzdDxQYWlyPEludCwgSW50Pj4pIHsKCXZhbCB2ZXJ0aWNlcyA9IEludFJhbmdlKDEsIG51bVZlcnRpY2VzKQoKCS8vIGluIHN0YXIgaWZmLiBncmFuZHBhcmVudCA9PSBwYXJlbnQKCWZ1biBpblN0YXIoRjogUGFyZW50TWFwLCB2OiBJbnQpID0gRltGW3ZdXSA9PSBGW3ZdCn0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
