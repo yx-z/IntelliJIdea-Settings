@@ -817,12 +817,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/LPNA/konnectivity/src/linalg/Vector.kt" timestamp="1545587261048">
+      <file name="$USER_HOME$/LPNA/konnectivity/src/linalg/Vector.kt" timestamp="1545588080976">
         <mark key="'" line="14" column="4" />
-        <mark key="[" line="73" column="13" />
-        <mark key="]" line="73" column="13" />
-        <mark key="^" line="74" column="28" />
-        <mark key="." line="73" column="13" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/main/kotlin/Test.kt" timestamp="1535498963898">
         <mark key="[" line="3" column="22" />
@@ -3780,8 +3779,8 @@
       <jump line="4" column="14" filename="$USER_HOME$/LPNA/konnectivity/src/linalg/Matrix.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -3793,7 +3792,7 @@
         <text encoding="base64">aW1wb3J0IHV0aWwuZ2V0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlWZWN0b3Ioc2l6ZSwgc2VtaXJpbmcpIHsgdGhpc1tpdCAtIDFdIH0K</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3802,28 +3801,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CW9wZXJhdG9yIGZ1biBtdWx0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuIEFycmF5PEludEFycmF5Pi50b01hdHJpeChzZW1pcmluZzogU2VtaXJpbmc8SW50PiA9IElOVF9ERUZBVUxUX1NFTUlSSU5HKSA9Cg==</text>
+        <text encoding="base64">CQlWZWN0b3Ioc2l6ZSwgc2VtaXJpbmcpIHsgdGhpc1tpdCAtIDFdIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlNYXRyaXgoc2l6ZSBieSB0aGlzWzBdLnNpemUsIHNlbWlyaW5nKSB7IHIsIGMgLT4gdGhpc1tyIC0gMSwgYyAtIDFdIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuIEFycmF5PEludEFycmF5Pi50b01hdHJpeChzZW1pcmluZzogU2VtaXJpbmc8SW50PiA9IElOVF9ERUZBVUxUX1NFTUlSSU5HKSA9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlNYXRyaXgoc2l6ZSBieSB0aGlzWzBdLnNpemUsIHNlbWlyaW5nKSB7IHIsIGMgLT4gdGhpc1tyIC0gMSwgYyAtIDFdIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuIEFycmF5PEludEFycmF5Pi50b01hdHJpeChzZW1pcmluZzogU2VtaXJpbmc8SW50PiA9IElOVF9ERUZBVUxUX1NFTUlSSU5HKSA9CgkJTWF0cml4KHNpemUgYnkgdGhpc1swXS5zaXplLCBzZW1pcmluZykgeyByLCBjIC0+IHRoaXNbciAtIDEsIGMgLSAxXSB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cm9wZXJhdG9yIGZ1biA8VD4gQXJyYXk8QXJyYXk8VD4+LmdldChyOiBJbnQsIGM6IEludCkgPSB0aGlzW3JdW2NdCgpvcGVyYXRvciBmdW4gPFQ+IEFycmF5PEFycmF5PFQ+Pi5zZXQocjogSW50LCBjOiBJbnQsIHY6IFQpIHsKCXRoaXNbcl1bY10gPSB2Cn0KCm9wZXJhdG9yIGZ1biBBcnJheTxJbnRBcnJheT4uZ2V0KHI6IEludCwgYzogSW50KSA9IHRoaXNbcl1bY10KCm9wZXJhdG9yIGZ1biBBcnJheTxJbnRBcnJheT4uc2V0KHI6IEludCwgYzogSW50LCB2OiBJbnQpIHsKCXRoaXNbcl1bY10gPSB2Cn0KCg==</text>
+        <text encoding="base64">ZnVuIEFycmF5PEludEFycmF5Pi50b01hdHJpeChzZW1pcmluZzogU2VtaXJpbmc8SW50PiA9IElOVF9ERUZBVUxUX1NFTUlSSU5HKSA9CgkJTWF0cml4KHNpemUgYnkgdGhpc1swXS5zaXplLCBzZW1pcmluZykgeyByLCBjIC0+IHRoaXNbciAtIDEsIGMgLSAxXSB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
