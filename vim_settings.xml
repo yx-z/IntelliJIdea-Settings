@@ -879,7 +879,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547146749401">
+      <file name="/Dummy.txt" timestamp="1547687693506">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2739,10 +2739,10 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Hook.kt" timestamp="1547129692944">
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Hook.kt" timestamp="1547687567155">
         <mark key="'" line="76" column="11" />
-        <mark key="[" line="71" column="20" />
-        <mark key="]" line="71" column="34" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="24" column="32" />
         <mark key="." line="71" column="34" />
         <mark key="^" line="71" column="34" />
       </file>
@@ -3407,12 +3407,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Anchor.kt" timestamp="1547682586802">
-        <mark key="'" line="9" column="14" />
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="22" column="14" />
-        <mark key="^" line="20" column="25" />
-        <mark key="." line="22" column="14" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Anchor.kt" timestamp="1547687690849">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="38" column="49" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/response/SchemaLevelIncludedCob.java" timestamp="1529945696783">
         <mark key="[" line="54" column="31" />
@@ -3884,8 +3883,8 @@
       <jump line="91" column="0" filename="$USER_HOME$/LPNA/Konnectivity/src/linalg/Vector.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCS8qCgkJCQlpbnRNYXRyaXgobnVtVmVydGljZXMgYnkgbnVtVmVydGljZXMpIHsgaSwgaiAtPgoJCQkoMS4ubnVtVmVydGljZXMpLm1hcCB7IGwgLT4gUFtsLCBpXSAqIEFbbCwgal0gfS5tYXgoKSEhCgkJfQoJCSovCg==</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -3894,10 +3893,10 @@
         <text>to</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaW50bG4oInBpXjA6IikKCXBpLnByZXR0eVByaW50bG4odHJ1ZSkK</text>
+        <text encoding="base64">CXZhbCBHID0gR3JhcGgoMTgsIGxpc3RPZigKCQkJMSB3aXRoIDIsCgkJCTIgd2l0aCAzLAoJCQkzIHdpdGggNCwKCQkJMyB3aXRoIDExLAoJCQk0IHdpdGggMTEsCgkJCTE2IHdpdGggMTcsCgkJCTIgd2l0aCAxMiwKCQkJMiB3aXRoIDUsCgkJCTUgd2l0aCA2LAoJCQkxNCB3aXRoIDE1LAoJCQk2IHdpdGggMTMsCgkJCTEzIHdpdGggMTQsCgkJCTEwIHdpdGggOSwKCQkJOCB3aXRoIDksCgkJCTcgd2l0aCA4KSkKCglHLmhvb2soKS5wcmV0dHlQcmludGxuKHRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCS8qCgkJCQlpbnRNYXRyaXgobnVtVmVydGljZXMgYnkgbnVtVmVydGljZXMpIHsgaSwgaiAtPgoJCQkoMS4ubnVtVmVydGljZXMpLm1hcCB7IGwgLT4gUFtsLCBpXSAqIEFbbCwgal0gfS5tYXgoKSEhCgkJfQoJCSovCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3909,25 +3908,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwcmludGxuKCJCOiIpCgkJQi5wcmV0dHlQcmludGxuKHRydWUpCg==</text>
+        <text encoding="base64">CXZhbCBHID0gR3JhcGgoNiwgbGlzdE9mKDEgd2l0aCAyLCAzIHdpdGggNSwgNCB3aXRoIDUsIDQgd2l0aCA2KSkKCglHLmFuY2hvcigpLnByZXR0eVByaW50bG4odHJ1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkoMS4ubnVtVmVydGljZXMpLmZvckVhY2ggeyBpIC0+CgkJCShpLi5udW1WZXJ0aWNlcykuZm9yRWFjaCB7IGogLT4KCQkJCQoJCQl9CgkJfQo=</text>
+        <text encoding="base64">CQkJMSB3aXRoIDIsCgkJCTIgd2l0aCAzLAoJCQkzIHdpdGggNCwKCQkJMyB3aXRoIDExLAoJCQk0IHdpdGggMTEsCgkJCTE2IHdpdGggMTcsCgkJCTIgd2l0aCAxMiwKCQkJMiB3aXRoIDUsCgkJCTUgd2l0aCA2LAoJCQkxNCB3aXRoIDE1LAoJCQk2IHdpdGggMTMsCgkJCTEzIHdpdGggMTQsCgkJCTEwIHdpdGggOSwKCQkJOCB3aXRoIDksCgkJCTcgd2l0aCA4KSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZhbCBHID0gR3JhcGgoNiwgbGlzdE9mKDIgd2l0aCAzLCA0IHdpdGggNSwgNSB3aXRoIDYsIDQgd2l0aCA2KSkKCglHLmFuY2hvcigpLnByZXR0eVByaW50bG4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlwcmludGxuKCJwaV4kazoiKQoJCXBpLnByZXR0eVByaW50bG4odHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl2YWwgQiA9ICgxLi5udW1WZXJ0aWNlcykubWFwIHsgbCAtPiBQW2wsIGldIH0K</text>
+        <text encoding="base64">CQlwcmludGxuKCJBXiRrOiIpCgkJQS5wcmV0dHlQcmludGxuKHRydWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJSU5UX1RST1BJQ0FMX1NFTUlSSU5HX01BWF9USU1FUykK</text>
+        <text encoding="base64">CQlwcmludGxuKCJCXiRrOiIpCgkJQi5wcmV0dHlQcmludGxuKHRydWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWlmIChpIDwgaikK</text>
+        <text encoding="base64">CXByaW50bG4oIlBeMDoiKQoJUC5wcmV0dHlQcmludGxuKHRydWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
