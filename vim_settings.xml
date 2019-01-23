@@ -879,7 +879,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547689244504">
+      <file name="/Dummy.txt" timestamp="1548264547963">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2442,6 +2442,13 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="39" />
       </file>
+      <file name="$USER_HOME$/242/sp-19-cs242-assignment0/HW0/src/lanSimulation/Network.java" timestamp="1548264509207">
+        <mark key="'" line="282" column="21" />
+        <mark key="[" line="206" column="32" />
+        <mark key="]" line="285" column="21" />
+        <mark key="^" line="285" column="21" />
+        <mark key="." line="285" column="22" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/dp/LIBAFS.kt" timestamp="1520808389613">
         <mark key="[" line="40" column="90" />
         <mark key="]" line="40" column="72" />
@@ -3781,8 +3788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="0" filename="$USER_HOME$/241/nonstop_networking/client.c" />
-      <jump line="74" column="28" filename="$USER_HOME$/241/nonstop_networking/client.c" />
       <jump line="84" column="34" filename="$USER_HOME$/241/nonstop_networking/client.c" />
       <jump line="37" column="0" filename="$USER_HOME$/241/nonstop_networking/common.h" />
       <jump line="236" column="30" filename="$USER_HOME$/241/nonstop_networking/client.c" />
@@ -3881,22 +3886,24 @@
       <jump line="48" column="0" filename="$USER_HOME$/LPNA/Konnectivity/src/graph/Anchor.kt" />
       <jump line="44" column="0" filename="$USER_HOME$/LPNA/Konnectivity/src/graph/Anchor.kt" />
       <jump line="41" column="0" filename="$USER_HOME$/LPNA/Konnectivity/src/graph/Anchor.kt" />
+      <jump line="46" column="28" filename="$USER_HOME$/242/sp-19-cs242-assignment0/HW0/src/lanSimulation/Network.java" />
+      <jump line="294" column="21" filename="$USER_HOME$/242/sp-19-cs242-assignment0/HW0/src/lanSimulation/Network.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgkJcHJpbnRsbigiQToiKQoJCUEucHJldHR5UHJpbnRsbih0cnVlKQoJCXByaW50bG4oInBpOiIpCgkJcGkucHJldHR5UHJpbnRsbih0cnVlKQoJCXByaW50bG4oIkI6IikKCQlCLnByZXR0eVByaW50bG4odHJ1ZSkK</text>
+        <text encoding="base64">CQkJCQlyZXBvcnQud3JpdGUoIj4+PiBBU0NJSSBQcmludCBqb2IgZGVsaXZlcmVkLlxuXG4iKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>cript</text>
       </register>
       <register name="/" type="4">
-        <text>to</text>
+        <text>printDocument(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXZhbCBHID0gR3JhcGgoMTgsIGxpc3RPZigKCQkJMSB3aXRoIDIsCgkJCTIgd2l0aCAzLAoJCQkzIHdpdGggNCwKCQkJMyB3aXRoIDExLAoJCQk0IHdpdGggMTEsCgkJCTE2IHdpdGggMTcsCgkJCTIgd2l0aCAxMiwKCQkJMiB3aXRoIDUsCgkJCTUgd2l0aCA2LAoJCQkxNCB3aXRoIDE1LAoJCQk2IHdpdGggMTMsCgkJCTEzIHdpdGggMTQsCgkJCTEwIHdpdGggOSwKCQkJOCB3aXRoIDksCgkJCTcgd2l0aCA4KSkKCglHLmhvb2soKS5wcmV0dHlQcmludGxuKHRydWUpCg==</text>
+        <text encoding="base64">CQkJCQlyZXBvcnQud3JpdGUoIj4+PiAiICsgam9iVHlwZSArICIgam9iIGRlbGl2ZXJlZC5cblxuIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgkJcHJpbnRsbigiQToiKQoJCUEucHJldHR5UHJpbnRsbih0cnVlKQoJCXByaW50bG4oInBpOiIpCgkJcGkucHJldHR5UHJpbnRsbih0cnVlKQoJCXByaW50bG4oIkI6IikKCQlCLnByZXR0eVByaW50bG4odHJ1ZSkK</text>
+        <text encoding="base64">CQkJCQlyZXBvcnQud3JpdGUoIj4+PiBBU0NJSSBQcmludCBqb2IgZGVsaXZlcmVkLlxuXG4iKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3905,45 +3912,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJKDEuLm51bVZlcnRpY2VzKS5tYXAgeyBsIC0+IFBbbCwgaV0gKiBBW2wsIGpdIH0ubWF4KCkhIQoJCX0K</text>
+        <text encoding="base64">CgkJcHJpbnRsbigiQToiKQoJCUEucHJldHR5UHJpbnRsbih0cnVlKQoJCXByaW50bG4oInBpOiIpCgkJcGkucHJldHR5UHJpbnRsbih0cnVlKQoJCXByaW50bG4oIkI6IikKCQlCLnByZXR0eVByaW50bG4odHJ1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJNCB3aXRoIDUsCgkJCTQgd2l0aCA2Cg==</text>
+        <text encoding="base64">CQkJKDEuLm51bVZlcnRpY2VzKS5tYXAgeyBsIC0+IFBbbCwgaV0gKiBBW2wsIGpdIH0ubWF4KCkhIQoJCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CglwcmludGxuKCJBOiIpCglBLnByZXR0eVByaW50bG4odHJ1ZSkKCXByaW50bG4oInBpOiIpCglwaS5wcmV0dHlQcmludGxuKHRydWUpCg==</text>
+        <text encoding="base64">CQkJNCB3aXRoIDUsCgkJCTQgd2l0aCA2Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByaW50bG4oKQo=</text>
+        <text encoding="base64">CglwcmludGxuKCJBOiIpCglBLnByZXR0eVByaW50bG4odHJ1ZSkKCXByaW50bG4oInBpOiIpCglwaS5wcmV0dHlQcmludGxuKHRydWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlCLnByZXR0eVByaW50bG4odHJ1ZSkK</text>
+        <text encoding="base64">CXByaW50bG4oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlBLnByZXR0eVByaW50bG4odHJ1ZSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CQlCLnByZXR0eVByaW50bG4odHJ1ZSkK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlBLnByZXR0eVByaW50bG4odHJ1ZSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwaS5wcmV0dHlQcmludGxuKHRydWUpCgkJUC5wcmV0dHlQcmludGxuKHRydWUpCgkJQS5wcmV0dHlQcmludGxuKHRydWUpCg==</text>
+        <text encoding="base64">CQlCLnByZXR0eVByaW50bG4odHJ1ZSkK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>to</last-search>
+      <last-search>printDocument(</last-search>
       <last-offset />
-      <last-pattern>to</last-pattern>
+      <last-pattern>printDocument(</last-pattern>
       <last-replace>with</last-replace>
       <last-substitute>to</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>shutdown</entry>
         <entry>shut</entry>
         <entry>rtn_vtr</entry>
         <entry>this</entry>
@@ -3963,6 +3969,7 @@
         <entry>it</entry>
         <entry>and</entry>
         <entry>to</entry>
+        <entry>printDocument(</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL21ldHJpY3MvdGhpcy5tZXRyaWNzL2c=</entry>
