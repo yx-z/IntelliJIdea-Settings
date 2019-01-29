@@ -1143,7 +1143,6 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAltPath.kt" timestamp="1545845725071" />
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/exception/BadRequestException.java" timestamp="1532554411794">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1388,6 +1387,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/242/1/src/edu/illinois/cs/chess/Piece.java" timestamp="1548805471720">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Github/Playground/DataStructureAndAlgorithm/AlgoKt/src/arr/Intersection.kt" timestamp="1503622405861">
         <mark key="[" line="24" column="0" />
@@ -2884,7 +2889,7 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1548703634556">
+      <file name="/fragment.java" timestamp="1548805114840">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/VCount/src/main/java/util/ConvertTime.java" timestamp="1528644218574">
@@ -3056,6 +3061,11 @@
         <mark key="]" line="19" column="23" />
         <mark key="." line="19" column="23" />
         <mark key="^" line="19" column="23" />
+      </file>
+      <file name="$USER_HOME$/242/1/src/edu/illinois/cs/chess/Game.java" timestamp="1548805214570">
+        <mark key="]" line="32" column="4" />
+        <mark key="^" line="32" column="4" />
+        <mark key="." line="32" column="4" />
       </file>
       <file name="$USER_HOME$/427/proj/iTrust/src/main/edu/ncsu/csc/itrust/action/LaborDeliveryReportAction.java" timestamp="1543865656691">
         <mark key="'" line="60" column="49" />
@@ -3366,6 +3376,12 @@
         <mark key="[" line="5" column="82" />
         <mark key="]" line="5" column="83" />
         <mark key="." line="5" column="83" />
+      </file>
+      <file name="$USER_HOME$/242/1/src/edu/illinois/cs/chess/Board.java" timestamp="1548805182439">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Graph.kt" timestamp="1547047620023">
         <mark key="[" line="27" column="0" />
@@ -3898,10 +3914,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0Q29scygpIHsKICAgICAgICByZXR1cm4gY29sczsKICAgIH0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>array</text>
       </register>
       <register name="/" type="4">
         <text>printDocument(</text>
@@ -3910,7 +3926,7 @@
         <text encoding="base64">CQkJCQlyZXBvcnQud3JpdGUoIj4+PiAiICsgam9iVHlwZSArICIgam9iIGRlbGl2ZXJlZC5cblxuIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0Q29scygpIHsKICAgICAgICByZXR1cm4gY29sczsKICAgIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3919,28 +3935,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW5maXggZnVuIEludC5gXmAoaTogSW50KSA9IHRvRG91YmxlKCkucG93KGkpLnRvSW50KCkK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IERFRkFVTFRfQ09MUyA9IDg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaW50bG4oMiBgXmAgMykK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHJvd3M7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CTIgYF5gIDMK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbHMgPSBjb2xzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlwcmludGxuKCJpdGVyOiAkaSIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZhbCBHID0gR3JhcGgoNiwgbGlzdE9mKAoJCQkxIHdpdGggMiwKCQkJMyB3aXRoIDUsCgkJCTUgd2l0aCA0LAoJCQk0IHdpdGggNgoJKSkK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IENPTFMgPSA4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJMSB3aXRoIDIsCgkJCTIgd2l0aCAzLAoJCQkzIHdpdGggNCwKCQkJMyB3aXRoIDExLAoJCQk0IHdpdGggMTEsCgkJCTE2IHdpdGggMTcsCgkJCTIgd2l0aCAxMiwKCQkJMiB3aXRoIDUsCgkJCTUgd2l0aCA2LAoJCQkxNCB3aXRoIDE1LAoJCQk2IHdpdGggMTMsCgkJCTEzIHdpdGggMTQsCgkJCTEwIHdpdGggOSwKCQkJOCB3aXRoIDksCgkJCTcgd2l0aCA4KSkK</text>
+        <text encoding="base64">aW5maXggZnVuIEludC5gXmAoaTogSW50KSA9IHRvRG91YmxlKCkucG93KGkpLnRvSW50KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlCLnByZXR0eVByaW50bG4odHJ1ZSkK</text>
+        <text encoding="base64">CXByaW50bG4oMiBgXmAgMykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
