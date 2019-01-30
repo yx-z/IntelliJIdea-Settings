@@ -46,6 +46,9 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1548806160485">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/dh_rainbow_vzn_count/src/main/java/com/yahoo/dhrainbow/vzncount/ws/handler/WriteSendEmitterHandler.java" timestamp="1528988623287">
         <mark key="[" line="14" column="23" />
         <mark key="]" line="12" column="3" />
@@ -262,6 +265,12 @@
         <mark key="]" line="20" column="7" />
         <mark key="." line="20" column="7" />
         <mark key="^" line="20" column="7" />
+      </file>
+      <file name="$USER_HOME$/242/1/src/edu/illinois/cs/chess/game/Position.java" timestamp="1548806283306">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="6" column="38" />
+        <mark key="." line="6" column="38" />
       </file>
       <file name="$USER_HOME$/Github/CS241/extreme_edge_cases/camelCaser_tests.c" timestamp="1505179981686">
         <mark key="'" line="20" column="17" />
@@ -664,6 +673,12 @@
         <mark key="." line="61" column="24" />
         <mark key="^" line="61" column="24" />
       </file>
+      <file name="$USER_HOME$/242/1/src/edu/illinois/cs/chess/game/Game.java" timestamp="1548805956819">
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="30" column="28" />
+      </file>
       <file name="$USER_HOME$/Desktop/Test/src/edu/illinois/cs/Main.java" timestamp="1512494806383">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="9" column="27" />
@@ -1019,6 +1034,12 @@
         <mark key="^" line="13" column="34" />
         <mark key="." line="13" column="35" />
       </file>
+      <file name="$USER_HOME$/242/1/src/edu/illinois/cs/Main.java" timestamp="1548805642873">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+        <mark key="^" line="5" column="7" />
+      </file>
       <file name="$USER_HOME$/Desktop/vzncount/src/main/java/ws/JettyHelloWorld.java" timestamp="1527622659273">
         <mark key="[" line="9" column="61" />
         <mark key="]" line="10" column="7" />
@@ -1273,6 +1294,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="27" column="19" />
+      </file>
+      <file name="$USER_HOME$/242/1/src/edu/illinois/cs/chess/piece/Piece.java" timestamp="1548805738268">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="5" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/metadata/MetadataSendBackendRequest.java" timestamp="1530906273894">
         <mark key="[" line="5" column="0" />
@@ -1817,6 +1844,12 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
+      <file name="$USER_HOME$/242/1/src/edu/illinois/cs/chess/game/Board.java" timestamp="1548806186441">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+        <mark key="^" line="10" column="27" />
+      </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/ws/handler/write/WriteHandlerV2.java" timestamp="1532963612960">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -2169,6 +2202,12 @@
         <mark key="]" line="23" column="21" />
         <mark key="." line="23" column="21" />
         <mark key="^" line="23" column="21" />
+      </file>
+      <file name="$USER_HOME$/242/1/src/edu/illinois/cs/chess/piece/BasePiece.java" timestamp="1548806375886">
+        <mark key="[" line="14" column="48" />
+        <mark key="]" line="14" column="49" />
+        <mark key="." line="14" column="49" />
+        <mark key="^" line="14" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/AlgoKt/src/arr/FindTarget.kt" timestamp="1508718744940">
         <mark key="[" line="45" column="46" />
@@ -3913,11 +3952,11 @@
       <jump line="63" column="0" filename="$USER_HOME$/LPNA/Konnectivity/src/graph/Anchor.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0Q29scygpIHsKICAgICAgICByZXR1cm4gY29sczsKICAgIH0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>board</text>
       </register>
       <register name="-" type="4">
-        <text>array</text>
+        <text>board</text>
       </register>
       <register name="/" type="4">
         <text>printDocument(</text>
@@ -3926,7 +3965,7 @@
         <text encoding="base64">CQkJCQlyZXBvcnQud3JpdGUoIj4+PiAiICsgam9iVHlwZSArICIgam9iIGRlbGl2ZXJlZC5cblxuIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0Q29scygpIHsKICAgICAgICByZXR1cm4gY29sczsKICAgIH0KCg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgQmFzZVBpZWNlW11bXSBnZXRCb2FyZCgpIHsKICAgICAgICByZXR1cm4gYm9hcmQ7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3935,28 +3974,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IERFRkFVTFRfQ09MUyA9IDg7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHJvd3M7Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgR2FtZSgpIHsKICAgICAgICB0aGlzKERFRkFVTFRfUk9XUywgREVGQVVMVF9DT0xTKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbHMgPSBjb2xzOwo=</text>
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0Q29scygpIHsKICAgICAgICByZXR1cm4gY29sczsKICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IENPTFMgPSA4Owo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IERFRkFVTFRfQ09MUyA9IDg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHJvd3M7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5maXggZnVuIEludC5gXmAoaTogSW50KSA9IHRvRG91YmxlKCkucG93KGkpLnRvSW50KCkK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbHMgPSBjb2xzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaW50bG4oMiBgXmAgMykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
