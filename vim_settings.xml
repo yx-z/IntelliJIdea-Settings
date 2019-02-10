@@ -151,12 +151,11 @@
         <mark key="^" line="24" column="61" />
         <mark key="." line="24" column="61" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" timestamp="1549770037538">
+      <file name="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" timestamp="1549812269193">
         <mark key="'" line="3" column="25" />
-        <mark key="[" line="51" column="10" />
-        <mark key="]" line="51" column="13" />
-        <mark key="." line="51" column="13" />
-        <mark key="^" line="51" column="13" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Github/CS241/pointers_gone_wild/part2-main.c" timestamp="1504974406220">
         <mark key="[" line="60" column="29" />
@@ -357,8 +356,8 @@
       <jump line="3" column="25" filename="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KHBvd3MpCg==</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -370,31 +369,31 @@
         <text encoding="base64">cGx0LnBsb3QobiwgbWMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGx0LnBsb3QoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHBvd3MpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGEgPSBpbnQoMiAqIGRlbHRhICogKGVwc2lsb24gKiogMikpCg==</text>
+        <text encoding="base64">cGx0LnBsb3QoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">biA9ICgyICoqIDEwKSAtIDEK</text>
+        <text encoding="base64">ICAgIGEgPSBpbnQoMiAqIGRlbHRhICogKGVwc2lsb24gKiogMikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">biA9ICgyICoqIDEwKSAtIDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoIlRydWUgdmFsdWU6IHt9Ii5mb3JtYXQobikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQobW9ycmlzX2NvdW50ZXJfbWVkaWFuKG4pKQo=</text>
+        <text encoding="base64">cHJpbnQoIlRydWUgdmFsdWU6IHt9Ii5mb3JtYXQobikpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">biA9ICgyICoqIDEwKSAtIDEKcHJpbnQoIlRydWUgdmFsdWU6IHt9Ii5mb3JtYXQobikpCgplcHNpbG9uID0gMC4wMQpkZWx0YSA9IDAuMgoKCg==</text>
+        <text encoding="base64">cHJpbnQobW9ycmlzX2NvdW50ZXJfbWVkaWFuKG4pKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cG93ZXIgPSA1Cg==</text>
+        <text encoding="base64">biA9ICgyICoqIDEwKSAtIDEKcHJpbnQoIlRydWUgdmFsdWU6IHt9Ii5mb3JtYXQobikpCgplcHNpbG9uID0gMC4wMQpkZWx0YSA9IDAuMgoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YmFzZSA9IDIK</text>
+        <text encoding="base64">cG93ZXIgPSA1Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0EvQi9n</text>
