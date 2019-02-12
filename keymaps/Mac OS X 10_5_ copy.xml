@@ -41,5 +41,11 @@
     <keyboard-shortcut first-keystroke="meta comma" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="Vcs.QuickListPopupAction" />
 </keymap>
