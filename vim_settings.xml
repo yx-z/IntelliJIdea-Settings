@@ -6,62 +6,69 @@
       <file name="/Dummy.txt" timestamp="1550347967039">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/counter" timestamp="1550347904763">
+      <file name="/counter" timestamp="1550348849989">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1550347193031">
+      <file name="/Python Console" timestamp="1550348588804">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" timestamp="1550347883466">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" timestamp="1550348886590">
+        <mark key="'" line="9" column="40" />
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+        <mark key="^" line="9" column="4" />
       </file>
     </filemarks>
     <jumps>
       <jump line="13" column="0" filename="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" />
+      <jump line="9" column="40" filename="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">IyBjaG9pY2Ugb2YgcGFyYW1ldGVycwo=</text>
+        <text encoding="base64">ZXBzaWxvbiA9IDEuNQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBjaG9pY2Ugb2YgcGFyYW1ldGVycwo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyByZXR1cm4gdHJ1ZSB3aXRoIHByb2JhYmlsaXR5IGBwcm9iYWJpbGl0eWAK</text>
+        <text encoding="base64">IyBjaG9pY2Ugb2YgcGFyYW1ldGVycwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBzdGFuZGFyZCBtb3JyaXMgY291bnRlciBpbXBsZW1lbnRhdGlvbgo=</text>
+        <text encoding="base64">IyByZXR1cm4gdHJ1ZSB3aXRoIHByb2JhYmlsaXR5IGBwcm9iYWJpbGl0eWAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBtb3JyaXMgY291bnRlciB3aXRoIG1lZGlhbiB0cmljawo=</text>
+        <text encoding="base64">IyBzdGFuZGFyZCBtb3JyaXMgY291bnRlciBpbXBsZW1lbnRhdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBtb3JyaXMgY291bnRlciB3aXRoIG1lZGlhbiB0cmljawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBjaG9pY2VzIG9mIHBhcmFtZXRlcnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjaG9pY2VzIG9mIHBhcmFtZXRlcnMK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YSA9IG1heChpbnQobnAuY2VpbCgyICogZGVsdGEgKiBlcHNpbG9uICoqIDIpKSwgMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
