@@ -3,41 +3,58 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/counter" timestamp="1550346756706">
+      <file name="/Dummy.txt" timestamp="1550347967039">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" timestamp="1550346716919">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="50" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="7" column="17" />
+      <file name="/counter" timestamp="1550347904763">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1550347193031">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" timestamp="1550347883466">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="13" column="0" filename="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" />
+    </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">YSA9IG1heChpbnQobnAuY2VpbCgyICogZGVsdGEgKiBlcHNpbG9uICoqIDIpKSwgMikK</text>
+        <text encoding="base64">IyBjaG9pY2Ugb2YgcGFyYW1ldGVycwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">YSA9IG1heChpbnQobnAuY2VpbCgyICogZGVsdGEgKiBlcHNpbG9uICoqIDIpKSwgMikK</text>
+        <text encoding="base64">IyBjaG9pY2Ugb2YgcGFyYW1ldGVycwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YyA9IDMK</text>
+        <text encoding="base64">IyByZXR1cm4gdHJ1ZSB3aXRoIHByb2JhYmlsaXR5IGBwcm9iYWJpbGl0eWAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YyA9IDMK</text>
+        <text encoding="base64">IyBzdGFuZGFyZCBtb3JyaXMgY291bnRlciBpbXBsZW1lbnRhdGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGMgPSAzCiAgICBudW1fY29waWVzID0gaW50KGMgKiBucC5sb2cyKDEgLyBkZWx0YSkpCg==</text>
+        <text encoding="base64">IyBtb3JyaXMgY291bnRlciB3aXRoIG1lZGlhbiB0cmljawo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjaG9pY2VzIG9mIHBhcmFtZXRlcnMK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">YSA9IG1heChpbnQobnAuY2VpbCgyICogZGVsdGEgKiBlcHNpbG9uICoqIDIpKSwgMikK</text>
+      </register>
+      <register name="-" type="4">
+        <text>,</text>
       </register>
     </registers>
     <search>
@@ -45,6 +62,10 @@
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
