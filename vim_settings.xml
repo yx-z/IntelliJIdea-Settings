@@ -17,12 +17,12 @@
       <file name="/Python Console" timestamp="1550352513611">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/242/2/main.py" timestamp="1550548256223">
-        <mark key="'" line="5" column="11" />
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="14" column="48" />
-        <mark key="^" line="14" column="48" />
-        <mark key="." line="14" column="48" />
+      <file name="$USER_HOME$/242/2/main.py" timestamp="1550550770638">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="12" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/242/2/scraper.py" timestamp="1550545830255">
         <mark key="'" line="14" column="0" />
@@ -38,11 +38,10 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/242/2/model.py" timestamp="1550547612860">
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-        <mark key="^" line="11" column="26" />
+      <file name="$USER_HOME$/242/2/model.py" timestamp="1550549919600">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -55,43 +54,44 @@
       <jump line="17" column="5" filename="$USER_HOME$/242/2/main.py" />
       <jump line="9" column="17" filename="$USER_HOME$/242/2/main.py" />
       <jump line="5" column="11" filename="$USER_HOME$/242/2/main.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/242/2/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhY3Rvcgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnaW5nLndhcm5pbmcoIkFjdG9ycyBub3QgZm91bmQuIikKICAgICAgICByZXR1cm4gW10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rvcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXJsID0gc3RhcnRfcGFnZV91cmwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHF1ZXVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBhc3N1bWluZyBhbiBhY3RvciBwYWdlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBhZGQgbW92aWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFjdG9yID0gYWN0b3JzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1vdmllcyA9IG1vdmllcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
