@@ -11,8 +11,17 @@
       <file name="/Dummy.txt" timestamp="1550607768230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicBatch.kt" timestamp="1550619689664">
-        <mark key="'" line="30" column="42" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicBatch.kt" timestamp="1550694731364">
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+      </file>
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/linalg/Semiring.kt" timestamp="1550694384848">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="15" column="25" />
+        <mark key="^" line="15" column="25" />
+        <mark key="." line="15" column="25" />
       </file>
       <file name="$USER_HOME$/242/1/res/chess.fxml" timestamp="1550613458485">
         <mark key="'" line="10" column="32" />
@@ -23,6 +32,13 @@
       </file>
       <file name="/a.dummy" timestamp="1550520175499">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/linalg/Matrix.kt" timestamp="1550694620823">
+        <mark key="'" line="150" column="26" />
+        <mark key="[" line="220" column="52" />
+        <mark key="]" line="221" column="4" />
+        <mark key="." line="221" column="4" />
+        <mark key="^" line="221" column="4" />
       </file>
       <file name="$USER_HOME$/242/1/src/edu/illinois/cs/gui/Main.java" timestamp="1550614098710">
         <mark key="'" line="8" column="0" />
@@ -54,40 +70,42 @@
       <jump line="10" column="32" filename="$USER_HOME$/242/1/res/chess.fxml" />
       <jump line="8" column="0" filename="$USER_HOME$/242/1/src/edu/illinois/cs/gui/Main.java" />
       <jump line="30" column="42" filename="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicBatch.kt" />
+      <jump line="24" column="19" filename="$USER_HOME$/LPNA/Konnectivity/src/linalg/Matrix.kt" />
+      <jump line="150" column="26" filename="$USER_HOME$/LPNA/Konnectivity/src/linalg/Matrix.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoaXN0b3J5LmFwcGVuZCgiIC0gMSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRIaXN0b3J5LmFkZChuZXcgVHJpcGxlPD4ocGxheWVyMU5hbWUsIHBsYXllcjJOYW1lLCBTVEFMRU1BVEUpKTsK</text>
+        <text encoding="base64">CVAgKz0gQiAtIGlkZW50aXR5TWF0cml4KG51bVZlcnRpY2VzLCBJTlRfTUFYX1RJTUVTX1NFTUlSSU5HKQoJUC5wcmV0dHlQcmludGxuKCkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>classicGame</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CVAgKz0gQiAtIGlkZW50aXR5TWF0cml4KG51bVZlcnRpY2VzLCBJTlRfTUFYX1RJTUVTX1NFTUlSSU5HKQoJUC5wcmV0dHlQcmludGxuKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRIaXN0b3J5LmFkZChuZXcgVHJpcGxlPD4ocGxheWVyMU5hbWUsIHBsYXllcjJOYW1lLCBTVEFMRU1BVEUpKTsK</text>
+        <text encoding="base64">CXByaW50bG4oUCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRIaXN0b3J5LmFkZChuZXcgVHJpcGxlPD4ocGxheWVyMU5hbWUsIHBsYXllcjJOYW1lLCBTVEFMRU1BVEUpKTsK</text>
+        <text encoding="base64">CQkJNSB0byA0LAoJCQk0IHRvIDEsCgkJCTQgdG8gMywKCQkJMyB0byAyLAoJCQkxMSB0byA5LAoJCQkxMCB0byA5LAoJCQk5IHRvIDYsCgkJCTkgdG8gOCwKCQkJNiB0byA4KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRIaXN0b3J5LmFkZChuZXcgVHJpcGxlPD4ocGxheWVyMU5hbWUsIHBsYXllcjJOYW1lLCBTVEFMRU1BVEUpKTsK</text>
+        <text encoding="base64">b3Blcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CXByb3RlY3RlZCBvcGVyYXRvciBmdW4gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ2FtZS5nZXRDdXJyZW50UGxheWVyKCkuZXF1YWxzKFBsYXllci5QTEFZRVJfMSkpIHsKICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGJQbGF5ZXIuc2V0VGV4dChwbGF5ZXIxTmFtZSArIFRVUk4pOwo=</text>
+        <text encoding="base64">CXByb3RlY3RlZCBvcGVyYXRvciBmdW4gVC5taW51cygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGJQbGF5ZXIuc2V0VGV4dChwbGF5ZXIyTmFtZSArIFRVUk4pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>classicGame</text>
