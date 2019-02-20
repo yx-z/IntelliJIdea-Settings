@@ -3,19 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/242/1/src/edu/illinois/cs/chess/game/Result.java" timestamp="1550519010171">
-        <mark key="[" line="3" column="52" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1550607768230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicBatch.kt" timestamp="1550694731364">
-        <mark key="[" line="24" column="45" />
-        <mark key="]" line="25" column="23" />
-        <mark key="." line="25" column="23" />
-        <mark key="^" line="25" column="23" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicBatch.kt" timestamp="1550705459159">
+        <mark key="'" line="20" column="25" />
+        <mark key="[" line="14" column="44" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="20" column="63" />
+        <mark key="^" line="15" column="22" />
       </file>
       <file name="$USER_HOME$/LPNA/Konnectivity/src/linalg/Semiring.kt" timestamp="1550694384848">
         <mark key="[" line="11" column="15" />
@@ -30,15 +26,54 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="18" column="29" />
       </file>
-      <file name="/a.dummy" timestamp="1550520175499">
+      <file name="/a.dummy" timestamp="1550702953369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/LPNA/Konnectivity/src/linalg/Matrix.kt" timestamp="1550694620823">
-        <mark key="'" line="150" column="26" />
-        <mark key="[" line="220" column="52" />
-        <mark key="]" line="221" column="4" />
-        <mark key="." line="221" column="4" />
-        <mark key="^" line="221" column="4" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/BatchedAnchor.kt" timestamp="1550702599770">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="62" />
+        <mark key="^" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Anchor.kt" timestamp="1550702613979">
+        <mark key="[" line="25" column="46" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="25" column="22" />
+      </file>
+      <file name="$USER_HOME$/242/1/src/edu/illinois/cs/util/CollectionUtil.java" timestamp="1550520187262">
+        <mark key="[" line="24" column="5" />
+      </file>
+      <file name="$USER_HOME$/242/1/src/edu/illinois/cs/chess/game/Result.java" timestamp="1550519010171">
+        <mark key="[" line="3" column="52" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/linalg/Vector.kt" timestamp="1550702923734">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="94" column="58" />
+        <mark key="]" line="94" column="45" />
+        <mark key="." line="94" column="45" />
+        <mark key="^" line="94" column="45" />
+      </file>
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/algebra/Vector.kt" timestamp="1550705368575">
+        <mark key="[" line="113" column="72" />
+        <mark key="]" line="113" column="16" />
+        <mark key="." line="113" column="16" />
+        <mark key="^" line="113" column="16" />
+      </file>
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/algebra/Matrix.kt" timestamp="1550703846635">
+        <mark key="[" line="130" column="22" />
+        <mark key="]" line="129" column="16" />
+        <mark key="^" line="129" column="16" />
+        <mark key="." line="130" column="17" />
+      </file>
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/linalg/Matrix.kt" timestamp="1550702995901">
+        <mark key="'" line="151" column="26" />
+        <mark key="[" line="214" column="18" />
+        <mark key="]" line="214" column="48" />
+        <mark key="." line="214" column="48" />
+        <mark key="^" line="214" column="48" />
       </file>
       <file name="$USER_HOME$/242/1/src/edu/illinois/cs/gui/Main.java" timestamp="1550614098710">
         <mark key="'" line="8" column="0" />
@@ -56,8 +91,10 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/242/1/src/edu/illinois/cs/util/CollectionUtil.java" timestamp="1550520187262">
-        <mark key="[" line="24" column="5" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Graph.kt" timestamp="1550702363723">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -72,52 +109,68 @@
       <jump line="30" column="42" filename="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicBatch.kt" />
       <jump line="24" column="19" filename="$USER_HOME$/LPNA/Konnectivity/src/linalg/Matrix.kt" />
       <jump line="150" column="26" filename="$USER_HOME$/LPNA/Konnectivity/src/linalg/Matrix.kt" />
+      <jump line="94" column="0" filename="$USER_HOME$/LPNA/Konnectivity/src/linalg/Vector.kt" />
+      <jump line="20" column="25" filename="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicBatch.kt" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoaXN0b3J5LmFwcGVuZCgiIC0gMSIpOwo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">CVAgKz0gQiAtIGlkZW50aXR5TWF0cml4KG51bVZlcnRpY2VzLCBJTlRfTUFYX1RJTUVTX1NFTUlSSU5HKQoJUC5wcmV0dHlQcmludGxuKCkK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CVAgKz0gQiAtIGlkZW50aXR5TWF0cml4KG51bVZlcnRpY2VzLCBJTlRfTUFYX1RJTUVTX1NFTUlSSU5HKQoJUC5wcmV0dHlQcmludGxuKCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CXByaW50bG4oUCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJNSB0byA0LAoJCQk0IHRvIDEsCgkJCTQgdG8gMywKCQkJMyB0byAyLAoJCQkxMSB0byA5LAoJCQkxMCB0byA5LAoJCQk5IHRvIDYsCgkJCTkgdG8gOCwKCQkJNiB0byA4KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">b3Blcgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXByb3RlY3RlZCBvcGVyYXRvciBmdW4gCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CXByb3RlY3RlZCBvcGVyYXRvciBmdW4gVC5taW51cygpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>toVector</text>
       </register>
       <register name="-" type="4">
-        <text>classicGame</text>
+        <text>toVector</text>
+      </register>
+      <register name="/" type="4">
+        <text>numVertices</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CWZ1biB1cHBlclRyaWFuZ3VsYXIoZGVmYXVsdDogVCA9IHNlbWlyaW5nLmFkZGl0aXZlSWRlbnRpdHkpID0KCQkJTWF0cml4KG51bVJvd3MgYnkgbnVtQ29scywgc2VtaXJpbmcpIHsgciwgYyAtPgoJCQkJaWYgKHIgPCBjKSB0aGlzW3IsIGNdIGVsc2UgZGVmYXVsdAoJCQl9Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnVuIEludFJhbmdlLnRvVmVjdG9yKHNlbWlyaW5nOiBTZW1pcmluZzxJbnQ+ID0gSU5UX0RFRkFVTFRfU0VNSVJJTkcpID0KCQl0b0xpc3QoKS50b1R5cGVkQXJyYXkoKS50b1ZlY3RvcihzZW1pcmluZykK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CShQIC0gQS5nZXRQYXJlbnRNYXRyaXgoKSkucHJldHR5UHJpbnRsbigpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CVAucHJldHR5UHJpbnRsbigpCglBLmdldFBhcmVudE1hdHJpeCgpLnByZXR0eVByaW50bG4oKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CShQIC0gQS5nZXRQYXJlbnRNYXRyaXgoKSkucHJldHR5UHJpbnRsbigpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CVAucHJldHR5UHJpbnRsbih0cnVlKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZnVuIDxUIDogQ29tcGFyYWJsZTxUPj4gVmVjdG9yPFQ+Lm1heCgpOiBUIHsKCWlmIChsZW5ndGggPT0gMCkgewoJCXRocm93IE5vU3VjaEVsZW1lbnRFeGNlcHRpb24oKQoJfQoKCXZhciBtID0gdGhpc1sxXQoJKDIuLmxlbmd0aCkuZm9yRWFjaCB7CgkJaWYgKG0gPCB0aGlzW2l0XSkgewoJCQltID0gdGhpc1tpdF0KCQl9Cgl9CglyZXR1cm4gbQp9Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL251bVZlcnRpY2VzL24vZw==</text>
       </register>
     </registers>
     <search>
+      <last-search>numVertices</last-search>
+      <last-pattern>numVertices</last-pattern>
+      <last-replace>n</last-replace>
+      <last-substitute>numVertices</last-substitute>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>numVertices</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL251bVZlcnRpY2VzL24vZw==</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
