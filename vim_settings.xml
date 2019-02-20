@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" timestamp="1550688920815">
+        <mark key="'" line="103" column="28" />
+        <mark key="[" line="79" column="49" />
+        <mark key="]" line="79" column="60" />
+        <mark key="." line="79" column="60" />
+        <mark key="^" line="79" column="60" />
+      </file>
       <file name="/counter" timestamp="1550687847539">
         <mark key="[" line="0" column="0" />
       </file>
@@ -16,37 +23,42 @@
     </filemarks>
     <jumps>
       <jump line="32" column="12" filename="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" />
+      <jump line="58" column="0" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
+      <jump line="98" column="28" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">dm9pZCBwcmludGxuKGNoYXIqIG1lc3NhZ2UpIHsK</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG1lZGlhbl9jb3BpZXMgKiBhdmdfY29waWVzKSkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG1lZGlhbl9jb3BpZXMgKiBhdmdfY29waWVzKSkK</text>
+        <text encoding="base64">dm9pZCBwcmludGxuKGNoYXIqIG1lc3NhZ2UpIHsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIG1lZGlhbl9jb3BpZXMgKiBhdmdfY29waWVzKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHJlZHVjZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIG1lZGlhbl9jb3BpZXMgKiBhdmdfY29waWVzKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzcGFjZVttZWRpYW5fY29weV0gPSAwCg==</text>
+        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHJlZHVjZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRbbWVkaWFuX2NvcHldID0gb3V0cHV0WzBdCg==</text>
+        <text encoding="base64">ICAgICAgICBzcGFjZVttZWRpYW5fY29weV0gPSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0W21lZGlhbl9jb3B5XSA9IG91dHB1dFswXQo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRbbWVkaWFuX2NvcHldID0gb3V0cHV0WzBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRbbWVkaWFuX2NvcHldID0gb3V0cHV0WzBdCiAgICAgICAgc3BhY2VbbWVkaWFuX2NvcHldID0gb3V0cHV0WzFdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0W21lZGlhbl9jb3B5XSA9IG91dHB1dFswXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBtb3JyaXNfY291bnRlcih0cnVlX2xlbmd0aCkK</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRbbWVkaWFuX2NvcHldID0gb3V0cHV0WzBdCiAgICAgICAgc3BhY2VbbWVkaWFuX2NvcHldID0gb3V0cHV0WzFdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBtb3JyaXNfY291bnRlcih0cnVlX2xlbmd0aCkK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
