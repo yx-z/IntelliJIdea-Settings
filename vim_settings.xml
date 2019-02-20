@@ -2,135 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="/Dummy.txt" timestamp="1550560358898">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/242/2/config.py" timestamp="1550449242695">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/counter" timestamp="1550352618832">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1550352513611">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1550551414738">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/242/2/main.py" timestamp="1550560352366">
-        <mark key="'" line="13" column="10" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="47" column="11" />
-      </file>
-      <file name="$USER_HOME$/242/2/scraper.py" timestamp="1550560782567">
-        <mark key="'" line="143" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" timestamp="1550352567937">
-        <mark key="'" line="9" column="40" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="28" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/242/2/model.py" timestamp="1550551985432">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="21" column="28" />
-        <mark key="." line="21" column="28" />
-        <mark key="^" line="21" column="28" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" />
-      <jump line="9" column="40" filename="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" />
-      <jump line="18" column="32" filename="$USER_HOME$/242/2/scraper.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/242/2/main.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/242/2/main.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/242/2/scraper.py" />
-      <jump line="17" column="5" filename="$USER_HOME$/242/2/main.py" />
-      <jump line="9" column="17" filename="$USER_HOME$/242/2/main.py" />
-      <jump line="5" column="11" filename="$USER_HOME$/242/2/main.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/242/2/main.py" />
-      <jump line="19" column="29" filename="$USER_HOME$/242/2/main.py" />
-      <jump line="12" column="10" filename="$USER_HOME$/242/2/main.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/242/2/scraper.py" />
-      <jump line="26" column="28" filename="$USER_HOME$/242/2/scraper.py" />
-      <jump line="132" column="0" filename="$USER_HOME$/242/2/scraper.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/242/2/scraper.py" />
-      <jump line="41" column="34" filename="$USER_HOME$/242/2/scraper.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/242/2/scraper.py" />
-      <jump line="110" column="33" filename="$USER_HOME$/242/2/scraper.py" />
-      <jump line="92" column="55" filename="$USER_HOME$/242/2/scraper.py" />
-      <jump line="71" column="39" filename="$USER_HOME$/242/2/scraper.py" />
-      <jump line="94" column="42" filename="$USER_HOME$/242/2/scraper.py" />
-      <jump line="15" column="19" filename="$USER_HOME$/242/2/scraper.py" />
-      <jump line="144" column="0" filename="$USER_HOME$/242/2/scraper.py" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHBhZ2VfdGl0bGUpCg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>session</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9nX25vdF9mb3VuZChpdGVtLCAtMSkK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHBhZ2VfdGl0bGUpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoZ2V0X3RpdGxlKGdldF9zb3VwKCJodHRwczovL2VuLndpa2lwZWRpYS5vcmcvd2lraS9Nb3JnYW5fRnJlZW1hbiIpKSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSByZXF1ZXN0cy5hZGFwdGVycyBpbXBvcnQgSFRUUEFkYXB0ZXIKZnJvbSB1cmxsaWIzIGltcG9ydCBSZXRyeQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlc3Npb24gPSByZXF1ZXN0cy5TZXNzaW9uKCkKICAgIGFkYXB0ZXIgPSBIVFRQQWRhcHRlcihtYXhfcmV0cmllcz1SZXRyeShjb25uZWN0PTMsIGJhY2tvZmZfZmFjdG9yPS41KSkKICAgIHNlc3Npb24ubW91bnQoJ2h0dHA6Ly8nLCBhZGFwdGVyKQogICAgc2Vzc2lvbi5tb3VudCgnaHR0cHM6Ly8nLCBhZGFwdGVyKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name=":" type="4">
-        <text>noh</text>
-      </register>
-    </registers>
+    <filemarks />
+    <jumps />
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd>
-        <entry>w</entry>
-        <entry>noh</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <history />
+    <shortcut-conflicts />
   </component>
 </application>
