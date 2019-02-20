@@ -2,14 +2,66 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="/counter" timestamp="1550687847539">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" timestamp="1550687910368">
+        <mark key="'" line="31" column="12" />
+        <mark key="[" line="81" column="28" />
+        <mark key="]" line="95" column="15" />
+        <mark key="^" line="95" column="15" />
+        <mark key="." line="95" column="15" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="32" column="12" filename="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIG1lZGlhbl9jb3BpZXMgKiBhdmdfY29waWVzKSkK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIG1lZGlhbl9jb3BpZXMgKiBhdmdfY29waWVzKSkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIG1lZGlhbl9jb3BpZXMgKiBhdmdfY29waWVzKSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHJlZHVjZQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzcGFjZVttZWRpYW5fY29weV0gPSAwCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHRbbWVkaWFuX2NvcHldID0gb3V0cHV0WzBdCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0W21lZGlhbl9jb3B5XSA9IG91dHB1dFswXQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXN1bHRbbWVkaWFuX2NvcHldID0gb3V0cHV0WzBdCiAgICAgICAgc3BhY2VbbWVkaWFuX2NvcHldID0gb3V0cHV0WzFdCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBtb3JyaXNfY291bnRlcih0cnVlX2xlbmd0aCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
