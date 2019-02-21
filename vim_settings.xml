@@ -3,80 +3,75 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" timestamp="1550774187514">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="/counter" timestamp="1550687847539">
+      <file name="/Dummy.txt" timestamp="1550768672250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" timestamp="1550687910368">
-        <mark key="'" line="31" column="12" />
-        <mark key="[" line="81" column="28" />
-        <mark key="]" line="95" column="15" />
-        <mark key="^" line="95" column="15" />
-        <mark key="." line="95" column="15" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicBatch.kt" timestamp="1550768667224">
+        <mark key="'" line="31" column="13" />
+        <mark key="[" line="40" column="51" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/algebra/Matrix.kt" timestamp="1550766951757">
+        <mark key="[" line="230" column="9" />
+      </file>
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Anchor.kt" timestamp="1550768181924">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="16" column="5" />
+      </file>
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Graph.kt" timestamp="1550768561841">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="12" filename="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
-      <jump line="98" column="28" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
-      <jump line="106" column="12" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
-      <jump line="51" column="31" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
-      <jump line="112" column="7" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
-      <jump line="41" column="0" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
+      <jump line="32" column="13" filename="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicBatch.kt" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">aW50IGdldChNYXRyaXg8aW50PiogbWF0cml4LCBJbnRQYWlyIGluZGV4KSB7Cg==</text>
+        <text encoding="base64">CXZhbCBHID0gR3JhcGgoMTEsIGxpc3RPZigKCQkJNSB0byA0LAoJCQk0IHRvIDEsCgkJCTQgdG8gMywKCQkJMyB0byAyLAoJCQkxMSB0byA5LAoJCQkxMCB0byA5LAoJCQk5IHRvIDYsCgkJCTkgdG8gOCwKCQkJNiB0byA4KQoJKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl2YWwgcGkgPSBBLnRvUGFyZW50VmVjdG9yKCkgLy8gcGlbaV0gPSBtYXgoaSwgbWF4IGogOiAoaWopIGluIEUpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl2YWwgcGkgPSBBLnRvUGFyZW50VmVjdG9yKCkgLy8gcGlbaV0gPSBtYXgoaSwgbWF4IGogOiAoaWopIGluIEUpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXZhbCB2ID0gdmVydGljZXNWZWN0b3Ioc2VtaXJpbmcpCgl2YWwgSSA9IGlkZW50aXR5TWF0cml4KG4sIHNlbWlyaW5nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG1lZGlhbl9jb3BpZXMgKiBhdmdfY29waWVzKSkK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG1lZGlhbl9jb3BpZXMgKiBhdmdfY29waWVzKSkK</text>
+        <text encoding="base64">CSgxLi5udW1WZXJ0aWNlcykuZm9yRWFjaCB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHJlZHVjZQo=</text>
+        <text encoding="base64">CXZhbCBHID0gR3JhcGgoNiwgbGlzdE9mKAoJCQkxIHRvIDIsCgkJCTMgd2l0aCA1LAoJCQk1IHdpdGggNCwKCQkJNCB3aXRoIDYpCgkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzcGFjZVttZWRpYW5fY29weV0gPSAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRbbWVkaWFuX2NvcHldID0gb3V0cHV0WzBdCg==</text>
+        <text encoding="base64">CXZhbCBwaSA9IChBICsgSSkgKiB2IC8vIHBpW2ldID0gbWF4KGksIG1heCBqIDogKGlqKSBpbiBFKQoJdmFyIFAgPSBwaS50b1BhcmVudE1hdHJpeCgpCgl2YWwgQiA9IFAudHJhbnNwb3NlKCkgKiBBICogUAoJUCAqPSBCLnVwcGVyVHJpYW5ndWxhcigpCglQICo9IFAK</text>
       </register>
       <register name="-" type="4">
-        <text>write_matrix</text>
+        <text>getParentVector</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <history />
     <shortcut-conflicts />
   </component>
 </application>
