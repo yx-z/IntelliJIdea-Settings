@@ -3,15 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1550768672250">
+      <file name="/Dummy.txt" timestamp="1550782929223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicBatch.kt" timestamp="1550768667224">
-        <mark key="'" line="31" column="13" />
-        <mark key="[" line="40" column="51" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="41" column="0" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicBatch.kt" timestamp="1550782868316">
+        <mark key="'" line="35" column="13" />
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="34" />
+        <mark key="." line="24" column="34" />
+        <mark key="^" line="24" column="34" />
       </file>
       <file name="$USER_HOME$/LPNA/Konnectivity/src/algebra/Matrix.kt" timestamp="1550766951757">
         <mark key="[" line="230" column="9" />
@@ -20,10 +20,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Graph.kt" timestamp="1550768561841">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Graph.kt" timestamp="1550782787552">
+        <mark key="[" line="25" column="76" />
+        <mark key="]" line="25" column="113" />
+        <mark key="." line="25" column="113" />
+        <mark key="^" line="25" column="113" />
       </file>
     </filemarks>
     <jumps>
@@ -31,47 +32,52 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CXZhbCBHID0gR3JhcGgoMTEsIGxpc3RPZigKCQkJNSB0byA0LAoJCQk0IHRvIDEsCgkJCTQgdG8gMywKCQkJMyB0byAyLAoJCQkxMSB0byA5LAoJCQkxMCB0byA5LAoJCQk5IHRvIDYsCgkJCTkgdG8gOCwKCQkJNiB0byA4KQoJKQo=</text>
+        <text encoding="base64">CXZhbCBJID0gaWRlbnRpdHlJbnRNYXRyaXgobnVtUm93cywgc2VtaXJpbmcpCgl2YWwgdiA9IGludFZlY3RvcihudW1Sb3dzLCBzZW1pcmluZykgeyBpdCB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl2YWwgcGkgPSBBLnRvUGFyZW50VmVjdG9yKCkgLy8gcGlbaV0gPSBtYXgoaSwgbWF4IGogOiAoaWopIGluIEUpCg==</text>
+        <text encoding="base64">CXZhbCB2ID0gdmVydGljZXNWZWN0b3Ioc3IpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQl2YWwgcGkgPSBBLnRvUGFyZW50VmVjdG9yKCkgLy8gcGlbaV0gPSBtYXgoaSwgbWF4IGogOiAoaWopIGluIEUpCg==</text>
+        <text encoding="base64">CXZhbCB2ID0gdmVydGljZXNWZWN0b3Ioc3IpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZhbCBuID0gbnVtVmVydGljZXMK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhbCB2ID0gdmVydGljZXNWZWN0b3Ioc2VtaXJpbmcpCgl2YWwgSSA9IGlkZW50aXR5TWF0cml4KG4sIHNlbWlyaW5nKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CSgxLi5udW1WZXJ0aWNlcykuZm9yRWFjaCB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CXZhbCBHID0gR3JhcGgoNiwgbGlzdE9mKAoJCQkxIHRvIDIsCgkJCTMgd2l0aCA1LAoJCQk1IHdpdGggNCwKCQkJNCB3aXRoIDYpCgkpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnVuIE1hdHJpeDxWZXJ0ZXg+LnRvUGFyZW50VmVjdG9yKCk6IFZlY3RvcjxWZXJ0ZXg+IHsKCXZhbCBBID0gdGhpcwoJdmFsIEkgPSBpZGVudGl0eUludE1hdHJpeChudW1Sb3dzLCBzZW1pcmluZykKCXZhbCB2ID0gaW50VmVjdG9yKG51bVJvd3MsIHNlbWlyaW5nKSB7IGl0IH0KCglyZXR1cm4gKEEgKyBJKSAqIHYKfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnVuIE1hdHJpeDxWZXJ0ZXg+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CXZhbCBzZW1pcmluZyA9IElOVF9NQVhfVElNRVNfU0VNSVJJTkcK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CXZhbCBuID0gbnVtVmVydGljZXMK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CXZhbCBwaSA9IChBICsgSSkgKiB2IC8vIHBpW2ldID0gbWF4KGksIG1heCBqIDogKGlqKSBpbiBFKQoJdmFyIFAgPSBwaS50b1BhcmVudE1hdHJpeCgpCgl2YWwgQiA9IFAudHJhbnNwb3NlKCkgKiBBICogUAoJUCAqPSBCLnVwcGVyVHJpYW5ndWxhcigpCglQICo9IFAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getParentVector</text>
+        <text>Int</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
