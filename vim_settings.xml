@@ -6,12 +6,11 @@
       <file name="/Dummy.txt" timestamp="1550607768230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicBatch.kt" timestamp="1550705459159">
-        <mark key="'" line="20" column="25" />
-        <mark key="[" line="14" column="44" />
-        <mark key="]" line="15" column="22" />
-        <mark key="." line="20" column="63" />
-        <mark key="^" line="15" column="22" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicBatch.kt" timestamp="1550709533226">
+        <mark key="[" line="20" column="41" />
+        <mark key="]" line="22" column="49" />
+        <mark key="." line="22" column="49" />
+        <mark key="^" line="22" column="49" />
       </file>
       <file name="$USER_HOME$/LPNA/Konnectivity/src/linalg/Semiring.kt" timestamp="1550694384848">
         <mark key="[" line="11" column="15" />
@@ -35,11 +34,11 @@
         <mark key="." line="28" column="62" />
         <mark key="^" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Anchor.kt" timestamp="1550702613979">
-        <mark key="[" line="25" column="46" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="25" column="22" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Anchor.kt" timestamp="1550707890379">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="22" column="22" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/242/1/src/edu/illinois/cs/util/CollectionUtil.java" timestamp="1550520187262">
         <mark key="[" line="24" column="5" />
@@ -62,11 +61,11 @@
         <mark key="." line="113" column="16" />
         <mark key="^" line="113" column="16" />
       </file>
-      <file name="$USER_HOME$/LPNA/Konnectivity/src/algebra/Matrix.kt" timestamp="1550703846635">
-        <mark key="[" line="130" column="22" />
-        <mark key="]" line="129" column="16" />
-        <mark key="^" line="129" column="16" />
-        <mark key="." line="130" column="17" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/algebra/Matrix.kt" timestamp="1550708308333">
+        <mark key="[" line="257" column="37" />
+        <mark key="]" line="257" column="59" />
+        <mark key="^" line="257" column="59" />
+        <mark key="." line="257" column="59" />
       </file>
       <file name="$USER_HOME$/LPNA/Konnectivity/src/linalg/Matrix.kt" timestamp="1550702995901">
         <mark key="'" line="151" column="26" />
@@ -91,10 +90,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Graph.kt" timestamp="1550702363723">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Graph.kt" timestamp="1550707746594">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="26" column="49" />
+        <mark key="." line="26" column="49" />
+        <mark key="^" line="26" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -113,11 +113,11 @@
       <jump line="20" column="25" filename="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicBatch.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>toVector</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>toVector</text>
+        <text>less</text>
       </register>
       <register name="/" type="4">
         <text>numVertices</text>
@@ -129,31 +129,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuIEludFJhbmdlLnRvVmVjdG9yKHNlbWlyaW5nOiBTZW1pcmluZzxJbnQ+ID0gSU5UX0RFRkFVTFRfU0VNSVJJTkcpID0KCQl0b0xpc3QoKS50b1R5cGVkQXJyYXkoKS50b1ZlY3RvcihzZW1pcmluZykK</text>
+        <text encoding="base64">Ly8gdHJ5IHRvIGF2b2lkIGV4cGxpY2l0IGxvb3BzL3JlY3Vyc2lvbnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CShQIC0gQS5nZXRQYXJlbnRNYXRyaXgoKSkucHJldHR5UHJpbnRsbigpCg==</text>
+        <text encoding="base64">Ly8gZ29hbDogbm90IHVzZSBleHBsaWNpdCBsb29wcyBvciByZWN1cnNpb25zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CVAucHJldHR5UHJpbnRsbigpCglBLmdldFBhcmVudE1hdHJpeCgpLnByZXR0eVByaW50bG4oKQo=</text>
+        <text encoding="base64">Ly8gZ29hbDogbm90IHVzZSBleHBsaWNpdCBsb29wcyBvciByZWN1cnNpb25zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CShQIC0gQS5nZXRQYXJlbnRNYXRyaXgoKSkucHJldHR5UHJpbnRsbigpCg==</text>
+        <text encoding="base64">CXBpLnByZXR0eVByaW50bG4odHJ1ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CVAucHJldHR5UHJpbnRsbih0cnVlKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CVAucHJldHR5UHJpbnRsbih0cnVlKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuIDxUIDogQ29tcGFyYWJsZTxUPj4gVmVjdG9yPFQ+Lm1heCgpOiBUIHsKCWlmIChsZW5ndGggPT0gMCkgewoJCXRocm93IE5vU3VjaEVsZW1lbnRFeGNlcHRpb24oKQoJfQoKCXZhciBtID0gdGhpc1sxXQoJKDIuLmxlbmd0aCkuZm9yRWFjaCB7CgkJaWYgKG0gPCB0aGlzW2l0XSkgewoJCQltID0gdGhpc1tpdF0KCQl9Cgl9CglyZXR1cm4gbQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL251bVZlcnRpY2VzL24vZw==</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -162,7 +162,7 @@
       <last-replace>n</last-replace>
       <last-substitute>numVertices</last-substitute>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -170,6 +170,7 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL251bVZlcnRpY2VzL24vZw==</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
