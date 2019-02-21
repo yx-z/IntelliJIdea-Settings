@@ -3,8 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/LPNA/ctf/src/tensor/untyped_tensor.h" timestamp="1550779448087" />
       <file name="/Dummy.txt" timestamp="1550768672250">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" timestamp="1550780569373">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="64" column="11" />
+        <mark key="]" line="65" column="8" />
+        <mark key="^" line="65" column="8" />
+        <mark key="." line="65" column="8" />
       </file>
       <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicBatch.kt" timestamp="1550768667224">
         <mark key="'" line="31" column="13" />
@@ -28,50 +36,56 @@
     </filemarks>
     <jumps>
       <jump line="32" column="13" filename="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicBatch.kt" />
+      <jump line="116" column="0" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CXZhbCBHID0gR3JhcGgoMTEsIGxpc3RPZigKCQkJNSB0byA0LAoJCQk0IHRvIDEsCgkJCTQgdG8gMywKCQkJMyB0byAyLAoJCQkxMSB0byA5LAoJCQkxMCB0byA5LAoJCQk5IHRvIDYsCgkJCTkgdG8gOCwKCQkJNiB0byA4KQoJKQo=</text>
+        <text encoding="base64">CQlzZXRfbWF0cml4KEEsIGVkZ2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl2YWwgcGkgPSBBLnRvUGFyZW50VmVjdG9yKCkgLy8gcGlbaV0gPSBtYXgoaSwgbWF4IGogOiAoaWopIGluIEUpCg==</text>
+        <text encoding="base64">CXJldHVybgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQl2YWwgcGkgPSBBLnRvUGFyZW50VmVjdG9yKCkgLy8gcGlbaV0gPSBtYXgoaSwgbWF4IGogOiAoaWopIGluIEUpCg==</text>
+        <text encoding="base64">CXJldHVybgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJldHVybiBwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhbCB2ID0gdmVydGljZXNWZWN0b3Ioc2VtaXJpbmcpCgl2YWwgSSA9IGlkZW50aXR5TWF0cml4KG4sIHNlbWlyaW5nKQo=</text>
+        <text encoding="base64">CWF1dG8gcCA9IFZlY3RvcjxpbnQ+KG4sICp3b3JsZCwgTUFYX1RJTUVTX1NSKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXByaW50bG4oIkFkYWNlbmN5IG1hdHJpeDoiKTsKCUEtPnByaW50X21hdHJpeCgpOwoJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSgxLi5udW1WZXJ0aWNlcykuZm9yRWFjaCB7Cg==</text>
+        <text encoding="base64">CQljb3V0IDw8IGVkZ2UuaTEgPDwgIiwgIiA8PCBlZGdlLmkyIDw8IGVuZGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhbCBHID0gR3JhcGgoNiwgbGlzdE9mKAoJCQkxIHRvIDIsCgkJCTMgd2l0aCA1LAoJCQk1IHdpdGggNCwKCQkJNCB3aXRoIDYpCgkpCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXZhbCBwaSA9IChBICsgSSkgKiB2IC8vIHBpW2ldID0gbWF4KGksIG1heCBqIDogKGlqKSBpbiBFKQoJdmFyIFAgPSBwaS50b1BhcmVudE1hdHJpeCgpCgl2YWwgQiA9IFAudHJhbnNwb3NlKCkgKiBBICogUAoJUCAqPSBCLnVwcGVyVHJpYW5ndWxhcigpCglQICo9IFAK</text>
+        <text encoding="base64">CQlhdXRvIGVkZ2UgPSAoKmVkZ2VzKVtpXTsK</text>
       </register>
       <register name="-" type="4">
-        <text>getParentVector</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
