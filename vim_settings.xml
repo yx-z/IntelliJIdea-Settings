@@ -6,17 +6,19 @@
       <file name="/counter" timestamp="1550687847539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/242/2/main.py" timestamp="1550814070078">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="20" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/242/2/main.py" timestamp="1550814843524">
+        <mark key="'" line="2" column="29" />
+        <mark key="[" line="69" column="35" />
+        <mark key="]" line="69" column="32" />
+        <mark key="." line="69" column="32" />
+        <mark key="^" line="69" column="32" />
       </file>
-      <file name="$USER_HOME$/242/2/graph.py" timestamp="1550814124141">
+      <file name="$USER_HOME$/242/2/graph.py" timestamp="1550814454659">
         <mark key="'" line="18" column="67" />
-        <mark key="[" line="35" column="25" />
-        <mark key="]" line="36" column="11" />
-        <mark key="." line="36" column="11" />
-        <mark key="^" line="36" column="11" />
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="39" column="26" />
+        <mark key="^" line="39" column="26" />
+        <mark key="." line="39" column="26" />
       </file>
       <file name="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" timestamp="1550687932073">
         <mark key="'" line="31" column="12" />
@@ -25,12 +27,12 @@
         <mark key="^" line="95" column="15" />
         <mark key="." line="95" column="15" />
       </file>
-      <file name="$USER_HOME$/242/2/model.py" timestamp="1550813528721">
-        <mark key="'" line="9" column="22" />
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="22" />
-        <mark key="^" line="21" column="22" />
-        <mark key="." line="21" column="22" />
+      <file name="$USER_HOME$/242/2/model.py" timestamp="1550814654322">
+        <mark key="'" line="30" column="43" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="30" column="26" />
+        <mark key="." line="30" column="68" />
       </file>
     </filemarks>
     <jumps>
@@ -38,40 +40,43 @@
       <jump line="9" column="0" filename="$USER_HOME$/242/2/graph.py" />
       <jump line="12" column="67" filename="$USER_HOME$/242/2/graph.py" />
       <jump line="9" column="22" filename="$USER_HOME$/242/2/model.py" />
+      <jump line="30" column="43" filename="$USER_HOME$/242/2/model.py" />
+      <jump line="67" column="24" filename="$USER_HOME$/242/2/main.py" />
+      <jump line="2" column="29" filename="$USER_HOME$/242/2/main.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW92aWVzX3Blcl9hY3RvciA9IDUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBhY3Rvcl9uYW1lIC0+IAo=</text>
+        <text encoding="base64">ICAgICAgICBoZWFkID0gZWRnZS5oZWFkCiAgICAgICAgdGFpbCA9IGVkZ2UudGFpbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z3JhcGggPSBHcmFwaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnZlcnRpY2VzLmFwcGVuZCh2ZXJ0ZXgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnByaW50KGFjdG9ycykKcHJpbnQobW92aWVzKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdmVydGV4IGluIHZlcnRpY2VzOgogICAgICAgICAgICBzZWxmLmFkal9saXN0W3ZlcnRleF0gPSBbXQogICAgICAgIGZvciBlZGdlIGluIGVkZ2VzOgogICAgICAgICAgICBzZWxmLmFkal9saXN0W2VkZ2UuaGVhZF0uYXBwZW5kKGVkZ2UpCiAgICAgICAgICAgIHNlbGYuYWRqX2xpc3RbZWRnZS50YWlsXS5hcHBlbmQoZWRnZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RyKHNlbGYpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnZlcnRpY2VzID0gdmVydGljZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoR3JhcGgoW1ZlcnRleCgxKSwgVmVydGV4KDIpXSwgW0VkZ2UoVmVydGV4KDEpLCBWZXJ0ZXgoMikpXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBlZGdlcyBpcyBOb25lOgogICAgICAgICAgICBlZGdlcyA9IFtdCiAgICAgICAgaWYgdmVydGljZXMgaXMgTm9uZToKICAgICAgICAgICAgdmVydGljZXMgPSBbXQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW92aWVzX3Blcl9hY3RvciA9IDUK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
     </registers>
     <search>
