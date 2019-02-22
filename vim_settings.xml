@@ -6,6 +6,18 @@
       <file name="/counter" timestamp="1550687847539">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/242/2/main.py" timestamp="1550814070078">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/242/2/graph.py" timestamp="1550814124141">
+        <mark key="'" line="18" column="67" />
+        <mark key="[" line="35" column="25" />
+        <mark key="]" line="36" column="11" />
+        <mark key="." line="36" column="11" />
+        <mark key="^" line="36" column="11" />
+      </file>
       <file name="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" timestamp="1550687932073">
         <mark key="'" line="31" column="12" />
         <mark key="[" line="81" column="28" />
@@ -13,43 +25,53 @@
         <mark key="^" line="95" column="15" />
         <mark key="." line="95" column="15" />
       </file>
+      <file name="$USER_HOME$/242/2/model.py" timestamp="1550813528721">
+        <mark key="'" line="9" column="22" />
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="32" column="12" filename="$USER_HOME$/OneDrive/Documents/Course/498/hw/MC/counter.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/242/2/graph.py" />
+      <jump line="12" column="67" filename="$USER_HOME$/242/2/graph.py" />
+      <jump line="9" column="22" filename="$USER_HOME$/242/2/model.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG1lZGlhbl9jb3BpZXMgKiBhdmdfY29waWVzKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG1lZGlhbl9jb3BpZXMgKiBhdmdfY29waWVzKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG1lZGlhbl9jb3BpZXMgKiBhdmdfY29waWVzKSkK</text>
+        <text encoding="base64">bW92aWVzX3Blcl9hY3RvciA9IDUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHJlZHVjZQo=</text>
+        <text encoding="base64">IyBhY3Rvcl9uYW1lIC0+IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzcGFjZVttZWRpYW5fY29weV0gPSAwCg==</text>
+        <text encoding="base64">Z3JhcGggPSBHcmFwaCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRbbWVkaWFuX2NvcHldID0gb3V0cHV0WzBdCg==</text>
+        <text encoding="base64">CnByaW50KGFjdG9ycykKcHJpbnQobW92aWVzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0W21lZGlhbl9jb3B5XSA9IG91dHB1dFswXQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3RyKHNlbGYpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRbbWVkaWFuX2NvcHldID0gb3V0cHV0WzBdCiAgICAgICAgc3BhY2VbbWVkaWFuX2NvcHldID0gb3V0cHV0WzFdCg==</text>
+        <text encoding="base64">cHJpbnQoR3JhcGgoW1ZlcnRleCgxKSwgVmVydGV4KDIpXSwgW0VkZ2UoVmVydGV4KDEpLCBWZXJ0ZXgoMikpXSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBtb3JyaXNfY291bnRlcih0cnVlX2xlbmd0aCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
