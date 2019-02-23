@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/242/2/main.py" timestamp="1550894898724">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/242/2/main.py" timestamp="1550895775819">
+        <mark key="[" line="26" column="48" />
+        <mark key="]" line="26" column="48" />
+        <mark key="." line="26" column="48" />
+        <mark key="^" line="26" column="48" />
       </file>
     </filemarks>
     <jumps />
@@ -14,11 +15,14 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KGFjdG9yX25hbWVzKQogICAgcHJpbnQobGVuKGFjdG9yX25hbWVzKSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFjdG9yX25hbWVzKQogICAgcHJpbnQobGVuKGFjdG9yX25hbWVzKSkK</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaW50KGxlbihhY3Rvcl9uYW1lcykpCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>\</text>
       </register>
     </registers>
     <search>
