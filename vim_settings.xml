@@ -14,25 +14,26 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/242/2/main.py" timestamp="1550904310300">
+      <file name="$USER_HOME$/242/2/main.py" timestamp="1550906127911">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-        <mark key="^" line="43" column="33" />
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="85" column="32" />
+        <mark key="." line="85" column="32" />
+        <mark key="^" line="85" column="32" />
       </file>
-      <file name="$USER_HOME$/242/2/query.py" timestamp="1550904553991">
+      <file name="$USER_HOME$/242/2/query.py" timestamp="1550906155675">
         <mark key="'" line="18" column="17" />
-        <mark key="[" line="36" column="66" />
-        <mark key="]" line="36" column="72" />
-        <mark key="." line="36" column="72" />
-        <mark key="^" line="36" column="72" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/242/2/graph.py" timestamp="1550903930640">
-        <mark key="[" line="79" column="33" />
-        <mark key="]" line="79" column="33" />
-        <mark key="." line="79" column="33" />
-        <mark key="^" line="79" column="33" />
+      <file name="$USER_HOME$/242/2/graph.py" timestamp="1550905137925">
+        <mark key="'" line="15" column="22" />
+        <mark key="[" line="15" column="72" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -45,43 +46,44 @@
       <jump line="16" column="0" filename="$USER_HOME$/242/2/query.py" />
       <jump line="42" column="62" filename="$USER_HOME$/242/2/query.py" />
       <jump line="18" column="17" filename="$USER_HOME$/242/2/query.py" />
+      <jump line="16" column="22" filename="$USER_HOME$/242/2/graph.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBmaWx0ZXIobGFtYmRhIHZhbDogaXNpbnN0YW5jZSh2YWwsIEFjdG9yKSwKICAgICAgICAgICAgICAgICAgbWFwKGxhbWJkYSB2ZXJ0ZXg6IHZlcnRleC52YWx1ZSwgZ3JhcGgudmVydGljZXMoKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFjdG9ycyA9IGZpbHRlcihsYW1iZGEgdjogaXNpbnN0YW5jZSh2LnZhbHVlLCBBY3RvciksIGdyYXBoLnZlcnRpY2VzKCkpCg==</text>
+        <text encoding="base64">cHJpbnQobGlzdChmaWx0ZXIobGFtYmRhIHY6IGlzaW5zdGFuY2Uodi52YWx1ZSwgQWN0b3IpIGFuZCB2LnZhbHVlLmFnZSA9PSA4MSwgZ3JhcGgudmVydGljZXMoKSkpKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFjdG9ycyA9IGZpbHRlcihsYW1iZGEgdjogaXNpbnN0YW5jZSh2LnZhbHVlLCBBY3RvciksIGdyYXBoLnZlcnRpY2VzKCkpCg==</text>
+        <text encoding="base64">cHJpbnQobGlzdChmaWx0ZXIobGFtYmRhIHY6IGlzaW5zdGFuY2Uodi52YWx1ZSwgQWN0b3IpIGFuZCB2LnZhbHVlLmFnZSA9PSA4MSwgZ3JhcGgudmVydGljZXMoKSkpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFjdG9ycyA9IGZpbHRlcihsYW1iZGEgdmFsOiBpc2luc3RhbmNlKHZhbCwgQWN0b3IpLAogICAgICAgICAgICAgICAgICAgIG1hcChsYW1iZGEgdmVydGV4OiB2ZXJ0ZXgudmFsdWUsIGdyYXBoLnZlcnRpY2VzKCkpKQo=</text>
+        <text encoding="base64">cHJpbnQobGlzdChmaWx0ZXIobGFtYmRhIHY6IGlzaW5zdGFuY2Uodi52YWx1ZSwgQWN0b3IpLCBncmFwaC52ZXJ0aWNlcygpKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFjdG9ycyA9IGZpbHRlcihsYW1iZGEgdmFsOiBpc2luc3RhbmNlKHZhbCwgQWN0b3IpLAogICAgICAgICAgICAgICAgICAgIG1hcChsYW1iZGEgdmVydGV4OiB2ZXJ0ZXgudmFsdWUsIGdyYXBoLnZlcnRpY2VzKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmaWx0ZXIobGFtYmRhIHZlcnRleDogdmVydGV4LnZhbHVlLmFnZSA9PSBhZ2UsIGdyYXBoLnZlcnRpY2VzKCkpCg==</text>
+        <text encoding="base64">ICAgIGFjdG9ycyA9IGZpbHRlcihsYW1iZGEgdjogaXNpbnN0YW5jZSh2LnZhbHVlLCBBY3RvciksIGdyYXBoLnZlcnRpY2VzKCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFjdG9ycyA9IGZpbHRlcihsYW1iZGEgdmFsOiBpc2luc3RhbmNlKHZhbCwgQWN0b3IpLAogICAgICAgICAgICAgICAgICAgIG1hcChsYW1iZGEgdmVydGV4OiB2ZXJ0ZXgudmFsdWUsIGdyYXBoLnZlcnRpY2VzKCkpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoZ2V0X29sZGVzdCgxKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZyA9IHJlc3RvcmUoIi4vZ3JhcGguanNvbiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>DEBUG</text>
+        <text>actor_movies</text>
       </register>
     </registers>
     <search>
