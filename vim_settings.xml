@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1551063689621">
+      <file name="/Dummy.txt" timestamp="1551073823770">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/242/2/data.json" timestamp="1551061913931">
@@ -50,17 +50,13 @@
         <mark key="]" line="155" column="40" />
         <mark key="." line="155" column="40" />
       </file>
-      <file name="$USER_HOME$/242/2/model.py" timestamp="1551063337711">
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="9" column="26" />
-      </file>
-      <file name="$USER_HOME$/242/2/analysis.py" timestamp="1551071800307">
-        <mark key="[" line="35" column="21" />
-        <mark key="]" line="42" column="31" />
-        <mark key="^" line="42" column="31" />
-        <mark key="." line="42" column="31" />
+      <file name="$USER_HOME$/242/2/model.py" timestamp="1551073803601" />
+      <file name="$USER_HOME$/242/2/analysis.py" timestamp="1551073815727">
+        <mark key="'" line="9" column="10" />
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="7" />
+        <mark key="." line="30" column="7" />
+        <mark key="^" line="30" column="7" />
       </file>
       <file name="/JavaScript Console" timestamp="1550907410513">
         <mark key="[" line="0" column="0" />
@@ -156,49 +152,50 @@
       <jump line="23" column="0" filename="$USER_HOME$/242/2/analysis.py" />
       <jump line="18" column="5" filename="$USER_HOME$/242/2/analysis.py" />
       <jump line="25" column="0" filename="$USER_HOME$/242/2/analysis.py" />
+      <jump line="7" column="10" filename="$USER_HOME$/242/2/analysis.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>example</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQodHlwZShzZXQoImEiKS5pbnRlcnNlY3Rpb24oc2V0KCJiIikpKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>example</text>
+        <text>src_json</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpZyA9IHBsdC5maWd1cmUoZmlnc2l6ZT0oNiwgNikpCg==</text>
+        <text encoding="base64">ICAgICAgICBmbHV4W3JvdywgY29sXSA9IDEgaWYgbGVuKGFjdG9yc1tyb3ddLmludGVyc2VjdChhY3RvcnNbY29sXSkpID4gMCBlbHNlIDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWN0b3JfbmFtZXMgPSBsaXN0KGFjdG9yX2RiLmtleXMoKSkK</text>
+        <text encoding="base64">cHJpbnQodHlwZShzZXQoImEiKS5pbnRlcnNlY3Rpb24oc2V0KCJiIikpKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyByZWZlcmVuY2U6IGh0dHBzOi8vZ2l0aHViLmNvbS9mZW5nd2FuZ1BoeXNpY3MvbWF0cGxvdGxpYi1jaG9yZC1kaWFncmFtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoc29ydF9ieV9odWIpCg==</text>
+        <text encoding="base64">Zmx1eFtyb3csIGNvbF0gPSAxIGlmIGxlbihhY3RvcnNbcm93XS5pbnRlcnNlY3QoYWN0b3JzW2NvbF0pKSA+IDAgZWxzZSAwIGZvciByb3cgaW4gcmFuZ2UobnVtX3NlbGVjdGVkKSBpbiBmb3IgY29sIGluIHJhbmdlKG51bV9zZWxlY3RlZCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHJlZHVjZQo=</text>
+        <text encoding="base64">c3JjX2pzb24gPSAiLi9kYXRhLmpzb24iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHJlZHVjZQo=</text>
+        <text encoding="base64">IyBjaG9yZCBwbG90IGZvciB0b3AK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBmdW5jdG9vbHMgaW1wb3J0IHJlZHVjZQoK</text>
+        <text encoding="base64">YWN0b3JfbmFtZXMgPSBsaXN0KGFjdG9yX2RiLmtleXMoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">IyByZWZlcmVuY2U6IGh0dHBzOi8vZ2l0aHViLmNvbS9mZW5nd2FuZ1BoeXNpY3MvbWF0cGxvdGxpYi1jaG9yZC1kaWFncmFtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IiIiCg==</text>
+        <text encoding="base64">cHJpbnQoc29ydF9ieV9odWIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLycvIi9n</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -216,8 +213,8 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2dldC9xdWVyeS9n</entry>
-        <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
