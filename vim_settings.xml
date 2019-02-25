@@ -54,12 +54,12 @@
         <mark key="^" line="45" column="37" />
         <mark key="." line="45" column="37" />
       </file>
-      <file name="$USER_HOME$/242/2/scraper.py" timestamp="1551053402538">
+      <file name="$USER_HOME$/242/2/scraper.py" timestamp="1551054893912">
         <mark key="'" line="90" column="0" />
-        <mark key="[" line="144" column="4" />
-        <mark key="]" line="146" column="11" />
-        <mark key="." line="146" column="11" />
-        <mark key="^" line="146" column="11" />
+        <mark key="[" line="145" column="23" />
+        <mark key="]" line="145" column="23" />
+        <mark key="." line="145" column="23" />
+        <mark key="^" line="145" column="27" />
       </file>
       <file name="$USER_HOME$/242/2/model.py" timestamp="1551052973605">
         <mark key="[" line="30" column="21" />
@@ -118,11 +118,11 @@
       <jump line="90" column="0" filename="$USER_HOME$/242/2/scraper.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9nX25vdF9mb3VuZChpdGVtLCBmYWxsYmFjaykK</text>
+      <register name="&quot;" type="4">
+        <text>tex</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>tex</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
