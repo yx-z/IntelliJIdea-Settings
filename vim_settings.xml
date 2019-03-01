@@ -3,12 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1551417150157">
+      <file name="/Dummy.txt" timestamp="1551454696940">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/242/2/data.json" timestamp="1551061913931">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="17247" column="1" />
+      </file>
+      <file name="$USER_HOME$/242/2/api.py" timestamp="1551455436369">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/242/2/config.py" timestamp="1551219883337">
         <mark key="[" line="11" column="16" />
@@ -16,7 +22,7 @@
         <mark key="." line="11" column="79" />
         <mark key="^" line="11" column="79" />
       </file>
-      <file name="/Python Console" timestamp="1551414889770">
+      <file name="/Python Console" timestamp="1551454685678">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/242/2/util.py" timestamp="1551056981928">
@@ -26,7 +32,7 @@
         <mark key="." line="23" column="21" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1551413778375">
+      <file name="/a.dummy" timestamp="1551454709209">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/242/2/test.py" timestamp="1551218422274">
@@ -61,6 +67,11 @@
         <mark key="]" line="153" column="34" />
         <mark key="." line="153" column="34" />
         <mark key="^" line="153" column="34" />
+      </file>
+      <file name="$USER_HOME$/242/2/data.py" timestamp="1551455021311">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/242/2/model.py" timestamp="1551220495125">
         <mark key="'" line="12" column="0" />
@@ -192,8 +203,8 @@
       <jump line="33" column="0" filename="$USER_HOME$/242/2/age_income.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>semilogy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>semilogy</text>
@@ -205,31 +216,31 @@
         <text encoding="base64">YWdlcyA9IGxpc3QobWFwKGxhbWJkYSBhY3Q6IGFjdC5hZ2UsIGFjdG9ycykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQobW9kZWwucHJlZGljdChYKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQobW9kZWwucHJlZGljdChbMSwgMl0pKQo=</text>
+        <text encoding="base64">cHJpbnQobW9kZWwucHJlZGljdChYKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQobW9kZWwucHJlZGljdChhZ2VzKSkK</text>
+        <text encoding="base64">cHJpbnQobW9kZWwucHJlZGljdChbMSwgMl0pKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGx0LnNlbWlsb2d5KGFnZXMsIFttb2RlbC5wcmVkaWN0KGEpIGZvciBhIGluIGFnZXNdLCAiLSIpCg==</text>
+        <text encoding="base64">cHJpbnQobW9kZWwucHJlZGljdChhZ2VzKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQobGVuKGFnZXMpKQo=</text>
+        <text encoding="base64">cGx0LnNlbWlsb2d5KGFnZXMsIFttb2RlbC5wcmVkaWN0KGEpIGZvciBhIGluIGFnZXNdLCAiLSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">cHJpbnQobGVuKGFnZXMpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQocmVnLmNvZWZfKQo=</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVnID0gTGluZWFyUmVncmVzc2lvbigpLmZpdChhZ2VzLCBncm9zc2VzKQo=</text>
+        <text encoding="base64">cHJpbnQocmVnLmNvZWZfKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLmxpbmVhcl9tb2RlbCBpbXBvcnQgTGluZWFyUmVncmVzc2lvbgo=</text>
+        <text encoding="base64">cmVnID0gTGluZWFyUmVncmVzc2lvbigpLmZpdChhZ2VzLCBncm9zc2VzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -242,7 +253,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
