@@ -6,6 +6,12 @@
       <file name="/Dummy.txt" timestamp="1550864506640">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" timestamp="1551713434927">
+        <mark key="'" line="136" column="0" />
+        <mark key="[" line="81" column="4" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="/counter" timestamp="1550687847539">
         <mark key="[" line="0" column="0" />
       </file>
@@ -89,46 +95,49 @@
       <jump line="4" column="0" filename="$USER_HOME$/242/2/test.py" />
       <jump line="87" column="39" filename="$USER_HOME$/242/2/test.py" />
       <jump line="3" column="0" filename="$USER_HOME$/242/2/test.py" />
+      <jump line="77" column="13" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
+      <jump line="0" column="0" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
+      <jump line="128" column="0" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBncmFwaCBpbXBvcnQgR3JhcGgsIFZlcnRleCwgRWRnZQo=</text>
+        <text encoding="base64">CWF1dG8gUCA9IHBhcmVudF9tYXRyaXgoKCptYXRyaXhfYWRkKEEsIEksIHdvcmxkKSkgKiAoKnYpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>v</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb3ZpZSA9IGdldF9zb3VwKCJodHRwczovL2VuLndpa2lwZWRpYS5vcmcvd2lraS9CcnViYWtlciIpCg==</text>
+        <text encoding="base64">TWF0cml4PGludD4qIG1hdHJpeF9hZGQoTWF0cml4PGludD4qIEEsIE1hdHJpeDxpbnQ+KiBCLCBXb3JsZCogd29ybGQpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBncmFwaCBpbXBvcnQgR3JhcGgsIFZlcnRleCwgRWRnZQo=</text>
+        <text encoding="base64">CWF1dG8gUCA9IHBhcmVudF9tYXRyaXgoKCptYXRyaXhfYWRkKEEsIEksIHdvcmxkKSkgKiAoKnYpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzdG9yYWdlIGltcG9ydCBzdG9yZV9ncmFwaAo=</text>
+        <text encoding="base64">CShBKSAqIChJKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzdG9yYWdlIGltcG9ydCBzdG9yZV9ncmFwaAo=</text>
+        <text encoding="base64">CQkJLy8gVE9ETwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQoJSS0+cHJpbnRfbWF0cml4KCk7CglwcmludGxuKCJyZWFkaW5nOiIpOwoJaW50IHZhbHVlID0gZ2V0X21hdHJpeChJLCBJbnRQYWlyKDAsIDApKTsKCXByaW50ZigidmFsdWU6ICVkXG4iLCB2YWx1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+        <text encoding="base64">Ly8JVmVjdG9yPGludD4gUCA9ICgoKkEpICsgKCpJKSkgKiB2Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZyZWUoZGF0YSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">CWludDY0X3QqIGlkeCA9IHN0YXRpY19jYXN0PGludDY0X3QqPihtYWxsb2Moc2l6ZW9mKGludDY0X3QpICogMikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">CWlkeFswXSA9IGluZGV4LmkxOwoJaWR4WzFdID0gaW5kZXguaTI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzdXBlcigpLl9faW5pdF9fKCkK</text>
+        <text encoding="base64">CQkJaWYgKGdldF8pCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
