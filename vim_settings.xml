@@ -12,11 +12,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/LPNA/Konnectivity/src/benchmark/Benchmark.kt" timestamp="1551717652318">
-        <mark key="[" line="23" column="54" />
-        <mark key="]" line="23" column="54" />
-        <mark key="." line="23" column="54" />
-        <mark key="^" line="23" column="54" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/benchmark/Benchmark.kt" timestamp="1551720800504">
+        <mark key="[" line="32" column="6" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="42" column="9" />
       </file>
       <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Connectivity.kt" timestamp="1551715018936">
         <mark key="[" line="32" column="0" />
@@ -28,40 +28,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CXByaW50bG4oIkFsZ2VicmFpY0FuY2hvcjogJGR1cmF0aW9uQWxnZWJyYWljQW5jaG9yIikK</text>
+        <text encoding="base64">CXRlc3QoRykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaW50bG4oIlJlY3Vyc2l2ZUFuY2hvcjogJGR1cmF0aW9uUmVjdXJzaXZlQW5jaG9yIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaW50bG4oIkFsZ2VicmFpY0FuY2hvcjogJGR1cmF0aW9uQWxnZWJyYWljQW5jaG9yIikK</text>
+        <text encoding="base64">Cgl2YWwgZHVyYXRpb25BbGdlYnJhaWNBbmNob3IgPSB7IEcuYWxnZWJyYWljQW5jaG9yKCkgfS5kdXJhdGlvbigpCglwcmludGxuKCJBbGdlYnJhaWNBbmNob3I6ICRkdXJhdGlvbkFsZ2VicmFpY0FuY2hvciIpCgl2YWwgZHVyYXRpb25SZWN1cnNpdmVBbmNob3IgPSB7IEcucmVjdXJzaXZlQW5jaG9yKCkgfS5kdXJhdGlvbigpCglwcmludGxuKCJSZWN1cnNpdmVBbmNob3I6ICRkdXJhdGlvblJlY3Vyc2l2ZUFuY2hvciIpCgl2YWwgZHVyYXRpb25OYWl2ZSA9IHsgRy5jb25uZWN0ZWRDb21wb25lbnRzKCkgfS5kdXJhdGlvbigpCglwcmludGxuKCJOYWl2ZTogJGR1cmF0aW9uTmFpdmUiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZhbCBkdXJhdGlvblJlY3Vyc2l2ZUFuY2hvciA9IHsgSy5yZWN1cnNpdmVBbmNob3IoKSB9LmR1cmF0aW9uKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUsxMDAuYWxnZWJyYWljQW5jaG9yKCkucHJldHR5UHJpbnRsbigpCglLMTAwLmNvbm5lY3RlZENvbXBvbmVudHMoKS5wcmV0dHlQcmludGxuKCkK</text>
+        <text encoding="base64">Cgl2YWwgZHVyYXRpb25BbGdlYnJhaWNBbmNob3IgPSB7IEcuYWxnZWJyYWljQW5jaG9yKCkgfS5kdXJhdGlvbigpCglwcmludGxuKCJBbGdlYnJhaWNBbmNob3I6ICRkdXJhdGlvbkFsZ2VicmFpY0FuY2hvciIpCgl2YWwgZHVyYXRpb25SZWN1cnNpdmVBbmNob3IgPSB7IEcucmVjdXJzaXZlQW5jaG9yKCkgfS5kdXJhdGlvbigpCglwcmludGxuKCJSZWN1cnNpdmVBbmNob3I6ICRkdXJhdGlvblJlY3Vyc2l2ZUFuY2hvciIpCgl2YWwgZHVyYXRpb25OYWl2ZSA9IHsgRy5jb25uZWN0ZWRDb21wb25lbnRzKCkgfS5kdXJhdGlvbigpCglwcmludGxuKCJOYWl2ZTogJGR1cmF0aW9uTmFpdmUiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXtfLT5LMTAwLmFsZ2VicmFpY0FuY2hvcigpfS5kdXJhdGlvbigpCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWNvbXBsZXRlR3JhcGgoNCkuYWRqYWNlbmN5TWF0cml4KCkucHJldHR5UHJpbnRsbih0cnVlKQo=</text>
+        <text encoding="base64">CXZhbCBkdXJhdGlvbkFsZ2VicmFpY0FuY2hvciA9IHsgRy5hbGdlYnJhaWNBbmNob3IoKSB9LmR1cmF0aW9uKCkKCXByaW50bG4oIkFsZ2VicmFpY0FuY2hvcjogJGR1cmF0aW9uQWxnZWJyYWljQW5jaG9yIikKCXZhbCBkdXJhdGlvblJlY3Vyc2l2ZUFuY2hvciA9IHsgRy5yZWN1cnNpdmVBbmNob3IoKSB9LmR1cmF0aW9uKCkKCXByaW50bG4oIlJlY3Vyc2l2ZUFuY2hvcjogJGR1cmF0aW9uUmVjdXJzaXZlQW5jaG9yIikKCXZhbCBkdXJhdGlvbk5haXZlID0geyBHLmNvbm5lY3RlZENvbXBvbmVudHMoKSB9LmR1cmF0aW9uKCkKCXByaW50bG4oIk5haXZlOiAkZHVyYXRpb25OYWl2ZSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXYKfQo=</text>
+        <text encoding="base64">CXZhbCBOID0gMjAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhbCBHID0gR3JhcGgobnVtVmVydGljZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gPFBhcmFtLCBSZXR1cm4+Cg==</text>
+        <text encoding="base64">CXRlc3RJc29sYXRlZEdyYXBoKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>numVertices</text>
       </register>
     </registers>
     <search>
