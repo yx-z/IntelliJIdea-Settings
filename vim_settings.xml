@@ -3,58 +3,71 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1550869957233">
+      <file name="/Dummy.txt" timestamp="1551716092284">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/LPNA/Konnectivity/src/algebra/Vector.kt" timestamp="1550870099142">
-        <mark key="[" line="22" column="62" />
-        <mark key="]" line="22" column="62" />
-        <mark key="^" line="6" column="49" />
-        <mark key="." line="22" column="62" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/BatchedAnchor.kt" timestamp="1551715104263">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Connectivity.kt" timestamp="1550869646320">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/benchmark/Benchmark.kt" timestamp="1551716030164">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicAnchor.kt" timestamp="1550869745653">
-        <mark key="[" line="29" column="58" />
-        <mark key="]" line="29" column="58" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="29" column="58" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/Connectivity.kt" timestamp="1551715018936">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="29" column="17" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CXZhbCBHID0gR3JhcGgoMTEsIGxpc3RPZigKCQkJNSB0byA0LAoJCQk0IHRvIDEsCgkJCTQgdG8gMywKCQkJMyB0byAyLAoJCQkxMSB0byA5LAoJCQkxMCB0byA5LAoJCQk5IHRvIDYsCgkJCTkgdG8gOCwKCQkJNiB0byA4KQoJKQo=</text>
+        <text encoding="base64">CXByaW50bG4oIkFsZ2VicmFpY0FuY2hvcjogJGR1cmF0aW9uQWxnZWJyYWljQW5jaG9yIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXByaW50bG4oIlJlY3Vyc2l2ZUFuY2hvcjogJGR1cmF0aW9uUmVjdXJzaXZlQW5jaG9yIikK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>numCols</text>
+        <text>0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZhbCBHID0gR3JhcGgoNiwgbGlzdE9mKDEgd2l0aCAyLCAzIHdpdGggNSwgNSB3aXRoIDQsIDQgd2l0aCA2KSkK</text>
+        <text encoding="base64">CXByaW50bG4oIkFsZ2VicmFpY0FuY2hvcjogJGR1cmF0aW9uQWxnZWJyYWljQW5jaG9yIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vIHZhbCBHID0gR3JhcGgoNiwgbGlzdE9mKDIgd2l0aCAzLCA0IHdpdGggNSwgNCB3aXRoIDYsIDUgd2l0aCA2KSkK</text>
+        <text encoding="base64">CXZhbCBkdXJhdGlvblJlY3Vyc2l2ZUFuY2hvciA9IHsgSy5yZWN1cnNpdmVBbmNob3IoKSB9LmR1cmF0aW9uKCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CUsxMDAuYWxnZWJyYWljQW5jaG9yKCkucHJldHR5UHJpbnRsbigpCglLMTAwLmNvbm5lY3RlZENvbXBvbmVudHMoKS5wcmV0dHlQcmludGxuKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CXtfLT5LMTAwLmFsZ2VicmFpY0FuY2hvcigpfS5kdXJhdGlvbigpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWNvbXBsZXRlR3JhcGgoNCkuYWRqYWNlbmN5TWF0cml4KCkucHJldHR5UHJpbnRsbih0cnVlKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CXYKfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CXZhbCBHID0gR3JhcGgobnVtVmVydGljZXMpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gPFBhcmFtLCBSZXR1cm4+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>numCols</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <history />
     <shortcut-conflicts />
   </component>
 </application>
