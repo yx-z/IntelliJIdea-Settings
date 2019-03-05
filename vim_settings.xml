@@ -80,6 +80,11 @@
         <mark key="." line="45" column="11" />
         <mark key="^" line="45" column="11" />
       </file>
+      <file name="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/gh242/activity/RepoAdapter.kt" timestamp="1551748913488">
+        <mark key="[" line="19" column="71" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/response/BaseCobResponse.java" timestamp="1529598309723">
         <mark key="[" line="14" column="24" />
         <mark key="]" line="14" column="23" />
@@ -714,7 +719,7 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551743520533">
+      <file name="/Dummy.txt" timestamp="1551747220803">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1140,6 +1145,12 @@
         <mark key="^" line="24" column="23" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/242/3/Gh242/app/src/main/res/layout/row_repo.xml" timestamp="1551747250910">
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+      </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/util/TreeUtil.kt" timestamp="1521772750078">
         <mark key="[" line="118" column="1" />
         <mark key="]" line="119" column="0" />
@@ -1249,11 +1260,7 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/242/3/Gh242/app/src/main/res/layout/activity_repo.xml" timestamp="1551684871148">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="18" column="40" />
-        <mark key="^" line="18" column="40" />
-        <mark key="." line="18" column="40" />
+        <mark key="'" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Github/CS241/text_editor/editor_test.c" timestamp="1505592192709">
         <mark key="[" line="19" column="0" />
@@ -2248,10 +2255,8 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/gh242/activity/RepoActivity.kt" timestamp="1551745392842">
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/gh242/activity/RepoActivity.kt" timestamp="1551747385721">
+        <mark key="^" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/ShortestMidPoint.kt" timestamp="1522297509540">
         <mark key="[" line="19" column="24" />
@@ -2925,19 +2930,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwb3MK</text>
+        <text encoding="base64">ICAgICAgICBob2xkZXIudHh0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>textView2</text>
       </register>
       <register name="/" type="4">
         <text>this::javaClass.name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ0bl9mb2xsb3dlci50ZXh0ID0gIkZvbGxvd2VyczogJHt1c2VyLmZvbGxvd2VyQ291bnR9Igo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwb3MK</text>
+        <text encoding="base64">ICAgICAgICBob2xkZXIudHh0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2949,25 +2954,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHVzZXJuYW1lID0gInl4LXoiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR4dF9jcmVhdGVfZGF0ZS50ZXh0ID0gdXNlci5jcmVhdGVEYXRlLnRvU3RyaW5nKCkK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBnZXRJdGVtQ291bnQoKSA9IHJlcG9zLnNpemUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBhcGlVcmwgPSAiJEFQSV9CQVNFLyR1c2VybmFtZSIKICAgIHZhbCBqc29uU3RyaW5nID0gVVJMKGFwaVVybCkucmVhZFRleHQoKQogICAgdmFsIG1hcCA9IEdTT04uZnJvbUpzb24oanNvblN0cmluZywgTWFwOjpjbGFzcy5qYXZhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldAp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5GbG9hdC5tYXgK</text>
+        <text encoding="base64">Y2xhc3MgUmVwb1ZpZXdIb2xkZXIgOiBSZWN5Y2xlclZpZXcuVmlld0hvbGRlcigpIHsKCn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF2YXRhckRyYXdhYmxlCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFIK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
