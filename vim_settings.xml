@@ -1994,6 +1994,12 @@
         <mark key="^" line="107" column="25" />
         <mark key="." line="107" column="25" />
       </file>
+      <file name="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" timestamp="1552340627981">
+        <mark key="[" line="100" column="38" />
+        <mark key="]" line="100" column="37" />
+        <mark key="^" line="100" column="37" />
+        <mark key="." line="100" column="37" />
+      </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/test/java/com/yahoo/dhrainbow/mocksherpa/model/responsebuilder/BaseCobBuilderTest.java" timestamp="1533063181922">
         <mark key="[" line="23" column="65" />
         <mark key="]" line="23" column="65" />
@@ -2955,7 +2961,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhdXRvIEIgPSBuZXcgTWF0cml4PGludD4obiwgbiwgKndvcmxkLCBNQVhfVElNRVNfU1IpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>this</text>
@@ -2964,7 +2970,7 @@
         <text>it</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3JuZXJSYWRpdXMgPSBtYXgoCiAgICAgICAgICAgICAgICAgICAgICAgIGF2YXRhckJpdG1hcC53aWR0aC50b0Zsb2F0KCksCiAgICAgICAgICAgICAgICAgICAgICAgIChhdmF0YXJCaXRtYXAuaGVpZ2h0IC8gMkYpCiAgICAgICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">CQlhdXRvIEIgPSBuZXcgTWF0cml4PGludD4obiwgbiwgKndvcmxkLCBNQVhfVElNRVNfU1IpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3000,7 +3006,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVwb3NbaW5kZQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2l0L2RpY3QvZw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3010,7 +3016,7 @@
       <last-replace>dict</last-replace>
       <last-substitute>it</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -3048,7 +3054,6 @@
         <entry encoding="base64">JzwsJz5zL19JRC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL3AvcG9zL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXM6OmphdmFDbGFzcy5uYW1lLyJUQUdHRyIvZw==</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL21hcC9pdC9n</entry>
         <entry encoding="base64">JzwsJz5zL21hcC90aGlzL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2hvbGRlci4vL2c=</entry>
@@ -3056,6 +3061,7 @@
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMvaXQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2l0L2RpY3QvZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
