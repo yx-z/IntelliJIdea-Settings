@@ -1833,6 +1833,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/LPNA/ctf/src/interface/matrix.cxx" timestamp="1552403089218" />
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/base/BasePayload.java" timestamp="1529947454891">
         <mark key="[" line="70" column="26" />
         <mark key="]" line="70" column="83" />
@@ -1994,6 +1995,12 @@
         <mark key="]" line="107" column="25" />
         <mark key="^" line="107" column="25" />
         <mark key="." line="107" column="25" />
+      </file>
+      <file name="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" timestamp="1552405062787">
+        <mark key="[" line="40" column="3" />
+        <mark key="]" line="162" column="11" />
+        <mark key="." line="162" column="11" />
+        <mark key="^" line="157" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/test/java/com/yahoo/dhrainbow/mocksherpa/model/responsebuilder/BaseCobBuilderTest.java" timestamp="1533063181922">
         <mark key="[" line="23" column="65" />
@@ -2956,11 +2963,11 @@
       <jump line="24" column="26" filename="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/gh242/api/Query.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>it</text>
@@ -2969,7 +2976,7 @@
         <text encoding="base64">LyoqCiAqIHF1ZXJ5IG9uZSdzIGdpdGh1YiBmb2xsb3dlcnMgZ2l2ZW4gaGlzL2hlciB1c2VybmFtZQogKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CXJldHVybiBwYWlyLT5kOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2978,28 +2985,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWF1dG8gcGFpciA9IG5ldyBQYWlyPGludD4oaW5kZXguaTEgKiBtYXRyaXgtPm5yb3cgKyBpbmRleC5pMiwgMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
+        <text encoding="base64">CWNvdXQgPDwgIkVNPyIgPDwgcGFpci0+ZCA8PCBlbmRsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBuYW1lOiBTdHJpbmcsCg==</text>
+        <text encoding="base64">CSpudW1fcGFpciA9IDE7CglhdXRvIGRhdGEgPSBuZXcgaW50KCk7CglhdXRvIGlkeCA9IG5ldyBpbnQ2NF90KCk7CgkqaWR4ID0gaW5kZXguaTEgKiBtYXRyaXgtPm5yb3cgKyBpbmRleC5pMjsKCW1hdHJpeC0+Z2V0X2xvY2FsX2RhdGEobnVtX3BhaXIsICZpZHgsICZkYXRhKTsKCXJldHVybiAqZGF0YTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGF0YSBjbGFzcyBSZXBvKAo=</text>
+        <text encoding="base64">CWNvdXQgPDwgaW5kZXguaTEgPDwgIiwgIiA8PCBpbmRleC5pMiA8PCBlbmRsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCB1c2VybmFtZTogU3RyaW5nLAogICAgdmFsIGF2YXRhclVybDogU3RyaW5nLAo=</text>
+        <text encoding="base64">CWlkeFswXSA9IGluZGV4LmkxOwoJaWR4WzFdID0gaW5kZXguaTI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWF1dG8gcGFpciA9IG5ldyBQYWlyKGluZGV4LmkxLCBpbmRleC5pMik7CgltYXRyaXgtPnJlYWRfbG9jYWwoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWF1dG8gZGF0YSA9IG5ldyBpbnQoKTsKCW1hdHJpeC0+Z2V0X2xvY2FsX2RhdGEoJm51bV9wYWlyLCAmaWR4LCAmZGF0YSk7CglyZXR1cm4gKmRhdGE7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWF1dG8gaWR4ID0gKGludDY0X3QqKSBtYWxsb2Moc2l6ZW9mKGludDY0X3QpICogMik7CglpZHhbMF0gPSBpbmRleC5pMTsKCWlkeFsxXSA9IGluZGV4LmkyOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2l0L2RpY3QvZw==</text>
