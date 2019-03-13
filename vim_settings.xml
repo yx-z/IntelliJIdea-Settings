@@ -922,10 +922,12 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/myapplication/BaseActivity.kt" timestamp="1552444469823">
-        <mark key="[" line="11" column="93" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/myapplication/BaseActivity.kt" timestamp="1552448058168">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="56" column="25" />
       </file>
       <file name="$USER_HOME$/241/rpc/dns_query_svc_impl.c" timestamp="1543895185075">
         <mark key="[" line="38" column="0" />
@@ -2886,8 +2888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="11" filename="$USER_HOME$/242/2/model.py" />
-      <jump line="21" column="41" filename="$USER_HOME$/242/2/test.py" />
       <jump line="38" column="11" filename="$USER_HOME$/242/2/query.py" />
       <jump line="16676" column="21" filename="$USER_HOME$/242/2/data.json" />
       <jump line="8127" column="16" filename="$USER_HOME$/242/2/data.json" />
@@ -2986,13 +2986,15 @@
       <jump line="71" column="0" filename="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/gh242/activity/Activity_profileLayoutActivity.kt" />
       <jump line="48" column="49" filename="$USER_HOME$/242/3/Gh242/app/build.gradle" />
       <jump line="36" column="0" filename="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/gh242/activity/BaseLayout.kt" />
+      <jump line="87" column="0" filename="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/myapplication/BaseActivity.kt" />
+      <jump line="23" column="0" filename="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/myapplication/BaseActivity.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJBQ1RJT04iCg==</text>
+      <register name="&quot;" type="4">
+        <text>MainActivity</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>MainActivity</text>
       </register>
       <register name="/" type="4">
         <text>compile</text>
@@ -3001,7 +3003,7 @@
         <text encoding="base64">LyoqCiAqIHF1ZXJ5IG9uZSdzIGdpdGh1YiBmb2xsb3dlcnMgZ2l2ZW4gaGlzL2hlciB1c2VybmFtZQogKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJBQ1RJT04iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXlSaWNoVmlldygpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3010,28 +3012,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">a290bGluIHsgZXhwZXJpbWVudGFsIHsgY29yb3V0aW5lcyAiZW5hYmxlIiB9IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhpbnQKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUsIHBlcnNpc3RlbnRTdGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydEFjdGl2aXR5PENvdW50cmllc0FjdGl2aXR5PigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmFua286YW5rbzokYW5rb192ZXJzaW9uIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">U2tpcCB0byBjb250ZW50CgpTZWFyY2ggb3IganVtcCB0b+KApgoKUHVsbCByZXF1ZXN0cwpJc3N1ZXMKTWFya2V0cGxhY2UKRXhwbG9yZQpAeXgteiBTaWduIG91dAoxOAoyNzIgNTggS290bGluL2Fua28tZXhhbXBsZQpDb2RlICBJc3N1ZXMgMyAgUHVsbCByZXF1ZXN0cyA1ICBQcm9qZWN0cyAwICBXaWtpICBJbnNpZ2h0cwphbmtvLWV4YW1wbGUvYXBwL3NyYy9tYWluL2phdmEvb3JnL2V4YW1wbGUvYW5rb2RlbW8vTWFpbkFjdGl2aXR5Lmt0CkB5YW5leCB5YW5leCBVcGRhdGUgZXhhbXBsZSwgdXNlIG5ld2VyIGRlcGVuZGVuY3kgdmVyc2lvbnMKMjQ5MGZiZCAgb24gTWF5IDExLCAyMDE3CjcxIGxpbmVzICg2MCBzbG9jKSAgMi4xNCBLQgoKcGFja2FnZSBvcmcuZXhhbXBsZS5hbmtvZGVtbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHRTaXplID0gMzBmCg==</text>
+        <text encoding="base64">wqkgMjAxOSBHaXRIdWIsIEluYy4KVGVybXMKUHJpdmFjeQpTZWN1cml0eQpTdGF0dXMKSGVscApDb250YWN0IEdpdEh1YgpQcmljaW5nCkFQSQpUcmFpbmluZwpCbG9nCkFib3V0CkZhdm9yaXRlcwpEZWZhdWx0IGJ5IE9jdG9NYXRlClN1cHBvcnQgdXMgIOKAoiAgRmVlZGJhY2s/Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQ2xpY2sgeyB0b2FzdCgiWW91J3JlIGxvZ2dlZCBpbiEiKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJ0aWNhbExheW91dCB7CiAgICAgICAgICAgIHRleHRWaWV3KCJIZWxsbyBXb3JsZCEiKQogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qZXRicmFpbnMuYW5rby5zZGsyNy5jb3JvdXRpbmVzLm9uQ2xpY2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhY3Rpb24gYW5kcm9pZDpuYW1lPSJBQ1RJT04iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJ0aWNhbExheW91dCB7CiAgICAgICAgICAgIGJ1dHRvbigiTG9nIGluIikgewogICAgICAgICAgICAgICAgdGV4dFNpemUgPSAzMGYKICAgICAgICAgICAgICAgIG9uQ2xpY2sgeyB0b2FzdCgiWW91J3JlIGxvZ2dlZCBpbiEiKSB9CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">a290bGluIHsgZXhwZXJpbWVudGFsIHsgY29yb3V0aW5lcyAiZW5hYmxlIiB9IH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NvbXBpbGUvaW1wbGVtZW50YXRpb24vZw==</text>
