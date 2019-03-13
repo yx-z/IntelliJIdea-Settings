@@ -1833,7 +1833,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/LPNA/ctf/src/interface/matrix.cxx" timestamp="1552403089218" />
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/model/request/base/BasePayload.java" timestamp="1529947454891">
         <mark key="[" line="70" column="26" />
         <mark key="]" line="70" column="83" />
@@ -1996,11 +1995,11 @@
         <mark key="^" line="107" column="25" />
         <mark key="." line="107" column="25" />
       </file>
-      <file name="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" timestamp="1552405062787">
-        <mark key="[" line="40" column="3" />
-        <mark key="]" line="162" column="11" />
-        <mark key="." line="162" column="11" />
-        <mark key="^" line="157" column="3" />
+      <file name="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" timestamp="1552511064574">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="85" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/test/java/com/yahoo/dhrainbow/mocksherpa/model/responsebuilder/BaseCobBuilderTest.java" timestamp="1533063181922">
         <mark key="[" line="23" column="65" />
@@ -2963,20 +2962,20 @@
       <jump line="24" column="26" filename="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/gh242/api/Query.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CUEtPnByaW50X21hdHJpeCgpOwoJQUktPnByaW50X21hdHJpeCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>it</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyoqCiAqIHF1ZXJ5IG9uZSdzIGdpdGh1YiBmb2xsb3dlcnMgZ2l2ZW4gaGlzL2hlciB1c2VybmFtZQogKi8K</text>
+        <text encoding="base64">CW1hdF9zZXQoTSwgSW50NjRQYWlyKDEsIDApLCAzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXJldHVybiBwYWlyLT5kOwo=</text>
+        <text encoding="base64">CUEtPnByaW50X21hdHJpeCgpOwoJQUktPnByaW50X21hdHJpeCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2985,31 +2984,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWF1dG8gcGFpciA9IG5ldyBQYWlyPGludD4oaW5kZXguaTEgKiBtYXRyaXgtPm5yb3cgKyBpbmRleC5pMiwgMCk7Cg==</text>
+        <text encoding="base64">CXRtcC0+cHJpbnQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWNvdXQgPDwgIkVNPyIgPDwgcGFpci0+ZCA8PCBlbmRsOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSpudW1fcGFpciA9IDE7CglhdXRvIGRhdGEgPSBuZXcgaW50KCk7CglhdXRvIGlkeCA9IG5ldyBpbnQ2NF90KCk7CgkqaWR4ID0gaW5kZXguaTEgKiBtYXRyaXgtPm5yb3cgKyBpbmRleC5pMjsKCW1hdHJpeC0+Z2V0X2xvY2FsX2RhdGEobnVtX3BhaXIsICZpZHgsICZkYXRhKTsKCXJldHVybiAqZGF0YTsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWNvdXQgPDwgaW5kZXguaTEgPDwgIiwgIiA8PCBpbmRleC5pMiA8PCBlbmRsOwo=</text>
+        <text encoding="base64">CWF1dG8gTSA9IG5ldyBNYXRyaXg8aW50PigyLCAyLCAqdyk7CgltYXRfc2V0KE0sIEludDY0UGFpcigwLCAwKSwgMSk7CgltYXRfc2V0KE0sIEludDY0UGFpcigwLCAxKSwgMik7CgltYXRfc2V0KE0sIEludDY0UGFpcigxLCAwKSwgMyk7CgltYXRfc2V0KE0sIEludDY0UGFpcigxLCAxKSwgNCk7CgkKCW1hdF9nZXQoTSwgSW50NjRQYWlyKDAsIDApKTsKCWZvciAoaW50IHIgPSAwOyByIDwgMjsgcisrKSB7CgkJZm9yIChpbnQgYyA9IDA7IGMgPCAyOyBjKyspIHsKCQkJY291dCA8PCAiTVsiIDw8IHIgPDwgIiwgIiA8PCBjIDw8ICJdID0gIiA8PCBtYXRfZ2V0KE0sIEludDY0UGFpcihyLCBjKSkgPDwgZW5kbDsKCQl9Cgl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWlkeFswXSA9IGluZGV4LmkxOwoJaWR4WzFdID0gaW5kZXguaTI7Cg==</text>
+        <text encoding="base64">CWZvciAoaW50IHIgPSAwOyByIDwgbWF0cml4LT5ucm93ICogbWF0cml4LT5uY29sOyByKyspIHsKCQljb3V0IDw8IGRhdGFbcl0gPDwgZW5kbDsKCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWF1dG8gcGFpciA9IG5ldyBQYWlyKGluZGV4LmkxLCBpbmRleC5pMik7CgltYXRyaXgtPnJlYWRfbG9jYWwoKQo=</text>
+        <text encoding="base64">CU0tPnByaW50X21hdHJpeCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWF1dG8gZGF0YSA9IG5ldyBpbnQoKTsKCW1hdHJpeC0+Z2V0X2xvY2FsX2RhdGEoJm51bV9wYWlyLCAmaWR4LCAmZGF0YSk7CglyZXR1cm4gKmRhdGE7Cg==</text>
+        <text encoding="base64">CQkJbWF0X2dldChNLCBJbnQ2NFBhaXIociwgYykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWF1dG8gaWR4ID0gKGludDY0X3QqKSBtYWxsb2Moc2l6ZW9mKGludDY0X3QpICogMik7CglpZHhbMF0gPSBpbmRleC5pMTsKCWlkeFsxXSA9IGluZGV4LmkyOwo=</text>
+        <text encoding="base64">CWludCB2YWx1ZSA9ICpkYXRhOwoJZnJlZShkYXRhKTsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2l0L2RpY3QvZw==</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -3057,7 +3056,6 @@
         <entry encoding="base64">JzwsJz5zL19JRC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL3AvcG9zL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXM6OmphdmFDbGFzcy5uYW1lLyJUQUdHRyIvZw==</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL21hcC9pdC9n</entry>
         <entry encoding="base64">JzwsJz5zL21hcC90aGlzL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2hvbGRlci4vL2c=</entry>
@@ -3065,6 +3063,7 @@
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMvaXQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2l0L2RpY3QvZw==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
