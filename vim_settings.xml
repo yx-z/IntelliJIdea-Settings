@@ -947,6 +947,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="40" column="32" />
       </file>
+      <file name="$USER_HOME$/VCS/AlgoKt/src/graph/app/MinAltPath.kt" timestamp="1552518426081" />
       <file name="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/gh242/model/Model.kt" timestamp="1552501392656">
         <mark key="[" line="5" column="0" />
       </file>
@@ -2030,11 +2031,12 @@
         <mark key="^" line="107" column="25" />
         <mark key="." line="107" column="25" />
       </file>
-      <file name="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" timestamp="1552405062787">
-        <mark key="[" line="40" column="3" />
-        <mark key="]" line="162" column="11" />
-        <mark key="." line="162" column="11" />
-        <mark key="^" line="157" column="3" />
+      <file name="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" timestamp="1552535993633">
+        <mark key="'" line="50" column="4" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="206" column="47" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/test/java/com/yahoo/dhrainbow/mocksherpa/model/responsebuilder/BaseCobBuilderTest.java" timestamp="1533063181922">
         <mark key="[" line="23" column="65" />
@@ -2925,13 +2927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17039" column="23" filename="$USER_HOME$/242/2/data.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/242/2/data.json" />
-      <jump line="28" column="0" filename="$USER_HOME$/242/2/model.py" />
-      <jump line="15" column="45" filename="$USER_HOME$/242/2/model.py" />
-      <jump line="39" column="25" filename="$USER_HOME$/242/2/graph.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/242/2/analysis.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/242/2/analysis.py" />
       <jump line="5" column="28" filename="$USER_HOME$/242/2/analysis.py" />
       <jump line="0" column="0" filename="$USER_HOME$/242/2/analysis.py" />
       <jump line="228" column="16" filename="$USER_HOME$/242/2/chord.py" />
@@ -3025,22 +3020,29 @@
       <jump line="10" column="0" filename="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/gh242/api/Query.kt" />
       <jump line="25" column="34" filename="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/gh242/activity/base/BaseActivity.kt" />
       <jump line="45" column="20" filename="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/gh242/activity/ProfileActivity.kt" />
+      <jump line="141" column="0" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
+      <jump line="0" column="0" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
+      <jump line="1" column="0" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
+      <jump line="3" column="0" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
+      <jump line="5" column="0" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
+      <jump line="15" column="0" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
+      <jump line="50" column="4" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>apply</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CVBJLT5wcmludF9tYXRyaXgoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>apply</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>compile</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bmFtZT0iLmFjdGl2aXR5LkZvbGxvd2VyQWN0aXZpdHkiCiAgICAgICAgICAgICAgICBhbmRyb2lkOnRoZW1lPSJAc3R5bGUvQXBwVGhlbWUuTm9BY3Rpb25CYXIiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmNvbmZpZ0NoYW5nZXM9Im9yaWVudGF0aW9uIi8+Cg==</text>
+        <text encoding="base64">CWZyZWUoUHJldik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">CVBJLT5wcmludF9tYXRyaXgoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3049,28 +3051,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPUklFTlRBVElPTl9MQU5EU0NBUEUKICAgICAgICAgICAgICAgICkgewo=</text>
+        <text encoding="base64">CVAtPnByaW50X21hdHJpeCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CWZyZWUoUHJldik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmcmVlKFBUQSk7CgkJZnJlZShCKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXh0ID0gIkZvbGxvd2luZzogJGZvbGxvd2luZ0NvdW50Igo=</text>
+        <text encoding="base64">CWZyZWUoQSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZyZWUoUCk7CglmcmVlKEkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXh0ID0gIkZvbGxvd2VyczogJGZvbGxvd2VyQ291bnQiCg==</text>
+        <text encoding="base64">CWZyZWUoUHJldik7CglmcmVlKEFJKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidG5fZm9sbG93ZXIudGV4dCA9ICJGb2xsb3dlcnM6ICRmb2xsb3dlckNvdW50IgogICAgICAgICAgICAgICAgICAgIGJ0bl9mb2xsb3dpbmcudGV4dCA9ICJGb2xsb3dpbmc6ICRmb2xsb3dpbmdDb3VudCIK</text>
+        <text encoding="base64">CWZyZWUoUHJldik7CglmcmVlKEFJKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXNAUHJvZmlsZUFjdGl2aXR5LnN0YXJ0QWN0aXZpdHkoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSW50ZW50KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb250ZXh0LCBSZXBvQWN0aXZpdHk6OmNsYXNzLmphdmEKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApLmFwcGx5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHV0RXh0cmEoVVNFUk5BTUVfRVhUUkEsIGdldFVzZXJuYW1lKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">CWZyZWUoQUkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NvbXBpbGUvaW1wbGVtZW50YXRpb24vZw==</text>
@@ -3083,7 +3085,7 @@
       <last-replace>implementation</last-replace>
       <last-substitute>compile</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
