@@ -3,46 +3,75 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicAnchor.kt" timestamp="1552674233163">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/util/MathUtil.kt" timestamp="1552677493748">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+      </file>
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/algebra/Vector.kt" timestamp="1552676200398">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="98" column="35" />
+        <mark key="^" line="98" column="21" />
+      </file>
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/algebra/Matrix.kt" timestamp="1552678230034">
+        <mark key="[" line="239" column="37" />
+        <mark key="]" line="239" column="0" />
+        <mark key="^" line="239" column="30" />
+        <mark key="." line="239" column="0" />
+      </file>
+      <file name="$USER_HOME$/LPNA/Konnectivity/test/algebra/MatrixTest.kt" timestamp="1552678024710">
+        <mark key="[" line="74" column="19" />
+        <mark key="]" line="74" column="18" />
+        <mark key="." line="74" column="18" />
+        <mark key="^" line="74" column="18" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicAnchor.kt" />
-    </jumps>
+    <jumps />
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">CQlwcmludGxuKCIkciwgJGMiKQo=</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhbCBzciA9IElOVF9NQVhfVElNRVNfU0VNSVJJTkcK</text>
+        <text encoding="base64">CQlwcmludGxuKCIkciwgJGMiKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXZhbCBzciA9IElOVF9NQVhfVElNRVNfU0VNSVJJTkcK</text>
+        <text encoding="base64">CQlwcmludGxuKCIkciwgJGMiKQo=</text>
       </register>
-      <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3NyL0lOVF9NQVhfVElNRVNfU0VNSVJJTkcvZw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CX0K</text>
       </register>
-      <register name="/" type="4">
-        <text>sr</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJd2hlbiAociB0byBjKSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJaWYgKHIgdG8gYyA9PSAxIHRvIDEpIHsKCQkJCQoJCQl9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlrQQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CXZhbCAobWFpblJvdywgbWFpbkNvbCkgPSBzaGFwZQoJdmFsIChzdWJSb3csIHN1YkNvbCkgPSB0aGlzWzAsIDBdLnNoYXBlCglyZXR1cm4gTWF0cml4KG1haW5Sb3cgKiBzdWJSb3cgYnkgbWFpbkNvbCAqIHN1YkNvbCwgdGhpc1swLCAwXS5zZW1pcmluZykgeyByLCBjIC0+Cgl9Cn0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQl0aGlzCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJTWF0cml4KG51bVJvd3MgKiBvdGhlci5udW1Sb3dzIGJ5IG51bUNvbHMgKiBvdGhlci5udW1Db2xzLAoJCQkJCXNlbWlyaW5nKSB7IHIsIGMgLT4KCQkJCQoJCQl9Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>rem</text>
       </register>
     </registers>
     <search>
-      <last-search>sr</last-search>
-      <last-pattern>sr</last-pattern>
-      <last-replace>INT_MAX_TIMES_SEMIRING</last-replace>
-      <last-substitute>sr</last-substitute>
       <last-dir>0</last-dir>
       <show-last>true</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry>sr</entry>
-      </history-search>
-      <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3NyL0lOVF9NQVhfVElNRVNfU0VNSVJJTkcvZw==</entry>
-      </history-cmd>
-    </history>
+    <history />
     <shortcut-conflicts />
   </component>
 </application>
