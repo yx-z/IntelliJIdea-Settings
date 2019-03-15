@@ -2,14 +2,47 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicAnchor.kt" timestamp="1552674233163">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="22" column="0" filename="$USER_HOME$/LPNA/Konnectivity/src/graph/AlgebraicAnchor.kt" />
+    </jumps>
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">CXZhbCBzciA9IElOVF9NQVhfVElNRVNfU0VNSVJJTkcK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXZhbCBzciA9IElOVF9NQVhfVElNRVNfU0VNSVJJTkcK</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL3NyL0lOVF9NQVhfVElNRVNfU0VNSVJJTkcvZw==</text>
+      </register>
+      <register name="/" type="4">
+        <text>sr</text>
+      </register>
+    </registers>
     <search>
+      <last-search>sr</last-search>
+      <last-pattern>sr</last-pattern>
+      <last-replace>INT_MAX_TIMES_SEMIRING</last-replace>
+      <last-substitute>sr</last-substitute>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>sr</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL3NyL0lOVF9NQVhfVElNRVNfU0VNSVJJTkcvZw==</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
