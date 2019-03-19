@@ -495,10 +495,10 @@
         <mark key="." line="77" column="39" />
         <mark key="^" line="69" column="82" />
       </file>
-      <file name="$USER_HOME$/242/3/Gh242/app/src/main/res/values/strings.xml" timestamp="1552593159165">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/242/3/Gh242/app/src/main/res/values/strings.xml" timestamp="1553019187970">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="10" column="39" />
+        <mark key="." line="10" column="39" />
       </file>
       <file name="$USER_HOME$/242/1/src/edu/illinois/cs/chess/piece/King.java" timestamp="1549669210703">
         <mark key="[" line="15" column="0" />
@@ -1187,9 +1187,9 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/242/3/Gh242/app/src/main/res/layout/activity_profile.xml" timestamp="1552592966241">
+      <file name="$USER_HOME$/242/3/Gh242/app/src/main/res/layout/activity_profile.xml" timestamp="1553019164564">
         <mark key="'" line="73" column="46" />
-        <mark key="[" line="15" column="0" />
+        <mark key="[" line="94" column="45" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="24" column="61" />
         <mark key="^" line="24" column="61" />
@@ -1449,12 +1449,12 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/gh242/activity/ProfileActivity.kt" timestamp="1552500916400">
-        <mark key="'" line="48" column="20" />
-        <mark key="[" line="24" column="43" />
-        <mark key="]" line="24" column="45" />
-        <mark key="." line="24" column="45" />
-        <mark key="^" line="24" column="45" />
+      <file name="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/gh242/activity/ProfileActivity.kt" timestamp="1553019221797">
+        <mark key="'" line="46" column="20" />
+        <mark key="[" line="31" column="50" />
+        <mark key="]" line="46" column="43" />
+        <mark key="." line="46" column="86" />
+        <mark key="^" line="46" column="43" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/main/java/com/yahoo/dhrainbow/mocksherpa/ws/handler/write/WriteHandlerV2.java" timestamp="1532963612960">
         <mark key="[" line="28" column="0" />
@@ -1732,6 +1732,13 @@
         <mark key="]" line="42" column="7" />
         <mark key="^" line="42" column="7" />
         <mark key="." line="42" column="7" />
+      </file>
+      <file name="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/gh242/backend/Model.kt" timestamp="1553019024224">
+        <mark key="'" line="7" column="1" />
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="6" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/mock_sherpa_wsapi_java/src/test/java/com/yahoo/dhrainbow/mocksherpa/model/model/reqeust/WriteRequestTest.java" timestamp="1532534012705">
         <mark key="[" line="23" column="22" />
@@ -2180,6 +2187,12 @@
         <mark key="]" line="1" column="29" />
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
+      </file>
+      <file name="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/gh242/backend/Get.kt" timestamp="1553018939966">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/CPS/src/example/TestVitalSignRetriever.java" timestamp="1509547609460">
         <mark key="[" line="9" column="19" />
@@ -2957,7 +2970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="28" filename="$USER_HOME$/242/2/analysis.py" />
       <jump line="0" column="0" filename="$USER_HOME$/242/2/analysis.py" />
       <jump line="228" column="16" filename="$USER_HOME$/242/2/chord.py" />
       <jump line="23" column="0" filename="$USER_HOME$/242/2/analysis.py" />
@@ -3057,13 +3069,14 @@
       <jump line="5" column="0" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
       <jump line="15" column="0" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
       <jump line="50" column="4" filename="$USER_HOME$/LPNA/ctf/examples/anchor.cxx" />
+      <jump line="10" column="1" filename="$USER_HOME$/242/3/Gh242/app/src/main/java/cs/illinois/edu/gh242/backend/Model.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>ate</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>ate</text>
       </register>
       <register name="/" type="4">
         <text>compile</text>
@@ -3072,7 +3085,7 @@
         <text encoding="base64">ICAgICAgICBidG5fZm9sbG93LnNldE9uQ2xpY2tMaXN0ZW5lciB7IAogICAgICAgICAgICBHbG9iYWxTY29wZS5sYXVuY2ggeyAKICAgICAgICAgICAgICAgIGZvbGxvd1VzZXIoZWRpdF90eHRfbmFtZS50ZXh0LnRvU3RyaW5nKCkpCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBlcXVhbHMob3RoZXI6IEFueT8pOiBCb29sZWFuIHsKICAgICAgICByZXR1cm4KICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3081,28 +3094,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmZ1biBtYWluKCkgewogICAgcHJpbnRsbih1bmZvbGxvd1VzZXIoImN3bG93ZGVyIikpCn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdFpvbmUoWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkudG9Mb2NhbERhdGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRbImJpbyJdIGFzIFN0cmluZz8sCiAgICAgICAgICAgIGl0WyJibG9nIl0gYXMgU3RyaW5nPywKICAgICAgICAgICAgaXRbImVtYWlsIl0gYXMgU3RyaW5nPwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCBpZiAocmVzdWx0KSAiU3VjY2VzcyIgZWxzZSAiRmFpbGVkIiwgTEVOR1RIX1NIT1JUKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBiaW86IFN0cmluZz8gPSBudWxsLAogICAgdmFsIHdlYnNpdGU6IFN0cmluZz8gPSBudWxsLAogICAgdmFsIGVtYWlsOiBTdHJpbmc/ID0gbnVsbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzQFB1dEFjdGl2aXR5LCApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocmVzdWx0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0LgogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CmZ1biBtYWluKCkgewogICAgcHJpbnRsbih1bmZvbGxvd1VzZXIoImN3bG93ZGVyIikpCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpc0BQdXRBY3Rpdml0eS50b2FzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy91c2VybmFtZSIK</text>
+        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzLCBpZiAocmVzdWx0KSAiU3VjY2VzcyIgZWxzZSAiRmFpbGVkIiwgTEVOR1RIX1NIT1JUKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9yZXBvX25hbWUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dCh0aGlzQFB1dEFjdGl2aXR5LCApCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NvbXBpbGUvaW1wbGVtZW50YXRpb24vZw==</text>
