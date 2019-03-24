@@ -3,11 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/242/SwitchGames/index.html" timestamp="1553461651067">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+      </file>
       <file name="$USER_HOME$/LPNA/Konnectivity/src/util/MathUtil.kt" timestamp="1552677493748">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="16" />
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="16" />
+      </file>
+      <file name="$USER_HOME$/242/SwitchGames/src/main.kt" timestamp="1553461652490">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="$USER_HOME$/LPNA/Konnectivity/src/algebra/Vector.kt" timestamp="1552676200398">
         <mark key="[" line="99" column="0" />
@@ -15,17 +27,15 @@
         <mark key="." line="98" column="35" />
         <mark key="^" line="98" column="21" />
       </file>
-      <file name="$USER_HOME$/LPNA/Konnectivity/src/algebra/Matrix.kt" timestamp="1552686791917">
-        <mark key="[" line="236" column="77" />
-        <mark key="]" line="236" column="80" />
-        <mark key="." line="236" column="80" />
-        <mark key="^" line="236" column="80" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/src/algebra/Matrix.kt" timestamp="1552687101445">
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="236" column="0" />
+        <mark key="." line="236" column="0" />
       </file>
-      <file name="$USER_HOME$/LPNA/Konnectivity/test/algebra/MatrixTest.kt" timestamp="1552681538253">
-        <mark key="[" line="72" column="30" />
-        <mark key="]" line="69" column="28" />
-        <mark key="." line="69" column="28" />
-        <mark key="^" line="69" column="28" />
+      <file name="$USER_HOME$/LPNA/Konnectivity/test/algebra/MatrixTest.kt" timestamp="1552687098924">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -34,37 +44,37 @@
         <text encoding="base64">CQlwcmludGxuKCIkciwgJGMiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWluZml4IGZ1biBrcm9uZWNrZXIobTogTWF0cml4PFQ+KSA9IE1hdHJpeChzaGFwZSwgc2VtaXJpbmcpIHsgciwgYyAtPgoJCXRoaXNbciwgY10gKiBtCgl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWluZml4IGZ1biBrcm9uZWNrZXIobTogTWF0cml4PFQ+KSA9IE1hdHJpeChzaGFwZSwgc2VtaXJpbmcpIHsgciwgYyAtPgoJCXRoaXNbciwgY10gKiBtCgl9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJTWF0cml4KG51bVJvd3MgKiBtLm51bVJvd3MgYnkgbnVtQ29scyAqIG0ubnVtQ29scywgc2VtaXJpbmcpIHsgciwgYyAtPgoJCQkJCgkJCX0K</text>
+        <text encoding="base64">aW5maXggZnVuIE1hdHJpeDxJbnQ+Lmtyb25lY2tlcihtOiBNYXRyaXg8SW50PikgPSBNYXRyaXgoc2hhcGUsIFNlbWlyaW5nKGlkZW50aXR5SW50TWF0cml4KDEpLCBpZGVudGl0eUludE1hdHJpeCgxKSwgKSkgeyByLCBjIC0+Cgl0aGlzW3IsIGNdICogbQp9LmZsYXR0ZW4oKQoKZnVuIDxUPiBNYXRyaXg8TWF0cml4PFQ+Pi5mbGF0dGVuKCk6IE1hdHJpeDxUPiB7Cgp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CglAVGVzdAoJZnVuIHRlc3RGbGF0dGVuKCkgewoJCXZhbCBNID0gTWF0cml4KDEgYnkgMSwKCQkJCVNlbWlyaW5nKGlkZW50aXR5SW50TWF0cml4KDEpLCBpZGVudGl0eUludE1hdHJpeCgxKSwKCQkJCQkJeyBtMSwgbTIgLT4gbTEgKyBtMiB9LCB7IG0xLCBtMiAtPiBtMSAqIG0yIH0pKSB7IF8sIF8gLT4KCQkJaWRlbnRpdHlJbnRNYXRyaXgoMikKCQl9CgkJTS5mbGF0dGVuKCkucHJldHR5UHJpbnRsbigpCgl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWluZml4IGZ1biBrcm9uZWNrZXJQcm9kdWN0KG06IE1hdHJpeDxUPik6IE0K</text>
+        <text encoding="base64">CWluZml4IGZ1biBrcm9uZWNrZXIobTogTWF0cml4PFQ+KSA9IE1hdHJpeChzaGFwZSwgc2VtaXJpbmcpIHsgciwgYyAtPgoJCXRoaXNbciwgY10gKiBtCgl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl2YWwgcCA9IE1hdHJpeChudW1Sb3dzICogbS5udW1Sb3dzIGJ5IG51bUNvbHMgKiBtLm51bUNvbHMsIHNlbWlyaW5nKSB7IF8sIF8gLT4gdGhpc1sxLCAxXSB9CgkJcmV0dXJuIHAKCX0K</text>
+        <text encoding="base64">CQkJTWF0cml4KG51bVJvd3MgKiBtLm51bVJvd3MgYnkgbnVtQ29scyAqIG0ubnVtQ29scywgc2VtaXJpbmcpIHsgciwgYyAtPgoJCQkJCgkJCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlmb3IK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CWluZml4IGZ1biBrcm9uZWNrZXJQcm9kdWN0KG06IE1hdHJpeDxUPik6IE0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuIDxUPiBNYXRyaXg8TWF0cml4PFQ+Pi5mbGF0dGVuKCkgPSB0aGlzWzEsIDFdLmxldCB7Cgl2YWwgKG1haW5Sb3csIG1haW5Db2wpID0gc2hhcGUKCXZhbCAoc3ViUm93LCBzdWJDb2wpID0gaXQuc2hhcGUKCU1hdHJpeChtYWluUm93ICogc3ViUm93IGJ5IG1haW5Db2wgKiBzdWJDb2wsIGl0LnNlbWlyaW5nKSB7IHIsIGMgLT4KCQlUT0RPKCkKCX0KfQo=</text>
+        <text encoding="base64">CQl2YWwgcCA9IE1hdHJpeChudW1Sb3dzICogbS5udW1Sb3dzIGJ5IG51bUNvbHMgKiBtLm51bUNvbHMsIHNlbWlyaW5nKSB7IF8sIF8gLT4gdGhpc1sxLCAxXSB9CgkJcmV0dXJuIHAKCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwcmludGxuKCIkciwgJGMiKQoJCXRoaXNbKHIudG9GbG9hdCgpIC8gbWFpblJvdykudG9JbnQoKSwgKGMudG9GbG9hdCgpIC8gbWFpbkNvbCkudG9JbnQoKV1bKHIgbW9kIHN1YlJvdykgKyAxLCAoYyBtb2Qgc3ViQ29sKSArIDFdCg==</text>
+        <text encoding="base64">CQlmb3IK</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>u</text>
       </register>
     </registers>
     <search>
