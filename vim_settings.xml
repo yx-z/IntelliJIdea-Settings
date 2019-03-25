@@ -10,7 +10,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553498090492">
+      <file name="/Dummy.txt" timestamp="1553524850735">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WeSplat/src/wechat_reply.py" timestamp="1553471874555">
@@ -48,12 +48,9 @@
         <mark key="^" line="30" column="27" />
         <mark key="." line="30" column="27" />
       </file>
-      <file name="$USER_HOME$/WeSplat/src/main.py" timestamp="1553498219391">
-        <mark key="'" line="28" column="46" />
-        <mark key="[" line="25" column="48" />
-        <mark key="]" line="60" column="37" />
-        <mark key="." line="60" column="37" />
-        <mark key="^" line="60" column="37" />
+      <file name="$USER_HOME$/WeSplat/src/main.py" timestamp="1553524848090">
+        <mark key="'" line="146" column="4" />
+        <mark key="[" line="11" column="13" />
       </file>
       <file name="$USER_HOME$/WeSplat/src/api.py" timestamp="1553497233204">
         <mark key="'" line="44" column="14" />
@@ -74,14 +71,13 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/WeSplat/.gitignore" timestamp="1553488177756" />
       <file name="$USER_HOME$/WeSplat/src/api_coop.py" timestamp="1553484368552">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WeSplat/src/translation.py" timestamp="1553498088387">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/WeSplat/src/translation.py" timestamp="1553524795463">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/WeSplat/src/api.py" timestamp="1553205521018">
         <mark key="'" line="23" column="0" />
@@ -149,13 +145,16 @@
       <jump line="39" column="0" filename="$USER_HOME$/WeSplat/src/util.py" />
       <jump line="0" column="0" filename="$USER_HOME$/WeSplat/src/util.py" />
       <jump line="18" column="53" filename="$USER_HOME$/WeSplat/src/util.py" />
+      <jump line="10" column="12" filename="$USER_HOME$/WeSplat/src/main.py" />
+      <jump line="110" column="8" filename="$USER_HOME$/WeSplat/src/main.py" />
+      <jump line="146" column="4" filename="$USER_HOME$/WeSplat/src/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoU1RBR0VTWyJSdWlucyBvZiBBcmsgUG9sYXJpcyJdKQo=</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>时</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>|</text>
@@ -164,31 +163,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZmluZF9uZXh0ID0gVHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoU1RBR0VTWyJSdWlucyBvZiBBcmsgUG9sYXJpcyJdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CkNOX0xFQUdVRSA9ICLnu4TmjpIiCkNOX1JBTktFRCA9ICLljZXmjpIiCkNOX1JFR1VMQVIgPSAi5pmu6YCaIgpDTl9TQUxNT05fUlVOID0gIuaJk+W3pSIK</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJ1biBpcyBOb25lOgo=</text>
+        <text encoding="base64">CiAgICByZXF1ZXN0X3RpbWUgPSBtc2cuY3JlYXRlVGltZQogICAgcmVxdWVzdGVyID0gbXNnLnVzZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcnVuIGlzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV4dF9ydW4gPSByZXF1ZXN0X25leHRfc2FsbW9uX3J1bihyZXF1ZXN0X3RpbWUpCiAgICAgICAgICAgIGlmIG5leHRfcnVuIGlzIE5vbmU6CiAgICAgICAgICAgICAgICByZXF1ZXN0ZXIuc2VuZF9tc2coIuacqOacieaJvuWIsOaJk+W3peS/oeaBryIpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICByZW1haW5faG91cnMgPSBkaWZmX2hvdXJzKHJlcXVlc3RfdGltZSwgbmV4dF90aW1lKQogICAgICAgICAgICAgICAgaWYgcmVtYWluX2hvdXJzID09IDA6CiAgICAgICAgICAgICAgICAgICAgcmVxdWVzdGVyLnNlbmRfbXNnKCLnjrDlnKjmiZPlt6XlvIDnnYAiKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICByZXF1ZXN0ZXIuc2VuZF9tc2coIui/mOaciXt95bCP5pe25byA5belIi5mb3JtYXQocmVtYWluX2hvdXJzKSkK</text>
+        <text encoding="base64">ICAgIG1vZGUgPSBOb25lCiAgICBpZiBhbnlfaW4oS0VZV09SRFNfTEVBR1VFKToKICAgICAgICBtb2RlID0gQVBJX0xFQUdVRQogICAgZWxpZiBhbnlfaW4oS0VZV09SRFNfUkFOS0VEKToKICAgICAgICBtb2RlID0gQVBJX1JBTktFRAogICAgZWxpZiBhbnlfaW4oS0VZV09SRFNfUkVHVUxBUik6CiAgICAgICAgbW9kZSA9IEFQSV9SRUdVTEFSCiAgICBpZiBtb2RlIGlzIE5vbmU6CiAgICAgICAgcmVxdWVzdGVyLnNlbmRfbXNnKFVOS05PV05fTUVTU0FHRSkKICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV4dF9ydW4gPSByZXF1ZXN0X25leHRfc2FsbW9uX3J1bihyZXF1ZXN0X3RpbWUpCiAgICAgICAgICAgIGlmIG5leHRfcnVuIGlzIE5vbmU6CiAgICAgICAgICAgICAgICByZXF1ZXN0ZXIuc2VuZF9tc2coIuacqOacieaJvuWIsOaJk+W3peS/oeaBryIpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICByZW1haW5faG91cnMgPSBkaWZmX2hvdXJzKHJlcXVlc3RfdGltZSwgbmV4dF90aW1lKQogICAgICAgICAgICAgICAgaWYgcmVtYWluX2hvdXJzID09IDA6CiAgICAgICAgICAgICAgICAgICAgcmVxdWVzdGVyLnNlbmRfbXNnKCLnjrDlnKjmiZPlt6XlvIDnnYAiKQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICByZXF1ZXN0ZXIuc2VuZF9tc2coIui/mOaciXt95bCP5pe25byA5belIi5mb3JtYXQocmVtYWluX2hvdXJzKSkKICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">CiAgICAiIiIKICAgIEJhdHRsZQogICAgIiIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">CiAgICAiIiIKICAgIFNhbG1vbiBSdW4KICAgICIiIgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3wvXC8vZw==</text>
