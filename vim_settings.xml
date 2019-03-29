@@ -10,7 +10,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553798182210">
+      <file name="/Dummy.txt" timestamp="1553894410286">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WeSplat/src/wechat_reply.py" timestamp="1553471874555">
@@ -26,9 +26,9 @@
         <mark key="^" line="24" column="64" />
         <mark key="." line="24" column="64" />
       </file>
-      <file name="$USER_HOME$/WeSplat/src/util.py" timestamp="1553647781575">
-        <mark key="'" line="48" column="13" />
-        <mark key="[" line="48" column="14" />
+      <file name="$USER_HOME$/WeSplat/src/util.py" timestamp="1553893434679">
+        <mark key="'" line="51" column="49" />
+        <mark key="^" line="51" column="49" />
       </file>
       <file name="$USER_HOME$/Desktop/WeSplat/README.md" timestamp="1553201200055">
         <mark key="[" line="3" column="9" />
@@ -45,18 +45,18 @@
         <mark key="^" line="30" column="27" />
         <mark key="." line="30" column="27" />
       </file>
-      <file name="$USER_HOME$/WeSplat/src/main.py" timestamp="1553798163681">
-        <mark key="'" line="139" column="4" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="88" column="73" />
+      <file name="$USER_HOME$/WeSplat/src/main.py" timestamp="1553894403980">
+        <mark key="'" line="152" column="4" />
+        <mark key="[" line="133" column="32" />
+        <mark key="]" line="133" column="48" />
+        <mark key="^" line="133" column="48" />
+        <mark key="." line="133" column="48" />
       </file>
-      <file name="$USER_HOME$/WeSplat/src/config.py" timestamp="1553645824119">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="11" column="37" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/WeSplat/src/config.py" timestamp="1553894144952">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
       </file>
       <file name="$USER_HOME$/WeSplat/src/api.py" timestamp="1553550879387">
         <mark key="'" line="44" column="14" />
@@ -80,10 +80,11 @@
       <file name="$USER_HOME$/WeSplat/src/api_coop.py" timestamp="1553484368552">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WeSplat/src/translation.py" timestamp="1553551260495">
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="15" />
+      <file name="$USER_HOME$/WeSplat/src/translation.py" timestamp="1553894336027">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/WeSplat/src/api.py" timestamp="1553205521018">
         <mark key="'" line="23" column="0" />
@@ -110,12 +111,6 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/WeSplat/src/model.py" timestamp="1553496099666">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="25" column="17" />
-        <mark key="^" line="25" column="17" />
-        <mark key="." line="25" column="17" />
       </file>
       <file name="$USER_HOME$/WeSplat/src/api_schedule.py" timestamp="1553484430449">
         <mark key="[" line="11" column="0" />
@@ -156,46 +151,47 @@
       <jump line="146" column="4" filename="$USER_HOME$/WeSplat/src/main.py" />
       <jump line="9" column="0" filename="$USER_HOME$/WeSplat/src/util.py" />
       <jump line="46" column="13" filename="$USER_HOME$/WeSplat/src/util.py" />
+      <jump line="53" column="49" filename="$USER_HOME$/WeSplat/src/util.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBudW1fdGltZXMgPSAK</text>
+        <text encoding="base64">ICAgIG1vZGUgPSBkaWN0X3JhbmRfdmFsdWUoTU9ERVMpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>牌与否可以自选</text>
       </register>
       <register name="/" type="4">
         <text>|</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlID0gQVBJX0xFQUdVRQogICAgICAgIHJlcGx5X2JhdHRsZShyZXF1ZXN0ZXIsIG1vZGUsIHJlcXVlc3RfdGltZSwgcmVxdWVzdF9pbnB1dCkK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3Rlci5zZW5kX21zZygi5q2m5Zmo6LS054mM5LiO5ZCm5Y+v5Lul6Ieq6YCJIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBudW1fdGltZXMgPSAK</text>
+        <text encoding="base64">ICAgIG1vZGUgPSBkaWN0X3JhbmRfdmFsdWUoTU9ERVMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlbW92ZV9pZl9leGlzdChUTVBfSU1HKQo=</text>
+        <text encoding="base64">ICAgIHJlcXVlc3Rlci5zZW5kX21zZygi57qi6ZifOiB7fSIuZm9ybWF0KCIgIi5qb2luKHRlYW1fQSkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlbW92ZV9pZl9leGlzdChUTVBfSU1HKQo=</text>
+        <text encoding="base64">ICAgIHN0YWdlID0gZGljdF9yYW5kX3ZhbHVlKFNUQUdFUykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGNvbWJpbmVfaW1ncyhjYWNoZV9pbWcoc2NoZWR1bGUuc3RhZ2VzKSwgQ0FDSEVEX0lNRyk6CiAgICAgICAgcmVxdWVzdGVyLnNlbmRfaW1hZ2UoQ0FDSEVEX0lNRykK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3Rlci5zZW5kX21zZygie30sIHt95qih5byP77yaIi5mb3JtYXQoc3RhZ2UsIG1vZGUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3Rlci5zZW5kX21zZygie30sIHt95qih5byP77yaIi5mb3JtYXQoc3RhZ2UsIG1vZGUpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZG93bmxvYWRfaW1nKCJodHRwczovL3BpY3N1bS5waG90b3MvMjAwIikuc2F2ZSgib3V0LnBuZyIpCg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3Rlci5zZW5kX21zZygi5q2m5Zmo6LS054mM5LiO5ZCm5Y+v6Ieq6YCJLCAiCiAgICAgICAgICAgICAgICAgICAgICAgIumaj+acuue7k+aenOS4jeWlveWPr+WGjeafpeivoiwgIgogICAgICAgICAgICAgICAgICAgICAgICLlj6/lv73nlaXpmo/mnLrlh7rnu5PmnpwgKOWmguWcsOWbvikiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UkVTX0RJUiA9ICJyZXMvIgpJTUdfRVhUID0gIi5wbmciCkNBQ0hFRF9JTUcgPSAiY2FjaGVkIiArIElNR19FWFQK</text>
+        <text encoding="base64">ICAgIHJlcXVlc3Rlci5zZW5kX21zZygi6ZqP5Y2z57uT5p6c5LiN5L2zIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgpAZGF0YWNsYXNzCmNsYXNzIEJhdHRsZToKICAgIG1vZGU6IHN0cgogICAgc3RhZ2U6IHN0cgogICAgdGVhbV9BX3dlYXBvbnM6IFtJdGVtXQogICAgdGVhbV9CX3dlYXBvbnM6IFtJdGVtXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBCYXR0bGUobW9kZSwgc3RhZ2UsIHRlYW1fQSwgdGVhbV9CKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3wvXC8vZw==</text>
