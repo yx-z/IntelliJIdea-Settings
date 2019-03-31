@@ -10,7 +10,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554054546271">
+      <file name="/Dummy.txt" timestamp="1554059897003">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WeSplat/src/wechat_reply.py" timestamp="1553471874555">
@@ -38,11 +38,12 @@
       <file name="/a.dummy" timestamp="1553895702904">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/WeSplat/src/reply.py" timestamp="1554054257665">
+      <file name="$USER_HOME$/WeSplat/src/reply.py" timestamp="1554059870996">
         <mark key="'" line="110" column="12" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+        <mark key="[" line="71" column="32" />
+        <mark key="]" line="71" column="22" />
+        <mark key="." line="71" column="22" />
+        <mark key="^" line="71" column="22" />
       </file>
       <file name="$USER_HOME$/Desktop/WeSplat/schedule.py" timestamp="1553197609460">
         <mark key="'" line="12" column="0" />
@@ -51,8 +52,12 @@
         <mark key="^" line="30" column="27" />
         <mark key="." line="30" column="27" />
       </file>
-      <file name="$USER_HOME$/WeSplat/src/main.py" timestamp="1554054532202">
+      <file name="$USER_HOME$/WeSplat/src/main.py" timestamp="1554059884175">
         <mark key="'" line="40" column="0" />
+        <mark key="[" line="45" column="26" />
+        <mark key="]" line="45" column="26" />
+        <mark key="." line="45" column="26" />
+        <mark key="^" line="27" column="30" />
       </file>
       <file name="$USER_HOME$/WeSplat/src/config.py" timestamp="1554054417713">
         <mark key="[" line="3" column="0" />
@@ -159,28 +164,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>|</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlID0gQVBJX0xFQUdVRQogICAgICAgIHJlcGx5X2JhdHRsZShyZXF1ZXN0ZXIsIG1vZGUsIHJlcXVlc3RfdGltZSwgcmVxdWVzdF9pbnB1dCwgaW1nPUZhbHNlKQogICAgICAgIG1vZGUgPSBBUElfUkFOS0VECiAgICAgICAgcmVwbHlfYmF0dGxlKHJlcXVlc3RlciwgbW9kZSwgcmVxdWVzdF90aW1lLCByZXF1ZXN0X2lucHV0LCBpbWc9RmFsc2UpCiAgICAgICAgbW9kZSA9IEFQSV9SRUdVTEFSCiAgICAgICAgcmVwbHlfYmF0dGxlKHJlcXVlc3RlciwgbW9kZSwgcmVxdWVzdF90aW1lLCByZXF1ZXN0X2lucHV0LCBpbWc9RmFsc2UpCiAgICAgICAgcmVwbHlfc2FsbW9uX3J1bihyZXF1ZXN0ZXIsIHJlcXVlc3RfdGltZSwgcmVxdWVzdF9pbnB1dCwgaW1nPUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXBseV9iYXR0bGUocmVxdWVzdGVyLCBtb2RlLCByZXF1ZXN0X3RpbWUsIHJlcXVlc3RfaW5wdXQpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIG1vZGUgaXMgTm9uZToKICAgICAgICByZXF1ZXN0ZXIuc2VuZF9tc2coVU5LTk9XTl9NU0cpCiAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIG1vZGUgPT0gTm9uZToKICAgICAgICByZXF1ZXN0ZXIuc2VuZF9tc2coVU5LTk9XTl9NU0cpCiAgICAgICAgcmV0dXJuCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBtb2RlIGlzIE5vbmU6CiAgICAgICAgICAgIHJlcXVlc3Rlci5zZW5kX21zZyhVTktOT1dOX01TRykKICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
