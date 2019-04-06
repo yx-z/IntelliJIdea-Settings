@@ -3,17 +3,29 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1554591123926">
+      <file name="/Dummy.txt" timestamp="1554592934875">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/java/cs/illinois/edu/nsg/backend/Api.kt" timestamp="1554592439435">
+        <mark key="[" line="18" column="62" />
+        <mark key="]" line="18" column="61" />
+        <mark key="." line="18" column="61" />
+        <mark key="^" line="18" column="61" />
       </file>
       <file name="$USER_HOME$/242/final/src/mobile/app/src/main/java/cs/illinois/edu/nsg/activity/BaseActivity.kt" timestamp="1554591600049">
         <mark key="[" line="25" column="13" />
+      </file>
+      <file name="/fragment.kt" timestamp="1554592419098">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/242/final/src/mobile/app/src/main/res/layout/activity_main.xml" timestamp="1554591166384">
         <mark key="[" line="10" column="43" />
         <mark key="]" line="11" column="32" />
         <mark key="." line="11" column="32" />
         <mark key="^" line="11" column="32" />
+      </file>
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/res/layout/list_item.xml" timestamp="1554592822887">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/242/final/src/mobile/app/src/main/AndroidManifest.xml" timestamp="1554591234984">
         <mark key="[" line="16" column="49" />
@@ -23,6 +35,12 @@
       </file>
       <file name="$USER_HOME$/242/final/src/mobile/app/src/main/res/layout/activity_base.xml" timestamp="1554591604063">
         <mark key="[" line="25" column="37" />
+      </file>
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/java/cs/illinois/edu/nsg/backend/Model.kt" timestamp="1554592453144">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/242/final/src/mobile/app/src/main/java/cs/illinois/edu/nsg/activity/HomeActivity.kt" timestamp="1554591216721">
         <mark key="[" line="3" column="0" />
@@ -34,25 +52,37 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhbCBhbWF6b25QcmljZTogRmxvYXQ/ID0gbnVsbCwK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHZhbCBhbWF6b25QcmljZTogRmxvYXQ/ID0gbnVsbCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBlc2hvcFByaWNlOiBGbG9hdCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aGlzWyJmcm9udF9ib3hfYXJ0Il0gYXMgU3RyaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>i</text>
       </register>
     </registers>
     <search>
