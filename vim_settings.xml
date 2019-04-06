@@ -2,14 +2,69 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1554591123926">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/java/cs/illinois/edu/nsg/activity/BaseActivity.kt" timestamp="1554591600049">
+        <mark key="[" line="25" column="13" />
+      </file>
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/res/layout/activity_main.xml" timestamp="1554591166384">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+        <mark key="^" line="11" column="32" />
+      </file>
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/AndroidManifest.xml" timestamp="1554591234984">
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+        <mark key="^" line="17" column="11" />
+      </file>
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/res/layout/activity_base.xml" timestamp="1554591604063">
+        <mark key="[" line="25" column="37" />
+      </file>
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/java/cs/illinois/edu/nsg/activity/HomeActivity.kt" timestamp="1554591216721">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
