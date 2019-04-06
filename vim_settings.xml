@@ -45,11 +45,11 @@
         <mark key="^" line="26" column="27" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/java/cs/illinois/edu/nsg/backend/Api.kt" timestamp="1554574736045">
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="8" column="29" />
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/java/cs/illinois/edu/nsg/backend/Api.kt" timestamp="1554589891449">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="17" />
+        <mark key="." line="28" column="17" />
+        <mark key="^" line="28" column="17" />
       </file>
       <file name="$USER_HOME$/242/final/src/mobile/app/src/main/java/cs/illinois/edu/nsg/activity/Model.kt" timestamp="1554566531464">
         <mark key="[" line="5" column="27" />
@@ -72,6 +72,12 @@
         <mark key="." line="13" column="16" />
         <mark key="^" line="15" column="32" />
       </file>
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/java/cs/illinois/edu/nsg/activity/MainActivity.kt" timestamp="1554590430421">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="3" />
+      </file>
       <file name="/Dummy.txt" timestamp="1554562801316">
         <mark key="[" line="0" column="0" />
       </file>
@@ -86,6 +92,12 @@
         <mark key="]" line="30" column="56" />
         <mark key="^" line="30" column="56" />
         <mark key="." line="30" column="56" />
+      </file>
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/java/cs/illinois/edu/nsg/activity/BaseActivity.kt" timestamp="1554590718510">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/WeSplat/README.md" timestamp="1553201200055">
         <mark key="[" line="3" column="9" />
@@ -104,17 +116,18 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/res/menu/navigation.xml" timestamp="1554564364126">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/res/menu/navigation.xml" timestamp="1554590807362">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+        <mark key="^" line="17" column="5" />
       </file>
-      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/res/layout/activity_main.xml" timestamp="1554564389388">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/res/layout/activity_main.xml" timestamp="1554590687465">
+        <mark key="[" line="19" column="57" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1554565714931">
+      <file name="/fragment.java" timestamp="1554575754990">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/WeSplat/src/wechat_reply.py" timestamp="1553202571667">
@@ -153,10 +166,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbih0aGlzWyJlc2hvcF9wcmljZSJdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>navItemListener</text>
       </register>
       <register name="/" type="4">
         <text>|</text>
@@ -165,31 +178,31 @@
         <text encoding="base64">ICAgICAgICByZXF1ZXN0X3RpbWUgPSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbih0aGlzWyJlc2hvcF9wcmljZSJdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGNhdGVnb3J5ID0gdGhpc1siY2F0ZWdvcmllcyJdIGFzIE1hcDxTdHJpbmcsICo+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOm1lbnU9IkBtZW51L25hdmlnYXRpb24iLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXNbIm51bWJlcl9vZl9wbGF5ZXJzIl0gYXMgU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG5hdkl0ZW1MaXN0ZW5lciA9CiAgICAgICAgQm90dG9tTmF2aWdhdGlvblZpZXcuT25OYXZpZ2F0aW9uSXRlbVNlbGVjdGVkTGlzdGVuZXIgeyBpdGVtIC0+CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXNbInJlbGVhc2VfZGF0ZSJdIGFzIFN0cmluZywK</text>
+        <text encoding="base64">ICAgIEJvdHRvbU5hdmlnYXRpb25WaWV3Lk9uTmF2aWdhdGlvbkl0ZW1TZWxlY3RlZExpc3RlbmVyIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBjYXRlZ29yaWVzOiBMaXN0PFN0cmluZz4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG5hdkl0ZW1MaXN0ZW5lciA9CiAgICAgICAgQm90dG9tTmF2aWdhdGlvblZpZXcuT25OYXZpZ2F0aW9uSXRlbVNlbGVjdGVkTGlzdGVuZXIgeyBpdGVtIC0+CiAgICAgICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBudW1QbGF5ZXJzOiBTdHJpbmcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hlbiAoaXRlbS5pdGVtSWQpIHsKICAgICAgICAgICAgICAgIFIuaWQubmF2X2hvbWUgLT4gVE9ETygpCiAgICAgICAgICAgICAgICBSLmlkLm5hdl93aXNobGlzdCAtPiBUT0RPKCkKICAgICAgICAgICAgICAgIFIuaWQubmF2X25vdGlmaWNhdGlvbiAtPiBUT0RPKCkKICAgICAgICAgICAgfQogICAgICAgICAgICB0cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCByZWxlYXNlRGF0ZTogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNhdGVnb3J5WyJjYXRlZ29yeSJdLmphdmFDbGFzcykK</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL21zZyIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMzJkcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL2hvbWUiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJwYXJlbnQiIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkVuZD0iOGRwIgogICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjhkcCIvPgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICh0aGlzWyJjYXRlZ29yaWVzIl0gYXMgTWFwPCosICo+KVsiY2F0ZWdvcnkiXSBhcyBTdHJpbmcK</text>
+        <text encoding="base64">CmZ1biBtYWluKCkgewogICAgcHJpbnRsbihxdWVyeUVzaG9wR2FtZXMoMTApKQp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3wvXC8vZw==</text>
@@ -216,6 +229,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
