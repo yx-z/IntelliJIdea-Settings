@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/res/values/strings.xml" timestamp="1554562749495">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="3" column="41" />
+        <mark key="." line="3" column="41" />
+      </file>
       <file name="$USER_HOME$/Desktop/WeSplat/wechat_reply.py" timestamp="1553198766950">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="5" column="50" />
@@ -10,7 +15,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553443163487">
+      <file name="/Dummy.txt" timestamp="1554562801316">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WeSplat/src/wechat_reply.py" timestamp="1553443158454">
@@ -19,6 +24,12 @@
         <mark key="]" line="91" column="27" />
         <mark key="^" line="91" column="27" />
         <mark key="." line="91" column="27" />
+      </file>
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/java/cs/illinois/edu/nsg/MainActivity.kt" timestamp="1554564224950">
+        <mark key="[" line="11" column="71" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/WeSplat/README.md" timestamp="1553201200055">
         <mark key="[" line="3" column="9" />
@@ -54,10 +65,18 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/res/menu/navigation.xml" timestamp="1554562582532">
-        <mark key="[" line="6" column="39" />
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/res/menu/navigation.xml" timestamp="1554564364126">
+        <mark key="[" line="4" column="33" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/res/layout/activity_main.xml" timestamp="1554564389388">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/AndroidManifest.xml" timestamp="1554564423510">
+        <mark key="[" line="2" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/WeSplat/src/api.py" timestamp="1553205521018">
         <mark key="'" line="23" column="0" />
@@ -108,10 +127,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>|</text>
@@ -120,28 +139,28 @@
         <text encoding="base64">ICAgICAgICByZXF1ZXN0X3RpbWUgPSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiSGFtbWVyaGVhZCBCcmlkZ2UiOiAiIiwKICAgICAgICAgICAgICAiTWFoaS1NYWhpIFJlc29ydCI6ICIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiRmxvdW5kZXIgSGVpZ2h0cyI6ICIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiQmx1ZWZpbiBEZXBvdCI6ICIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm5AT25OYXZpZ2F0aW9uSXRlbVNlbGVjdGVkTGlzdGVuZXIgdHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiU2hlbGxlbmRvcmYgSW5zdGl0dXRlIjogIiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm5AT25OYXZpZ2F0aW9uSXRlbVNlbGVjdGVkTGlzdGVuZXIgdHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiVXJjaGluIFVuZGVycGFzcyI6ICIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm5AT25OYXZpZ2F0aW9uSXRlbVNlbGVjdGVkTGlzdGVuZXIgdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiU2FsdHNwcmF5IFJpZyI6ICIiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiTXVzZXVtIGQnQWxmb25zaW5vIjogIiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iQGRpbWVuL2FjdGl2aXR5X2hvcml6b250YWxfbWFyZ2luIgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
