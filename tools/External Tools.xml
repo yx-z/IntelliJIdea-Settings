@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="Start server" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Start Server" description="Start the backend server." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/242/final/src/launch_server.sh" />
       <option name="PARAMETERS" />
