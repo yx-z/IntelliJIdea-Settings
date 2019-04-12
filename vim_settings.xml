@@ -31,11 +31,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/java/cs/illinois/edu/nsg/backend/Api.kt" timestamp="1555016298899">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="15" column="74" />
-        <mark key="." line="15" column="74" />
-        <mark key="^" line="15" column="74" />
+      <file name="$USER_HOME$/242/final/src/mobile/app/src/main/java/cs/illinois/edu/nsg/backend/Api.kt" timestamp="1555032947975">
+        <mark key="'" line="24" column="23" />
+        <mark key="[" line="15" column="70" />
+        <mark key="]" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+        <mark key="^" line="17" column="23" />
       </file>
       <file name="$USER_HOME$/242/final/src/mobile/app/src/main/res/layout/activity_main.xml" timestamp="1554591166384">
         <mark key="[" line="10" column="43" />
@@ -81,12 +82,20 @@
         <mark key="." line="8" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="24" column="23" filename="$USER_HOME$/242/final/src/mobile/app/src/main/java/cs/illinois/edu/nsg/backend/Api.kt" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="-" type="4">
+        <text>0</text>
+      </register>
+      <register name="/" type="4">
+        <text>it</text>
+      </register>
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
@@ -113,17 +122,25 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdFsiY292ZXJfaW1nIl0gYXMgU3RyaW5nPywK</text>
       </register>
-      <register name="-" type="4">
-        <text>0</text>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL2l0L3RoaXMvZw==</text>
       </register>
     </registers>
     <search>
+      <last-search>it</last-search>
+      <last-pattern>it</last-pattern>
+      <last-replace>this</last-replace>
+      <last-substitute>it</last-substitute>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>it</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL2l0L3RoaXMvZw==</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
