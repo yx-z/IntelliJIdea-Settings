@@ -84,8 +84,8 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/242/final/src/frontend/src/main/kotlin/Query.kt" timestamp="1555122055826">
-        <mark key="[" line="26" column="32" />
+      <file name="$USER_HOME$/242/final/src/frontend/src/main/kotlin/Query.kt" timestamp="1555350792176">
+        <mark key="[" line="21" column="46" />
         <mark key="]" line="30" column="42" />
         <mark key="^" line="30" column="42" />
         <mark key="." line="30" column="42" />
@@ -146,12 +146,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/242/final/src/frontend/src/main/kotlin/Model.kt" timestamp="1555122036599">
+      <file name="$USER_HOME$/242/final/src/frontend/src/main/kotlin/Model.kt" timestamp="1555350787610">
         <mark key="'" line="18" column="8" />
-        <mark key="[" line="23" column="68" />
-        <mark key="]" line="23" column="67" />
-        <mark key="^" line="23" column="67" />
-        <mark key="." line="23" column="67" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/242/final/frontend/pom.xml" timestamp="1555097751359">
         <mark key="[" line="30" column="21" />
@@ -183,8 +182,8 @@
       <jump line="29" column="39" filename="$USER_HOME$/242/final/src/frontend/src/main/java/Controller.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQl2YWwgdmlkZW9Vcmw6IFN0cmluZz8sCg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -196,31 +195,31 @@
         <text encoding="base64">ICAgICAgICBtYWluTHYuc2V0Q2VsbEZhY3RvcnkocGFyYW0gLT4gbmV3IExpc3RDZWxsPEdhbWU+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHJvdGVjdGVkIHZvaWQgdXBkYXRlSXRlbShATnVsbGFibGUgR2FtZSBnYW1lLCBib29sZWFuIGVtcHR5KSB7CiAgICAgICAgICAgICAgICBzdXBlci51cGRhdGVJdGVtKGdhbWUsIGVtcHR5KTsKICAgICAgICAgICAgICAgIGlmICghZW1wdHkgJiYgZ2FtZSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgc2V0VGV4dChnYW1lLnRvU3RyaW5nKCkpOwogICAgICAgICAgICAgICAgICAgIFN0cmluZyB1cmwgPSBnYW1lLmdldENvdmVySW1nVXJsKCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKHVybCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIEltYWdlVmlldyBjb3ZlckltZ1ZpZXcgPQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBJbWFnZVZpZXcoVXRpbEt0LmRvd25sb2FkSW1nKHVybCkpOwogICAgICAgICAgICAgICAgICAgICAgICBjb3ZlckltZ1ZpZXcuc2V0Rml0V2lkdGgoMTAwKTsKICAgICAgICAgICAgICAgICAgICAgICAgY292ZXJJbWdWaWV3LnNldEZpdEhlaWdodCgxMDApOwogICAgICAgICAgICAgICAgICAgICAgICBjb3ZlckltZ1ZpZXcucHJlc2VydmVSYXRpb1Byb3BlcnR5KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIHNldEdyYXBoaWMoY292ZXJJbWdWaWV3KTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl2YWwgdmlkZW9Vcmw6IFN0cmluZz8sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0ZWQuc2V0V2F0Y2hlZCghc2VsZWN0ZWQuZ2V0V2F0Y2hlZCgpKTsKICAgICAgICAgICAgU3RyaW5nIG1zZzsKICAgICAgICAgICAgaWYgKHNlbGVjdGVkLmdldFdhdGNoZWQoKSkgewogICAgICAgICAgICAgICAgbXNnID0gc2VsZWN0ZWQuZ2V0TmFtZSgpICsgIiBpcyB3YXRjaGVkIjsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIG1zZyA9IHNlbGVjdGVkLmdldE5hbWUoKSArICIgaXMgdW53YXRjaGVkIjsKICAgICAgICAgICAgfQogICAgICAgICAgICBUb2FzdC5JTlNUQU5DRS5tYWtlVGV4dCgoU3RhZ2UpIG1haW5Mdi5nZXRTY2VuZSgpLmdldFdpbmRvdygpLCBtc2cpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0ZWQuc2V0V2F0Y2hlZCghc2VsZWN0ZWQuZ2V0V2F0Y2hlZCgpKTsKICAgICAgICAgICAgU3RyaW5nIG1zZzsKICAgICAgICAgICAgaWYgKHNlbGVjdGVkLmdldFdhdGNoZWQoKSkgewogICAgICAgICAgICAgICAgbXNnID0gc2VsZWN0ZWQuZ2V0TmFtZSgpICsgIiBpcyB3YXRjaGVkIjsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIG1zZyA9IHNlbGVjdGVkLmdldE5hbWUoKSArICIgaXMgdW53YXRjaGVkIjsKICAgICAgICAgICAgfQogICAgICAgICAgICBUb2FzdC5JTlNUQU5DRS5tYWtlVGV4dCgoU3RhZ2UpIG1haW5Mdi5nZXRTY2VuZSgpLmdldFdpbmRvdygpLCBtc2cpOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdhbWVzLnNldFByZWRpY2F0ZShudWxsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2FtZXMuc2V0UHJlZGljYXRlKHNob3dBbGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdhbWVzLnNldFByZWRpY2F0ZShudWxsKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBCdXR0b24gYnRuVG9nZ2xlV2F0Y2g7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2FtZXMuc2V0UHJlZGljYXRlKHNob3dBbGwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBGWE1MCiAgICBwcml2YXRlIExpc3RWaWV3PEdhbWU+IHdhdGNoZWRMdjsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBCdXR0b24gYnRuVG9nZ2xlV2F0Y2g7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnYW1lcy5zZXRQcmVkaWNhdGUoR2FtZTo6Z2V0V2F0Y2hlZCk7Cg==</text>
+        <text encoding="base64">ICAgIEBGWE1MCiAgICBwcml2YXRlIExpc3RWaWV3PEdhbWU+IHdhdGNoZWRMdjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBnYW1lcy5zZXRQcmVkaWNhdGUoR2FtZTo6Z2V0V2F0Y2hlZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2l0L3RoaXMvZw==</text>
@@ -232,7 +231,7 @@
       <last-replace>this</last-replace>
       <last-substitute>it</last-substitute>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
