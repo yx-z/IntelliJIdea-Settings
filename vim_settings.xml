@@ -34,7 +34,7 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="/a.dummy" timestamp="1555366861002">
+      <file name="/a.dummy" timestamp="1556500673740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/242/final/src/frontend/src/main/java/ControllerDetail.java" timestamp="1555855896809">
@@ -43,9 +43,9 @@
         <mark key="." line="24" column="21" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/WeSplat/src/config.py" timestamp="1556312512452">
+      <file name="$USER_HOME$/WeSplat/src/config.py" timestamp="1556500783767">
         <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
+        <mark key="]" line="30" column="12" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="30" column="11" />
       </file>
@@ -62,11 +62,9 @@
         <mark key="." line="44" column="12" />
         <mark key="^" line="51" column="12" />
       </file>
-      <file name="$USER_HOME$/242/final/src/frontend/src/edu/illinois/cs/backend/Query.kt" timestamp="1555106356133">
-        <mark key="'" line="5" column="28" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/WeSplat/src/api.py" timestamp="1556500762280">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="97" column="44" />
       </file>
       <file name="$USER_HOME$/242/final/src/frontend/res/detail.fxml" timestamp="1555856176721">
         <mark key="[" line="5" column="38" />
@@ -114,7 +112,7 @@
         <mark key="^" line="30" column="42" />
         <mark key="." line="30" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556298567229">
+      <file name="/Dummy.txt" timestamp="1556501124051">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/242/final/frontend/src/main/java/backend/Model.kt" timestamp="1555097593605">
@@ -129,12 +127,18 @@
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/WeSplat/src/main.py" timestamp="1556496551941">
+      <file name="$USER_HOME$/WeSplat/src/email.py" timestamp="1556500607995">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="27" column="35" />
+      </file>
+      <file name="$USER_HOME$/WeSplat/src/main.py" timestamp="1556502132362">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="65" column="13" />
-        <mark key="]" line="66" column="42" />
-        <mark key="." line="66" column="42" />
-        <mark key="^" line="66" column="42" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="76" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/242/final/src/frontend/src/main/java/backend/Query.kt" timestamp="1555098810882">
         <mark key="[" line="6" column="44" />
@@ -158,37 +162,11 @@
         <mark key="." line="63" column="57" />
         <mark key="^" line="60" column="24" />
       </file>
-      <file name="$USER_HOME$/242/final/src/frontend/src/edu/illinois/cs/util/ImgUtil.java" timestamp="1555103388328">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/242/final/src/frontend/pom.xml" timestamp="1555107720585">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-      </file>
       <file name="$USER_HOME$/242/final/src/frontend/src/edu/illinois/cs/frontend/Controler.kt" timestamp="1555105794266">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="53" />
-      </file>
-      <file name="$USER_HOME$/242/final/src/frontend/src/edu/illinois/cs/frontend/Controller.java" timestamp="1555107031923">
-        <mark key="[" line="20" column="64" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/242/final/src/frontend/src/main/kotlin/Model.kt" timestamp="1555350787610">
-        <mark key="'" line="18" column="8" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/242/final/frontend/pom.xml" timestamp="1555097751359">
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/242/final/src/frontend/src/edu/illinois/cs/backend/Model.kt" timestamp="1555105766299">
         <mark key="[" line="12" column="14" />
@@ -196,8 +174,19 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="27" />
       </file>
+      <file name="$USER_HOME$/WeSplat/src/send_email.py" timestamp="1556502220786">
+        <mark key="'" line="80" column="34" />
+        <mark key="[" line="67" column="33" />
+        <mark key="]" line="67" column="44" />
+        <mark key="^" line="67" column="44" />
+        <mark key="." line="67" column="44" />
+      </file>
       <file name="/fragment.java" timestamp="1555366852433">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WeSplat/src/model.py" timestamp="1556500752069">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="32" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -222,71 +211,86 @@
       <jump line="110" column="2" filename="$USER_HOME$/421/mp6-type-infer/src/Infer.hs" />
       <jump line="54" column="4" filename="$USER_HOME$/242/final/src/frontend/src/main/java/ControllerHome.java" />
       <jump line="17" column="0" filename="$USER_HOME$/WeSplat/src/main.py" />
+      <jump line="6" column="26" filename="$USER_HOME$/WeSplat/src/send_email.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/WeSplat/src/send_email.py" />
+      <jump line="27" column="4" filename="$USER_HOME$/WeSplat/src/send_email.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/WeSplat/src/send_email.py" />
+      <jump line="61" column="35" filename="$USER_HOME$/WeSplat/src/send_email.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/WeSplat/src/send_email.py" />
+      <jump line="59" column="4" filename="$USER_HOME$/WeSplat/src/send_email.py" />
+      <jump line="37" column="16" filename="$USER_HOME$/WeSplat/src/send_email.py" />
+      <jump line="73" column="34" filename="$USER_HOME$/WeSplat/src/send_email.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QVBJX0tFWSA9ICIiCkNJVFlfTE9OID0gIiIKQ0lUWV9MQUwgPSAiIgpVU0VSID0gIiIKCg==</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="/" type="4">
-        <text>tau</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdhbWVzLnNldFByZWRpY2F0ZShnIC0+IHRydWUpOwo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">QVBJX0tFWSA9ICIiCkNJVFlfTE9OID0gIiIKQ0lUWV9MQUwgPSAiIgpVU0VSID0gIiIKCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">SE9VUl9JTl9TRUMK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICB0aW1lLnNsZWVwKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">TUlOX0lOX1NFQyA9IDYwCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRmlsdGVyZWRMaXN0PEdhbWU+IGdhbWVzID0KICAgICAgICAgICAgbmV3IEZpbHRlcmVkTGlzdDw+KG9ic2VydmFibGVMaXN0KHF1ZXJ5R2FtZXMoMjApKSwgZ2FtZSAtPiB0cnVlKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBGWE1MCiAgICBwcml2YXRlIEJ1dHRvbiBidG5GaWx0ZXI7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LS0gICAgIHNjUmVjICgoaSwgdGF1KSA6IHQpID0gSC5pbnNlcnQgKGxpZnRNb25vVHkgRW52MSBpKSAobGlmdE1vbm9UeSBzRW52MSB0YXUpIChzY1JlYyB0KQo=</text>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
+      <register name="/" type="4">
+        <text>'</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxvZ2dpbmcuYmFzaWNDb25maWcoZmlsZW5hbWU9TE9HX0ZJTEUsIGZpbGVtb2RlPSJhIiwgbGV2ZWw9bG9nZ2luZy5JTkZPKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oInNsZWVwaW5nIEAge30iLmZvcm1hdChkdCkpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGR0ID0gZGF0ZXRpbWUubm93KCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZHQgPSBkYXRldGltZS5ub3coKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KGRhdGFfdXJsKQo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CmVtYWlsX3RleHQgPSAiIiJcCkZyb206ICVzICAKVG86ICVzICAKU3ViamVjdDogJXMKCiVzCiIiIiAlIChzZW50X2Zyb20sICIsICIuam9pbih0byksIHN1YmplY3QsIGJvZHkpCgp0cnk6CiAgICBzZXJ2ZXIgPSBzbXRwbGliLlNNVFBfU1NMKCJzbXRwLmdtYWlsLmNvbSIsIDQ2NSkKICAgIHNlcnZlci5laGxvKCkKICAgIHNlcnZlci5sb2dpbihnbWFpbF91c2VyLCBnbWFpbF9wYXNzd29yZCkKICAgIHNlcnZlci5zZW5kbWFpbChzZW50X2Zyb20sIHRvLCBlbWFpbF90ZXh0KQogICAgc2VydmVyLmNsb3NlKCkKCiAgICBwcmludCgiRW1haWwgc2VudCEiKQpleGNlcHQ6CiAgICBw</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3RhdS90L2c=</text>
+        <text encoding="base64">JzwsJz5zLycvIi9n</text>
       </register>
     </registers>
     <search>
-      <last-search>tau</last-search>
-      <last-pattern>tau</last-pattern>
-      <last-replace>t</last-replace>
-      <last-substitute>tau</last-substitute>
+      <last-search>'</last-search>
+      <last-pattern>'</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>it</entry>
         <entry>tau</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2l0L3RoaXMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3RhdS90L2c=</entry>
+        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
