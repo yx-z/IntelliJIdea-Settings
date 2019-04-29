@@ -65,7 +65,6 @@
       <file name="$USER_HOME$/242/final/src/frontend/res/detail.fxml" timestamp="1555856176721">
         <mark key="[" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/hangups-master/examples/send_message.py" timestamp="1556503125398" />
       <file name="$USER_HOME$/242/final/src/frontend/src/edu/illinois/cs/gui/ChessController.java" timestamp="1555103219347">
         <mark key="[" line="10" column="40" />
         <mark key="]" line="10" column="26" />
@@ -153,26 +152,11 @@
         <mark key="." line="63" column="57" />
         <mark key="^" line="60" column="24" />
       </file>
-      <file name="$USER_HOME$/242/final/src/frontend/src/edu/illinois/cs/util/ImgUtil.java" timestamp="1555103388328">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/242/final/src/frontend/pom.xml" timestamp="1555107720585">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-      </file>
       <file name="$USER_HOME$/242/final/src/frontend/src/edu/illinois/cs/frontend/Controler.kt" timestamp="1555105794266">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="53" />
-      </file>
-      <file name="$USER_HOME$/242/final/src/frontend/src/edu/illinois/cs/frontend/Controller.java" timestamp="1555107031923">
-        <mark key="[" line="20" column="64" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/242/final/src/frontend/src/main/kotlin/Model.kt" timestamp="1556464972914">
         <mark key="'" line="21" column="8" />
@@ -181,16 +165,17 @@
         <mark key="." line="22" column="27" />
         <mark key="^" line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/242/final/frontend/pom.xml" timestamp="1555097751359">
-        <mark key="[" line="30" column="21" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/242/final/src/frontend/src/edu/illinois/cs/backend/Model.kt" timestamp="1555105766299">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="20" column="27" />
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="27" />
+      </file>
+      <file name="$USER_HOME$/WeSplat/src/send_email.py" timestamp="1556505856803">
+        <mark key="[" line="74" column="43" />
+        <mark key="]" line="74" column="43" />
+        <mark key="." line="74" column="43" />
+        <mark key="^" line="74" column="43" />
       </file>
       <file name="/fragment.java" timestamp="1555366852433">
         <mark key="[" line="0" column="0" />
@@ -221,7 +206,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGJUaXRsZS5zZXRUZXh0KGdhbWUuZ2V0TmFtZSgpICsgIiwgIiArCiAgICAgICAgICAgICAgICAgICAgZ2FtZS5nZXROdW1QbGF5ZXJzKCkgKyAiLCAiICsKICAgICAgICAgICAgICAgICAgICBnYW1lLmdldFJlbGVhc2VEYXRlKCkpOwo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -233,31 +218,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGdhbWVzLnNldFByZWRpY2F0ZShnIC0+IHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGJUaXRsZS5zZXRUZXh0KGdhbWUuZ2V0TmFtZSgpICsgIiwgIiArCiAgICAgICAgICAgICAgICAgICAgZ2FtZS5nZXROdW1QbGF5ZXJzKCkgKyAiLCAiICsKICAgICAgICAgICAgICAgICAgICBnYW1lLmdldFJlbGVhc2VEYXRlKCkpOwo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QVBJX0tFWSA9ICIiCkNJVFlfTE9OID0gIiIKQ0lUWV9MQUwgPSAiIgpVU0VSID0gIiIKCg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKERBWV9JTl9TRUMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SE9VUl9JTl9TRUMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGJUaXRsZS5zZXRUZXh0KGdhbWUuZ2V0TmFtZSgpICsgIiwgIiArCiAgICAgICAgICAgICAgICAgICAgZ2FtZS5nZXROdW1QbGF5ZXJzKCkgKyAiLCAiICsKICAgICAgICAgICAgICAgICAgICBnYW1lLmdldFJlbGVhc2VEYXRlKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICB0aW1lLnNsZWVwKCkK</text>
+        <text encoding="base64">QVBJX0tFWSA9ICIiCkNJVFlfTE9OID0gIiIKQ0lUWV9MQUwgPSAiIgpVU0VSID0gIiIKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIAo=</text>
+        <text encoding="base64">SE9VUl9JTl9TRUMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TUlOX0lOX1NFQyA9IDYwCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICB0aW1lLnNsZWVwKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRmlsdGVyZWRMaXN0PEdhbWU+IGdhbWVzID0KICAgICAgICAgICAgbmV3IEZpbHRlcmVkTGlzdDw+KG9ic2VydmFibGVMaXN0KHF1ZXJ5R2FtZXMoMjApKSwgZ2FtZSAtPiB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBGWE1MCiAgICBwcml2YXRlIEJ1dHRvbiBidG5GaWx0ZXI7Cg==</text>
+        <text encoding="base64">TUlOX0lOX1NFQyA9IDYwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRmlsdGVyZWRMaXN0PEdhbWU+IGdhbWVzID0KICAgICAgICAgICAgbmV3IEZpbHRlcmVkTGlzdDw+KG9ic2VydmFibGVMaXN0KHF1ZXJ5R2FtZXMoMjApKSwgZ2FtZSAtPiB0cnVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RhdS90L2c=</text>
