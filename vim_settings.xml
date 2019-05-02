@@ -27,7 +27,7 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="/a.dummy" timestamp="1556786570996">
+      <file name="/a.dummy" timestamp="1556790287810">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/BotDaily/Model.py" timestamp="1556782309119">
@@ -35,7 +35,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/BotDaily/src/send_gmail.py" timestamp="1556786563495">
+      <file name="$USER_HOME$/BotDaily/src/send_gmail.py" timestamp="1556791310337">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -45,6 +45,13 @@
         <mark key="]" line="48" column="41" />
         <mark key="." line="48" column="41" />
         <mark key="^" line="48" column="41" />
+      </file>
+      <file name="$USER_HOME$/BotDaily/src/one.py" timestamp="1556791290145">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="50" column="59" />
+        <mark key="]" line="67" column="7" />
+        <mark key="." line="67" column="7" />
+        <mark key="^" line="67" column="7" />
       </file>
       <file name="$USER_HOME$/BotDaily/send_email.py" timestamp="1556783643202">
         <mark key="[" line="6" column="22" />
@@ -121,7 +128,7 @@
         <mark key="^" line="26" column="60" />
         <mark key="." line="26" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556787900310">
+      <file name="/Dummy.txt" timestamp="1556791875895">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/242/final/frontend/src/main/java/backend/Model.kt" timestamp="1555097593605">
@@ -167,18 +174,16 @@
         <mark key="'" line="14" column="0" />
         <mark key="^" line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/BotDaily/src/secrets.py" timestamp="1556787699190">
-        <mark key="[" line="10" column="18" />
+      <file name="$USER_HOME$/BotDaily/src/secrets.py" timestamp="1556790293327">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/242/final/src/frontend/src/main/java/backend/Query.kt" timestamp="1555098810882">
         <mark key="[" line="6" column="44" />
       </file>
-      <file name="$USER_HOME$/BotDaily/src/main.py" timestamp="1556787868671">
-        <mark key="[" line="24" column="5" />
-        <mark key="]" line="24" column="4" />
-        <mark key="^" line="24" column="4" />
-        <mark key="." line="24" column="5" />
-      </file>
+      <file name="$USER_HOME$/BotDaily/src/main.py" timestamp="1556791300453" />
       <file name="$USER_HOME$/242/final/src/frontend/src/edu/illinois/cs/frontend/MainController.kt" timestamp="1555103991381">
         <mark key="[" line="6" column="18" />
       </file>
@@ -255,46 +260,49 @@
       <jump line="0" column="0" filename="$USER_HOME$/BotDaily/weather.py" />
       <jump line="3" column="15" filename="$USER_HOME$/BotDaily/send_gmail.py" />
       <jump line="4" column="32" filename="$USER_HOME$/BotDaily/zhihu_daily.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/BotDaily/src/one.py" />
+      <jump line="84" column="28" filename="$USER_HOME$/BotDaily/src/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/BotDaily/src/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ather</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>ather</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>tau</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiV2VhdGhlciByZXF1ZXN0ZWQiKQo=</text>
+        <text encoding="base64">5L2g55qELApCb3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGJvZHlfZGRodG1sKQo=</text>
+        <text encoding="base64">IyBwbGVhc2UgY3JlYXRlIHlvdXIgb3duIGBzZWNyZXRzLnB5YCB3aXRoIHRoZXNlIGZpZWxkcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAiPHN0eWxlPnt9PC9zdHlsZT57fSIuZm9ybWF0KGNzcywgYm9keSkK</text>
+        <text encoding="base64">ZnJvbSBNT1JOSU5HX0hPVVIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNzcyA9IHJlcXVlc3RzLmdldChjc3NfdXJsLCBoZWFkZXJzPVVBLCBhbGxvd19yZWRpcmVjdHM9VHJ1ZSkudGV4dAo=</text>
+        <text encoding="base64">ICAgICMgc2VuZF9hZnRlcm5vb24oZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNzc191cmwgPSByZXNbImNzcyJdWzBdCg==</text>
+        <text encoding="base64">cHJpbnQoZ2V0X2FydGljbGUoZ2V0X2hvbWVfc291cCgpKS5jb250ZW50KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQocmVxX2xhdGVzdF9qb2tlX2h0bWwoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNzcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGNzc191cmwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNzc191cmwgPSByZXNbImNzcyJdWzBdCiAgICBjc3MK</text>
+        <text encoding="base64">Z2V0X3FhKGdldF9ob21lX3NvdXAoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGJyPgo=</text>
+        <text encoding="base64">ICAgIHByaW50KGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RhdS90L2c=</text>
