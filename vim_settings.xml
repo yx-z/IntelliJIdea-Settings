@@ -34,14 +34,13 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="/a.dummy" timestamp="1556666174650">
+      <file name="/a.dummy" timestamp="1556783701094">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/BotDaily/Model.py" timestamp="1556680632159">
+      <file name="$USER_HOME$/BotDaily/Model.py" timestamp="1556782309119">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/242/final/src/frontend/src/main/java/ControllerDetail.java" timestamp="1556465338723">
         <mark key="[" line="47" column="51" />
@@ -49,11 +48,18 @@
         <mark key="." line="48" column="41" />
         <mark key="^" line="48" column="41" />
       </file>
-      <file name="$USER_HOME$/BotDaily/send_email.py" timestamp="1556680852280">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="31" column="17" />
+      <file name="$USER_HOME$/BotDaily/send_email.py" timestamp="1556783643202">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/BotDaily/send_gmail.py" timestamp="1556784298200">
+        <mark key="'" line="3" column="15" />
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="29" column="7" />
+        <mark key="^" line="29" column="7" />
+        <mark key="." line="29" column="7" />
       </file>
       <file name="$USER_HOME$/WeSplat/src/config.py" timestamp="1556312512452">
         <mark key="[" line="27" column="0" />
@@ -94,6 +100,12 @@
         <mark key="]" line="102" column="11" />
         <mark key="." line="102" column="11" />
         <mark key="^" line="102" column="11" />
+      </file>
+      <file name="$USER_HOME$/BotDaily/zhihu_daily.py" timestamp="1556783258398">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="26" column="37" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/242/final/src/frontend/src/edu/illinois/cs/frontend/Controller.kt" timestamp="1555105887339">
         <mark key="[" line="11" column="0" />
@@ -149,10 +161,11 @@
       <file name="$USER_HOME$/BotDaily/my_zhihu.py" timestamp="1556669496619">
         <mark key="[" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/BotDaily/secret.py" timestamp="1556680800401">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/BotDaily/secret.py" timestamp="1556782390984">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/WeSplat/src/main.py" timestamp="1556588908680">
         <mark key="'" line="14" column="0" />
@@ -199,6 +212,12 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="27" />
       </file>
+      <file name="$USER_HOME$/BotDaily/main.py" timestamp="1556784488916">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="14" column="11" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/WeSplat/src/send_email.py" timestamp="1556546630897">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -206,6 +225,11 @@
       </file>
       <file name="/fragment.java" timestamp="1555366852433">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/BotDaily/weather.py" timestamp="1556782411787">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/WeSplat/src/model.py" timestamp="1556588917126">
         <mark key="[" line="26" column="0" />
@@ -236,46 +260,48 @@
       <jump line="54" column="4" filename="$USER_HOME$/242/final/src/frontend/src/main/java/ControllerHome.java" />
       <jump line="17" column="0" filename="$USER_HOME$/WeSplat/src/main.py" />
       <jump line="22" column="0" filename="$USER_HOME$/WeSplat/src/send_email.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/BotDaily/weather.py" />
+      <jump line="3" column="15" filename="$USER_HOME$/BotDaily/send_gmail.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhdGFfdXJsKQo=</text>
+        <text encoding="base64">ICAgIHN1YmplY3QgPSAie30ve30gQm90IERhaWx5Ii5mb3JtYXQoZHQubW9udGgsIGR0LmRheSkK</text>
       </register>
       <register name="-" type="4">
-        <text>dict</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>tau</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdhbWVzLnNldFByZWRpY2F0ZShnIC0+IHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oIlNvbWV0aGluZyB3ZW50IHdyb25nIEAge30uIi5mb3JtYXQoZHQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRhdGFfdXJsKQo=</text>
+        <text encoding="base64">ICAgIHN1YmplY3QgPSAie30ve30gQm90IERhaWx5Ii5mb3JtYXQoZHQubW9udGgsIGR0LmRheSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q0lUWV9MQUwgPSAiNDAuNzMwNjEwIgo=</text>
+        <text encoding="base64">ICAgIHN1YmplY3QgPSAie30ve30gQm90IERhaWx5Ii5mb3JtYXQoZHQubW9udGgsIGR0LmRheSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q0lUWV9MT04gPSAiLTczLjkzNTI0MiIK</text>
+        <text encoding="base64">ICAgIHN1YmplY3QgPSAie30ve30gQm90IERhaWx5Ii5mb3JtYXQoZHQubW9udGgsIGR0LmRheSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvZHkgPSAiIiJcCkdvb2QgbW9ybmluZyEgSGVyZSBpcyB0aGUgZGFpbHkgd2VhdGhlci4Ke30gSGlnaCBhdCB7fS4gTG93IGF0IHt9LgoKSG9wZSB5b3UgY2FuIGVuam95IHlvdXIgZGF5IDopCgpZb3VycyBTaW5jZXJlbHksCkJvdAogICAgIiIiLmZvcm1hdCh3ZWF0aGVyX3Jlcy5zdW1tYXJ5LCB3ZWF0aGVyX3Jlcy5tYXhfdG1wLCB3ZWF0aGVyX3Jlcy5taW5fdG1wKQoKICAgIGVtYWlsX3RleHQgPSAiIiJcCkZyb206IHt9ClRvOiB7fQpTdWJqZWN0OiB7fQoKe30KICAgICIiIi5mb3JtYXQoR01BSUxfVVNFUiwgIiwgIi5qb2luKFJFQ0lQSUVOVFMpLCBzdWJqZWN0LCBib2R5KQoKICAgIHRyeToKICAgICAgICBzZXJ2ZXIgPSBzbXRwbGliLlNNVFBfU1NMKCdzbXRwLmdtYWlsLmNvbScsIDQ2NSkKICAgICAgICBzZXJ2ZXIuZWhsbygpCiAgICAgICAgc2VydmVyLmxvZ2luKEdNQUlMX1VTRVIsIEdNQUlMX1BXKQogICAgICAgIHNlcnZlci5zZW5kbWFpbChHTUFJTF9VU0VSLCBSRUNJUElFTlRTLCBlbWFpbF90ZXh0KQogICAgICAgIHNlcnZlci5jbG9zZSgpCgogICAgICAgIGxvZ2dpbmcuaW5mbygiRW1haWwgc2VudCBAIHt9LiIuZm9ybWF0KGR0KSkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXJyOgogICAgICAgIGxvZ2dpbmcuZXJyb3IoZXJyKQogICAgICAgIGxvZ2dpbmcuaW5mbygiU29tZXRoaW5nIHdlbnQgd3JvbmcgQCB7fS4iLmZvcm1hdChkdCkpCgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">R01BSUxfVVNFUiA9ICJ3aWxzb256eXhAZ21haWwuY29tIgo=</text>
+        <text encoding="base64">ICAgIGxldmVsPWxvZ2dpbmcuSU5GTywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">REFSS1NLWV9LRVkgPSAiNTQ4MGI2NzMwNjA3YmE3ODczOTVmZDMxYzIzMGUwODQiCg==</text>
+        <text encoding="base64">bG9nZ2luZy5iYXNpY0NvbmZpZyhmaWxlbmFtZT0iZW1haWwubG9nIiwgZmlsZW1vZGU9ImEiLCBsZXZlbD1sb2dnaW5nLklORk8pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">R01BSUxfUFcgPSAiMjA1Mjg4ODgiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIjxwPmhlbGxvIHdvcmxkITwvcD4iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">R01BSUxfVVNFUiA9ICJ3aWxzb256eXhAZ21haWwuY29tIgpHTUFJTF9QVyA9ICIyMDUyODg4OCIKCkRBUktTS1lfS0VZID0gIjU0ODBiNjczMDYwN2JhNzg3Mzk1ZmQzMWMyMzBlMDg0IgpDSVRZX0xPTiA9ICItNzMuOTM1MjQyIgpDSVRZX0xBTCA9ICI0MC43MzA2MTAiCg==</text>
+        <text encoding="base64">c2VuZF92aWFfZ21haWwoIndpbHNvbnp5eEBnbWFpbC5jb20iLAogICAgICAgICAgICAgICAiMjA1Mjg4ODgiLAogICAgICAgICAgICAgICBbIndpbHNvbnp5eEBnbWFpbC5jb20iXSwKICAgICAgICAgICAgICAgIlRlc3QgU3ViamVjdCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RhdS90L2c=</text>
