@@ -103,7 +103,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/BotDaily/src/main.py" timestamp="1558290273286">
-        <mark key="[" line="34" column="3" />
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
@@ -182,6 +181,11 @@
       <file name="$USER_HOME$/242/final/src/frontend/res/detail.fxml" timestamp="1555856176721">
         <mark key="[" line="5" column="38" />
       </file>
+      <file name="$USER_HOME$/BotDaily/src/util.py" timestamp="1558315377347">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/242/final/src/frontend/src/edu/illinois/cs/gui/Main.java" timestamp="1555103177020">
         <mark key="[" line="23" column="68" />
         <mark key="]" line="24" column="15" />
@@ -210,17 +214,17 @@
         <mark key="^" line="26" column="60" />
         <mark key="." line="26" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558290392113">
+      <file name="/Dummy.txt" timestamp="1558455525664">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/0" timestamp="1557328374104">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/BotDaily/src/zhihu_story.py" timestamp="1558196063215">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="56" />
-        <mark key="^" line="13" column="35" />
-        <mark key="." line="13" column="35" />
+      <file name="$USER_HOME$/BotDaily/src/zhihu_story.py" timestamp="1558455466613">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="38" />
+        <mark key="^" line="11" column="38" />
+        <mark key="." line="11" column="38" />
       </file>
       <file name="$USER_HOME$/BotDaily/src/weather.py" timestamp="1558290303855">
         <mark key="[" line="20" column="26" />
@@ -233,21 +237,21 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/BotDaily/src/zhihu_spider.py" timestamp="1557498707251">
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="42" column="63" />
-        <mark key="." line="42" column="63" />
-        <mark key="^" line="42" column="43" />
+      <file name="$USER_HOME$/BotDaily/src/zhihu_spider.py" timestamp="1558455337914">
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="18" column="41" />
+        <mark key="." line="18" column="54" />
+        <mark key="^" line="18" column="41" />
       </file>
-      <file name="$USER_HOME$/BotDaily/src/zhihu_daily.py" timestamp="1557266194791">
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="17" column="11" />
-        <mark key="." line="17" column="11" />
+      <file name="$USER_HOME$/BotDaily/src/zhihu_daily.py" timestamp="1558315360231">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
         <mark key="^" line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/BotDaily/src/secrets.py" timestamp="1558196617484">
+      <file name="$USER_HOME$/BotDaily/src/secrets.py" timestamp="1558454524461">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="7" column="17" />
+        <mark key="[" line="8" column="19" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -315,10 +319,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QGRhdGFjbGFzcwpjbGFzcyBBcnRpY2xlOgogICAgcXVvdGU6IHN0cgogICAgdGl0bGU6IHN0cgogICAgYXV0aG9yOiBzdHIKICAgIGNvbnRlbnQ6IHN0cgoKCkBkYXRhY2xhc3MKY2xhc3MgUUE6CiAgICBxdWVzdGlvbjogc3RyCiAgICBhbnN3ZXI6IHN0cgo=</text>
+        <text encoding="base64">CmRlZiBnZXRfanNvbih1cmw6IHN0cikgLT4gZGljdDoKICAgIHJldHVybiByZXF1ZXN0cy5nZXQodXJsKS5qc29uKCkKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>stories</text>
       </register>
       <register name="/" type="4">
         <text>h2</text>
@@ -327,31 +331,31 @@
         <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiV3VmYXpodWNlIENvdmVyIEltYWdlIHJlcXVlc3RlZCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGRhdGFjbGFzcwpjbGFzcyBBcnRpY2xlOgogICAgcXVvdGU6IHN0cgogICAgdGl0bGU6IHN0cgogICAgYXV0aG9yOiBzdHIKICAgIGNvbnRlbnQ6IHN0cgoKCkBkYXRhY2xhc3MKY2xhc3MgUUE6CiAgICBxdWVzdGlvbjogc3RyCiAgICBhbnN3ZXI6IHN0cgo=</text>
+        <text encoding="base64">CmRlZiBnZXRfanNvbih1cmw6IHN0cikgLT4gZGljdDoKICAgIHJldHVybiByZXF1ZXN0cy5nZXQodXJsKS5qc29uKCkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CkBkYXRhY2xhc3MKY2xhc3MgUUE6CiAgICBxdWVzdGlvbjogc3RyCiAgICBhbnN3ZXI6IHN0cgo=</text>
+        <text encoding="base64">QGRhdGFjbGFzcwpjbGFzcyBBcnRpY2xlOgogICAgcXVvdGU6IHN0cgogICAgdGl0bGU6IHN0cgogICAgYXV0aG9yOiBzdHIKICAgIGNvbnRlbnQ6IHN0cgoKCkBkYXRhY2xhc3MKY2xhc3MgUUE6CiAgICBxdWVzdGlvbjogc3RyCiAgICBhbnN3ZXI6IHN0cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CkBkYXRhY2xhc3MKY2xhc3MgUUE6CiAgICBxdWVzdGlvbjogc3RyCiAgICBhbnN3ZXI6IHN0cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RlJJRU5EX0RBVEUgPSBkYXRldGltZS5kYXRldGltZSh5ZWFyPTIwMTgsIG1vbnRoPTUsIGRheT0xNikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ck1JTl9JTl9TRUMgPSA2MApIT1VSX0lOX1NFQyA9IDYwICogTUlOX0lOX1NFQwoK</text>
+        <text encoding="base64">RlJJRU5EX0RBVEUgPSBkYXRldGltZS5kYXRldGltZSh5ZWFyPTIwMTgsIG1vbnRoPTUsIGRheT0xNikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRheXMgPSAoZHQgLSBGUklFTkRfREFURSkuZGF5cwo=</text>
+        <text encoding="base64">Ck1JTl9JTl9TRUMgPSA2MApIT1VSX0lOX1NFQyA9IDYwICogTUlOX0lOX1NFQwoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGRheXMgPSAoZHQgLSBGUklFTkRfREFURSkuZGF5cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN1YmplY3QgPSAie30ve30gQm90IOS4i+WNiOiMtvCfjbUiLmZvcm1hdChkdC5tb250aCwgZHQuZGF5KQo=</text>
+        <text encoding="base64">ICAgIGRheXMgPSAoZHQgLSBGUklFTkRfREFURSkuZGF5cwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygiV3VmYXpodWNlIENvdmVyIEltYWdlIHJlcXVlc3RlZCIpCg==</text>
+        <text encoding="base64">ICAgIHN1YmplY3QgPSAie30ve30gQm90IOS4i+WNiOiMtvCfjbUiLmZvcm1hdChkdC5tb250aCwgZHQuZGF5KQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2gyL2gzL2c=</text>
