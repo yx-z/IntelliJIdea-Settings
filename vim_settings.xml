@@ -9,6 +9,12 @@
         <mark key="." line="8" column="41" />
         <mark key="^" line="7" column="12" />
       </file>
+      <file name="$USER_HOME$/LC/src/190.kt" timestamp="1559984512731">
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
       <file name="$USER_HOME$/BotDaily/src/wufazhuce.py" timestamp="1558290334314">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="7" column="0" />
@@ -25,12 +31,12 @@
       <file name="/a.dummy" timestamp="1557954304350">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/LC/src/169.kt" timestamp="1559886865330">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="28" column="13" />
-        <mark key="^" line="28" column="13" />
-        <mark key="." line="23" column="77" />
+      <file name="$USER_HOME$/LC/src/169.kt" timestamp="1559984446502">
+        <mark key="'" line="12" column="24" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="$USER_HOME$/BotDaily/Model.py" timestamp="1556782309119">
         <mark key="[" line="0" column="0" />
@@ -46,6 +52,11 @@
       <file name="$USER_HOME$/Konnectivity/src/graph/Anchor.kt" timestamp="1559895281621">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/LC/src/Util.kt" timestamp="1559983415138">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/BotDaily/src/one.py" timestamp="1556805309097">
         <mark key="'" line="60" column="0" />
@@ -198,6 +209,11 @@
       </file>
       <file name="vim_settings.xml" timestamp="1555098659186">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/LC/src/Sol190.java" timestamp="1559984588465">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/LC/src/20.kt" timestamp="1559606120650">
         <mark key="'" line="3" column="25" />
@@ -407,58 +423,61 @@
       <jump line="24" column="0" filename="$USER_HOME$/LC/src/155.kt" />
       <jump line="1" column="4" filename="$USER_HOME$/LC/src/155.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/LC/src/169.kt" />
+      <jump line="53" column="19" filename="$USER_HOME$/LC/src/169.kt" />
+      <jump line="37" column="24" filename="$USER_HOME$/LC/src/169.kt" />
+      <jump line="10" column="24" filename="$USER_HOME$/LC/src/169.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXZhbCBHID0gR3JhcGgoNiwgbGlzdE9mKDEgdG8gMiwgMyB0byA1LCA1IHRvIDQsIDQgdG8gNikpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>size</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXZhbCBHID0gR3JhcGgoMTEsIGxpc3RPZigKCQkJNSB0byA0LAoJCQk0IHRvIDEsCgkJCTQgdG8gMywKCQkJMyB0byAyLAoJCQkxMSB0byA5LAoJCQkxMCB0byA5LAoJCQk5IHRvIDYsCgkJCTkgdG8gOCwKCQkJNiB0byA4KQoJKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhbCBHID0gR3JhcGgoNiwgbGlzdE9mKDEgdG8gMiwgMyB0byA1LCA1IHRvIDQsIDQgdG8gNikpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Ly8gc29sNDogbnVtcy5zb3J0ZWQoKVtudW1zLnNpemUgLyAyXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwcmV2ID0gcAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCS5zaG9ydGN1dCgpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobG8gPT0gaGkpIHsKICAgICAgICAgICAgcmV0dXJuIG51bXNbbG9dCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biBtYWpvcml0eUVsZW1lbnQoCiAgICAgICAgbnVtczogSW50QXJyYXksCiAgICAgICAgbG86IEludCA9IDAsCiAgICAgICAgaGk6IEludCA9IG51bXMuc2l6ZSAtIDEKICAgICk6IEludCB7CiAgICAgICAgaWYgKGxvID09IGhpKSB7CiAgICAgICAgICAgIHJldHVybiBudW1zW2xvXQogICAgICAgIH0KICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnVuIG1haW4oKSB7CiAgICBwcmludGxuKFNvbDE2OV8yKCkubWFqb3JpdHlFbGVtZW50KGludEFycmF5T2YoMiwgMSwgMiwgMiwgMywgMSwgMikpKQp9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RpZiBPKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgYHRoaXNgID0gdGhpcwogICAgICAgIHZhbCBzaXplID0gc2l6ZQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgQSA9IHRoaXMKICAgICAgICB2YWwgbiA9IHNpemUKCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWlkID0gbG8gKyAoaGkgLSBsbykgLyAyCiAgICAgICAgdmFsIGxlZnQgPSBtYWpvcml0eUVsZW1lbnQobnVtcywgbG8sIG1pZCkKICAgICAgICB2YWwgcmlnaHQgPSBtYWpvcml0eUVsZW1lbnQobnVtcywgbWlkICsgMSwgaGkpCiAgICAgICAgaWYgKGxlZnQgPT0gcmlnaHQpIHsKICAgICAgICAgICAgcmV0dXJuIGxlZnQKICAgICAgICB9IGVsc2UgewoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBub3cgaWR4ID49IGoK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
+        <text encoding="base64">JzwsJz5zL3NpemUvaGkvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
-      <last-pattern>&quot;</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-search>size</last-search>
+      <last-pattern>size</last-pattern>
+      <last-replace>hi</last-replace>
+      <last-substitute>size</last-substitute>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -467,6 +486,7 @@
         <entry>strong</entry>
         <entry>h2</entry>
         <entry>&quot;</entry>
+        <entry>size</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2l0L3RoaXMvZw==</entry>
@@ -474,6 +494,7 @@
         <entry encoding="base64">JzwsJz5zL3N0cm9uZy9oMi9n</entry>
         <entry encoding="base64">JzwsJz5zL2gyL2gzL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry encoding="base64">JzwsJz5zL3NpemUvaGkvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
