@@ -78,6 +78,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/LC/src/median/Sol3.kt" timestamp="1560261365411">
+        <mark key="[" line="2" column="12" />
+      </file>
       <file name="$USER_HOME$/LC/src/easy/Sol283.kt" timestamp="1560173176352">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -134,11 +137,9 @@
         <mark key="." line="20" column="18" />
         <mark key="^" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/LC/src/median/Sol2.kt" timestamp="1560173284960">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="13" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="3" column="63" />
+      <file name="$USER_HOME$/LC/src/median/Sol2.kt" timestamp="1560261330072">
+        <mark key="'" line="32" column="11" />
+        <mark key="[" line="8" column="10" />
       </file>
       <file name="$USER_HOME$/LC/src/Sol575.kt" timestamp="1560166083792">
         <mark key="[" line="4" column="50" />
@@ -203,10 +204,11 @@
       <jump line="10" column="24" filename="$USER_HOME$/LC/src/169.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/LC/src/Sol206.kt" />
       <jump line="73" column="0" filename="$USER_HOME$/LC/src/Sol169.kt" />
+      <jump line="16" column="11" filename="$USER_HOME$/LC/src/median/Sol2.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIExpc3ROb2RlKGNhcnJ5KQo=</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -218,31 +220,31 @@
         <text encoding="base64">ICAgIGZ1biByZXZlcnNlTGlzdDEoaGVhZDogTGlzdE5vZGU/KTogTGlzdE5vZGU/IHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuIG1haW4oKSB7CiAgICB2YWwgYXJyID0gaW50QXJyYXlPZigwLCAxLCAyLCAzLCAwKQogICAgU29sMjgzKCkubW92ZVplcm9lcyhhcnIpCiAgICBwcmludGxuKEFycmF5cy50b1N0cmluZyhhcnIpKQp9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIExpc3ROb2RlKGNhcnJ5KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5vbm51bGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDogQm9vbGVhbiB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5vbm51bGwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIFNvbHV0aW9uIHsK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbm9ubnVsbCA9IGlmIChsMSA9PSBudWxsKSBsMiBlbHNlIHsKICAgICAgICAgICAgaWYgKGwyID09IG51bGwpIGwxIGVsc2UgbnVsbAogICAgICAgIH0KICAgICAgICBpZiAobm9ubnVsbCApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2FycnkgPT0gMCkgewogICAgICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBudW1zLmluZGljZXMuZmlyc3QgeyBudW1zW2l0XSA9PSAwIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2xvdykK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobDEgPT0gbnVsbCAmJiBsMiA9PSBudWxsKSB7CiAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3NpemUvaGkvZw==</text>
