@@ -39,10 +39,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/LC/src/median/Sol3.kt" timestamp="1560302297757">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/LC/src/median/Sol3.kt" timestamp="1560303480370">
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="17" column="47" />
+        <mark key="." line="17" column="47" />
+        <mark key="^" line="17" column="47" />
       </file>
       <file name="$USER_HOME$/LC/src/Util.kt" timestamp="1559983415138">
         <mark key="[" line="0" column="0" />
@@ -56,6 +57,12 @@
       </file>
       <file name="/10" timestamp="1557328374029">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/LC/src/median/Sol5.kt" timestamp="1560306105510">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/LC/src/Sol169.kt" timestamp="1560155311284">
         <mark key="'" line="72" column="0" />
@@ -246,10 +253,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/LC/src/Sol206.kt" />
       <jump line="73" column="0" filename="$USER_HOME$/LC/src/Sol169.kt" />
       <jump line="16" column="11" filename="$USER_HOME$/LC/src/median/Sol2.kt" />
+      <jump line="26" column="0" filename="$USER_HOME$/LC/src/median/Sol5.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKEFycmF5cy5kZWVwVG9TdHJpbmcoZHApKQo=</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -261,31 +269,31 @@
         <text encoding="base64">ICAgIGZ1biByZXZlcnNlTGlzdDEoaGVhZDogTGlzdE5vZGU/KTogTGlzdE5vZGU/IHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKEFycmF5cy5kZWVwVG9TdHJpbmcoZHApKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc1swXS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKGkpCiAgICAgICAgICAgICAgICAgICAgcHJpbnRsbihqKQogICAgICAgICAgICAgICAgICAgIHByaW50bG4obWF4TGVuKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocy5pc2VtYCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIExpc3ROb2RlKGNhcnJ5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkcFtpXVtqXSA9IDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGkgaW4gMCB1bnRpbCBsKSB7CiAgICAgICAgICAgIGRwW2ldW2ldID0gMQogICAgICAgICAgICBpZiAoaSArIDEgPCBsKSB7CiAgICAgICAgICAgICAgICBkcFtpXVtpICsgMV0gPSBpZiAoc1tpXSA9PSBzW2kgKyAxXSkgewogICAgICAgICAgICAgICAgICAgIDIKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgMAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5vbm51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpID09IGopIHsKICAgICAgICAgICAgICAgICAgICAxCiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGogPT0gaSArIDEgJiYgc1tpXSA9PSBzW2pdKSB7CiAgICAgICAgICAgICAgICAgICAgMgogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAwCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5vbm51bGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbm9ubnVsbCA9IGlmIChsMSA9PSBudWxsKSBsMiBlbHNlIHsKICAgICAgICAgICAgaWYgKGwyID09IG51bGwpIGwxIGVsc2UgbnVsbAogICAgICAgIH0KICAgICAgICBpZiAobm9ubnVsbCApCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobCA8PSAxKSB7CiAgICAgICAgICAgIHJldHVybiBzCiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaSArIDEgaW4gcy5pbmRpY2VzICYmIGogLSAxIGluIHMuaW5kaWNlcykgewogICAgICAgICAgICAgICAgICAgICAgICBkcFtpXVtqXSA9IGRwW2kgKyAxXVtqIC0gMV0gKyAyCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3NpemUvaGkvZw==</text>
