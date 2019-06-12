@@ -58,11 +58,12 @@
       <file name="/10" timestamp="1557328374029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/LC/src/median/Sol5.kt" timestamp="1560306105510">
+      <file name="$USER_HOME$/LC/src/median/Sol5.kt" timestamp="1560307419930">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="23" column="74" />
+        <mark key="." line="23" column="74" />
+        <mark key="^" line="23" column="74" />
       </file>
       <file name="$USER_HOME$/LC/src/Sol169.kt" timestamp="1560155311284">
         <mark key="'" line="72" column="0" />
@@ -193,7 +194,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1560166599409">
+      <file name="/fragment.java" timestamp="1560307446856">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/WeSplat/src/model.py" timestamp="1556588917126">
@@ -256,11 +257,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/LC/src/median/Sol5.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKEFycmF5cy5kZWVwVG9TdHJpbmcoZHApKQo=</text>
+      <register name="&quot;" type="4">
+        <text>I</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>I</text>
       </register>
       <register name="/" type="4">
         <text>size</text>
