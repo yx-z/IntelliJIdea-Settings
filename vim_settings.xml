@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Konnectivity/src/graph/SuperVertex.kt" timestamp="1560513257883">
-        <mark key="[" line="23" column="16" />
+      <file name="$USER_HOME$/Konnectivity/src/graph/SuperVertex.kt" timestamp="1560516297398">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="14" />
+        <mark key="." line="25" column="14" />
+        <mark key="^" line="25" column="14" />
       </file>
       <file name="$USER_HOME$/LC/src/203.kt" timestamp="1560155135224">
         <mark key="[" line="13" column="49" />
@@ -300,7 +303,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuIEFueS5wcmludGxuKCkgewoJcHJpbnRsbih0aGlzKQp9Cgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -312,31 +315,31 @@
         <text encoding="base64">ICAgIGZ1biByZXZlcnNlTGlzdDEoaGVhZDogTGlzdE5vZGU/KTogTGlzdE5vZGU/IHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuIEFueS5wcmludGxuKCkgewoJcHJpbnRsbih0aGlzKQp9Cgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuIEFueS5wcmludCgpIHsKCXByaW50KHRoaXMpCn0K</text>
+        <text encoding="base64">CXZhbCBTUiA9IElOVF9NQVhfVElNRVNfU0VNSVJJTkcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgdmFsIE5fSU5GID0gSW50Lk1JTl9WQUxVRSAvIDIK</text>
+        <text encoding="base64">CXZhciBwID0gdmVydGljZXNWZWN0b3IoU1IpCgl2YXIgcHJldjogVmVjdG9yPFZlcnRleD4/ID0gbnVsbAoJd2hpbGUgKHAgIT0gcHJldikgewoJCXByZXYgPSBwCgkJdmFsIHEgPSBBICogcAoJCXZhbCByID0gaW50VmVjdG9yKG51bVZlcnRpY2VzLCBTUikgeyBpIC0+IG1heChwW2ldLCBxW2ldKSB9CgkJdmFsIFAgPSBwLnRvUGFyZW50TWF0cml4KCkKCQl2YWwgcyA9IFAudHJhbnNwb3NlKCkgKiByCgkJcCA9IGludFZlY3RvcihudW1WZXJ0aWNlcywgU1IpIHsgaSAtPiBtYXgocFtpXSwgcy50b1ZlY3RvcigpW2ldKSB9CgkJCQkuc2hvcnRjdXQoKQoJfQoKCXZhciByZW1WZXJ0aWNlcyA9IHZlcnRpY2VzVmVjdG9yKFNSKQoJdmFyIHByZXZSZW1WZXJ0aWNlczogVmVjdG9yPFZlcnRleD4/ID0gbnVsbAoJd2hpbGUgKHJlbVZlcnRpY2VzICE9IHByZXZSZW1WZXJ0aWNlcykgewoJCXByZXZSZW1WZXJ0aWNlcyA9IHJlbVZlcnRpY2VzCgkJCgl9CglyZXR1cm4gcAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJldHVybiBwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5maXggZnVuIEludC5tb2QoaTogSW50KSA9IHRoaXMucmVtKGkpCg==</text>
+        <text encoding="base64">CXZhciBwID0gdmVydGljZXNWZWN0b3IoU1IpCgl2YXIgcHJldjogVmVjdG9yPFZlcnRleD4/ID0gbnVsbAoJd2hpbGUgKHAgIT0gcHJldikgewoJCXByZXYgPSBwCgkJdmFsIHEgPSBBICogcAoJCXZhbCByID0gaW50VmVjdG9yKG51bVZlcnRpY2VzLCBTUikgeyBpIC0+IG1heChwW2ldLCBxW2ldKSB9CgkJdmFsIFAgPSBwLnRvUGFyZW50TWF0cml4KCkKCQl2YWwgcyA9IFAudHJhbnNwb3NlKCkgKiByCgkJcCA9IGludFZlY3RvcihudW1WZXJ0aWNlcywgU1IpIHsgaSAtPiBtYXgocFtpXSwgcy50b1ZlY3RvcigpW2ldKSB9CgkJCQkuc2hvcnRjdXQoKQoJCQoJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyBRW2ksal0gPSAxIDw9PiBQLlQgQSBQCg==</text>
+        <text encoding="base64">ZnVuIEFueS5wcmludGxuKCkgewoJcHJpbnRsbih0aGlzKQp9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuIEFueS5wcmludCgpIHsKCXByaW50KHRoaXMpCn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudC0tCg==</text>
+        <text encoding="base64">Y29uc3QgdmFsIE5fSU5GID0gSW50Lk1JTl9WQUxVRSAvIDIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3NpemUvaGkvZw==</text>
