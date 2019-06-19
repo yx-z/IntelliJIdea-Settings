@@ -275,6 +275,12 @@
       <file name="$USER_HOME$/242/final/src/frontend/src/main/java/backend/Query.kt" timestamp="1555098810882">
         <mark key="[" line="6" column="44" />
       </file>
+      <file name="$USER_HOME$/LC/src/median/Sol55.kt" timestamp="1560935896205">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="10" column="19" />
+      </file>
       <file name="$USER_HOME$/WeSplat/src/send_email.py" timestamp="1556546630897">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -340,11 +346,11 @@
       <jump line="13" column="30" filename="$USER_HOME$/LC/src/median/Sol46.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZ1biBncm91cEFuYWdyYW1zKHN0cnM6IEFycmF5PFN0cmluZz4pID0KICAgICAgICBzdHJzLmdyb3VwQnkgeyBpdC50b0NoYXJBcnJheSgpLnNvcnRlZCgpLnRvU3RyaW5nKCkgfS52YWx1ZXMudG9MaXN0KCkK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>size</text>
