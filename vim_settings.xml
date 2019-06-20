@@ -31,6 +31,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/LC/src/median/Sol62.kt" timestamp="1561017710684">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="14" column="47" />
+        <mark key="." line="14" column="47" />
+        <mark key="^" line="14" column="47" />
+      </file>
       <file name="$USER_HOME$/LC/src/Util.kt" timestamp="1559983415138">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -45,10 +51,12 @@
       <file name="/10" timestamp="1557328374029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/LC/src/median/Sol56.kt" timestamp="1561015284308">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/LC/src/median/Sol56.kt" timestamp="1561017144564">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/WeSplat/src/api.py" timestamp="1556588922983">
         <mark key="[" line="84" column="0" />
@@ -218,7 +226,7 @@
         <mark key="." line="1" column="33" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561014535952">
+      <file name="/Dummy.txt" timestamp="1561018065935">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/0" timestamp="1557328374104">
@@ -344,13 +352,14 @@
       <jump line="26" column="0" filename="$USER_HOME$/LC/src/median/Sol5.kt" />
       <jump line="24" column="15" filename="$USER_HOME$/LC/src/median/Sol40.kt" />
       <jump line="13" column="30" filename="$USER_HOME$/LC/src/median/Sol46.kt" />
+      <jump line="17" column="0" filename="$USER_HOME$/LC/src/median/Sol56.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBkcFtpLCBqXSA9IGRwW2kgKyAxLCBqXSArIGRwW2ksIGogKyAxXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>size</text>
@@ -359,31 +368,31 @@
         <text encoding="base64">ICAgIGZ1biBncm91cEFuYWdyYW1zKHN0cnM6IEFycmF5PFN0cmluZz4pID0KICAgICAgICBzdHJzLmdyb3VwQnkgeyBpdC50b0NoYXJBcnJheSgpLnNvcnRlZCgpLnRvU3RyaW5nKCkgfS52YWx1ZXMudG9MaXN0KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBkcFtpLCBqXSA9IGRwW2kgKyAxLCBqXSArIGRwW2ksIGogKyAxXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
+        <text encoding="base64">ICAgICAgICBtID09IDEgLT4gMQogICAgICAgIG4gPT0gMSAtPiAxCiAgICAgICAgZWxzZSAtPiB1bmlxdWVQYXRocyhtIC0gMSwgbikgKyB1bmlxdWVQYXRocyhtLCBuIC0gMSkKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKEFycmF5cy5kZWVwVG9TdHJpbmcoaW50ZXJ2YWxzKSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKEFycmF5cy5kZWVwVG9TdHJpbmcoaW50ZXJ2YWxzKSkKICAgICAgICBUT0RPKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobSA9PSAxKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">CmZ1biBtYWluKCkgewogICAgU29sNTYoKS5tZXJnZSgKICAgICAgICBhcnJheU9mKAogICAgICAgICAgICBpbnRBcnJheU9mKDEsIDIpLAogICAgICAgICAgICBpbnRBcnJheU9mKDIsIDUpLAogICAgICAgICAgICBpbnRBcnJheU9mKDEsIDQpLAogICAgICAgICAgICBpbnRBcnJheU9mKDEsIDMpCiAgICAgICAgKQogICAgKQp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxzLmRkZGQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQluZXdQLnByZXR0eVByaW50bG4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGkgaW4gMSB1bnRpbCBpbnRlcnZhbHMuc2l6ZSkgewogICAgICAgICAgICB2YWwgaTAgPSBpbnRlcnZhbHNbaSAtIDFdCiAgICAgICAgICAgIHZhbCBpMSA9IGludGVydmFsc1tpXQoKICAgICAgICAgICAgaWYgKGkwWzFdID49IGkxWzBdKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwcmludGxuKG5ld1ApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGkwMCA9IGkwWzBdCiAgICAgICAgICAgIHZhbCBpMDEgPSBpMFsxXQogICAgICAgICAgICB2YWwgaTEwID0gaTFbMF0KICAgICAgICAgICAgdmFsIGkxMSA9IGkxWzFdCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3NpemUvaGkvZw==</text>
