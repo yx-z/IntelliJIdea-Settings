@@ -48,11 +48,9 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/YACLS/src/median/Sol75.kt" timestamp="1561076936075">
-        <mark key="[" line="4" column="50" />
-        <mark key="]" line="9" column="16" />
-        <mark key="^" line="9" column="16" />
-        <mark key="." line="9" column="16" />
+      <file name="$USER_HOME$/YACLS/src/median/Sol75.kt" timestamp="1561207426903">
+        <mark key="'" line="30" column="4" />
+        <mark key="^" line="30" column="4" />
       </file>
       <file name="$USER_HOME$/LC/src/median/Sol46.kt" timestamp="1560587285469">
         <mark key="[" line="4" column="0" />
@@ -298,10 +296,11 @@
       <jump line="50" column="4" filename="$USER_HOME$/YACLS/src/median/Sol73.kt" />
       <jump line="37" column="0" filename="$USER_HOME$/YACLS/src/median/Sol73.kt" />
       <jump line="5" column="12" filename="$USER_HOME$/YACLS/src/median/Sol73.kt" />
+      <jump line="38" column="4" filename="$USER_HOME$/YACLS/src/median/Sol75.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkvLyBjb252ZXJnZWQK</text>
+        <text encoding="base64">CmZ1biBtYWluKCkgewogICAgdmFsIGFyciA9IGludEFycmF5T2YoMCwgMiwgMSwgMSwgMCwgMikKICAgIFNvbDc1KCkuc29ydENvbG9ycyhhcnIpCiAgICBwcmludGxuKEFycmF5cy50b1N0cmluZyhhcnIpKQp9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>// transform child edges to parents</text>
@@ -313,31 +312,31 @@
         <text encoding="base64">CXZhbCBkdXJhdGlvbk5haXZlID0geyBHLmNvbm5lY3RlZENvbXBvbmVudHMoKSB9LmR1cmF0aW9uKCkKCXByaW50bG4oIk5haXZlOiAkZHVyYXRpb25OYWl2ZSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBjb252ZXJnZWQK</text>
+        <text encoding="base64">CmZ1biBtYWluKCkgewogICAgdmFsIGFyciA9IGludEFycmF5T2YoMCwgMiwgMSwgMSwgMCwgMikKICAgIFNvbDc1KCkuc29ydENvbG9ycyhhcnIpCiAgICBwcmludGxuKEFycmF5cy50b1N0cmluZyhhcnIpKQp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bXNbaV0gPT0gMCkgewogICAgICAgICAgICAgICAgbnVtcy5zd2FwKGxvLCBpKQogICAgICAgICAgICAgICAgbG8rKwogICAgICAgICAgICAgICAgaSsrCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVuIEdyYXBoLmNvbm4oKSA9IHN1cGVyVmVydGV4KGFkamFjZW5jeU1hdHJpeChTUiksIHZlcnRpY2VzVmVjdG9yKFNSKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaSsrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGkgaW4gbnVtcy5pbmRpY2VzKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZhbCBHID0gR3JhcGgoNiwgbGlzdE9mKDEgdG8gMiwgMyB0byA0LCA0IHRvIDUsIDUgdG8gNikpCg==</text>
+        <text encoding="base64">CQkvLyBjb252ZXJnZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIHVwZGF0ZSBwYXJlbnQgYnkgb25lIHN0ZXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gU2VlIGlmIHRoZSBmaXJzdCBjb2x1bW4gbmVlZHMgdG8gYmUgc2V0IHRvIHplcm8gYXMgd2VsbAo=</text>
+        <text encoding="base64">ZnVuIEdyYXBoLmNvbm4oKSA9IHN1cGVyVmVydGV4KGFkamFjZW5jeU1hdHJpeChTUiksIHZlcnRpY2VzVmVjdG9yKFNSKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gU2VlIGlmIHRoZSBmaXJzdCByb3cgbmVlZHMgdG8gYmUgc2V0IHRvIHplcm8gYXMgd2VsbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXZhbCBHID0gR3JhcGgoNiwgbGlzdE9mKDEgdG8gMiwgMyB0byA0LCA0IHRvIDUsIDUgdG8gNikpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3NpemUvaGkvZw==</text>
