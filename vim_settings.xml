@@ -141,6 +141,11 @@
         <mark key="^" line="6" column="22" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/YACLS/src/median/Sol92.kt" timestamp="1561470393100">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+      </file>
       <file name="$USER_HOME$/242/final/src/frontend/src/edu/illinois/cs/frontend/Game.java" timestamp="1555103438540">
         <mark key="[" line="0" column="32" />
       </file>
@@ -208,16 +213,18 @@
         <mark key="." line="1" column="33" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561420498103">
+      <file name="/Dummy.txt" timestamp="1561470336114">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/0" timestamp="1557328374104">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/YACLS/src/median/Sol91.kt" timestamp="1561468216967">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/YACLS/src/median/Sol91.kt" timestamp="1561470334012">
+        <mark key="'" line="18" column="26" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="10" column="27" />
       </file>
       <file name="$USER_HOME$/LC/src/Sol283.kt" timestamp="1560165421923">
         <mark key="[" line="10" column="8" />
@@ -327,56 +334,58 @@
       <jump line="38" column="4" filename="$USER_HOME$/YACLS/src/median/Sol75.kt" />
       <jump line="19" column="19" filename="$USER_HOME$/YACLS/src/median/Sol90.kt" />
       <jump line="18" column="31" filename="$USER_HOME$/YACLS/src/median/Sol90.kt" />
+      <jump line="31" column="20" filename="$USER_HOME$/YACLS/src/median/Sol91.kt" />
+      <jump line="21" column="26" filename="$USER_HOME$/YACLS/src/median/Sol91.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>size</text>
+        <text>toInt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ1biBzdWJzZXRzKG51bXM6IEludEFycmF5LCBzdGFydDogSW50ID0gMCk6IExpc3Q8TGlzdDxJbnQ+PiB7CiAgICAgICAgaWYgKHN0YXJ0ID09IG51bXMuc2l6ZSAtIDEpIHsKICAgICAgICAgICAgcmV0dXJuIGxpc3RPZihsaXN0T2YobnVtc1tzdGFydF0pLCBlbXB0eUxpc3QoKSkKICAgICAgICB9CgogICAgICAgIHZhbCBmaXJzdCA9IG51bXNbc3RhcnRdCiAgICAgICAgdmFsIHJlc3QgPSBzdWJzZXRzKG51bXMsIHN0YXJ0ICsgMSkKICAgICAgICB2YWwgZXh0ZW5kZWQgPSByZXN0Lm1hcCB7IGl0LnRvTXV0YWJsZUxpc3QoKSB9CiAgICAgICAgZXh0ZW5kZWQuZm9yRWFjaCB7IGl0LmFkZChmaXJzdCkgfQogICAgICAgIHJldHVybiByZXN0ICsgZXh0ZW5kZWQKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAqICAgICB2YXIgbmV4dDogTGlzdE5vZGU/ID0gbnVsbAogICAgICAgICogfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuIChzWzAuLjFdLnRvSW50KCkpIHsKICAgICAgICAgICAgMTAsIDIwIC0+IGRwWzFdID0gMQogICAgICAgICAgICBpbiAxMS4uMjYgLT4gZHBbMV0gPSAyCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ZnVuIG1haW4oKSB7CiAgICBwcmludGxuKFNvbDkxKCkubnVtRGVjb2RpbmdzKCIwIikpCn0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobCA8PSAxKSB7CiAgICAgICAgICAgIHJldHVybiAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobCA+PSAyKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1biBDaGFyLnRvSW50KCkgPSB0aGlzIC0gJzAnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNbMV0uYXNJbnQoKSA9PSAwKSB7CiAgICAgICAgICAgICAgICBpZiAoc1swXS5hc0ludCgpIGluIDEuLjIpIHsKICAgICAgICAgICAgICAgICAgICBkcFsxXSA9IDEKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGlmIChzWzAuLjFdLmFzSW50KCkgaW4gMTEuLjI2KSB7CiAgICAgICAgICAgICAgICAgICAgZHBbMV0gPSAyCiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIGRwWzFdID0gMQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hlbiAoc1swLi4xXS5hc0ludCgpKSB7CiAgICAgICAgICAgICAgICAxMCwgMjAgLT4gZHBbMV0gPSAxCiAgICAgICAgICAgICAgICBpbiAxMS4uMjYgLT4gZHBbMV0gPSAyCiAgICAgICAgICAgICAgICBlbHNlIC0+IGRwWzFdID0gMQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDEwLCAyMCAtPiBkcFsxXSA9IDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmlyc3RUd28gPT0gMTAgfHwgZmlyc3RUd28gPT0gMjApIHsKICAgICAgICAgICAgZHBbMV0gPSAxCiAgICAgICAgfQogICAgICAgIGlmIChmaXJzdFR3byBpbiApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHNbMF0udG9JbnQoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc1swLi4xXS50b0ludCgpID09IDEwIHx8ICkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGRwWzBdKQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3NpemUvaGkvZw==</text>
+        <text encoding="base64">JzwsJz5zL3RvSW50L2FzSW50L2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>size</last-search>
-      <last-pattern>size</last-pattern>
-      <last-replace>hi</last-replace>
-      <last-substitute>size</last-substitute>
+      <last-search>toInt</last-search>
+      <last-pattern>toInt</last-pattern>
+      <last-replace>asInt</last-replace>
+      <last-substitute>toInt</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
@@ -388,6 +397,8 @@
         <entry>h2</entry>
         <entry>&quot;</entry>
         <entry>size</entry>
+        <entry>as</entry>
+        <entry>toInt</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2l0L3RoaXMvZw==</entry>
@@ -396,6 +407,8 @@
         <entry encoding="base64">JzwsJz5zL2gyL2gzL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zL3NpemUvaGkvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2FzL3RvL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3RvSW50L2FzSW50L2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
