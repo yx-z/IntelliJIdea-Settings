@@ -74,6 +74,11 @@
         <mark key="." line="12" column="77" />
         <mark key="^" line="12" column="77" />
       </file>
+      <file name="$USER_HOME$/Konnectivity/src/util/MathUtil.kt" timestamp="1562051572472">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/YACLS/src/median/Sol90.kt" timestamp="1561420496167">
         <mark key="'" line="18" column="31" />
         <mark key="[" line="1" column="0" />
@@ -293,11 +298,11 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/Konnectivity/src/algebra/Matrix.kt" timestamp="1562030861660">
-        <mark key="[" line="64" column="16" />
-        <mark key="]" line="65" column="51" />
-        <mark key="^" line="65" column="51" />
-        <mark key="." line="65" column="51" />
+      <file name="$USER_HOME$/Konnectivity/src/algebra/Matrix.kt" timestamp="1562051664329">
+        <mark key="[" line="240" column="35" />
+        <mark key="]" line="240" column="34" />
+        <mark key="^" line="240" column="34" />
+        <mark key="." line="240" column="34" />
       </file>
       <file name="$USER_HOME$/LC/src/median/Sol55.kt" timestamp="1560935896205">
         <mark key="[" line="10" column="20" />
@@ -305,12 +310,13 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" timestamp="1562032593490">
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="34" column="10" />
-        <mark key="." line="34" column="10" />
-        <mark key="^" line="34" column="10" />
+      <file name="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" timestamp="1562052039804">
+        <mark key="[" line="32" column="56" />
+        <mark key="]" line="33" column="16" />
+        <mark key="." line="33" column="16" />
+        <mark key="^" line="33" column="16" />
       </file>
+      <file name="$USER_HOME$/Konnectivity/src/algebra/Semiring.kt" timestamp="1562051754494" />
       <file name="$USER_HOME$/Konnectivity/src/graph/Connectivity.kt" timestamp="1561012889092">
         <mark key="[" line="5" column="27" />
       </file>
@@ -386,7 +392,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaXplOiBJbnQgPSBudW1WZXJ0aWNlcykgLy8gYXNzdW1lIGBzaXplYCBpcyBhIHBvd2VyIG9mIHR3bwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -398,31 +404,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG5vZGUubGVmdCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBxdWV1ZS5hZGQobmV3IEhhc2hNYXAuU2ltcGxlRW50cnk8Pihub2RlLmxlZnQsIGxldmVsICsgMSkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaXplOiBJbnQgPSBudW1WZXJ0aWNlcykgLy8gYXNzdW1lIGBzaXplYCBpcyBhIHBvd2VyIG9mIHR3bwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXZhbCBBID0gYWRqYWNlbmN5TWF0cml4KFNSKQoJdmFsIG4gPSBBLm51bVJvd3MgLy8gYXNzdW1pbmcgYG5gIGlzIGEgcG93ZXIgb2YgdHdvCgkK</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUFbMS4uMiwgMS4uMiwgZmFsc2VdCg==</text>
+        <text encoding="base64">CQkJfSBlbHNlIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YWwgcm93U3RhcnQgPSByb3dSYW5nZS5zdGFydAoJCXZhbCBjb2xTdGFydCA9IGNvbFJhbmdlLnN0YXJ0Cgo=</text>
+        <text encoding="base64">CQkJaWYgKGl0ID09IHJvd1JhbmdlLnN0YXJ0KSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl2YWwgdG9wUmlnaHQgPSBlZGdlQmF0Y2goQSwgMS4ucm93UmFuZ2UvMixyb3dyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl2YWwgcm93cyA9IHJvd1JhbmdlLmxhc3QgLSByb3dTdGFydCArIDEKCQl2YWwgY29scyA9IGNvbFJhbmdlLmxhc3QgLSBjb2xTdGFydCArIDEKCQlyZXR1cm4gTWF0cml4KHJvd3MgYnkgY29scywgc2VtaXJpbmcpIHsgciwgYyAtPgoJCQl0aGlzW3Jvd1N0YXJ0ICsgciAtIDEsIGNvbFN0YXJ0ICsgYyAtIDFdCgkJfQo=</text>
+        <text encoding="base64">CQl2YWwgcm93cyA9IHJvd1JhbmdlLmVuZEluY2x1c2l2ZSAtIHJvd1N0YXJ0ICsgMQoJCXZhbCBjb2xzID0gY29sUmFuZ2UuZW5kSW5jbHVzaXZlIC0gY29sU3RhcnQgKyAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXZhbCBBID0gYWRqYWNlbmN5TWF0cml4KFNSKQo=</text>
+        <text encoding="base64">CQl2YWwgcm93U3RhcnQgPSByb3dSYW5nZS5zdGFydAoJCXZhbCBjb2xTdGFydCA9IGNvbFJhbmdlLnN0YXJ0CgoJCXZhbCByb3dzID0gcm93UmFuZ2UuZW5kSW5jbHVzaXZlIC0gcm93U3RhcnQgKyAxCgkJdmFsIGNvbHMgPSBjb2xSYW5nZS5lbmRJbmNsdXNpdmUgLSBjb2xTdGFydCArIDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJdmFsIHJvd3MgPSByb3dSYW5nZS5sYXN0IC0gcm93U3RhcnQgKyAxCgkJCXZhbCBjb2xzID0gY29sUmFuZ2UubGFzdCAtIGNvbFN0YXJ0ICsgMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFsIFNSID0gSU5UX01BWF9USU1FU19TRU1JUklORwo=</text>
+        <text encoding="base64">CnZhbCBJbnRSYW5nZS5sZW5ndGg6IEludAoJZ2V0KCkgPSBsYXN0IC0gZmlyc3QgKyAxCgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RvSW50L2FzSW50L2c=</text>
@@ -463,6 +469,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
