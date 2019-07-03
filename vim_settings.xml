@@ -5,8 +5,6 @@
     <filemarks>
       <file name="$USER_HOME$/Konnectivity/src/graph/SuperVertex.kt" timestamp="1561981363776">
         <mark key="[" line="6" column="0" />
-        <mark key="]" line="33" column="20" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/YACLS/src/median/Sol94.kt" timestamp="1561638031693">
         <mark key="[" line="12" column="2" />
@@ -74,10 +72,10 @@
         <mark key="." line="12" column="77" />
         <mark key="^" line="12" column="77" />
       </file>
-      <file name="$USER_HOME$/Konnectivity/src/util/MathUtil.kt" timestamp="1562056530961">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Konnectivity/src/util/MathUtil.kt" timestamp="1562154814236">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/YACLS/src/median/Sol90.kt" timestamp="1561420496167">
         <mark key="'" line="18" column="31" />
@@ -207,11 +205,11 @@
         <mark key="^" line="21" column="26" />
         <mark key="." line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/Konnectivity/src/algebra/Vector.kt" timestamp="1561948444122">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="40" column="22" />
+      <file name="$USER_HOME$/Konnectivity/src/algebra/Vector.kt" timestamp="1562157628864">
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="52" />
+        <mark key="." line="18" column="52" />
+        <mark key="^" line="18" column="52" />
       </file>
       <file name="$USER_HOME$/242/final/src/frontend/res/detail.fxml" timestamp="1555856176721">
         <mark key="[" line="5" column="38" />
@@ -252,7 +250,7 @@
       <file name="$USER_HOME$/YACLS/src/median/Sol131.kt" timestamp="1561717920449">
         <mark key="[" line="2" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562062018675">
+      <file name="/Dummy.txt" timestamp="1562158523393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/0" timestamp="1557328374104">
@@ -310,10 +308,12 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" timestamp="1562062136545">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" timestamp="1562159326027">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="37" column="41" />
+        <mark key="." line="37" column="41" />
+        <mark key="^" line="37" column="41" />
       </file>
       <file name="$USER_HOME$/Konnectivity/src/algebra/Semiring.kt" timestamp="1562056057120">
         <mark key="[" line="7" column="23" />
@@ -390,13 +390,20 @@
       <jump line="31" column="20" filename="$USER_HOME$/YACLS/src/median/Sol91.kt" />
       <jump line="21" column="26" filename="$USER_HOME$/YACLS/src/median/Sol91.kt" />
       <jump line="4" column="4" filename="$USER_HOME$/YACLS/src/median/Sol92.kt" />
+      <jump line="54" column="77" filename="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" />
+      <jump line="51" column="0" filename="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" />
+      <jump line="46" column="0" filename="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" />
+      <jump line="39" column="0" filename="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" />
+      <jump line="30" column="0" filename="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" />
+      <jump line="24" column="0" filename="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlHbG9iYWxTY29wZQo=</text>
+        <text encoding="base64">CQlyZXR1cm4gVmVjdG9yKG51bVZlcnRpY2VzLCBTUikgeyBtZXJnZWRbaXRdIH0gLy8gbWFpbnRhaW4gYSBzdGFyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>R</text>
       </register>
       <register name="/" type="4">
         <text>toInt</text>
@@ -405,31 +412,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG5vZGUubGVmdCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBxdWV1ZS5hZGQobmV3IEhhc2hNYXAuU2ltcGxlRW50cnk8Pihub2RlLmxlZnQsIGxldmVsICsgMSkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlHbG9iYWxTY29wZQo=</text>
+        <text encoding="base64">CQlyZXR1cm4gVmVjdG9yKG51bVZlcnRpY2VzLCBTUikgeyBtZXJnZWRbaXRdIH0gLy8gbWFpbnRhaW4gYSBzdGFyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlsYXVuY2ggewoJCQkKCQl9Cg==</text>
+        <text encoding="base64">CQkvLyBtZXJnZSB0b3BMZWZ0IHRvIGJ0bVJpZ2h0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlwcmludGxuKG1lcmdlZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyBhc3N1bWluZyBgQWAgaXMgb2Ygc2l6ZSBwb3dlciBvZiB0d28K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlHbG9iYWxTY29wZQo=</text>
+        <text encoding="base64">CQkJNSB0byA0LAoJCQk0IHRvIDEsCgkJCTQgdG8gMywKCQkJMyB0byAyLAoJCQkxMSB0byA5LAoJCQkxMCB0byA5LAoJCQk5IHRvIDYsCgkJCTkgdG8gOCwKCQkJNiB0byA4KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl0b3BMZWZ0ICsgYnRtUmlndAo=</text>
+        <text encoding="base64">CgkJVE9ETygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl2YWwgY29sTWlkID0gY29sUmFuZ2Uuc3RhcnQgKyAoY29sUmFuZ2UuZW5kIC0gY29sUmFuZ2Uuc3RhcnQpIC8gMgo=</text>
+        <text encoding="base64">CQkJCS8vIHBhc3MgaW4gYGZhbHNlYCB0byBhdm9pZCByZXNoYXBpbmcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl2YWwgdG9wTGVmdFJvdyA9IHJvd1JhbmdlLnN0YXJ0Li5yb3dSYW5nZS5lbmRJbmNsdXNpdmUgLyAyCgkJdmFsIHRvcExlZnRDb2wgPSBjb2xSYW5nZS5zdGFydC4uY29sUmFuZ2UuZW5kSW5jbHVzaXZlIC8gMgoJCXZhbCB0b3BMZWZ0ID0gZWRnZUJhdGNoKEFbdG9wTGVmdFJvdywgdG9wTGVmdENvbCwgZmFsc2VdLAoJCQkJdG9wTGVmdFJvdywgdG9wTGVmdENvbCkKCQkKCQl2YWwgYnRtUmlnaHRSb3cgPSByb3dSYW5nZS5lbmRJbmNsdXNpdmUgLyAyICsgMS4ucm93UmFuZ2UuZW5kSW5jbHVzaXZlCgkJdmFsIGJ0bVJpZ2h0Q29sID0gY29sUmFuZ2UuZW5kSW5jbHVzaXZlIC8gMiArIDEuLmNvbFJhbmdlLmVuZEluY2x1c2l2ZQoJCXZhbCBidG1SaWdodCA9IGVkZ2VCYXRjaChBW2J0bVJpZ2h0Um93LCBidG1SaWdodENvbCwgZmFsc2VdLAoJCQkJYnRtUmlnaHRSb3csIGJ0bVJpZ2h0Q29sKQoJCQoJCQo=</text>
+        <text encoding="base64">CQlHbG9iYWxTY29wZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YWwgdG9wTGVmdCA9IGVkZ2VCYXRjaChBCg==</text>
+        <text encoding="base64">CQlDb3JvdXRpbmVDb250ZXh0LkdsYXVuY2ggewoJCQkKCQl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RvSW50L2FzSW50L2c=</text>
