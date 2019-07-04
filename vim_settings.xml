@@ -90,6 +90,12 @@
         <mark key="^" line="7" column="16" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/YACLS/src/median/Sol144.kt" timestamp="1562214289356">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
+      </file>
       <file name="/1000" timestamp="1557328374181">
         <mark key="[" line="0" column="0" />
       </file>
@@ -229,6 +235,12 @@
       <file name="$USER_HOME$/Konnectivity/src/graph/AlgebraicAnchor.kt" timestamp="1560521987777">
         <mark key="[" line="31" column="5" />
       </file>
+      <file name="$USER_HOME$/YACLS/src/median/Sol139.kt" timestamp="1562214051237">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="9" column="40" />
+        <mark key="^" line="9" column="40" />
+        <mark key="." line="9" column="40" />
+      </file>
       <file name="$USER_HOME$/LC/src/median/Sol39.kt" timestamp="1560583565729">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -247,13 +259,13 @@
         <mark key="." line="1" column="33" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/YACLS/src/median/Sol131.kt" timestamp="1562209442259">
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="23" column="27" />
-        <mark key="^" line="23" column="27" />
-        <mark key="." line="23" column="27" />
+      <file name="$USER_HOME$/YACLS/src/median/Sol131.kt" timestamp="1562213066218">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562158523393">
+      <file name="/Dummy.txt" timestamp="1562214059595">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/0" timestamp="1557328374104">
@@ -400,13 +412,15 @@
       <jump line="30" column="0" filename="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" />
       <jump line="24" column="0" filename="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" />
+      <jump line="30" column="0" filename="$USER_HOME$/YACLS/src/median/Sol131.kt" />
+      <jump line="35" column="35" filename="$USER_HOME$/YACLS/src/median/Sol131.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlyZXR1cm4gVmVjdG9yKG51bVZlcnRpY2VzLCBTUikgeyBtZXJnZWRbaXRdIH0gLy8gbWFpbnRhaW4gYSBzdGFyCg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>toInt</text>
@@ -415,31 +429,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG5vZGUubGVmdCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBxdWV1ZS5hZGQobmV3IEhhc2hNYXAuU2ltcGxlRW50cnk8Pihub2RlLmxlZnQsIGxldmVsICsgMSkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlyZXR1cm4gVmVjdG9yKG51bVZlcnRpY2VzLCBTUikgeyBtZXJnZWRbaXRdIH0gLy8gbWFpbnRhaW4gYSBzdGFyCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBwYWxbaV1bal0gPSB0cnVlIDw9PiBzW2kuLmpdIGlzIGEgcGFsaW5kcm9tZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBtZXJnZSB0b3BMZWZ0IHRvIGJ0bVJpZ2h0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBhbFtpXVtsIC0gMV0pIHsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwcmludGxuKG1lcmdlZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyBhc3N1bWluZyBgQWAgaXMgb2Ygc2l6ZSBwb3dlciBvZiB0d28K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRwW2ldLmFkZChsaXN0T2Yocy5zdWJzdHJpbmcoaSB1bnRpbCBsKSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJNSB0byA0LAoJCQk0IHRvIDEsCgkJCTQgdG8gMywKCQkJMyB0byAyLAoJCQkxMSB0byA5LAoJCQkxMCB0byA5LAoJCQk5IHRvIDYsCgkJCTkgdG8gOCwKCQkJNiB0byA4KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgkJVE9ETygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkcFtpXS5hZGRBbGwoZHBbaiArIDFdLm1hcCB7CiAgICAgICAgICAgICAgICAgICAgICAgIEFycmF5TGlzdChpdCkuYXBwbHkgeyBhZGQoMCwgcy5zdWJzdHJpbmcoaS4uaikpIH0KICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCS8vIHBhc3MgaW4gYGZhbHNlYCB0byBhdm9pZCByZXNoYXBpbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkcFtqICsgMV0uZm9yRWFjaCB7CiAgICAgICAgICAgICAgICAgICAgICAgIGRwW2ldLmFkZChBcnJheUxpc3QoaXQpLmFwcGx5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFkZCgwLCBzLnN1YnN0cmluZyhpLi5qKSkKICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlHbG9iYWxTY29wZQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGkgaW4gMSB1bnRpbCBsKSB7CiAgICAgICAgICAgIGlmIChzW2ldID09IHNbaSAtIDFdKSB7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlDb3JvdXRpbmVDb250ZXh0LkdsYXVuY2ggewoJCQkKCQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RvSW50L2FzSW50L2c=</text>
@@ -483,6 +497,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
