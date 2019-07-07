@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Konnectivity/src/graph/SuperVertex.kt" timestamp="1561981363776">
@@ -283,7 +283,7 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562239753845">
+      <file name="/Dummy.txt" timestamp="1562502428709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/0" timestamp="1557328374104">
@@ -360,11 +360,11 @@
       <file name="$USER_HOME$/Konnectivity/src/graph/Connectivity.kt" timestamp="1561012889092">
         <mark key="[" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/YACLS/src/easy/Sol201.kt" timestamp="1562256208649">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="6" column="19" />
-        <mark key="^" line="6" column="19" />
-        <mark key="." line="6" column="19" />
+      <file name="$USER_HOME$/YACLS/src/easy/Sol201.kt" timestamp="1562502415290">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="8" column="42" />
       </file>
       <file name="/fragment.java" timestamp="1562062129082">
         <mark key="[" line="0" column="0" />
@@ -447,10 +447,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>toInt</text>
@@ -459,31 +459,31 @@
         <text encoding="base64">ICAgIGZ1biBsZXZlbE9yZGVyKAogICAgICAgIHJvb3Q6IFRyZWVOb2RlPywKICAgICAgICBsZXZlbDogSW50ID0gMCwKICAgICAgICByZXM6IEFycmF5TGlzdDxBcnJheUxpc3Q8SW50Pj4gPSBBcnJheUxpc3QoKQogICAgKTogTGlzdDxMaXN0PEludD4+IHsKICAgICAgICBpZiAocm9vdCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiByZXMKICAgICAgICB9CiAgICAgICAgaWYgKHJlcy5zaXplID09IGxldmVsKSB7CiAgICAgICAgICAgIHJlcy5hZGQoQXJyYXlMaXN0KCkpCiAgICAgICAgfQogICAgICAgIHJlc1tsZXZlbF0uYWRkKHJvb3QuYHZhbGApCiAgICAgICAgbGV2ZWxPcmRlcihyb290LmxlZnQsIGxldmVsICsgMSwgcmVzKQogICAgICAgIGxldmVsT3JkZXIocm9vdC5yaWdodCwgbGV2ZWwgKyAxLCByZXMpCiAgICAgICAgcmV0dXJuIHJlcwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzZWUgCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbWF4ID0gbnVtc1swXQogICAgICAgIHZhciBtaW4gPSBudW1zWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBzZWUgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZHBbMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZHBbMF0K</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbWF4ID0gbnVtc1swXQogICAgICAgIHZhciBtaW4gPSBudW1zWzBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZHBbMF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmZ1biBtYWluKCkgewogICAgcHJpbnRsbihTb2wxNTAoKS5ldmFsUlBOKGFycmF5T2YoIjIiLCAiMSIsICIrIiwgIjMiLCAiKyIpKSkKfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZHBbMF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgb3BzID0gc2V0T2YoIisiLCAiLSIsICIqIiwgIi8iKQo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RvSW50L2FzSW50L2c=</text>
