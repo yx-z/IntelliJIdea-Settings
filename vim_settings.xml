@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Konnectivity/src/graph/SuperVertex.kt" timestamp="1561981363776">
@@ -89,6 +89,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="19" column="23" />
+      </file>
+      <file name="$USER_HOME$/YACLS/src/median/Sol208.kt" timestamp="1562502650159">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/LC/src/median/Sol46.kt" timestamp="1560587285469">
         <mark key="[" line="4" column="0" />
@@ -444,10 +450,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" />
       <jump line="30" column="0" filename="$USER_HOME$/YACLS/src/median/Sol131.kt" />
       <jump line="35" column="35" filename="$USER_HOME$/YACLS/src/median/Sol131.kt" />
+      <jump line="25" column="0" filename="$USER_HOME$/YACLS/src/median/Sol208.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -459,31 +466,31 @@
         <text encoding="base64">ICAgIGZ1biBsZXZlbE9yZGVyKAogICAgICAgIHJvb3Q6IFRyZWVOb2RlPywKICAgICAgICBsZXZlbDogSW50ID0gMCwKICAgICAgICByZXM6IEFycmF5TGlzdDxBcnJheUxpc3Q8SW50Pj4gPSBBcnJheUxpc3QoKQogICAgKTogTGlzdDxMaXN0PEludD4+IHsKICAgICAgICBpZiAocm9vdCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiByZXMKICAgICAgICB9CiAgICAgICAgaWYgKHJlcy5zaXplID09IGxldmVsKSB7CiAgICAgICAgICAgIHJlcy5hZGQoQXJyYXlMaXN0KCkpCiAgICAgICAgfQogICAgICAgIHJlc1tsZXZlbF0uYWRkKHJvb3QuYHZhbGApCiAgICAgICAgbGV2ZWxPcmRlcihyb290LmxlZnQsIGxldmVsICsgMSwgcmVzKQogICAgICAgIGxldmVsT3JkZXIocm9vdC5yaWdodCwgbGV2ZWwgKyAxLCByZXMpCiAgICAgICAgcmV0dXJuIHJlcwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIFlvdXIgVHJpZSBvYmplY3Qgd2lsbCBiZSBpbnN0YW50aWF0ZWQgYW5kIGNhbGxlZCBhcyBzdWNoOgogICAgICogdmFyIG9iaiA9IFRyaWUoKQogICAgICogb2JqLmluc2VydCh3b3JkKQogICAgICogdmFyIHBhcmFtXzIgPSBvYmouc2VhcmNoKHdvcmQpCiAgICAgKiB2YXIgcGFyYW1fMyA9IG9iai5zdGFydHNXaXRoKHByZWZpeCkKICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzZWUgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbWF4ID0gbnVtc1swXQogICAgICAgIHZhciBtaW4gPSBudW1zWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBzZWUgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZHBbMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZHBbMF0K</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbWF4ID0gbnVtc1swXQogICAgICAgIHZhciBtaW4gPSBudW1zWzBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZHBbMF0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3RvSW50L2FzSW50L2c=</text>
