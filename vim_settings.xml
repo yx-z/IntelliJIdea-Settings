@@ -426,7 +426,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563608177251">
+      <file name="/Dummy.txt" timestamp="1563613819541">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/0" timestamp="1557328374104">
@@ -450,11 +450,12 @@
         <mark key="." line="22" column="71" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/YACLS/src/hard/Sol146.kt" timestamp="1563609946133">
-        <mark key="[" line="36" column="33" />
-        <mark key="]" line="37" column="30" />
-        <mark key="." line="37" column="30" />
-        <mark key="^" line="37" column="30" />
+      <file name="$USER_HOME$/YACLS/src/hard/Sol146.kt" timestamp="1563614025066">
+        <mark key="'" line="26" column="11" />
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+        <mark key="^" line="21" column="26" />
       </file>
       <file name="$USER_HOME$/YACLS/src/median/Sol364.kt" timestamp="1562681335888">
         <mark key="[" line="62" column="60" />
@@ -479,10 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="28" filename="$USER_HOME$/242/final/src/frontend/src/edu/illinois/cs/backend/Query.kt" />
-      <jump line="19" column="8" filename="$USER_HOME$/242/final/src/frontend/src/main/kotlin/Model.kt" />
-      <jump line="11" column="0" filename="$USER_HOME$/242/final/src/frontend/src/main/kotlin/Util.kt" />
-      <jump line="34" column="28" filename="$USER_HOME$/242/final/src/frontend/src/main/java/Controller.java" />
       <jump line="65" column="0" filename="$USER_HOME$/242/final/src/frontend/src/main/java/Controller.java" />
       <jump line="10" column="5" filename="$USER_HOME$/242/final/src/frontend/src/main/java/Controller.java" />
       <jump line="35" column="0" filename="$USER_HOME$/242/final/src/frontend/src/main/java/Controller.java" />
@@ -579,58 +576,62 @@
       <jump line="28" column="21" filename="$USER_HOME$/Konnectivity/src/graph/RandEdgeBatch.kt" />
       <jump line="34" column="32" filename="$USER_HOME$/Konnectivity/src/graph/RandEdgeBatch.kt" />
       <jump line="241" column="0" filename="$USER_HOME$/Konnectivity/src/algebra/Matrix.kt" />
+      <jump line="14" column="6" filename="$USER_HOME$/YACLS/src/hard/Sol146.kt" />
+      <jump line="11" column="31" filename="$USER_HOME$/YACLS/src/hard/Sol146.kt" />
+      <jump line="47" column="0" filename="$USER_HOME$/YACLS/src/hard/Sol146.kt" />
+      <jump line="26" column="11" filename="$USER_HOME$/YACLS/src/hard/Sol146.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleUhlYWRoZWFkID0ga2V5VGFpbAo=</text>
+      <register name="&quot;" type="4">
+        <text>keys</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>keys</text>
       </register>
       <register name="/" type="4">
-        <text>files</text>
+        <text>cache</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heCA9IG1heChtYXgsIG5ld1JhbmdlLmVuZEluY2x1c2l2ZSAtIG5ld1JhbmdlLnN0YXJ0ICsgMSkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oYy5rZXlIZWFkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleUhlYWRoZWFkID0ga2V5VGFpbAo=</text>
+        <text encoding="base64">CmZ1biBtYWluKCkgewogICAgdmFsIGMgPSBTb2wxNDYuTFJVQ2FjaGUoMikKICAgIGMucHV0KDEsIDEpOwogICAgYy5wdXQoMiwgMik7CiAgICBjLmdldCgxKTsgICAgICAgLy8gcmV0dXJucyAxCiAgICBjLnB1dCgzLCAzKTsgICAgLy8gZXZpY3RzIGtleSAyCiAgICBwcmludGxuKGMuZ2V0KDIpKTsgICAgICAgLy8gcmV0dXJucyAtMSAobm90IGZvdW5kKQogICAgYy5wdXQoNCwgNCk7ICAgIC8vIGV2aWN0cyBrZXkgMQogICAgYy5nZXQoMSk7ICAgICAgIC8vIHJldHVybnMgLTEgKG5vdCBmb3VuZCkKICAgIGMuZ2V0KDMpOyAgICAgICAvLyByZXR1cm5zIDMKICAgIGMuZ2V0KDQpOyAgICAgICAvLyByZXR1cm5zIDQKfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEucmVtb3ZlKGtleSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhciBzaXplID0gMAogICAgICAgIHByaXZhdGUgdmFyIGtleUhlYWQ6IERsbD8gPSBudWxsCiAgICAgICAgcHJpdmF0ZSB2YXIga2V5VGFpbDogRGxsPyA9IG51bGwK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oYy5rZXlzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oYy5rZXlzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleVRhaWwubmV4ID0gbm9kZQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc2l6ZSA9IDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleXMuYWRkKGtleSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2V5VGFpbC5uZXggPSBub2RlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBzaXplID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2ZpbGVzLy9n</text>
+        <text encoding="base64">JzwsJz5zL2NhY2hlL2MvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>files</last-search>
-      <last-pattern>files</last-pattern>
-      <last-replace />
-      <last-substitute>files</last-substitute>
+      <last-search>cache</last-search>
+      <last-pattern>cache</last-pattern>
+      <last-replace>c</last-replace>
+      <last-substitute>cache</last-substitute>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -645,6 +646,7 @@
         <entry>left</entry>
         <entry>1</entry>
         <entry>files</entry>
+        <entry>cache</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2l0L3RoaXMvZw==</entry>
@@ -659,6 +661,7 @@
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL2ZpbGVzLy9n</entry>
+        <entry encoding="base64">JzwsJz5zL2NhY2hlL2MvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
