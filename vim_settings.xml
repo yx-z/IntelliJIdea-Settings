@@ -65,6 +65,13 @@
       <file name="$USER_HOME$/LC/src/206.kt" timestamp="1560155163609">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/YACLS/src/hard/Sol295.kt" timestamp="1563689954431">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+        <mark key="^" line="15" column="35" />
+      </file>
       <file name="$USER_HOME$/YACLS/src/median/Sol236.kt" timestamp="1562584878382">
         <mark key="[" line="2" column="0" />
       </file>
@@ -432,7 +439,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563675393605">
+      <file name="/Dummy.txt" timestamp="1563689790538">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/0" timestamp="1557328374104">
@@ -472,11 +479,11 @@
       <file name="$USER_HOME$/YACLS/src/median/Sol887.kt" timestamp="1562934597504">
         <mark key="[" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/YACLS/src/hard/Sol239.kt" timestamp="1563676614992">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="18" />
-        <mark key="^" line="8" column="18" />
+      <file name="$USER_HOME$/YACLS/src/hard/Sol239.kt" timestamp="1563689829500">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="10" column="44" />
+        <mark key="." line="10" column="44" />
+        <mark key="^" line="10" column="44" />
       </file>
       <file name="$USER_HOME$/YACLS/src/hard/Sol887.kt" timestamp="1563675385840">
         <mark key="[" line="18" column="20" />
@@ -501,7 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="5" filename="$USER_HOME$/242/final/src/frontend/src/main/java/Controller.java" />
       <jump line="35" column="0" filename="$USER_HOME$/242/final/src/frontend/src/main/java/Controller.java" />
       <jump line="32" column="0" filename="$USER_HOME$/242/final/src/frontend/src/main/java/Controller.java" />
       <jump line="29" column="39" filename="$USER_HOME$/242/final/src/frontend/src/main/java/Controller.java" />
@@ -601,10 +607,11 @@
       <jump line="47" column="0" filename="$USER_HOME$/YACLS/src/hard/Sol146.kt" />
       <jump line="26" column="11" filename="$USER_HOME$/YACLS/src/hard/Sol146.kt" />
       <jump line="67" column="0" filename="$USER_HOME$/YACLS/src/hard/Sol146.kt" />
+      <jump line="18" column="0" filename="$USER_HOME$/YACLS/src/hard/Sol295.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -616,31 +623,31 @@
         <text encoding="base64">ICAgIHByaW50bG4oYy5rZXlIZWFkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRwW2ldW2pdID0gbWluKGRwW2ldW2pdLCApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoZW4gewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHRiaCwgaSBhbSBkZWZpbml0ZWx5IG5vdCBzbWFydCBlbm91Z2ggdG8gY29tZSB1cCB3aXRoIHRoaXMK</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIFlvdXIgTWVkaWFuRmluZGVyIG9iamVjdCB3aWxsIGJlIGluc3RhbnRpYXRlZCBhbmQgY2FsbGVkIGFzIHN1Y2g6CiAgICAgKiB2YXIgb2JqID0gTWVkaWFuRmluZGVyKCkKICAgICAqIG9iai5hZGROdW0obnVtKQogICAgICogdmFyIHBhcmFtXzIgPSBvYmouZmluZE1lZGlhbigpCiAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobnVtcy5pcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGkgb25seSBoYXZlIGEgTyhLTl4yKSBzb2x1dGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CmltcG9ydCBqYXZhLnV0aWwuKgppbXBvcnQga290bGluLmNvbGxlY3Rpb25zLkFycmF5TGlzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZHAgPSBBcnJheShLKSB7IGsgLT4KICAgICAgICAgICAgSW50QXJyYXkoTiArIDEpIHsgbiAtPiBpZiAoayA9PSAxIHx8IG4gPT0gMSkgbiBlbHNlIDAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGRwW0tdW05dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhcC5yZW1vdmUobnVtc1tpIC0ga10pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuIDw9IDEgLT4gbgo=</text>
+        <text encoding="base64">ICAgICAgICByZXNbMF0gPSBoZWFwLnBlZWsoKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NhY2hlL2MvZw==</text>
