@@ -270,11 +270,12 @@
       <file name="$USER_HOME$/YACLS/src/easy/Sol169.kt" timestamp="1563620327840">
         <mark key="[" line="75" column="18" />
       </file>
-      <file name="$USER_HOME$/YACLS/src/hard/Sol273.kt" timestamp="1563858751209">
-        <mark key="[" line="47" column="23" />
-        <mark key="]" line="50" column="14" />
-        <mark key="." line="50" column="14" />
-        <mark key="^" line="50" column="14" />
+      <file name="$USER_HOME$/YACLS/src/hard/Sol273.kt" timestamp="1563859789302">
+        <mark key="'" line="5" column="11" />
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Konnectivity/src/graph/SuperVertex.kt" timestamp="1561981363776">
         <mark key="[" line="6" column="0" />
@@ -439,7 +440,7 @@
         <mark key="^" line="24" column="19" />
         <mark key="." line="24" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563848202792">
+      <file name="/Dummy.txt" timestamp="1563859790079">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/0" timestamp="1557328374104">
@@ -514,7 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/242/final/src/frontend/src/main/java/Controller.java" />
       <jump line="29" column="39" filename="$USER_HOME$/242/final/src/frontend/src/main/java/Controller.java" />
       <jump line="61" column="0" filename="$USER_HOME$/421/mp6-type-infer/src/Infer.hs" />
       <jump line="85" column="73" filename="$USER_HOME$/421/mp6-type-infer/src/Infer.hs" />
@@ -614,13 +614,14 @@
       <jump line="67" column="0" filename="$USER_HOME$/YACLS/src/hard/Sol146.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/YACLS/src/hard/Sol295.kt" />
       <jump line="29" column="8" filename="$USER_HOME$/YACLS/src/easy/Sol443.kt" />
+      <jump line="9" column="11" filename="$USER_HOME$/YACLS/src/hard/Sol273.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZ3JvdXBzID0gbnVtLnRvU3RyaW5nKCkucmV2ZXJzZWQoKS53aXRoSW5kZXgoKQogICAgICAgICAgICAuZ3JvdXBCeSB7IGl0LmluZGV4IC8gMyB9CiAgICAgICAgICAgIC5tYXAgeyBpdC52YWx1ZS5tYXAgeyBpdC52YWx1ZSB9LmpvaW5Ub1N0cmluZygiIikucmV2ZXJzZWQoKSB9CiAgICAgICAgICAgIC5yZXZlcnNlZCgpCgogICAgICAgIHJldHVybiAiIgo=</text>
+        <text encoding="base64">ZnVuIG1haW4oKSB7CiAgICBwcmludGxuKFNvbDI3MygpLm51bWJlclRvV29yZHMoMTIzNDUpKQp9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>cache</text>
@@ -629,31 +630,31 @@
         <text encoding="base64">ICAgIHByaW50bG4oYy5rZXlIZWFkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZ3JvdXBzID0gbnVtLnRvU3RyaW5nKCkucmV2ZXJzZWQoKS53aXRoSW5kZXgoKQogICAgICAgICAgICAuZ3JvdXBCeSB7IGl0LmluZGV4IC8gMyB9CiAgICAgICAgICAgIC5tYXAgeyBpdC52YWx1ZS5tYXAgeyBpdC52YWx1ZSB9LmpvaW5Ub1N0cmluZygiIikucmV2ZXJzZWQoKSB9CiAgICAgICAgICAgIC5yZXZlcnNlZCgpCgogICAgICAgIHJldHVybiAiIgo=</text>
+        <text encoding="base64">ZnVuIG1haW4oKSB7CiAgICBwcmludGxuKFNvbDI3MygpLm51bWJlclRvV29yZHMoMTIzNDUpKQp9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGdyb3VwcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcyA9IG51bS50b1N0cmluZygpLnJldmVyc2VkKCkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzLndpdGhJbmRleCgpLmdyb3VwQnkgeyAocy5sZW5ndGggLSBpdC5pbmRleCkgLyAzIH0KICAgICAgICAgICAgLm1hcCB7IGl0LnZhbHVlLm1hcCB7IGl0LnZhbHVlIH0uam9pblRvU3RyaW5nKCIiKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGdyb3VwcykK</text>
+        <text encoding="base64">ICAgICAgICAiIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmZ1biBtYWluKCkgewogICAgU29sMjczKCkubnVtYmVyVG9Xb3JkcygxMjM0NTYpCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGdyb3VwcykK</text>
+        <text encoding="base64">ICAgIHZhbCB3b3JkcyA9IG1hcE9mKAogICAgICAgIDAgdG8gIlplcm8iLAogICAgICAgIDEgdG8gIk9uZSIsCiAgICAgICAgMiB0byAiVHdvIiwKICAgICAgICAzIHRvICJUaHJlZSIsCiAgICAgICAgNCB0byAiRm91ciIsCiAgICAgICAgNSB0byAiRml2ZSIsCiAgICAgICAgNiB0byAiU2l4IiwKICAgICAgICA3IHRvICJTZXZlbiIsCiAgICAgICAgOCB0byAiRWlnaHQiLAogICAgICAgIDkgdG8gIk5pbmUiLAogICAgICAgIDEwIHRvICJUZW4iLAogICAgICAgIDExIHRvICJFbGV2ZW4iLAogICAgICAgIDEyIHRvICJUd2VsdmUiLAogICAgICAgIDEzIHRvICJUaGlydGVlbiIsCiAgICAgICAgMTQgdG8gIkZvdXJ0ZWVuIiwKICAgICAgICAxNSB0byAiRmlmdGVlbiIsCiAgICAgICAgMTYgdG8gIlNpeHRlZW4iLAogICAgICAgIDE3IHRvICJTZXZlbnRlZW4iLAogICAgICAgIDE4IHRvICJFaWdodGVlbiIsCiAgICAgICAgMTkgdG8gIk5pbmV0ZWVuIiwKICAgICAgICAyMCB0byAiVHdlbnR5IiwKICAgICAgICAzMCB0byAiVGhpcnR5IiwKICAgICAgICA0MCB0byAiRm9ydHkiLAogICAgICAgIDUwIHRvICJGaWZ0eSIsCiAgICAgICAgNjAgdG8gIlNpeHR5IiwKICAgICAgICA3MCB0byAiU2V2ZW50eSIsCiAgICAgICAgODAgdG8gIkVpZ2h0eSIsCiAgICAgICAgOTAgdG8gIk5pbmV0eSIsCiAgICAgICAgMTAwIHRvICJIdW5kcmVkIiwKICAgICAgICAxMDAwIHRvICJUaG91c2FuZCIsCiAgICAgICAgMTAwMDAwMCB0byAiTWlsbGlvbiIsCiAgICAgICAgMTAwMDAwMDAwMCB0byAiQmlsbGlvbiIKICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY291bnQgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZ3JvdXBzID0gbnVtLnRvU3RyaW5nKCkucmV2ZXJzZWQoKS53aXRoSW5kZXgoKQogICAgICAgICAgICAuZ3JvdXBCeSB7IGl0LmluZGV4IC8gMyB9CiAgICAgICAgICAgIC5tYXAgeyBpdC52YWx1ZS5tYXAgeyBpdC52YWx1ZSB9LmpvaW5Ub1N0cmluZygiIikucmV2ZXJzZWQoKSB9CiAgICAgICAgICAgIC5yZXZlcnNlZCgpCgogICAgICAgIHJldHVybiAiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdmlzaXQgPSB7IHI6IEludCwgYzogSW50IC0+CiAgICAgICAgICAgIGlmIChyIC0gMSA+PSAwICYmICF2aXNpdGVkW3IgLSAxXVtjXSkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGdyb3VwcykK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2NhY2hlL2MvZw==</text>
