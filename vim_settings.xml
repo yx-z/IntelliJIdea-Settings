@@ -319,12 +319,11 @@
       <file name="$USER_HOME$/YACLS/src/easy/Sol219.kt" timestamp="1563620333239">
         <mark key="[" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/YACLS/src/hard/Sol10.kt" timestamp="1564074016060">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="54" column="39" />
+      <file name="$USER_HOME$/YACLS/src/hard/Sol10.kt" timestamp="1564078516804">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.java" timestamp="1561979119679">
         <mark key="[" line="5" column="3" />
@@ -508,7 +507,7 @@
         <mark key="^" line="24" column="19" />
         <mark key="." line="24" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564068252500">
+      <file name="/Dummy.txt" timestamp="1564078518790">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/0" timestamp="1557328374104">
@@ -592,12 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/BotDaily/src/main.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/BotDaily/src/main.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/BotDaily/src/main.py" />
-      <jump line="12" column="20" filename="$USER_HOME$/BotDaily/src/zhihu_story.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/BotDaily/src/send_gmail.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/BotDaily/src/zhihu_story.py" />
       <jump line="15" column="0" filename="$USER_HOME$/BotDaily/src/main.py" />
       <jump line="1" column="0" filename="$USER_HOME$/BotDaily/src/secrets.py" />
       <jump line="8" column="0" filename="$USER_HOME$/BotDaily/src/wufazhuce.py" />
@@ -692,13 +685,19 @@
       <jump line="29" column="45" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
       <jump line="5" column="3" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
+      <jump line="38" column="36" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
+      <jump line="37" column="8" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
+      <jump line="80" column="0" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
+      <jump line="28" column="15" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
+      <jump line="4" column="0" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
+      <jump line="21" column="0" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>emptyList</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
@@ -710,28 +709,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG5leCA9IGJ1aWxkKGwsIGkgKyAxKQo=</text>
+        <text encoding="base64">ICAgIC8vIG5mYQogICAgZnVuIGlzTWF0Y2hOZmEoczogU3RyaW5nLCBwOiBTdHJpbmcpOiBCb29sZWFuIHsKICAgICAgICB2YWwgbSA9IHMubGVuZ3RoCiAgICAgICAgdmFsIG4gPSBwLmxlbmd0aAogICAgICAgIGlmIChtID09IDAgJiYgbiA9PSAwKSByZXR1cm4gdHJ1ZQogICAgICAgIGlmIChtID4gMCAmJiBuID09IDApIHJldHVybiBmYWxzZQoKICAgICAgICBjbGFzcyBOb2RlKAogICAgICAgICAgICB2YXIgdHJhbnM6IChDaGFyPykgLT4gTGlzdDxOb2RlPiA9IHsgZW1wdHlMaXN0KCkgfSwKICAgICAgICAgICAgdmFyIGFjYzogQm9vbGVhbiA9IGZhbHNlCiAgICAgICAgKQoKICAgICAgICAvLyBidWlsZCBuZmEgYnkgcAogICAgICAgIGZ1biBidWlsZChhOiBTdHJpbmcsIGk6IEludCA9IDApOiBOb2RlIHsKICAgICAgICAgICAgdmFsIG0gPSBhLmxlbmd0aAogICAgICAgICAgICBpZiAoaSA9PSBtIC0gMSkgewogICAgICAgICAgICAgICAgcmV0dXJuIGlmIChhW2ldID09ICcuJykKICAgICAgICAgICAgICAgICAgICBOb2RlKHsgYyAtPiBsaXN0T2YoTm9kZShhY2MgPSBjICE9IG51bGwpKSB9KQogICAgICAgICAgICAgICAgZWxzZSBOb2RlKHsgYyAtPiBsaXN0T2YoTm9kZShhY2MgPSBhW2ldID09IGMpKSB9KQogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChpID09IG0gLSAyICYmIHBbaSArIDFdID09ICcqJykgewogICAgICAgICAgICAgICAgcmV0dXJuIGlmIChhW2ldID09ICcuJykgTm9kZShhY2MgPSB0cnVlKS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgdHJhbnMgPSB7IGxpc3RPZih0aGlzKSB9CiAgICAgICAgICAgICAgICB9IGVsc2UgTm9kZShhY2MgPSB0cnVlKS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgdHJhbnMgPSB7IGMgLT4gbGlzdE9mKGlmIChhW2ldID09IGMpIHRoaXMgZWxzZSB0aGlzKSB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIGlmIChwW2kgKyAxXSA9PSAnKicpIHsKICAgICAgICAgICAgICAgIHZhbCBuZXggPSBidWlsZChhLCBpICsgMikKICAgICAgICAgICAgICAgIGlmIChhW2ldID09ICcuJykgewogICAgICAgICAgICAgICAgICAgIE5vZGUoKS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRyYW5zID0geyBjIC0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoYyAhPSBudWxsKSBsaXN0T2YodGhpcykgKyBuZXgudHJhbnMoYykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgbGlzdE9mKHRoaXMpCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIE5vZGUoKS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRyYW5zID0geyBjIC0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoYVtpXSA9PSBjKSBsaXN0T2YodGhpcykgKyBuZXgudHJhbnMoYykKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgbmV4LnRyYW5zKGMpCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB2YWwgbmV4ID0gYnVpbGQoYSwgaSArIDEpCiAgICAgICAgICAgICAgICBpZiAoYVtpXSA9PSAnLicpCiAgICAgICAgICAgICAgICAgICAgTm9kZSgpLmFwcGx5IHsKICAgICAgICAgICAgICAgICAgICAgICAgdHJhbnMgPSB7IGMgLT4gbGlzdE9mKGlmIChjICE9IG51bGwpIG5leCBlbHNlIHRoaXMpIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBlbHNlIE5vZGUoKS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgdHJhbnMgPSB7IGMgLT4gbGlzdE9mKGlmIChhW2ldID09IGMpIG5leCBlbHNlIHRoaXMpIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgdmFsIHN0YXJ0ID0gYnVpbGQocCkKCiAgICAgICAgLy8gdHJhdiBuZmEgdy8gcwogICAgICAgIHZhciBjdXIgPSBsaXN0T2Yoc3RhcnQpCiAgICAgICAgZm9yIChjIGluIHMpIGN1ciA9IGN1ci5mbGF0TWFwIHsgaXQudHJhbnMoYykgfQogICAgICAgIHJldHVybiBjdXIuYW55IHsgaXQuYWNjIH0gfHwKICAgICAgICAgICAgICAgIGN1ci5mbGF0TWFwIHsgaXQudHJhbnMobnVsbCkgfS5hbnkgeyBpdC5hY2MgfQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBOb2RlKHsgYyAtPgogICAgICAgICAgICAgICAgICAgICAgICBsaXN0T2YoaWYgKGMgPT0gbFtpXSkgZWxzZSApCiAgICAgICAgICAgICAgICAgICAgfSwgdHJ1ZSkK</text>
+        <text encoding="base64">ZnVuIG1haW4oKSB7CiAgICBwcmludGxuKFNvbDEwKCkuaXNNYXRjaE5mYSgiYSIsICIuKi4uYSoiKSkKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBOb2RlKHsKICAgICAgICAgICAgICAgICAgICAgICAgbGlzdE9mKE5vZGUoYWNjID0gdHJ1ZSkuYXBwbHkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJhbnMgPSB7IGxpc3RPZih0aGlzKSB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgfSwgdHJ1ZSkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgY3VyLmZsYXRNYXAgeyBpdC50cmFucyhudWxsKSB9LmFueSB7IGl0LmFjYyB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGlzdE9mKE5vZGUoYWNjID0gdHJ1ZSkpLmFwcGx5IHsgdHJhbnMgPSB7IGxpc3RPZih0aGlzICl9IH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmZ1biBtYWluKCkgewogICAgTm9kZQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgYyAtPiBsaXN0T2YoaWYgKGFbaV0gPT0gYykgbmV4IGVsc2UgUkVKKSB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcyBOb2RlKAogICAgICAgICAgICB2YXIgdHJhbnM6IChDaGFyPykgLT4gTGlzdDxOb2RlPiA9IHsgZW1wdHlMaXN0KCkgfSwKICAgICAgICAgICAgdmFyIGFjYzogQm9vbGVhbiA9IGZhbHNlCiAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21hcC9pZHgvZw==</text>
