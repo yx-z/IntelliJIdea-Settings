@@ -21,10 +21,6 @@
         <mark key="." line="13" column="49" />
         <mark key="^" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/YACLS/src/hard/Sol297.java" timestamp="1563864569160">
-        <mark key="'" line="0" column="3" />
-        <mark key="[" line="7" column="5" />
-      </file>
       <file name="/a.dummy" timestamp="1557954304350">
         <mark key="[" line="0" column="0" />
       </file>
@@ -94,6 +90,12 @@
         <mark key="]" line="10" column="72" />
         <mark key="." line="6" column="46" />
         <mark key="^" line="8" column="11" />
+      </file>
+      <file name="/System/Volumes/Data/Users/Yx-Z/Connectivity/kotlin/src/graph/SuperVertex.kt" timestamp="1564150114126">
+        <mark key="[" line="40" column="61" />
+        <mark key="]" line="40" column="62" />
+        <mark key="^" line="41" column="50" />
+        <mark key="." line="40" column="62" />
       </file>
       <file name="$USER_HOME$/LC/src/198.kt" timestamp="1560154758446">
         <mark key="[" line="4" column="29" />
@@ -311,12 +313,12 @@
       <file name="$USER_HOME$/Konnectivity/src/graph/SuperVertex.kt" timestamp="1561981363776">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/System/Volumes/Data/Users/Yx-Z/Connectivity/kotlin/src/graph/EdgeBatch.kt" timestamp="1564148701879">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="65" column="24" />
-        <mark key="]" line="64" column="27" />
-        <mark key="." line="64" column="27" />
-        <mark key="^" line="64" column="27" />
+      <file name="/System/Volumes/Data/Users/Yx-Z/Connectivity/kotlin/src/graph/EdgeBatch.kt" timestamp="1564150227043">
+        <mark key="'" line="15" column="20" />
+        <mark key="[" line="82" column="23" />
+        <mark key="]" line="82" column="24" />
+        <mark key="." line="82" column="24" />
+        <mark key="^" line="62" column="67" />
       </file>
       <file name="$USER_HOME$/LC/src/median/Sol47.kt" timestamp="1560692321085">
         <mark key="[" line="4" column="52" />
@@ -512,7 +514,7 @@
         <mark key="^" line="24" column="19" />
         <mark key="." line="24" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564148130943">
+      <file name="/Dummy.txt" timestamp="1564149643477">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/0" timestamp="1557328374104">
@@ -596,7 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="48" filename="$USER_HOME$/BotDaily/src/secrets.py" />
       <jump line="3" column="18" filename="$USER_HOME$/BotDaily/src/secrets.py" />
       <jump line="7" column="25" filename="$USER_HOME$/LC/src/20.kt" />
       <jump line="11" column="0" filename="$USER_HOME$/LC/src/88.kt" />
@@ -696,46 +697,47 @@
       <jump line="21" column="35" filename="/System/Volumes/Data/Users/Yx-Z/Connectivity/kotlin/src/graph/EdgeBatch.kt" />
       <jump line="74" column="23" filename="/System/Volumes/Data/Users/Yx-Z/Connectivity/kotlin/src/graph/EdgeBatch.kt" />
       <jump line="77" column="0" filename="/System/Volumes/Data/Users/Yx-Z/Connectivity/kotlin/src/graph/EdgeBatch.kt" />
+      <jump line="15" column="20" filename="/System/Volumes/Data/Users/Yx-Z/Connectivity/kotlin/src/graph/EdgeBatch.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlwLnByZXR0eVByaW50bG4oKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>update</text>
+        <text>// return p[i] = rec_p[q[i]]</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXZhbCBHID0gR3JhcGgoNiwgbGlzdE9mKAoJCQkxIHRvIDIsCgkJCTMgdG8gNSwKCQkJNSB0byA0LAoJCQk0IHRvIDYpCgkpCg==</text>
+        <text encoding="base64">CQl2YXIgcHJldjogVmVjdG9yPFZlcnRleD4/ID0gbnVsbAoJCXdoaWxlIChwICE9IHByZXYpIHsKCQkJcHJldiA9IHAKCQkJcCArPSBBICogcAoJCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlwLnByZXR0eVByaW50bG4oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlBLnByZXR0Cg==</text>
+        <text encoding="base64">CQlwcmludGxuKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCXAucHJldHR5UHJpbnRsbigpCg==</text>
+        <text encoding="base64">Cgl2YXIgcHJldjogVmVjdG9yPFZlcnRleD4/ID0gbnVsbAoJd2hpbGUgKHAgIT0gcHJldikgewoJCXByZXYgPSBwCgkJcCA9IHAuc2hvcnRjdXQoKQoJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCUEucHJldHR5UHJpbnRsbigpCg==</text>
+        <text encoding="base64">CQlwICs9IEEgKiBwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZhbCBHID0gR3JhcGgoOCwgbGlzdE9mKDEgdG8gMiwgMyB0byA0LCA0IHRvIDUsIDUgdG8gNiwgNiB0byA3LCA3IHRvIDgpKQo=</text>
+        <text encoding="base64">CQlwcmludGxuKGJhdGNoKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CQlwLnByZXR0eVByaW50bG4oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlwcmludGxuKHApCg==</text>
+        <text encoding="base64">CS8vIHNob3J0Y3V0IGNvbnZlcmdlbmNlCgl2YXIgcHJldjogVmVjdG9yPFZlcnRleD4/ID0gbnVsbAoJd2hpbGUgKHAgIT0gcHJldikgewoJCXByZXYgPSBwCgkJcCA9IHAuc2hvcnRjdXQoKQoJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIGluIHRoZSBvcmRlciBvZiBlZGdlIGFkZGVkCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIGJhdGNoIAo=</text>
+        <text encoding="base64">CQlBLnByZXR0Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21hcC9pZHgvZw==</text>
