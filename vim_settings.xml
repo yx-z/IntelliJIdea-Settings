@@ -24,6 +24,12 @@
       <file name="/a.dummy" timestamp="1557954304350">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/YACLS/src/median/Sol380.kt" timestamp="1564157154425">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/YACLS/src/hard/Sol145.kt" timestamp="1563608174788">
         <mark key="[" line="22" column="18" />
         <mark key="]" line="20" column="55" />
@@ -398,9 +404,6 @@
         <mark key="." line="21" column="52" />
         <mark key="^" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/YACLS/src/hard/Sol76.kt" timestamp="1563929008962">
-        <mark key="'" line="5" column="0" />
-      </file>
       <file name="/1000" timestamp="1557328374181">
         <mark key="[" line="0" column="0" />
       </file>
@@ -598,7 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="18" filename="$USER_HOME$/BotDaily/src/secrets.py" />
       <jump line="7" column="25" filename="$USER_HOME$/LC/src/20.kt" />
       <jump line="11" column="0" filename="$USER_HOME$/LC/src/88.kt" />
       <jump line="3" column="4" filename="$USER_HOME$/LC/src/104.kt" />
@@ -698,13 +700,14 @@
       <jump line="74" column="23" filename="/System/Volumes/Data/Users/Yx-Z/Connectivity/kotlin/src/graph/EdgeBatch.kt" />
       <jump line="77" column="0" filename="/System/Volumes/Data/Users/Yx-Z/Connectivity/kotlin/src/graph/EdgeBatch.kt" />
       <jump line="15" column="20" filename="/System/Volumes/Data/Users/Yx-Z/Connectivity/kotlin/src/graph/EdgeBatch.kt" />
+      <jump line="25" column="0" filename="$USER_HOME$/YACLS/src/median/Sol380.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlwLnByZXR0eVByaW50bG4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHJhbmQgPSAoMCB1bnRpbCBsaXN0LnNpemUpLnJhbmRvbSgpCiAgICAgICAgICAgIHJldHVybiBsaXN0W3JhbmRdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>// return p[i] = rec_p[q[i]]</text>
+        <text>edHashMap</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
@@ -713,31 +716,31 @@
         <text encoding="base64">CQl2YXIgcHJldjogVmVjdG9yPFZlcnRleD4/ID0gbnVsbAoJCXdoaWxlIChwICE9IHByZXYpIHsKCQkJcHJldiA9IHAKCQkJcCArPSBBICogcAoJCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlwLnByZXR0eVByaW50bG4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHJhbmQgPSAoMCB1bnRpbCBsaXN0LnNpemUpLnJhbmRvbSgpCiAgICAgICAgICAgIHJldHVybiBsaXN0W3JhbmRdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlwcmludGxuKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHYgIWluIG1hcCkgcmV0dXJuIGZhbHNlCiAgICAgICAgICAgIHJldHVybiB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgl2YXIgcHJldjogVmVjdG9yPFZlcnRleD4/ID0gbnVsbAoJd2hpbGUgKHAgIT0gcHJldikgewoJCXByZXYgPSBwCgkJcCA9IHAuc2hvcnRjdXQoKQoJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHYgaW4gbWFwKSByZXR1cm4gZmFsc2UKICAgICAgICAgICAgdmFsIHMgPSBsaXN0LnNpemUKICAgICAgICAgICAgbGlzdC5hZGQodikKICAgICAgICAgICAgbWFwW3ZdID0gcwogICAgICAgICAgICByZXR1cm4gdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlwICs9IEEgKiBwCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWFwID0gTGlua2VkSGFzaE1hcDxJbnQsIEludD4oKSAvLyA8dmFsdWUsIHByZXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlwcmludGxuKGJhdGNoKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbGlzdCA9IExpbmtlZExpc3Q8SW50PigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlwLnByZXR0eVByaW50bG4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdC5yZW1vdmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vIHNob3J0Y3V0IGNvbnZlcmdlbmNlCgl2YXIgcHJldjogVmVjdG9yPFZlcnRleD4/ID0gbnVsbAoJd2hpbGUgKHAgIT0gcHJldikgewoJCXByZXYgPSBwCgkJcCA9IHAuc2hvcnRjdXQoKQoJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGlkeCA9IG1hcC5yZW1vdmUodikhIQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGFzaFNldDxJbnQ+KCkucmVtb3ZlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlBLnByZXR0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwLmVudHIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21hcC9pZHgvZw==</text>
