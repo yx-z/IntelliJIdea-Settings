@@ -447,20 +447,14 @@
         <mark key="." line="8" column="14" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/YACLS/src/median/Sol332.kt" timestamp="1564454842716">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="38" column="41" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="36" column="22" />
-      </file>
       <file name="$USER_HOME$/Konnectivity/src/graph/RecEdgeBatch.kt" timestamp="1563190508548">
         <mark key="[" line="15" column="10" />
       </file>
-      <file name="$USER_HOME$/YACLS/src/hard/Sol410.kt" timestamp="1564454622745">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="7" />
-        <mark key="^" line="8" column="7" />
-        <mark key="." line="8" column="7" />
+      <file name="$USER_HOME$/YACLS/src/hard/Sol410.kt" timestamp="1564457138368">
+        <mark key="[" line="8" column="75" />
+        <mark key="]" line="8" column="72" />
+        <mark key="^" line="8" column="72" />
+        <mark key="." line="8" column="72" />
       </file>
       <file name="$USER_HOME$/YACLS/src/hard/Sol301.kt" timestamp="1563715855202">
         <mark key="[" line="21" column="52" />
@@ -676,12 +670,11 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1564279858049">
+      <file name="/fragment.java" timestamp="1564457011397">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="4" filename="$USER_HOME$/YACLS/src/median/Sol92.kt" />
       <jump line="54" column="77" filename="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" />
       <jump line="51" column="0" filename="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" />
       <jump line="46" column="0" filename="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.kt" />
@@ -781,58 +774,59 @@
       <jump line="14" column="31" filename="$USER_HOME$/YACLS/src/median/Sol127.kt" />
       <jump line="25" column="16" filename="$USER_HOME$/YACLS/src/median/Sol127.kt" />
       <jump line="28" column="27" filename="$USER_HOME$/YACLS/src/median/Sol127.kt" />
+      <jump line="7" column="82" filename="$USER_HOME$/YACLS/src/median/Sol332.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcFtjdXJdISEuYWRkKCJaWlokY2FuIikK</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>can</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>stack</text>
+        <text>[/(/g</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG9wZXJhdG9yIGZ1biBMaXN0PFN0cmluZz4uY29tcG9uZW50MSgpID0gdGhpc1swXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcFtjdXJdISEuYWRkKCJaWlokY2FuIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihjYW4pCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGxuKG1hcCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihtYXBbY2FuXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdE9mKAogICAgICAgICAgICAgICAgbGlzdE9mKCJKRksiLCAiS1VMIiksCiAgICAgICAgICAgICAgICBsaXN0T2YoIkpGSyIsICJOUlQiKSwKICAgICAgICAgICAgICAgIGxpc3RPZigiTlJUIiwgIkpGSyIpCiAgICAgICAgICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4obWFwW2N1cl0pCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcFtjdXJdISEuYWRkKCJaWlokY2FuIikK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKG1hcCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1ci5zdGFydHNXaXRoKCJaWloiKSkgcm91dGUuYWRkKGN1ci5zdWJzdHJpbmcoMykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbihtYXBbY2FuXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4obWFwW2N1cl0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcFtjdXJdISEuYWRkKCJaWlokY2FuIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1hcFtjdXJdISEucG9sbCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1ci5zdGFydHNXaXRoKCJaWloiKSkgcm91dGUuYWRkKGN1ci5zdWJzdHJpbmcoMykpCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3N0YWNrL3Jlcy9n</text>
+        <text encoding="base64">JzwsJz5zL1svKC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>stack</last-search>
-      <last-pattern>stack</last-pattern>
-      <last-replace>res</last-replace>
-      <last-substitute>stack</last-substitute>
+      <last-search>[/(/g</last-search>
+      <last-pattern>[/(/g</last-pattern>
+      <last-replace />
+      <last-substitute>[/(/g</last-substitute>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -854,9 +848,10 @@
         <entry>cur</entry>
         <entry>&quot;</entry>
         <entry>stack</entry>
+        <entry>]</entry>
+        <entry>[/(/g</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2l0L3RoaXMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3RhdS90L2c=</entry>
         <entry encoding="base64">JzwsJz5zL3N0cm9uZy9oMi9n</entry>
         <entry encoding="base64">JzwsJz5zL2gyL2gzL2c=</entry>
@@ -875,6 +870,8 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL3N0YWNrL3Jlcy9n</entry>
+        <entry>s/]/)/g</entry>
+        <entry encoding="base64">JzwsJz5zL1svKC9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
