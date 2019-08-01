@@ -413,10 +413,12 @@
       <file name="$USER_HOME$/YACLS/src/easy/Sol219.kt" timestamp="1563620333239">
         <mark key="[" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/YACLS/src/hard/Sol10.kt" timestamp="1564673362172">
-        <mark key="'" line="5" column="5" />
-        <mark key="[" line="62" column="40" />
-        <mark key="." line="45" column="44" />
+      <file name="$USER_HOME$/YACLS/src/hard/Sol10.kt" timestamp="1564675865234">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="24" column="15" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.java" timestamp="1561979119679">
         <mark key="[" line="5" column="3" />
@@ -749,13 +751,11 @@
         <mark key="^" line="5" column="23" />
         <mark key="." line="5" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1564665819489">
+      <file name="/fragment.java" timestamp="1564674721353">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="35" filename="$USER_HOME$/YACLS/src/median/Sol131.kt" />
-      <jump line="25" column="0" filename="$USER_HOME$/YACLS/src/median/Sol208.kt" />
       <jump line="14" column="33" filename="$USER_HOME$/YACLS/src/median/Sol208.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/YACLS/src/median/Sol208.kt" />
       <jump line="41" column="0" filename="$USER_HOME$/YACLS/src/median/Sol208.kt" />
@@ -813,7 +813,6 @@
       <jump line="80" column="0" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
       <jump line="28" column="15" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
-      <jump line="21" column="0" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
       <jump line="21" column="35" filename="/System/Volumes/Data/Users/Yx-Z/Connectivity/kotlin/src/graph/EdgeBatch.kt" />
       <jump line="74" column="23" filename="/System/Volumes/Data/Users/Yx-Z/Connectivity/kotlin/src/graph/EdgeBatch.kt" />
       <jump line="77" column="0" filename="/System/Volumes/Data/Users/Yx-Z/Connectivity/kotlin/src/graph/EdgeBatch.kt" />
@@ -854,13 +853,16 @@
       <jump line="83" column="50" filename="$USER_HOME$/YACLS/src/hard/Sol85.kt" />
       <jump line="7" column="7" filename="$USER_HOME$/YACLS/src/median/Sol692.kt" />
       <jump line="5" column="5" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
+      <jump line="55" column="14" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
+      <jump line="21" column="0" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
+      <jump line="63" column="0" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWF0Y2hTaW5nbGUgPSB7YzogQ2hhcj8gLT4gaWYgKGMgPT0gcFtpXSkgIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBkcCA9IEFycmF5KHMubGVuZ3RoKSB7IEJvb2xlYW5BcnJheShwLmxlbmd0aCkgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>arrayListOf</text>
@@ -869,31 +871,31 @@
         <text encoding="base64">ICAgIGZ1biBpc01hdGNoKHM6IFN0cmluZywgcDogU3RyaW5nKTogQm9vbGVhbiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbWF0Y2hTaW5nbGUgPSB7YzogQ2hhcj8gLT4gaWYgKGMgPT0gcFtpXSkgIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBkcCA9IEFycmF5KHMubGVuZ3RoKSB7IEJvb2xlYW5BcnJheShwLmxlbmd0aCkgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgRU1QVFkgPSBOb2RlCg==</text>
+        <text encoding="base64">ICAgIGZvciAoaSBpbiAwIHVudGlsIHMubGVuZ3RoKSB7CiAgICAgICAgZm9yIChqIGluIDAgdW50aWwgcC5sZW5ndGgpIHsKICAgICAgICAgICAgZHBbaV1bal0gPSBTb2wxMCgpLmlzTWF0Y2hOZmEocy5zdWJzdHJpbmcoaSksIHAuc3Vic3RyaW5nKGopKQogICAgICAgIH0KICAgIH0KICAgIGRwLmZvckVhY2ggeyBwcmludGxuKEFycmF5cy50b1N0cmluZyhpdCkpIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGN1cikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG0gPSBwLmxlbmd0aAo=</text>
+        <text encoding="base64">ICAgIHZhbCBBID0gTm9kZShhY2MgPSB0cnVlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc3RhcnQgPSBidWlsZChwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1ci5tYXRjaCA9PSApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY3VyID0gbGlzdE9mKGJ1aWxkKHApKQogICAgICAgIGZvciAoYyBpbiBzKSBjdXIgPSBjdXIuZmxhdE1hcCB7IGl0LnRyYW4oYykgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoaSA8IHMubGVuZ3RoKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLnRvU3RyaW5nKCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1cGVyLnRvU3RyaW5nKCkKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2FycmF5TGlzdE9mL2hhc2hTZXRPZg==</text>
