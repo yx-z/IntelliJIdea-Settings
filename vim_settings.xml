@@ -56,11 +56,11 @@
         <mark key="." line="14" column="50" />
         <mark key="^" line="14" column="50" />
       </file>
-      <file name="$USER_HOME$/YACLS/src/median/Sol6.kt" timestamp="1564669021708">
-        <mark key="[" line="5" column="53" />
-        <mark key="]" line="7" column="37" />
-        <mark key="^" line="7" column="37" />
-        <mark key="." line="7" column="37" />
+      <file name="$USER_HOME$/YACLS/src/median/Sol6.kt" timestamp="1564670684812">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
       </file>
       <file name="$USER_HOME$/YACLS/src/median/Sol33.kt" timestamp="1563968607693">
         <mark key="[" line="18" column="5" />
@@ -413,6 +413,11 @@
       <file name="$USER_HOME$/YACLS/src/easy/Sol219.kt" timestamp="1563620333239">
         <mark key="[" line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/YACLS/src/hard/Sol10.kt" timestamp="1564673362172">
+        <mark key="'" line="5" column="5" />
+        <mark key="[" line="62" column="40" />
+        <mark key="." line="45" column="44" />
+      </file>
       <file name="$USER_HOME$/Konnectivity/src/graph/EdgeBatch.java" timestamp="1561979119679">
         <mark key="[" line="5" column="3" />
         <mark key="]" line="7" column="3" />
@@ -639,7 +644,7 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564665691092">
+      <file name="/Dummy.txt" timestamp="1564670195078">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/0" timestamp="1557328374104">
@@ -802,7 +807,6 @@
       <jump line="28" column="4" filename="$USER_HOME$/YACLS/src/hard/Sol336.kt" />
       <jump line="36" column="46" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
       <jump line="29" column="45" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
-      <jump line="5" column="3" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
       <jump line="38" column="36" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
       <jump line="37" column="8" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
@@ -849,46 +853,47 @@
       <jump line="7" column="8" filename="$USER_HOME$/YACLS/src/hard/Sol85.kt" />
       <jump line="83" column="50" filename="$USER_HOME$/YACLS/src/hard/Sol85.kt" />
       <jump line="7" column="7" filename="$USER_HOME$/YACLS/src/median/Sol692.kt" />
+      <jump line="5" column="5" filename="$USER_HOME$/YACLS/src/hard/Sol10.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tcGFyYXRvciB7IChfLCBmMSksIChfLCBmMikgLT4gZjIgLSBmMSB9KQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWF0Y2hTaW5nbGUgPSB7YzogQ2hhcj8gLT4gaWYgKGMgPT0gcFtpXSkgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>arrayListOf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGggPSBoZWlnaHRbc3RhY2sucG9wKCldCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBsZWZ0ID0gaWYgKHN0YWNrLmlzRW1wdHkoKSktMSBlbHNlIHN0YWNrLnBlZWsoKQogICAgICAgICAgICAgICAgICAgICAgICB2YWwgcmlnaHQgPSBwCiAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBhcmVhID0gKHJpZ2h0LWxlZnQtMSkqaAogICAgICAgICAgICAgICAgICAgICAgICBtYXhBcmVhID0gbWF4KG1heEFyZWEsIGFyZWEpCg==</text>
+        <text encoding="base64">ICAgIGZ1biBpc01hdGNoKHM6IFN0cmluZywgcDogU3RyaW5nKTogQm9vbGVhbiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tcGFyYXRvciB7IChfLCBmMSksIChfLCBmMikgLT4gZjIgLSBmMSB9KQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbWF0Y2hTaW5nbGUgPSB7YzogQ2hhcj8gLT4gaWYgKGMgPT0gcFtpXSkgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db21wYXJhdG9yLmNvbXBhcmluZ0ludAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgRU1QVFkgPSBOb2RlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi5jb2xsZWN0aW9ucy5IYXNoTWFwCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGN1cikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBudW1zLmZvckVhY2ggeyBwcS4gfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG0gPSBwLmxlbmd0aAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcG9zID0gbnVtcy5zaXplIC0gMQogICAgICAgIHZhciBjb3VudCA9IDAKICAgICAgICB3aGlsZSAoY291bnQgIT0gMCkgewogICAgICAgICAgICBmb3IgKGkgaW4gMCB1bnRpbCBwb3MpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBjb3VudAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc3RhcnQgPSBidWlsZChwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobnVtcy5zaXplIDw9IDEpIHJldHVybiAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgd2F2ZSA9IDAKICAgICAgICB2YXIgY3VyTWF4ID0gMAogICAgICAgIHZhciBpID0gMAogICAgICAgIHdoaWxlIChpIDw9IGN1ck1heCkgewogICAgICAgICAgICB2YWwgZmFydGhlc3QgPSBjdXJNYXgKICAgICAgICAgICAgCiAgICAgICAgfQogICAgICAgIHJldHVybiAtMQo=</text>
+        <text encoding="base64">ICAgIGZ1Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKGkgPD0gKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoaSA8IHMubGVuZ3RoKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2F2ZSsrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2FycmF5TGlzdE9mL2hhc2hTZXRPZg==</text>
