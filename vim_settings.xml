@@ -38,11 +38,10 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/YACLS/src/easy/Sol716.kt" timestamp="1565151204203">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="7" column="42" />
-        <mark key="." line="7" column="42" />
-        <mark key="^" line="7" column="42" />
+      <file name="$USER_HOME$/YACLS/src/easy/Sol716.kt" timestamp="1565152845095">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/YACLS/src/hard/Sol145.kt" timestamp="1563608174788">
         <mark key="[" line="22" column="18" />
@@ -897,43 +896,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBza2lwID0gSGFzaE1hcDxJbnQsIEJvb2xlYW4+KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>tmp</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>arrayListOf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGhlYWQubmV4dCEhLm5leHQhIS5uZXh0ID0gU29sMjUuTGlzdE5vZGUoNCkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4obWF4U3RhY2sucG9wTWF4KCkgPT0gNCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBza2lwID0gSGFzaE1hcDxJbnQsIEJvb2xlYW4+KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuIG1haW4oKSB7CiAgICB2YWwgaGVhZCA9IFNvbDI1Lkxpc3ROb2RlKDEpCiAgICBoZWFkLm5leHQgPSBTb2wyNS5MaXN0Tm9kZSgyKQogICAgdmFsIHRhaWwgPSBTb2wyNS5MaXN0Tm9kZSgzKQogICAgaGVhZC5uZXh0ISEubmV4dCA9IHRhaWwKICAgIHRhaWwubmV4dCA9IFNvbDI1Lkxpc3ROb2RlKDQpCiAgICB0YWlsLm5leHQhIS5uZXh0ID0gU29sMjUuTGlzdE5vZGUoNSkKCiAgICBwcmludGxuKFNvbDI1KCkucmV2ZXJzZUtHcm91cChoZWFkLCAzKSkKfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeC50b2kK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VyU3RhcnQgPSB0Lm5leHQK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZhbCBtYXhTdGFjayA9IFN0YWNrPEludD4oKS5hcHBseSB7IGFkZChJbnQuTUlOX1ZBTFVFKSB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4obWF4U3RhY2sucG9wTWF4KCkgPT0gNCkKICAgIHByaW50bG4obWF4U3RhY2sucGVla01heCgpID09IDQpCiAgICBwcmludGxuKG1heFN0YWNrLnBlZWtNYXgoKSA9PSAyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVFbmQubmV4dCA9IHRtcAo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4obWF4U3RhY2sucG9wKCkgPT0gMikKICAgIHByaW50bG4obWF4U3RhY2sucG9wKCkgPT0gNCkKICAgIHByaW50bG4obWF4U3RhY2sucG9wTWF4KCkgPT0gMSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY3VyU3RhcnQgPSBjdXJFbmQubmV4dAo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4obWF4U3RhY2sucG9wTWF4KCkgPT0gNCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY3VyU3RhcnQgPSBjdXJFbmQhIS5uZXh0Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4obWF4U3RhY2sucGVla01heCgpID09IDQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcHJlRW5kID0gY3VyRW5kCg==</text>
+        <text encoding="base64">CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcHJlRW5kID0gY3VyRW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2FycmF5TGlzdE9mL2hhc2hTZXRPZg==</text>
