@@ -225,6 +225,13 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/YACLS/src/hard/Sol41.kt" timestamp="1565251520816">
+        <mark key="'" line="4" column="74" />
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="7" column="60" />
+        <mark key="." line="7" column="60" />
+        <mark key="^" line="7" column="60" />
+      </file>
       <file name="$USER_HOME$/YACLS/src/median/Sol309.kt" timestamp="1562649744034">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="1" column="0" />
@@ -671,7 +678,7 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565187904222">
+      <file name="/Dummy.txt" timestamp="1565249576232">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/0" timestamp="1557328374104">
@@ -729,6 +736,11 @@
         <mark key="]" line="17" column="45" />
         <mark key="." line="17" column="49" />
         <mark key="^" line="17" column="45" />
+      </file>
+      <file name="$USER_HOME$/YACLS/src/easy/Sol977.kt" timestamp="1565249551943">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="$USER_HOME$/YACLS/src/hard/Sol84.kt" timestamp="1564659878836">
         <mark key="[" line="20" column="0" />
@@ -795,7 +807,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="13" filename="$USER_HOME$/YACLS/src/median/Sol609.kt" />
       <jump line="27" column="13" filename="$USER_HOME$/YACLS/src/median/Sol609.kt" />
       <jump line="12" column="9" filename="$USER_HOME$/YACLS/src/median/Sol609.kt" />
       <jump line="34" column="4" filename="$USER_HOME$/YACLS/src/median/Sol900.kt" />
@@ -895,13 +906,14 @@
       <jump line="20" column="47" filename="$USER_HOME$/YACLS/src/easy/Sol716.kt" />
       <jump line="59" column="0" filename="$USER_HOME$/YACLS/src/easy/Sol716.kt" />
       <jump line="21" column="47" filename="$USER_HOME$/YACLS/src/easy/Sol716.kt" />
+      <jump line="4" column="74" filename="$USER_HOME$/YACLS/src/hard/Sol41.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKG4gaW4gbnVtcykgaWYgKG51bXMgPiAtKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>using</text>
       </register>
       <register name="/" type="4">
         <text>arrayListOf</text>
@@ -910,31 +922,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHggPj0gbWF4U3RhY2sucGVlaygpKSBtYXhTdGFjay5wdXNoKHgpCiAgICAgICAgICAgIG51bVN0YWNrLnB1c2goeCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKG4gaW4gbnVtcykgaWYgKG51bXMgPiAtKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZ1biBhZGQoeDogSW50KSB7CiAgICAgICAgICAgIGlmICh4ID49IG1heFN0YWNrLnBlZWsoKSkgbWF4U3RhY2sucHVzaCh4KQogICAgICAgICAgICBudW1TdGFjay5wdXNoKHgpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIC8vIExlZXRjb2RlIHJlcXVpcmVzIGNvbnN0YW50IHNwYWNlLCBidXQgbW9zdCBwZW9wbGUgd291bGQgbW9kaWZ5IGlucHV0CiAgICAvLyBhcnJheS4gVGhpcyBpcyBub3QgZGVzaXJhYmxlIGFuZCB0aGUgY29kZSBpcyBub3QgcmVhZGFibGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB4ID0gdG1wLnBvcCgpCiAgICAgICAgICAgICAgICBpZiAoeCA+PSBtYXhTdGFjay5wZWVrKCkpIG1heFN0YWNrLnB1c2goeCkKICAgICAgICAgICAgICAgIG51bVN0YWNrLnB1c2goeCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobiA9PSAwKSByZXR1cm4gMQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHggPj0gbWF4U3RhY2sucGVlaygpKSBtYXhTdGFjay5wdXNoKHgpCiAgICAgICAgICAgIG51bVN0YWNrLnB1c2goeCkKICAgICAgICB9Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ZnVuIHNvcnRlZFNxdWFyZXMoQTogSW50QXJyYXkpOiBJbnRBcnJheSB7CiAgICAgICAgdmFsIG4gPSBBLnNpemUKICAgICAgICBpZiAobiA9PSAwKSB7CiAgICAgICAgICAgIHJldHVybiBBCiAgICAgICAgfQogICAgICAgIHZhbCByZXMgPSBJbnRBcnJheShuKQogICAgICAgIHZhciBub25uZWcgPSBBLmluZGV4T2ZGaXJzdCB7IGl0ID49IDAgfQogICAgICAgIGlmIChub25uZWcgPT0gLTEpIHsKICAgICAgICAgICAgZm9yIChpIGluIEEuaW5kaWNlcykgewogICAgICAgICAgICAgICAgcmVzW24gLSBpIC0gMV0gPSBBW2ldICogQVtpXQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiByZXMKICAgICAgICB9CiAgICAgICAgdmFyIG5lZyA9IG5vbm5lZyAtIDEKICAgICAgICB2YXIgaSA9IDAKICAgICAgICB3aGlsZSAobm9ubmVnIDwgbiAmJiBuZWcgPj0gMCkgewogICAgICAgICAgICB2YWwgbmVnU3F1YXJlZCA9IEFbbmVnXSAqIEFbbmVnXQogICAgICAgICAgICB2YWwgbm9ubmVnU3F1YXJlZCA9IEFbbm9ubmVnXSAqIEFbbm9ubmVnXQogICAgICAgICAgICBpZiAobmVnU3F1YXJlZCA8IG5vbm5lZ1NxdWFyZWQpIHsKICAgICAgICAgICAgICAgIHJlc1tpXSA9IG5lZ1NxdWFyZWQKICAgICAgICAgICAgICAgIG5lZy0tCiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXNbaV0gPSBub25uZWdTcXVhcmVkCiAgICAgICAgICAgICAgICBub25uZWcrKwogICAgICAgICAgICB9CiAgICAgICAgICAgIGkrKwogICAgICAgIH0KICAgICAgICBpZiAobmVnIDwgMCkgewogICAgICAgICAgICAvLyByZW1haW5zIG5vbm5lZwogICAgICAgICAgICB3aGlsZSAobm9ubmVnIDwgbikgewogICAgICAgICAgICAgICAgcmVzW2ldID0gQVtub25uZWddICogQVtub25uZWddCiAgICAgICAgICAgICAgICBub25uZWcrKwogICAgICAgICAgICAgICAgaSsrCiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyByZW1haW5zIG5lZwogICAgICAgICAgICB3aGlsZSAobmVnID49IDApIHsKICAgICAgICAgICAgICAgIHJlc1tpXSA9IEFbbmVnXSAqIEFbbmVnXQogICAgICAgICAgICAgICAgbmVnLS0KICAgICAgICAgICAgICAgIGkrKwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiByZXMKICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBBWzBdIDwgMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB4ID0gdG1wLnBvcCgpCiAgICAgICAgICAgICAgICBpZiAoeCA+PSBtYXhTdGFjay5wZWVrKCkpIG1heFN0YWNrLnB1c2goeCkKICAgICAgICAgICAgICAgIG51bVN0YWNrLnB1c2goeCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobiA8PSAxIHx8IEFbMF0gPj0gMCkgcmV0dXJuIEEK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAobmVnID49IDApIHsKICAgICAgICAgICAgcmVzW2ldID0gQVtuZWddICogQVtuZWddCiAgICAgICAgICAgIG5lZy0tCiAgICAgICAgICAgIGkrKwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2FycmF5TGlzdE9mL2hhc2hTZXRPZg==</text>
