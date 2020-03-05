@@ -4,11 +4,11 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="len" type="PLAIN_TEXT" />
+      <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="keystream" type="PLAIN_TEXT" />
       <mapping ext="yidf" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
