@@ -1,6 +1,58 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>&quot;</entry>
+        <entry>[/charArrayOf(/g</entry>
+        <entry>[/charArrayOf\(/g</entry>
+        <entry>\]</entry>
+        <entry>arrayListOf</entry>
+        <entry>nums</entry>
+        <entry>label</entry>
+        <entry>button</entry>
+        <entry>Sol339</entry>
+        <entry>[/listOf(/g</entry>
+        <entry>\[</entry>
+        <entry>-1k.</entry>
+        <entry encoding="base64">XDxwYWNrYWdlXD4=</entry>
+        <entry>arr</entry>
+        <entry>\&quot;</entry>
+        <entry>]</entry>
+        <entry>int</entry>
+        <entry>language</entry>
+        <entry>LANGUAGE</entry>
+        <entry>val</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
+        <entry encoding="base64">JzwsJz5zL1svY2hhckFycmF5T2YoL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1svY2hhckFycmF5T2ZcKC9n</entry>
+        <entry encoding="base64">JzwsJz5zL1xbL2NoYXJBcnJheU9mXCgvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL1xdL1wpL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2FycmF5TGlzdE9mL2hhc2hTZXRPZg==</entry>
+        <entry encoding="base64">JzwsJz5zL251bXMvdGhpcy9n</entry>
+        <entry encoding="base64">JzwsJz5zL2xhYmVsL2J1dHRvbi9n</entry>
+        <entry encoding="base64">JzwsJz5zL2J1dHRvbi9idG5nLw==</entry>
+        <entry encoding="base64">JzwsJz5zL1NvbDMzOS8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL1svbGlzdE9mKC9n</entry>
+        <entry encoding="base64">JzwsJz5zL1xbL2xpc3RPZlwoL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2Fyci9scy9n</entry>
+        <entry encoding="base64">JzwsJz5zL1wiLycvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL10vXS5nZXRXaW5uZXIoKS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2ludC92YXIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2xhbmd1YWdlL0xBTkdVQUdFL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL0xBTkdVQUdFL2xhbmd1YWdl</entry>
+        <entry>noh</entry>
+        <entry encoding="base64">JzwsJz5zL3ZhbC92YXIvZw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
@@ -24,7 +76,270 @@
         <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/EE/gradle.properties" timestamp="1586727948225" />
+      <file name="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" timestamp="1578776486734">
+        <mark key="'" line="61" column="17" />
+        <mark key="[" line="56" column="28" />
+        <mark key="]" line="56" column="36" />
+        <mark key="." line="56" column="36" />
+        <mark key="^" line="56" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/EE/build.gradle.kts" timestamp="1586728054170">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="38" />
+        <mark key="^" line="13" column="38" />
+        <mark key="." line="13" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/ColorSwitch/src/jvmMain/kotlin/Main.kt" timestamp="1577723646323">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Test/src/Main.kt" timestamp="1581289223064">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ColorSwitch/build.gradle" timestamp="1577724050939">
+        <mark key="[" line="48" column="52" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/color_switch/src/react-player.kt" timestamp="1577675788623">
+        <mark key="[" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/Documents/EE/src/main/kotlin/Main.kt" timestamp="1586728242822">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="14" />
+        <mark key="." line="10" column="14" />
+      </file>
+      <file name="/Dummy.kt" timestamp="1578760852861">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ColorSwitch/src/main/kotlin/Main.kt" timestamp="1577679599246">
+        <mark key="'" line="13" column="37" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="33" column="98" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ColorSwitch/src/commonMain/kotlin/Game.kt" timestamp="1577723277729">
+        <mark key="'" line="7" column="39" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="35" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/color_switch/src/Main.kt" timestamp="1577675448098">
+        <mark key="." line="0" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/ColorSwitch/build.gradle.kts" timestamp="1577676372336">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="56" />
+        <mark key="." line="0" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/ColorSwitch/src/jvmMain/kotlin/ColorSwitchFx.kt" timestamp="1577723927812">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+      </file>
+      <file name="/Dummy.java" timestamp="1578760071717">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/color_switch/src/VideoPlayer.kt" timestamp="1577675760975">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ColorSwitch/src/main/kotlin/Game.kt" timestamp="1577678993191">
+        <mark key="[" line="0" column="58" />
+        <mark key="]" line="0" column="67" />
+        <mark key="." line="0" column="67" />
+        <mark key="^" line="0" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/ColorSwitch/src/main/kotlin/Util.kt" timestamp="1577679057325">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="8" column="56" />
+        <mark key="^" line="8" column="56" />
+        <mark key="." line="8" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/ColorSwitch/index.html" timestamp="1577676946700">
+        <mark key="[" line="9" column="52" />
+        <mark key="]" line="9" column="74" />
+        <mark key="^" line="8" column="74" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1577668113214">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/YALCS/src/hard/Sol1192.kt" />
+      <jump line="18" column="25" filename="$USER_HOME$/Documents/YALCS/src/Knight.java" />
+      <jump line="16" column="6" filename="$USER_HOME$/Documents/YALCS/src/Knight.java" />
+      <jump line="69" column="36" filename="$USER_HOME$/Documents/YALCS/src/Knight.java" />
+      <jump line="107" column="42" filename="$USER_HOME$/Documents/YALCS/src/Knight.java" />
+      <jump line="5" column="93" filename="$USER_HOME$/Documents/YALCS/src/OrderBook.java" />
+      <jump line="35" column="4" filename="$USER_HOME$/Documents/YALCS/src/OrderBook.java" />
+      <jump line="129" column="4" filename="$USER_HOME$/Documents/YALCS/src/Knight.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/YALCS/src/median/Sol1146.kt" />
+      <jump line="5" column="62" filename="$USER_HOME$/Documents/YALCS/src/median/Sol809.kt" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/YALCS/src/google/TallestHill.java" />
+      <jump line="13" column="45" filename="$USER_HOME$/Documents/YALCS/src/google/ConstrainedSort.java" />
+      <jump line="9" column="21" filename="$USER_HOME$/Documents/YALCS/src/google/ConstrainedSort.java" />
+      <jump line="36" column="4" filename="$USER_HOME$/Documents/YALCS/src/median/Sol695.kt" />
+      <jump line="12" column="15" filename="$USER_HOME$/Documents/YALCS/src/google/ConstrainedSort.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/YALCS/src/google/Sort.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/Documents/YALCS/src/google/Maze.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/Documents/YALCS/src/google/Maze.java" />
+      <jump line="70" column="12" filename="$USER_HOME$/Documents/YALCS/src/google/Maze.java" />
+      <jump line="15" column="37" filename="$USER_HOME$/Documents/YALCS/src/google/Splitwise.java" />
+      <jump line="9" column="3" filename="$USER_HOME$/Documents/YALCS/src/google/FormStr.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/YALCS/src/google/FormStr.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/Cornedule/src/frontend/index.html" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/NameFight/pom.xml" />
+      <jump line="10" column="4" filename="$USER_HOME$/Documents/NameFight/src/main/java/Main.kt" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/java/Main.kt" />
+      <jump line="1" column="9" filename="$USER_HOME$/Documents/NameFight/src/Main.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/NameFight/src/Main.kt" />
+      <jump line="8" column="30" filename="$USER_HOME$/Documents/NameFight/src/Main.kt" />
+      <jump line="143" column="0" filename="$USER_HOME$/Documents/NameFight/src/Main.kt" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/NameFight/index.html" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/NameFight/src/Main.kt" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/NameFight/src/Game.kt" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/NameFight/src/Game.kt" />
+      <jump line="92" column="0" filename="$USER_HOME$/Documents/NameFight/src/HTMLBuilder.kt" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/NameFight/src/HTMLBuilder.kt" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="27" column="38" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Main.kt" />
+      <jump line="10" column="19" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Main.kt" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Util.kt" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Main.kt" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Main.kt" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Main.kt" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Main.kt" />
+      <jump line="35" column="39" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Main.kt" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Main.kt" />
+      <jump line="30" column="9" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Fight.kt" />
+      <jump line="28" column="12" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Fight.kt" />
+      <jump line="14" column="28" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="16" column="5" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="13" column="5" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="77" column="25" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Main.kt" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Main.kt" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Main.kt" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Main.kt" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Main.kt" />
+      <jump line="122" column="24" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Main.kt" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Util.kt" />
+      <jump line="25" column="38" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Main.kt" />
+      <jump line="67" column="38" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Main.kt" />
+      <jump line="2" column="19" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="3" column="19" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="6" column="35" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="9" column="34" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="38" column="9" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Language.kt" />
+      <jump line="40" column="25" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Fight.kt" />
+      <jump line="14" column="6" filename="$USER_HOME$/Documents/NameFight/src/main/kotlin/Fight.kt" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/color_switch/src/Main.kt" />
+      <jump line="36" column="8" filename="$USER_HOME$/Documents/color_switch/src/Main.kt" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/color_switch/src/VideoList.kt" />
+      <jump line="12" column="37" filename="$USER_HOME$/Documents/ColorSwitch/src/main/kotlin/Main.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/ColorSwitch/src/main/kotlin/Util.kt" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/ColorSwitch/src/commonMain/kotlin/Game.kt" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/ColorSwitch/src/commonMain/kotlin/Game.kt" />
+      <jump line="59" column="29" filename="$USER_HOME$/Documents/ColorSwitch/src/commonMain/kotlin/Game.kt" />
+      <jump line="7" column="39" filename="$USER_HOME$/Documents/ColorSwitch/src/commonMain/kotlin/Game.kt" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" />
+      <jump line="30" column="3" filename="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" />
+      <jump line="6" column="3" filename="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" />
+      <jump line="11" column="21" filename="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" />
+      <jump line="16" column="26" filename="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" />
+      <jump line="57" column="88" filename="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" />
+      <jump line="15" column="42" filename="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" />
+      <jump line="61" column="17" filename="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>r</text>
+      </register>
+      <register name="-" type="4">
+        <text>r</text>
+      </register>
+      <register name="/" type="4">
+        <text>val</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCBwbGF5ZXIxID0gKDEuLjUpLm1hcCB7IFBpZWNlKFBsYXllci5QTEFZRVJfMSwgaXQpIH0K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZhbCBwYXRoID0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhciBtZXNzYWdlczogQXJyYXk8amF2YXgubWFpbC5NZXNzYWdlPz4gPSBhcnJheU9mTnVsbHM8amF2YXgubWFpbC5NZXNzYWdlPigwKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBtZXNzYWdlcwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xhc3MgTUJveEZpbGVSZWFkZXIocHJpdmF0ZSB2YWwgcGF0aDogUGF0aCkgewoKICAgIGZ1biByZWFkTWVzc2FnZXMoKTogQXJyYXk8amF2YXgubWFpbC5NZXNzYWdlPz4gewogICAgfQp9</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgbWVzc2FnZXM6IEFycmF5PGphdmF4Lm1haWwuTWVzc2FnZT8+ID0gYXJyYXlPZk51bGxzPGphdmF4Lm1haWwuTWVzc2FnZT4oMCkKICAgICAgICB2YWwgc2VydmVyID0gVVJMTmFtZSgibWJveDokcGF0aCIpCiAgICAgICAgdmFsIHByb3BzID0gUHJvcGVydGllcygpCiAgICAgICAgcHJvcHMuc2V0UHJvcGVydHkoIm1haWwubWltZS5hZGRyZXNzLnN0cmljdCIsICJmYWxzZSIpCiAgICAgICAgdmFsIHNlc3Npb246IGphdmF4Lm1haWwuU2Vzc2lvbiA9IGphdmF4Lm1haWwuU2Vzc2lvbi5nZXREZWZhdWx0SW5zdGFuY2UocHJvcHMpCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgdmFsIGZvbGRlcjogRm9sZGVyID0gc2Vzc2lvbi5nZXRGb2xkZXIoc2VydmVyKQogICAgICAgICAgICBmb2xkZXIub3BlbihGb2xkZXIuUkVBRF9PTkxZKQogICAgICAgICAgICBtZXNzYWdlcyA9IGZvbGRlci5nZXRNZXNzYWdlcygpCiAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG1lc3NhZ2VzCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL3ZhbC92YXIvZw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>val</last-search>
+      <last-offset />
+      <last-pattern>val</last-pattern>
+      <last-replace>var</last-replace>
+      <last-substitute>val</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
