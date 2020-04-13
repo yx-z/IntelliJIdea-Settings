@@ -80,7 +80,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/EE/gradle.properties" timestamp="1586727948225" />
       <file name="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" timestamp="1578776486734">
         <mark key="'" line="61" column="17" />
         <mark key="[" line="56" column="28" />
@@ -110,10 +109,21 @@
       <file name="$USER_HOME$/Documents/color_switch/src/react-player.kt" timestamp="1577675788623">
         <mark key="[" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/EE/src/main/kotlin/Main.kt" timestamp="1586728242822">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="14" />
-        <mark key="." line="10" column="14" />
+      <file name="$USER_HOME$/Desktop/test/build.gradle" timestamp="1586788147700">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/test/build.gradle.kts" timestamp="1586788134626">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/EE/src/main/kotlin/Main.kt" timestamp="1586730422222">
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="8" column="38" />
+        <mark key="." line="8" column="38" />
       </file>
       <file name="/Dummy.kt" timestamp="1578760852861">
         <mark key="[" line="0" column="0" />
@@ -131,9 +141,6 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="35" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/color_switch/src/Main.kt" timestamp="1577675448098">
-        <mark key="." line="0" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/ColorSwitch/build.gradle.kts" timestamp="1577676372336">
         <mark key="[" line="13" column="0" />
@@ -174,12 +181,8 @@
         <mark key="^" line="8" column="74" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1577668113214">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/YALCS/src/hard/Sol1192.kt" />
       <jump line="18" column="25" filename="$USER_HOME$/Documents/YALCS/src/Knight.java" />
       <jump line="16" column="6" filename="$USER_HOME$/Documents/YALCS/src/Knight.java" />
       <jump line="69" column="36" filename="$USER_HOME$/Documents/YALCS/src/Knight.java" />
@@ -279,15 +282,16 @@
       <jump line="15" column="42" filename="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" />
       <jump line="61" column="17" filename="$USER_HOME$/Documents/GobbletGobblers/src/main/kotlin/Game.kt" />
+      <jump line="6" column="0" filename="$USER_HOME$/Desktop/test/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoKICogVGhpcyBmaWxlIHdhcyBnZW5lcmF0ZWQgYnkgdGhlIEdyYWRsZSAnaW5pdCcgdGFzay4KICoKICogVGhpcyBpcyBhIGdlbmVyYWwgcHVycG9zZSBHcmFkbGUgYnVpbGQuCiAqIExlYXJuIGhvdyB0byBjcmVhdGUgR3JhZGxlIGJ1aWxkcyBhdCBodHRwczovL2d1aWRlcy5ncmFkbGUub3JnL2NyZWF0aW5nLW5ldy1ncmFkbGUtYnVpbGRzCiAqLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>val</text>
@@ -296,31 +300,31 @@
         <text encoding="base64">ICAgIHZhbCBwbGF5ZXIxID0gKDEuLjUpLm1hcCB7IFBpZWNlKFBsYXllci5QTEFZRVJfMSwgaXQpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXRoID0K</text>
+        <text encoding="base64">LyoKICogVGhpcyBmaWxlIHdhcyBnZW5lcmF0ZWQgYnkgdGhlIEdyYWRsZSAnaW5pdCcgdGFzay4KICoKICogVGhpcyBpcyBhIGdlbmVyYWwgcHVycG9zZSBHcmFkbGUgYnVpbGQuCiAqIExlYXJuIGhvdyB0byBjcmVhdGUgR3JhZGxlIGJ1aWxkcyBhdCBodHRwczovL2d1aWRlcy5ncmFkbGUub3JnL2NyZWF0aW5nLW5ldy1ncmFkbGUtYnVpbGRzCiAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBtZXNzYWdlczogQXJyYXk8amF2YXgubWFpbC5NZXNzYWdlPz4gPSBhcnJheU9mTnVsbHM8amF2YXgubWFpbC5NZXNzYWdlPigwKQo=</text>
+        <text encoding="base64">CmFwcGx5IHBsdWdpbjogJ2phdmEnCmFwcGx5IHBsdWdpbjogJ2FwcGxpY2F0aW9uJwoKbWFpbkNsYXNzTmFtZSA9ICdHbWFpbFF1aWNrc3RhcnQnCnNvdXJjZUNvbXBhdGliaWxpdHkgPSAxLjgKdGFyZ2V0Q29tcGF0aWJpbGl0eSA9IDEuOAp2ZXJzaW9uID0gJzEuMCcKCnJlcG9zaXRvcmllcyB7CgltYXZlbkNlbnRyYWwoKQp9CgpkZXBlbmRlbmNpZXMgewoJY29tcGlsZSgiY29tLmdvb2dsZS5hcGktY2xpZW50Omdvb2dsZS1hcGktY2xpZW50OjEuMjMuMCIpCgljb21waWxlICdjb20uZ29vZ2xlLm9hdXRoLWNsaWVudDpnb29nbGUtb2F1dGgtY2xpZW50LWpldHR5OjEuMjMuMCcKCWNvbXBpbGUgJ2NvbS5nb29nbGUuYXBpczpnb29nbGUtYXBpLXNlcnZpY2VzLWdtYWlsOnYxLXJldjgzLTEuMjMuMCcKfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzZXJ2ZXIgPSBVUkxOYW1lKCJtYm94OmluYm94Lm1ib3giKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBzZXJ2ZXIgPSBVUkxOYW1lKCJtYm94OmluYm94Lm1ib3giKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtZXNzYWdlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzZXJ2ZXIgPSBVUkxOYW1lKCJtYm94OmluYm94Lm1ib3giKQogICAgdmFsIHByb3BzID0gUHJvcGVydGllcygpCiAgICBwcm9wcy5zZXRQcm9wZXJ0eSgibWFpbC5taW1lLmFkZHJlc3Muc3RyaWN0IiwgImZhbHNlIikKICAgIHZhbCBzZXNzaW9uOiBqYXZheC5tYWlsLlNlc3Npb24gPSBqYXZheC5tYWlsLlNlc3Npb24uZ2V0RGVmYXVsdEluc3RhbmNlKHByb3BzKQogICAgdmFsIGZvbGRlciA9IHNlc3Npb24uZ2V0Rm9sZGVyKHNlcnZlcikKICAgIGZvbGRlci5vcGVuKEZvbGRlci5SRUFEX09OTFkpCiAgICB2YWwgbWVzc2FnZXMgPSBmb2xkZXIubWVzc2FnZXMKICAgIHByaW50bG4obWVzc2FnZXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgTUJveEZpbGVSZWFkZXIocHJpdmF0ZSB2YWwgcGF0aDogUGF0aCkgewoKICAgIGZ1biByZWFkTWVzc2FnZXMoKTogQXJyYXk8amF2YXgubWFpbC5NZXNzYWdlPz4gewogICAgfQp9</text>
+        <text encoding="base64">ICAgIHZhbCBwYXRoID0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbWVzc2FnZXM6IEFycmF5PGphdmF4Lm1haWwuTWVzc2FnZT8+ID0gYXJyYXlPZk51bGxzPGphdmF4Lm1haWwuTWVzc2FnZT4oMCkKICAgICAgICB2YWwgc2VydmVyID0gVVJMTmFtZSgibWJveDokcGF0aCIpCiAgICAgICAgdmFsIHByb3BzID0gUHJvcGVydGllcygpCiAgICAgICAgcHJvcHMuc2V0UHJvcGVydHkoIm1haWwubWltZS5hZGRyZXNzLnN0cmljdCIsICJmYWxzZSIpCiAgICAgICAgdmFsIHNlc3Npb246IGphdmF4Lm1haWwuU2Vzc2lvbiA9IGphdmF4Lm1haWwuU2Vzc2lvbi5nZXREZWZhdWx0SW5zdGFuY2UocHJvcHMpCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgdmFsIGZvbGRlcjogRm9sZGVyID0gc2Vzc2lvbi5nZXRGb2xkZXIoc2VydmVyKQogICAgICAgICAgICBmb2xkZXIub3BlbihGb2xkZXIuUkVBRF9PTkxZKQogICAgICAgICAgICBtZXNzYWdlcyA9IGZvbGRlci5nZXRNZXNzYWdlcygpCiAgICAgICAgfSBjYXRjaCAoZTogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCkKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG1lc3NhZ2VzCg==</text>
+        <text encoding="base64">ICAgIHZhciBtZXNzYWdlczogQXJyYXk8amF2YXgubWFpbC5NZXNzYWdlPz4gPSBhcnJheU9mTnVsbHM8amF2YXgubWFpbC5NZXNzYWdlPigwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3ZhbC92YXIvZw==</text>
@@ -335,7 +339,7 @@
       <last-replace>var</last-replace>
       <last-substitute>val</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
