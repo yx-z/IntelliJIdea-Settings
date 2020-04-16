@@ -57,7 +57,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586817278638">
+      <file name="/Dummy.txt" timestamp="1586995452090">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -96,8 +96,8 @@
         <mark key="^" line="131" column="3" />
         <mark key="." line="131" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1586816256434">
-        <mark key="[" line="0" column="12" />
+      <file name="/a.dummy" timestamp="1586994991469">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/BD/Yun/export/experiment.py" timestamp="1586734089334">
         <mark key="'" line="5" column="0" />
@@ -106,8 +106,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/BD/Yun/export/export_html.py" timestamp="1586831206065">
-        <mark key="[" line="13" column="24" />
+      <file name="$USER_HOME$/Documents/BD/Yun/export/export_html.py" timestamp="1586997770513">
+        <mark key="'" line="141" column="40" />
+        <mark key="[" line="125" column="52" />
+        <mark key="]" line="130" column="43" />
+        <mark key="." line="130" column="42" />
+        <mark key="^" line="130" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/CV/4/student.py" timestamp="1586904813023">
         <mark key="[" line="154" column="63" />
@@ -160,9 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/BotDaily/src/wufazhuce.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/BotDaily/src/wufazhuce.py" />
-      <jump line="13" column="29" filename="$USER_HOME$/Documents/BotDaily/src/config_sample.py" />
       <jump line="78" column="24" filename="$USER_HOME$/Documents/BotDaily/src/main.py" />
       <jump line="20" column="71" filename="$USER_HOME$/Documents/BotDaily/src/huangli.py" />
       <jump line="27" column="7" filename="$USER_HOME$/Documents/BotDaily/src/main.py" />
@@ -260,48 +261,51 @@
       <jump line="39" column="24" filename="$USER_HOME$/Documents/BD/Yun/export/export_html.py" />
       <jump line="99" column="10" filename="$USER_HOME$/Documents/BD/Yun/export/export_html.py" />
       <jump line="507" column="0" filename="$USER_HOME$/Documents/CV/4/tests.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/BD/Yun/export/export_html.py" />
+      <jump line="92" column="36" filename="$USER_HOME$/Documents/BD/Yun/export/export_html.py" />
+      <jump line="141" column="40" filename="$USER_HOME$/Documents/BD/Yun/export/export_html.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMRU5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZiJQQVRDSF9TSEFQRSB7cGF0Y2guc2hhcGV9IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF2aWRzW2RhdGVdLnNvcnQoa2V5PWxhbWJkYSB0OiB0WzJdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJhaXNlZAo=</text>
+        <text encoding="base64">ICAgIGlmIG9zLnBhdGguZXhpc3RzKEFUVEFDSF9ESVIpOgogICAgICAgIHNodXRpbC5ybXRyZWUoQVRUQUNIX0RJUikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoIjxicj4iKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGYud3JpdGUoIjxicj4iKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0ID0gY2VudGVyZWQuZmxhdHRlbihvcmRlcj0iIikK</text>
+        <text encoding="base64">ICAgIGRhdGVfc29ydGVkID0gc29ydGVkKGxpc3QoZGF0ZXMpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaSA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZXhhY3RfZGF0ZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGNvbG9yIGluIHJhbmdlKE5VTV9DT0xPUlMpOgo=</text>
+        <text encoding="base64">aW1wb3J0IGVtYWlsLnV0aWxzCmltcG9ydCBlbWFpbC5wYXJzZXIKaW1wb3J0IGVtYWlsLnBvbGljeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQob3V0LnNoYXBlLCBwYXRjaC5mbGF0dGVuKCkuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaSA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0Y2ggPSBvdXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobXNnWyJEYXRlIl0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
