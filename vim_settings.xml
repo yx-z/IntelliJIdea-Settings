@@ -30,7 +30,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587048817447">
+      <file name="/Dummy.txt" timestamp="1587065398418">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -62,21 +62,20 @@
         <mark key="^" line="237" column="21" />
         <mark key="." line="237" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/BD/.gitignore" timestamp="1587051231459">
-        <mark key="[" line="139" column="6" />
-        <mark key="]" line="140" column="6" />
-        <mark key="^" line="140" column="6" />
-        <mark key="." line="140" column="5" />
+      <file name="$USER_HOME$/Documents/BD/.gitignore" timestamp="1587065396612">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1587050641640">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/BD/Yun/export/main.py" timestamp="1587064727956">
-        <mark key="'" line="167" column="49" />
-        <mark key="[" line="132" column="44" />
-        <mark key="]" line="149" column="0" />
-        <mark key="^" line="132" column="29" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/Documents/BD/Yun/export/main.py" timestamp="1587065511627">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="133" column="55" />
+        <mark key="]" line="133" column="38" />
+        <mark key="^" line="133" column="38" />
+        <mark key="." line="132" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/BD/Yun/export/export_html.py" timestamp="1587050423927">
         <mark key="'" line="19" column="15" />
@@ -141,12 +140,14 @@
       <jump line="20" column="18" filename="$USER_HOME$/Documents/BD/Yun/export/export_html.py" />
       <jump line="19" column="15" filename="$USER_HOME$/Documents/BD/Yun/export/export_html.py" />
       <jump line="164" column="49" filename="$USER_HOME$/Documents/BD/Yun/export/main.py" />
+      <jump line="132" column="59" filename="$USER_HOME$/Documents/BD/Yun/export/main.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/BD/Yun/export/main.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmLndyaXRlKCI8L2Rpdj4iKQo=</text>
+        <text encoding="base64">dW4vaGVhZGVyLnBuZwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -158,31 +159,31 @@
         <text encoding="base64">ICAgIGlmIG9zLnBhdGguZXhpc3RzKE9VVF9ESVIpOgogICAgICAgIHNodXRpbC5ybXRyZWUoT1VUX0RJUikKICAgIG9zLm1ha2VkaXJzKGYie09VVF9ESVJ9e0FUVEFDSF9ESVJ9IiwgZXhpc3Rfb2s9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmLndyaXRlKCI8L2Rpdj4iKQo=</text>
+        <text encoding="base64">dW4vaGVhZGVyLnBuZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmLndyaXRlKCI8ZGl2IHN0eWxlPVwiZm9udC1mYW1pbHk6J+Wui+S9kycgIWltcG9ydGFudFwiPiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBmLndyaXRlKCI8L2Rpdj4iKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXAuYXBwZW5kKGltZykK</text>
+        <text encoding="base64">ICAgICAgICBmLndyaXRlKCI8ZGl2IHN0eWxlPVwiZm9udC1mYW1pbHk6J+Wui+S9kycgIWltcG9ydGFudFwiPiIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyID0gc291cC5uZXdfdGFnKCJiciIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXAuYXBwZW5kKGltZykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpcnN0X3NlZSA9IEZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyID0gc291cC5uZXdfdGFnKCJiciIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpcnN0X3NlZSA9IEZhbHNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHVzZXJfaWQ6IHN0ciA9IE5vbmUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aCA9IGYie09VVF9ESVJ9e2RhdGVfdG9fdHIoZGF0ZSl9Lmh0bWwiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHVzZXJfaWQ6IHN0ciA9IE5vbmUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNodXRpbC5ybXRyZWUoT1VUX0RJUikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aCA9IGYie09VVF9ESVJ9e2RhdGVfdG9fdHIoZGF0ZSl9Lmh0bWwiCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohlsearch</text>
