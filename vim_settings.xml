@@ -44,7 +44,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587328575226">
+      <file name="/Dummy.txt" timestamp="1587341991801">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/DS/3/yz2578/Worker.cpp" timestamp="1586120822384">
@@ -57,11 +57,12 @@
       <file name="/a.dummy" timestamp="1587328702225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/BD/Yun/export/main.py" timestamp="1587340157918">
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
-        <mark key="^" line="172" column="16" />
+      <file name="$USER_HOME$/Documents/BD/Yun/export/main.py" timestamp="1587341739934">
+        <mark key="'" line="170" column="0" />
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/DS/3/mapreduce.cpp" timestamp="1586631038972">
         <mark key="'" line="255" column="0" />
@@ -177,15 +178,16 @@
       <jump line="245" column="0" filename="$USER_HOME$/Documents/DS/3/mapreduce.cpp" />
       <jump line="327669" column="9" filename="$USER_HOME$/Documents/DS/3/example_numbers/outputdir/output.txt" />
       <jump line="91" column="2" filename="$USER_HOME$/Documents/DS/3/mapreduce.hpp" />
+      <jump line="170" column="0" filename="$USER_HOME$/Documents/BD/Yun/export/main.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9udGggPSBkYXRlLm1vbnRoCg==</text>
+      <register name="&quot;" type="4">
+        <text>inbox</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>inbox</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGRvdXRcPg==</text>
@@ -194,31 +196,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgT1VUX1BERjoKICAgICAgICAgICAgICAgIGh0bWxfdG9fcGRmKGYie0hUTUxfRElSfXtmaWxlX25hbWV9Lmh0bWwiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZiJ7UERGX0RJUn17ZmlsZV9uYW1lfS5wZGYiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9udGggPSBkYXRlLm1vbnRoCg==</text>
+        <text encoding="base64">U0lOR0xFX09VVF9GSUxFID0gRmFsc2UKSFRNTF9GSUxFID0gIm91dC5odG1sIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbW9udGggPT0gcHJlX21vbnRoOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbW9udGggPT0gcHJlX21vbnRoOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1vbnRoIGluIHNldChtYXAobGFtYmRhIGR0OiBkdC5tb250aCwgZGF0ZV9zb3J0ZWQpKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHByZV9tb250aCA9IG1vbnRoCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXQobWFwKGxhbWJkYSBkdDogZHQubW9udGgsIGRhdGVfc29ydGVkKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB3aXRoIG9wZW4oZiJ7SFRNTF9ESVJ9e2ZpbGVfbmFtZX0uaHRtbCIsICJ3IikgYXMgZjoKICAgICAgICAgICAgICAgIHdyaXRlX2RhdGUoZiwgZGF0ZSkKICAgICAgICAgICAgaWYgT1VUX1BERjoKICAgICAgICAgICAgICAgIGh0bWxfdG9fcGRmKGYie0hUTUxfRElSfXtmaWxlX25hbWV9Lmh0bWwiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZiJ7UERGX0RJUn17ZmlsZV9uYW1lfS5wZGYiKQo=</text>
+        <text encoding="base64">ICAgICAgICBtb250aHMgPSBzZXQobWFwKGxhbWJkYSBkdDogZHQubW9udGgsIGRhdGVfc29ydGVkKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9uYW1lID0gZGF0ZV90b19zdHIoZGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbW9udGhzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmVfbW9udGggPSAyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9udGggPSBkYXRlLm1vbnRoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAjIGFuIG9wdGlvbmFsIHdlaWdodCBmb3IgZWFjaCBwcmVmZXJlbmNlIGFzIGEgdGllIGJyZWFrZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbW9udGggPT0gcHJlX21vbnRoOgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
