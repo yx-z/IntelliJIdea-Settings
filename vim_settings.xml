@@ -44,7 +44,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587143987176">
+      <file name="/Dummy.txt" timestamp="1587341991801">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/DS/3/yz2578/Worker.cpp" timestamp="1586120822384">
@@ -54,21 +54,15 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/3/mapreduce.h" timestamp="1586006893800">
-        <mark key="'" line="14" column="6" />
-        <mark key="[" line="53" column="16" />
-        <mark key="]" line="53" column="26" />
-        <mark key="." line="53" column="26" />
-        <mark key="^" line="53" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/DS/hw/3/mapper.c" timestamp="1585863905443">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/DS/hw/2/stopall" timestamp="1584474287030">
+      <file name="/a.dummy" timestamp="1587328702225">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/BD/Yun/export/main.py" timestamp="1587341739934">
+        <mark key="'" line="170" column="0" />
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/DS/3/mapreduce.cpp" timestamp="1586631038972">
         <mark key="'" line="255" column="0" />
@@ -77,18 +71,13 @@
         <mark key="." line="288" column="0" />
         <mark key="^" line="113" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/hw/2/proxy.py" timestamp="1584474354128">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="95" column="23" />
-        <mark key="." line="95" column="23" />
-        <mark key="^" line="95" column="23" />
+      <file name="$USER_HOME$/Documents/IX/backend/.gitignore" timestamp="1587328569650">
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/DS/3/mr.cpp" timestamp="1586022241850">
         <mark key="[" line="198" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/DS/hw/3/reducer.cpp" timestamp="1585863950222">
-        <mark key="[" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/DS/3/yz2578/Worker.hpp" timestamp="1586119730011">
         <mark key="[" line="12" column="0" />
@@ -110,34 +99,20 @@
         <mark key="." line="94" column="22" />
         <mark key="^" line="94" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/3/mapper.c" timestamp="1586006685322">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/DS/3/CMakeLists.txt" timestamp="1586021841027">
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/DS/3/mapreduce.c" timestamp="1586006878989">
-        <mark key="[" line="97" column="17" />
-        <mark key="]" line="97" column="26" />
-        <mark key="^" line="97" column="26" />
-        <mark key="." line="97" column="26" />
+      <file name="$USER_HOME$/Documents/IX/backend/recommender.py" timestamp="1587328968495">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="24" column="23" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/DS/3/example_numbers/outputdir/output.txt" timestamp="1586367730260">
         <mark key="'" line="327669" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/3/.gitignore" timestamp="1586022061486">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="14" />
-        <mark key="^" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/DS/3/myoutputdir/output.txt" timestamp="1586096614986">
         <mark key="'" line="6" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/BD/Yun/util.py" timestamp="1587338950351">
+        <mark key="[" line="60" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -203,48 +178,49 @@
       <jump line="245" column="0" filename="$USER_HOME$/Documents/DS/3/mapreduce.cpp" />
       <jump line="327669" column="9" filename="$USER_HOME$/Documents/DS/3/example_numbers/outputdir/output.txt" />
       <jump line="91" column="2" filename="$USER_HOME$/Documents/DS/3/mapreduce.hpp" />
+      <jump line="170" column="0" filename="$USER_HOME$/Documents/BD/Yun/export/main.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>NULL</text>
+        <text>inbox</text>
       </register>
       <register name="-" type="4">
-        <text>NULL</text>
+        <text>inbox</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGRvdXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWZvciAoY29uc3QgaW50ICZudW0gOiBudW1zKSB7CgkJb3V0ZmlsZSA8PCBudW0gPDwgIiwiIDw8IG51bV9mcmVxW251bV0gPDwgIlxuIjsKCX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgT1VUX1BERjoKICAgICAgICAgICAgICAgIGh0bWxfdG9fcGRmKGYie0hUTUxfRElSfXtmaWxlX25hbWV9Lmh0bWwiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZiJ7UERGX0RJUn17ZmlsZV9uYW1lfS5wZGYiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNoYXIgYnVmZmVyWzMyXTsK</text>
+        <text encoding="base64">U0lOR0xFX09VVF9GSUxFID0gRmFsc2UKSFRNTF9GSUxFID0gIm91dC5odG1sIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gRm9ybWF0OiBNbywgMTUuMDYuMjAwOSAyMDoyMDowMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTYzNTc5OTkvY3VycmVudC1kYXRlLWFuZC10aW1lLWFzLXN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1vbnRoIGluIHNldChtYXAobGFtYmRhIGR0OiBkdC5tb250aCwgZGF0ZV9zb3J0ZWQpKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXRpbWVfdCBub3cgPSB0aW1lKDApOwoJdG0qIGx0bSA9IGxvY2FsdGltZSgmbm93KTsKCQoJc3RyaW5nIGRhdGVTdHJpbmcgPSAiIiwgdG1wID0gIiI7Cgl0bXAgPSB0b19zdHJpbmcobHRtLT50bV9tZGF5KTsKCWlmICh0bXAubGVuZ3RoKCkgPT0gMSkKCQl0bXAuaW5zZXJ0KDAsICIwIik7CglkYXRlU3RyaW5nICs9IHRtcDsKCWRhdGVTdHJpbmcgKz0gIi0iOwoJdG1wID0gdG9fc3RyaW5nKDEgKyBsdG0tPnRtX21vbik7CglpZiAodG1wLmxlbmd0aCgpID09IDEpIHRtcC5pbnNlcnQoMCwgIjAiKTsKCWRhdGVTdHJpbmcgKz0gdG1wOwoJZGF0ZVN0cmluZyArPSAiLSI7Cgl0bXAgPSB0b19zdHJpbmcoMTkwMCArIGx0bS0+dG1feWVhcik7CglkYXRlU3RyaW5nICs9IHRtcDsKCWRhdGVTdHJpbmcgKz0gIiAiOwoJdG1wID0gdG9fc3RyaW5nKGx0bS0+dG1faG91cik7CglpZiAodG1wLmxlbmd0aCgpID09IDEpIHRtcC5pbnNlcnQoMCwgIjAiKTsKCWRhdGVTdHJpbmcgKz0gdG1wOwoJZGF0ZVN0cmluZyArPSAiOiI7Cgl0bXAgPSB0b19zdHJpbmcoMSArIGx0bS0+dG1fbWluKTsKCWlmICh0bXAubGVuZ3RoKCkgPT0gMSkgdG1wLmluc2VydCgwLCAiMCIpOwoJZGF0ZVN0cmluZyArPSB0bXA7CglkYXRlU3RyaW5nICs9ICI6IjsKCXRtcCA9IHRvX3N0cmluZygxICsgbHRtLT50bV9zZWMpOwoJaWYgKHRtcC5sZW5ndGgoKSA9PSAxKSB0bXAuaW5zZXJ0KDAsICIwIik7CglkYXRlU3RyaW5nICs9IHRtcDsKCQoJcmV0dXJuIChjaGFyKikgZGF0ZVN0cmluZy5jX3N0cigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZXQobWFwKGxhbWJkYSBkdDogZHQubW9udGgsIGRhdGVfc29ydGVkKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWNvdXQgPDwgIk1SX01FUkdFX1NPUlQiIDw8IGVuZGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb250aHMgPSBzZXQobWFwKGxhbWJkYSBkdDogZHQubW9udGgsIGRhdGVfc29ydGVkKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8JCWNvdXQgPDwgIkZJTEU6ICIgPDwgaW5fZmlsZW5hbWUgPDwgZW5kbDsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbW9udGhzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaW50Zigid29ya2VyICVkLlxuIiwgd29ya2VyX2lkKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmVfbW9udGggPSAyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJY291dCA8PCBudW0gPDwgZW5kbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9udGggPSBkYXRlLm1vbnRoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY291dCA8PCAiSEVSRSIgPDwgZW5kbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbW9udGggPT0gcHJlX21vbnRoOgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
