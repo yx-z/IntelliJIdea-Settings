@@ -64,8 +64,10 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/IX/backend/requirements.txt" timestamp="1587516938805">
-        <mark key="[" line="3" column="5" />
+      <file name="$USER_HOME$/Documents/IX/backend/requirements.txt" timestamp="1587519414682">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/DS/3/mapreduce.cpp" timestamp="1586631038972">
         <mark key="'" line="255" column="0" />
@@ -114,11 +116,11 @@
       </file>
       <file name="$USER_HOME$/Documents/IX/backend/data/show.csv" timestamp="1587517233879" />
       <file name="$USER_HOME$/Documents/IX/backend/data/main.py" timestamp="1587516554748" />
-      <file name="$USER_HOME$/Documents/IX/backend/recommender.py" timestamp="1587517656359">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="44" column="53" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Documents/IX/backend/recommender.py" timestamp="1587519716527">
+        <mark key="[" line="63" column="11" />
+        <mark key="]" line="63" column="10" />
+        <mark key="." line="63" column="9" />
+        <mark key="^" line="63" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/DS/3/example_numbers/outputdir/output.txt" timestamp="1586367730260">
         <mark key="'" line="327669" column="9" />
@@ -191,12 +193,15 @@
       <jump line="327669" column="9" filename="$USER_HOME$/Documents/DS/3/example_numbers/outputdir/output.txt" />
       <jump line="91" column="2" filename="$USER_HOME$/Documents/DS/3/mapreduce.hpp" />
       <jump line="170" column="0" filename="$USER_HOME$/Documents/BD/Yun/export/main.py" />
+      <jump line="53" column="9" filename="$USER_HOME$/Documents/IX/backend/recommender.py" />
+      <jump line="47" column="68" filename="$USER_HOME$/Documents/IX/backend/recommender.py" />
+      <jump line="4" column="24" filename="$USER_HOME$/Documents/IX/backend/recommender.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="-" type="4">
         <text>inbox</text>
@@ -208,31 +213,31 @@
         <text encoding="base64">ICAgIHJlY29tbWVuZGF0aW9ucyA9IFtdCgogICAgbnVtX3Blb3BsZSA9IGxlbihwcmVmZXJlbmNlcykKCiAgICByZXR1cm4gcmVjb21tZW5kYXRpb25zCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHUgQCBucC5kaWFnKHNpZ21hKSBAIHZ0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHUsIHNpZ21hLCB2dCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG51bV9wZW9wbGUgPSBsZW4ocHJlZmVyZW5jZXMpCg==</text>
+        <text>scipy</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">aW1wb3J0IHNjaXB5LmxpbmFsZyBhcyBsYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGltZyBzcmM9Imh0dHBzOi8vZ2l0aHViLmNvbS95eC16L1l1bkRhaWx5L2Jsb2IvbWFzdGVyL1l1bi9yZXMvdGl0bGUvb25lLnBuZz9yYXc9dHJ1ZSIgc3R5bGU9IndpZHRoOjEwMCU7Ii8+IAo=</text>
+        <text encoding="base64">ICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGltZyBzcmM9Imh0dHBzOi8vZ2l0aHViLmNvbS95eC16L1l1bkRhaWx5L2Jsb2IvbWFzdGVyL1l1bi9yZXMvdGl0bGUvemhpaHUucG5nP3Jhdz10cnVlIiBzdHlsZT0id2lkdGg6MTAwJTsiLz4gCg==</text>
+        <text encoding="base64">ICAgIHJlY29tbWVuZGF0aW9ucyA9IFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGltZyBzcmM9Imh0dHBzOi8vZ2l0aHViLmNvbS95eC16L1l1bkRhaWx5L2Jsb2IvbWFzdGVyL1l1bi9yZXMvdGl0bGUvb25lLnBuZz9yYXc9dHJ1ZSIgc3R5bGU9IndpZHRoOjEwMCU7Ii8+IAo=</text>
+        <text encoding="base64">dXNpbmdfcmF0aW5ncyA9IG5wLmFycmF5KFtbXV0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGltZyBzcmM9Imh0dHBzOi8vZ2l0aHViLmNvbS95eC16L1l1bkRhaWx5L2Jsb2IvbWFzdGVyL1l1bi9yZXMvdGl0bGUvZmxvd2VyLnBuZz9yYXc9dHJ1ZSIgc3R5bGU9IndpZHRoOjEwMCU7Ii8+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
