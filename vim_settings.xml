@@ -44,7 +44,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587427199953">
+      <file name="/Dummy.txt" timestamp="1587593688121">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/DS/3/yz2578/Worker.cpp" timestamp="1586120822384">
@@ -64,6 +64,11 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/IX/backend/requirements.txt" timestamp="1587519414682">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/DS/3/mapreduce.cpp" timestamp="1586631038972">
         <mark key="'" line="255" column="0" />
         <mark key="[" line="288" column="0" />
@@ -75,9 +80,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/DS/3/mr.cpp" timestamp="1586022241850">
-        <mark key="[" line="198" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/DS/3/yz2578/Worker.hpp" timestamp="1586119730011">
         <mark key="[" line="12" column="0" />
@@ -99,22 +101,25 @@
         <mark key="." line="94" column="22" />
         <mark key="^" line="94" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/BD/Yun/bot_email/template.py" timestamp="1587487763758">
+        <mark key="[" line="82" column="82" />
+        <mark key="]" line="74" column="6" />
+        <mark key="." line="74" column="5" />
+        <mark key="^" line="74" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/DS/4/proxy.py" timestamp="1587425991225">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IX/backend/recommender.py" timestamp="1587328968495">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="24" column="23" />
-        <mark key="." line="24" column="22" />
-        <mark key="^" line="24" column="23" />
+      <file name="$USER_HOME$/Documents/IX/backend/recommender.py" timestamp="1587595830224">
+        <mark key="[" line="51" column="4" />
+        <mark key="]" line="51" column="4" />
+        <mark key="." line="51" column="3" />
+        <mark key="^" line="51" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/DS/3/example_numbers/outputdir/output.txt" timestamp="1586367730260">
         <mark key="'" line="327669" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/DS/3/myoutputdir/output.txt" timestamp="1586096614986">
-        <mark key="'" line="6" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/BD/Yun/util.py" timestamp="1587338950351">
         <mark key="[" line="60" column="0" />
@@ -184,48 +189,53 @@
       <jump line="327669" column="9" filename="$USER_HOME$/Documents/DS/3/example_numbers/outputdir/output.txt" />
       <jump line="91" column="2" filename="$USER_HOME$/Documents/DS/3/mapreduce.hpp" />
       <jump line="170" column="0" filename="$USER_HOME$/Documents/BD/Yun/export/main.py" />
+      <jump line="53" column="9" filename="$USER_HOME$/Documents/IX/backend/recommender.py" />
+      <jump line="47" column="68" filename="$USER_HOME$/Documents/IX/backend/recommender.py" />
+      <jump line="4" column="24" filename="$USER_HOME$/Documents/IX/backend/recommender.py" />
+      <jump line="19" column="46" filename="$USER_HOME$/Documents/IX/backend/recommender.py" />
+      <jump line="0" column="28" filename="$USER_HOME$/Documents/IX/backend/recommender.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>inbox</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGRvdXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgT1VUX1BERjoKICAgICAgICAgICAgICAgIGh0bWxfdG9fcGRmKGYie0hUTUxfRElSfXtmaWxlX25hbWV9Lmh0bWwiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZiJ7UERGX0RJUn17ZmlsZV9uYW1lfS5wZGYiKQo=</text>
+        <text encoding="base64">ICAgIHJlY29tbWVuZGF0aW9ucyA9IFtdCgogICAgbnVtX3Blb3BsZSA9IGxlbihwcmVmZXJlbmNlcykKCiAgICByZXR1cm4gcmVjb21tZW5kYXRpb25zCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0lOR0xFX09VVF9GSUxFID0gRmFsc2UKSFRNTF9GSUxFID0gIm91dC5odG1sIgo=</text>
+        <text encoding="base64">ICAgIGRlZiBwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpZiBsZW4oc2VsZi5leHRyYXMpID4gMDoKICAgICAgICAgICAgc2VsZi5wYXJzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1vbnRoIGluIHNldChtYXAobGFtYmRhIGR0OiBkdC5tb250aCwgZGF0ZV9zb3J0ZWQpKToK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQobWFwKGxhbWJkYSBkdDogZHQubW9udGgsIGRhdGVfc29ydGVkKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb250aHMgPSBzZXQobWFwKGxhbWJkYSBkdDogZHQubW9udGgsIGRhdGVfc29ydGVkKSkK</text>
+        <text encoding="base64">CgpucC5zZXRfcHJpbnRvcHRpb25zKHByZWNpc2lvbj0yLCBzdXBwcmVzcz1UcnVlKQoKcmVjb21tbmVkID0gZ2V0X21vdmllX3JlY29tbWVuZGF0aW9uKG5wLmFycmF5KFtbMCwgOSwgOCwgMF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzEwLCAwLCAwLCAwXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbMCwgMTAsIDcsIDBdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFswLCAwLCAwLCA4XV0pLCAyKQpwcmludChyZWNvbW1uZWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbW9udGhzCg==</text>
+        <text encoding="base64">ICAgIG51bV91c2VycywgbnVtX21vdmllcyA9IHVzZXJfcmF0aW5ncy5zaGFwZQogICAgdSwgc2lnbWEsIHZ0ID0gbGEuc3ZkKHVzZXJfcmF0aW5ncywgZnVsbF9tYXRyaWNlcz1GYWxzZSkKICAgIHYgPSB2dC5UCiAgICB1c2VyID0gIHVzZXJfcmF0aW5nc1t1c2VyX2lkXQogICAgdXNlcl9nZW5yZV9wcmVmZXJlbmNlID0gdXNlciBAIHYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmVfbW9udGggPSAyCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHVzZXJfZ2VucmVfcHJlZmVyZW5jZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9udGggPSBkYXRlLm1vbnRoCg==</text>
+        <text encoding="base64">Z2V0X21vdmllX3JlY29tbWVuZGF0aW9uKG5wLmFycmF5KFtbMSwgOSwgOCwgM10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWzEwLCAwLCAxLCAxXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbMCwgMTAsIDcsIDFdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFswLCAwLCAwLCA4XV0pLCAyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
