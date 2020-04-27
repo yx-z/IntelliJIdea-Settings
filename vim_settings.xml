@@ -44,17 +44,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/DS/4/process.h" timestamp="1588021921614">
-        <mark key="[" line="33" column="3" />
-        <mark key="]" line="30" column="36" />
-        <mark key="." line="30" column="35" />
-        <mark key="^" line="30" column="36" />
+      <file name="$USER_HOME$/Documents/DS/4/process.h" timestamp="1588024703328">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588012226117">
+      <file name="/Dummy.txt" timestamp="1588024050770">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1587328702225">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/DS/4/CMakeLists.txt" timestamp="1588024033283">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/BD/Yun/export/main.py" timestamp="1587341739934">
         <mark key="'" line="170" column="0" />
@@ -118,20 +123,21 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/4/dyad.c" timestamp="1587954627426">
-        <mark key="'" line="407" column="17" />
+      <file name="$USER_HOME$/Documents/DS/4/dyad.c" timestamp="1588023169315">
+        <mark key="'" line="1163" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/4/Makefile" timestamp="1588001180228">
+      <file name="$USER_HOME$/Documents/DS/4/Makefile" timestamp="1588024043675">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="4" column="34" />
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/4/process.c" timestamp="1588021967349">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="126" column="18" />
+      <file name="$USER_HOME$/Documents/DS/4/process.c" timestamp="1588026024291">
+        <mark key="'" line="184" column="17" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="30" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="113" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/BD/Yun/util.py" timestamp="1587338950351">
         <mark key="[" line="60" column="0" />
@@ -211,48 +217,50 @@
       <jump line="407" column="17" filename="$USER_HOME$/Documents/DS/4/dyad.c" />
       <jump line="22" column="71" filename="$USER_HOME$/Documents/DS/4/process.cpp" />
       <jump line="9" column="22" filename="$USER_HOME$/Documents/DS/4/process.hpp" />
+      <jump line="1143" column="43" filename="$USER_HOME$/Documents/DS/4/dyad.c" />
+      <jump line="184" column="17" filename="$USER_HOME$/Documents/DS/4/process.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWlmIChtc2ctPnR5cGUgPT0gUkVRVUVTVF9WT1RFKSB7CgkKCX0KCQoJaWYgKG1zZy0+dHlwZSA9PSBIRUFSVF9CRUFUKSB7Cgl9CgkKCWlmIChtc2ctPnR5cGUgPT0gQVBQRU5EX0VOVFJZKSB7CgkKCX0K</text>
+        <text encoding="base64">CQl2ZWN0b3JfYWRkKCZyb3csIG1zZyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGRvdXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVzZXJfbW92aWVfcHJlZGljdGVkX3JhdGluZykK</text>
+        <text encoding="base64">CXZlY3Rvcl9hZGQoJnZlY3MsIHJvdzApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWlmIChtc2ctPnR5cGUgPT0gUkVRVUVTVF9WT1RFKSB7CgkKCX0KCQoJaWYgKG1zZy0+dHlwZSA9PSBIRUFSVF9CRUFUKSB7Cgl9CgkKCWlmIChtc2ctPnR5cGUgPT0gQVBQRU5EX0VOVFJZKSB7CgkKCX0K</text>
+        <text encoding="base64">CQl2ZWN0b3JfYWRkKCZyb3csIG1zZyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmaXJzdFRpY2sgPSBUUlVFOwo=</text>
+        <text encoding="base64">CQl2ZWN0b3JfcHVzaChtc2dzWzBdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQoJaWYgKG1zZy0+dHlwZSA9PSBSRVFVRVNUX1ZPVEUpIHsKCQkKCX0K</text>
+        <text encoding="base64">CQlmcmVlKGxvZyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm47Cg==</text>
+        <text encoding="base64">CQk9IG1hbGxvY0NsZWFuKE1TR19TSVpFKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCS8vIGhlYXJ0YmVhdAo=</text>
+        <text encoding="base64">CWludHMgPSBtYWxsb2Moc2l6ZW9mKGludCkgKiAxMCk7CglhZGQoKTsKCWZvciAoaW50IGkgPSAwOyBpIDwgMTA7IGkrKykgcHJpbnRmKCIlZFxuIiwgaW50c1tpXSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlhZGRNc2cobXNnKTsK</text>
+        <text encoding="base64">aW50KiBpbnRzIDsKCnZvaWQgYWRkKCkgewoJaW50c1swXSA9IDE7CglpbnRzWzFdID0gMjsKfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWFsbG9jKHNpemVvZihpbnQpICogMTApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dm9pZCBvbkNvbm4oZHlhZF9FdmVudCogZSkgewoJZHlhZF93cml0ZShlLT5zdHJlYW0sIGUtPnVkYXRhLCBNU0dfU0laRSk7Cn0KCg==</text>
+        <text encoding="base64">CS8vIHZlY3RvciB1c2FnZSBleGFtcGxlCglpbnQqKiByb3cwID0gdmVjdG9yX2NyZWF0ZSgpOwoJaW50KiBudW0wID0gbWFsbG9jQ2xlYW4oc2l6ZW9mKGludCkpOwoJKm51bTAgPSAwOwoJdmVjdG9yX2FkZCgmcm93MCwgbnVtMCk7CglpbnQqKiByb3cxID0gdmVjdG9yX2NyZWF0ZSgpOwoJaW50KiBudW0xID0gbWFsbG9jQ2xlYW4oc2l6ZW9mKGludCkpOwoJKm51bTEgPSAxOwoJdmVjdG9yX2FkZCgmcm93MSwgbnVtMSk7CgkKCWludCoqKiB2ZWNzID0gdmVjdG9yX2NyZWF0ZSgpOwoJdmVjdG9yX2FkZCgmdmVjcywgcm93MCk7Cgl2ZWN0b3JfYWRkKCZ2ZWNzLCByb3cxKTsKCWZvciAoaW50IGkgPSAwOyBpIDwgdmVjdG9yX3NpemUodmVjcyk7IGkrKykgewoJCWZvciAoaW50IGogPSAwOyBqIDwgdmVjdG9yX3NpemUodmVjc1tpXSk7IGorKykgewoJCQlwcmludGYoIiVkXG4iLCAqdmVjc1tpXVtqXSk7CgkJfQoJfQoJCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
