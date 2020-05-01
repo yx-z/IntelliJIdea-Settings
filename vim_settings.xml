@@ -44,16 +44,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/DS/4/process.h" timestamp="1588308389937">
-        <mark key="[" line="34" column="4" />
-        <mark key="]" line="36" column="7" />
-        <mark key="." line="36" column="6" />
-        <mark key="^" line="36" column="7" />
+      <file name="$USER_HOME$/Documents/DS/4/process.h" timestamp="1588024703328">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588040557558">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1587328702225">
+      <file name="/Dummy.txt" timestamp="1588341289581">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/DS/4/CMakeLists.txt" timestamp="1588024033283">
@@ -61,12 +58,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/BD/Yun/export/main.py" timestamp="1587341739934">
-        <mark key="'" line="170" column="0" />
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="15" />
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="11" column="15" />
+      <file name="$USER_HOME$/Documents/BD/Yun/export/main.py" timestamp="1588354863497">
+        <mark key="'" line="177" column="0" />
+        <mark key="[" line="90" column="25" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IX/backend/requirements.txt" timestamp="1587668902607">
         <mark key="[" line="2" column="20" />
@@ -111,6 +108,12 @@
         <mark key="." line="106" column="34" />
         <mark key="^" line="106" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/BD/Yun/config.py" timestamp="1588309553603">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/IX/backend/recommender.py" timestamp="1587670029226">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="25" column="0" />
@@ -127,8 +130,14 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/4/process.c" timestamp="1588308886823" />
-      <file name="$USER_HOME$/Documents/BD/Yun/util.py" timestamp="1587338950351">
+      <file name="$USER_HOME$/Documents/DS/4/process.c" timestamp="1588088782087">
+        <mark key="'" line="184" column="17" />
+        <mark key="[" line="64" column="38" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="149" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/BD/Yun/util.py" timestamp="1588339082918">
         <mark key="[" line="60" column="0" />
       </file>
     </filemarks>
@@ -212,11 +221,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGRvdXRcPg==</text>
@@ -225,19 +234,19 @@
         <text encoding="base64">CXZlY3Rvcl9hZGQoJnZlY3MsIHJvdzApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaW50TXNnKG1zZyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">IyB5ZWFyLW1vbnRoIHRvIG91dHB1dCwgZW1wdHkgbGlzdCBmb3IgYWxsIGRhdGVzCllFQVJfTU9OVEhTID0gW10gICMgWyIyMDIwLTA0Il0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW50IHNlbGZJZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKFlFQVJfTU9OVEhTKSA9PSAwIG9yIGV4YWN0X2RhdGUK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">aW50IHNlbGZJZDsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CQo=</text>
@@ -246,10 +255,10 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWludCBwcm94eVBvcnQgPSBhdG9pKGFyZ3ZbM10pOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWludCBwcm94eVBvcnQgPSBhdG9pKGFyZ3ZbM10pOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
