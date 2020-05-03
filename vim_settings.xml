@@ -44,13 +44,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/DS/4/process.h" timestamp="1588024703328">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="12" />
-        <mark key="." line="3" column="11" />
-        <mark key="^" line="3" column="12" />
+      <file name="$USER_HOME$/Documents/DS/4/process.h" timestamp="1588516668694">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="32" column="4" />
+        <mark key="." line="80" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588341289581">
+      <file name="/Dummy.txt" timestamp="1588521545672">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1587328702225">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/DS/4/CMakeLists.txt" timestamp="1588024033283">
@@ -102,11 +105,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/4/proxy.py" timestamp="1588009238956">
-        <mark key="[" line="206" column="32" />
-        <mark key="]" line="106" column="35" />
-        <mark key="." line="106" column="34" />
-        <mark key="^" line="106" column="35" />
+      <file name="$USER_HOME$/Documents/DS/4/proxy.py" timestamp="1588462169079">
+        <mark key="[" line="209" column="32" />
+        <mark key="]" line="109" column="35" />
+        <mark key="." line="109" column="34" />
+        <mark key="^" line="109" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/BD/Yun/config.py" timestamp="1588309553603">
         <mark key="[" line="15" column="23" />
@@ -121,7 +124,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/4/dyad.c" timestamp="1588023169315">
+      <file name="$USER_HOME$/Documents/DS/4/dyad.c" timestamp="1588462479854">
         <mark key="'" line="1163" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/DS/4/Makefile" timestamp="1588024043675">
@@ -130,12 +133,12 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/4/process.c" timestamp="1588088782087">
-        <mark key="'" line="184" column="17" />
-        <mark key="[" line="64" column="38" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="149" column="12" />
+      <file name="$USER_HOME$/Documents/DS/4/process.c" timestamp="1588521535036">
+        <mark key="'" line="35" column="50" />
+        <mark key="[" line="172" column="31" />
+        <mark key="]" line="55" column="14" />
+        <mark key="^" line="55" column="14" />
+        <mark key="." line="55" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/BD/Yun/util.py" timestamp="1588339082918">
         <mark key="[" line="60" column="0" />
@@ -217,48 +220,49 @@
       <jump line="9" column="22" filename="$USER_HOME$/Documents/DS/4/process.hpp" />
       <jump line="1143" column="43" filename="$USER_HOME$/Documents/DS/4/dyad.c" />
       <jump line="184" column="17" filename="$USER_HOME$/Documents/DS/4/process.c" />
+      <jump line="35" column="50" filename="$USER_HOME$/Documents/DS/4/process.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGRvdXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXZlY3Rvcl9hZGQoJnZlY3MsIHJvdzApOwo=</text>
+        <text encoding="base64">CXByaW50ZigiU0VSVkVSIFNPQ0tGRDogJWRcbiIsIGUtPnJlbW90ZS0+c29ja2ZkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyB5ZWFyLW1vbnRoIHRvIG91dHB1dCwgZW1wdHkgbGlzdCBmb3IgYWxsIGRhdGVzCllFQVJfTU9OVEhTID0gW10gICMgWyIyMDIwLTA0Il0KCg==</text>
+        <text encoding="base64">CQkJCQlzZWVOb25FbXB0eSA9IFRSVUU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKFlFQVJfTU9OVEhTKSA9PSAwIG9yIGV4YWN0X2RhdGUK</text>
+        <text encoding="base64">CQkJaWYgKGkgPiAwKSB7CgkJCQlzdHJjYXQobG9nLCAiLCIpOwoJCQl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW50IHNlbGZJZDsK</text>
+        <text encoding="base64">CQkJc3RyY2F0KGxvZywgbXNnc1tpXS5idWYpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJcHJpbnRmKCJDVVJSIExPRzogJXNcbiIsIGxvZyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQltc2ctPmJ1ZiA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWludCBjYWNoZVNpemUgPSB2ZWN0b3Jfc2l6ZShjYWNoZXMpOwoJZm9yIChpbnQgaSA9IDA7IGkgPCBjYWNoZVNpemU7IGkrKykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
