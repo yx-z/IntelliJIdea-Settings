@@ -44,8 +44,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/DS/4/process.h" timestamp="1588464706571">
-        <mark key="^" line="3" column="12" />
+      <file name="$USER_HOME$/Documents/DS/4/process.h" timestamp="1588469384981">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="32" column="4" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1588341289581">
         <mark key="[" line="0" column="0" />
@@ -130,8 +133,12 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/4/process.c" timestamp="1588466139668">
+      <file name="$USER_HOME$/Documents/DS/4/process.c" timestamp="1588469514801">
         <mark key="'" line="35" column="50" />
+        <mark key="[" line="552" column="67" />
+        <mark key="]" line="553" column="4" />
+        <mark key="^" line="553" column="4" />
+        <mark key="." line="553" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/BD/Yun/util.py" timestamp="1588339082918">
         <mark key="[" line="60" column="0" />
@@ -218,11 +225,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8JcHJpbnRmKCJQUk9YWSBTT0NLRkQ6ICVkXG4iLCBlLT5yZW1vdGUtPnNvY2tmZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGRvdXRcPg==</text>
@@ -231,31 +238,31 @@
         <text encoding="base64">CXByaW50ZigiU0VSVkVSIFNPQ0tGRDogJWRcbiIsIGUtPnJlbW90ZS0+c29ja2ZkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JcHJpbnRmKCJQUk9YWSBTT0NLRkQ6ICVkXG4iLCBlLT5yZW1vdGUtPnNvY2tmZCk7Cg==</text>
+        <text encoding="base64">CS8vIHNlbmQoKSBhbGwgY2FjaGVzIGlmIGFueSB0byBsZWFkZXI/Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaW50ZigiU0VSVkVSIFNPQ0tGRDogJWRcbiIsIGUtPnN0cmVhbS0+c29ja2ZkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWUtPnJlbW90ZS0+c29ja2ZkCg==</text>
+        <text encoding="base64">Ly8gaW50IGdldE1zZ0lkKGNoYXIqIHJhd01zZykgewovLyAJY2hhciogc3RhcnQgPSBzdHJjaHIocmF3TXNnLCAnICcpICsgMTsKLy8gCWNoYXIqIGVuZCA9IHN0cmNocihzdGFydCwgJyAnKTsKLy8gCSplbmQgPSAwOwovLyAJaW50IGlkID0gYXRvaShzdGFydCk7Ci8vIAkqZW5kID0gJyAnOyAvLyByZXN0b3JlCi8vIAlyZXR1cm4gaWQ7Ci8vIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZS0+c3RyZWFtLgo=</text>
+        <text encoding="base64">CXByb3h5X2ZkID0gZS0+c3RyZWFtLT5zb2NrZmQ7CglwcmludGYoImZkOiAlZFxuIiwgcHJveHlfZmQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWUtPnN0cmVhbS4K</text>
+        <text encoding="base64">aW50IHByb3h5X2ZkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWR5YWRfU29ja2V0IAo=</text>
+        <text encoding="base64">dm9pZCogbWFsbG9jQ2xlYW4oaW50IHNpemUpOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlkeWFkX3dyaXRlCg==</text>
+        <text encoding="base64">CnZvaWQgYWRkTXNnKE1lc3NhZ2UqIG1zZyk7Cgp2b2lkIHByaW50TXNnKE1lc3NhZ2UqIG1zZyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8vIHByaW50TXNnKG1zZyk7Cg==</text>
+        <text encoding="base64">CnZvaWQqIG1hbGxvY0NsZWFuKGludCBzaXplKSB7CglyZXR1cm4gY2FsbG9jKDEsIHNpemUpOwp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlwcmludE1zZygmbXNnKTsK</text>
+        <text encoding="base64">dm9pZCBwcmludE1zZyhNZXNzYWdlKiBtc2cpIHsKCS8vIFRPRE8KfQoK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
