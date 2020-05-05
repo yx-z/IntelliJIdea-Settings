@@ -50,11 +50,11 @@
         <mark key="^" line="32" column="4" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588692071468">
+      <file name="/Dummy.txt" timestamp="1588694153376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/proxy.py" timestamp="1588643075289">
-        <mark key="[" line="48" column="20" />
+      <file name="$USER_HOME$/Documents/DS/proxy.py" timestamp="1588693908472">
+        <mark key="[" line="48" column="37" />
         <mark key="]" line="48" column="22" />
         <mark key="." line="48" column="21" />
         <mark key="^" line="48" column="22" />
@@ -107,12 +107,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/process.c" timestamp="1588692172954">
+      <file name="$USER_HOME$/Documents/DS/process.c" timestamp="1588694213626">
         <mark key="'" line="573" column="0" />
-        <mark key="[" line="68" column="15" />
-        <mark key="]" line="160" column="22" />
-        <mark key="." line="160" column="21" />
-        <mark key="^" line="160" column="22" />
+        <mark key="[" line="178" column="17" />
+        <mark key="]" line="179" column="12" />
+        <mark key="." line="179" column="8" />
+        <mark key="^" line="179" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/DS/4/proxy.py" timestamp="1588462169079">
         <mark key="[" line="209" column="32" />
@@ -238,12 +238,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>killall:`
-	exec ./stopall</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGRvdXRcPg==</text>
@@ -252,32 +251,32 @@
         <text encoding="base64">CQkJY2hhciBhY2tbTUFYX01TR19MRU5dOwoJCQkKCQkJLy8gbWVtc2V0KGFjaywgMCwgTUFYX01TR19MRU4pOwoJCQlzbnByaW50ZihhY2ssIE1BWF9NU0dfTEVOLCAiYWNrICVkICVkXG4iLCBtc2dzW2ldLnNlcSwKCQkJICAgICAgICAgaSk7IC8vIG1lc3NhZ2VJRCAoZnJvbSBjbGllbnQpLCBzZXFJRCAoZnJvbSBzZXJ2ZXIpCgkJCWR5YWRfd3JpdGVmKHByb3h5U3RyZWFtLCBhY2spOwoJCQkvLyB3cml0ZShwcm94eV9mZCwgYWNrLCBzdHJsZW4oYWNrKSk7CgkJCXByaW50ZigiQUNLIFNFTlQ6ICVzXG4iLCBhY2spOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CQkJCQlzZW5kTXNnVG8obGVhZGVySWQsIG1zZyk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQljYWNoZXNbMF0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQlNZXNzYWdlKiBtc2cgPSAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCXNlbmRNc2dUbyhsZWFkZXJJZCwgbXNnKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text>killall:`
 	exec ./stopall</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkK</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJLy8gd3JpdGUocHJveHlfZmQsIGFjaywgc3RybGVuKGFjaykpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJLy8gbWVtc2V0KGFjaywgMCwgTUFYX01TR19MRU4pOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJaW50IGxhc3QgPSB2ZWN0b3Jfc2l6ZShtc2dzKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJYXBwbHlOZXdDb21taXNzaW9uKCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJaW50IGxhc3QgPSB2ZWN0b3Jfc2l6ZShtc2dzKSAtIDE7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
