@@ -50,7 +50,7 @@
         <mark key="^" line="32" column="4" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588640237729">
+      <file name="/Dummy.txt" timestamp="1588692071468">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/DS/proxy.py" timestamp="1588643075289">
@@ -84,17 +84,16 @@
         <mark key="^" line="41" column="28" />
         <mark key="." line="41" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/DS/Makefile" timestamp="1588692058325">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/IX/backend/main.py" timestamp="1587668956642">
         <mark key="[" line="53" column="29" />
         <mark key="]" line="51" column="28" />
         <mark key="^" line="51" column="28" />
         <mark key="." line="51" column="27" />
-      </file>
-      <file name="/20" timestamp="1587658143910">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/" timestamp="1587658148084">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/DS/process.h" timestamp="1588690812014">
         <mark key="[" line="72" column="0" />
@@ -108,9 +107,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/process.c" timestamp="1588649763502">
+      <file name="$USER_HOME$/Documents/DS/process.c" timestamp="1588692172954">
         <mark key="'" line="573" column="0" />
-        <mark key="[" line="158" column="32" />
+        <mark key="[" line="68" column="15" />
         <mark key="]" line="160" column="22" />
         <mark key="." line="160" column="21" />
         <mark key="^" line="160" column="22" />
@@ -143,6 +142,7 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/DS/stopall" timestamp="1588691838108" />
       <file name="$USER_HOME$/Documents/DS/4/process.c" timestamp="1588521535036">
         <mark key="'" line="35" column="50" />
         <mark key="[" line="172" column="31" />
@@ -238,8 +238,9 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text>killall:`
+	exec ./stopall</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -251,31 +252,32 @@
         <text encoding="base64">CQkJY2hhciBhY2tbTUFYX01TR19MRU5dOwoJCQkKCQkJLy8gbWVtc2V0KGFjaywgMCwgTUFYX01TR19MRU4pOwoJCQlzbnByaW50ZihhY2ssIE1BWF9NU0dfTEVOLCAiYWNrICVkICVkXG4iLCBtc2dzW2ldLnNlcSwKCQkJICAgICAgICAgaSk7IC8vIG1lc3NhZ2VJRCAoZnJvbSBjbGllbnQpLCBzZXFJRCAoZnJvbSBzZXJ2ZXIpCgkJCWR5YWRfd3JpdGVmKHByb3h5U3RyZWFtLCBhY2spOwoJCQkvLyB3cml0ZShwcm94eV9mZCwgYWNrLCBzdHJsZW4oYWNrKSk7CgkJCXByaW50ZigiQUNLIFNFTlQ6ICVzXG4iLCBhY2spOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text>killall:`
+	exec ./stopall</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLy8gd3JpdGUocHJveHlfZmQsIGFjaywgc3RybGVuKGFjaykpOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJLy8gd3JpdGUocHJveHlfZmQsIGFjaywgc3RybGVuKGFjaykpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJLy8gbWVtc2V0KGFjaywgMCwgTUFYX01TR19MRU4pOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJaW50IGxhc3QgPSB2ZWN0b3Jfc2l6ZShtc2dzKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJLy8gbWVtc2V0KGFjaywgMCwgTUFYX01TR19MRU4pOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJaW50IGxhc3QgPSB2ZWN0b3Jfc2l6ZShtc2dzKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJYXBwbHlOZXdDb21taXNzaW9uKCk7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJaW50IGxhc3QgPSB2ZWN0b3Jfc2l6ZShtc2dzKSAtIDE7Cg==</text>
+        <text encoding="base64">CQkJYXBwbHlOZXdDb21taXNzaW9uKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY29tbWl0SW5kZXggPSBtYXRjaEluZGV4W2ldOwo=</text>
+        <text encoding="base64">CQkJaW50IGxhc3QgPSB2ZWN0b3Jfc2l6ZShtc2dzKSAtIDE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
