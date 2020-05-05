@@ -50,10 +50,15 @@
         <mark key="^" line="32" column="4" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588612955178">
+      <file name="/Dummy.txt" timestamp="1588640237729">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/proxy.py" timestamp="1588625436742" />
+      <file name="$USER_HOME$/Documents/DS/proxy.py" timestamp="1588638388246">
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="48" column="22" />
+        <mark key="." line="48" column="21" />
+        <mark key="^" line="48" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/DS/4/CMakeLists.txt" timestamp="1588024033283">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -103,7 +108,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/process.c" timestamp="1588628662135" />
+      <file name="$USER_HOME$/Documents/DS/process.c" timestamp="1588640226569">
+        <mark key="'" line="573" column="0" />
+        <mark key="[" line="158" column="32" />
+        <mark key="]" line="160" column="22" />
+        <mark key="." line="160" column="21" />
+        <mark key="^" line="160" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/DS/4/proxy.py" timestamp="1588462169079">
         <mark key="[" line="209" column="32" />
         <mark key="]" line="109" column="35" />
@@ -220,48 +231,51 @@
       <jump line="1143" column="43" filename="$USER_HOME$/Documents/DS/4/dyad.c" />
       <jump line="184" column="17" filename="$USER_HOME$/Documents/DS/4/process.c" />
       <jump line="35" column="50" filename="$USER_HOME$/Documents/DS/4/process.c" />
+      <jump line="559" column="8" filename="$USER_HOME$/Documents/DS/process.c" />
+      <jump line="564" column="0" filename="$USER_HOME$/Documents/DS/process.c" />
+      <jump line="566" column="0" filename="$USER_HOME$/Documents/DS/process.c" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>last</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGRvdXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaW50ZigiU0VSVkVSIFNPQ0tGRDogJWRcbiIsIGUtPnJlbW90ZS0+c29ja2ZkKTsK</text>
+        <text encoding="base64">CQkJY2hhciBhY2tbTUFYX01TR19MRU5dOwoJCQkKCQkJLy8gbWVtc2V0KGFjaywgMCwgTUFYX01TR19MRU4pOwoJCQlzbnByaW50ZihhY2ssIE1BWF9NU0dfTEVOLCAiYWNrICVkICVkXG4iLCBtc2dzW2ldLnNlcSwKCQkJICAgICAgICAgaSk7IC8vIG1lc3NhZ2VJRCAoZnJvbSBjbGllbnQpLCBzZXFJRCAoZnJvbSBzZXJ2ZXIpCgkJCWR5YWRfd3JpdGVmKHByb3h5U3RyZWFtLCBhY2spOwoJCQkvLyB3cml0ZShwcm94eV9mZCwgYWNrLCBzdHJsZW4oYWNrKSk7CgkJCXByaW50ZigiQUNLIFNFTlQ6ICVzXG4iLCBhY2spOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIFRPRE86IEV2ZXJ5dGltZSByZWNlaXZlIG1zZywgdHJ5IHRvIHNlbmQgcGVuZGluZyByZXF1ZXN0IHRvIGxlYWRlcgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vIFRPRE86IG1vdmUgYWxsIGNhY2hlIHRvIGxvZwo=</text>
+        <text encoding="base64">CQkJLy8gd3JpdGUocHJveHlfZmQsIGFjaywgc3RybGVuKGFjaykpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gdm9pZCBhZGRMb2coTG9nKiBsb2csIExvZyogdmVjKTsKCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljYXNlIEZPUldBUkRfQUNLOgoJCQkKCQkJYnJlYWs7Cg==</text>
+        <text encoding="base64">CQkJLy8gbWVtc2V0KGFjaywgMCwgTUFYX01TR19MRU4pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJaW50IGxhc3QgPSB2ZWN0b3Jfc2l6ZShtc2dzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlzZWVOb25FbXB0eSA9IFRSVUU7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJaWYgKGkgPiAwKSB7CgkJCQlzdHJjYXQobG9nLCAiLCIpOwoJCQl9Cg==</text>
+        <text encoding="base64">CQkJYXBwbHlOZXdDb21taXNzaW9uKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJaW50IGxhc3QgPSB2ZWN0b3Jfc2l6ZShtc2dzKSAtIDE7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJc3RyY2F0KGxvZywgbXNnc1tpXS5idWYpOwo=</text>
+        <text encoding="base64">CQkJY29tbWl0SW5kZXggPSBtYXRjaEluZGV4W2ldOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
