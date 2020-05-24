@@ -76,12 +76,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/4/process.cpp" timestamp="1587956236062">
-        <mark key="'" line="22" column="71" />
-        <mark key="[" line="41" column="12" />
-        <mark key="]" line="41" column="28" />
-        <mark key="^" line="41" column="28" />
-        <mark key="." line="41" column="27" />
+      <file name="$USER_HOME$/Documents/LC/src/median/Sol16.kt" timestamp="1590350511444">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/DS/Makefile" timestamp="1588692058325">
         <mark key="[" line="9" column="0" />
@@ -230,7 +229,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXZhbCB0biA9IHJlYWRMaW5lKCkhIS50b0ludCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -242,31 +241,31 @@
         <text encoding="base64">CQl2YWwgKGExLCBiMSkgPSByZWFkTGluZSgpISEuc3BsaXQoIiAiKS5tYXAgeyBpdC50b0ludCgpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhbCB0biA9IHJlYWRMaW5lKCkhIS50b0ludCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CmZ1biBtYWluKCkgewoKfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZvciAodCBpbiAxLi50bikgewoJCXZhbCBhcnIgPSByZWFkTGluZSgpISEuc3BsaXQoIiAiKS5tYXAgeyBpdC50b0ludCgpIH0KCQl2YXIgc2EgPSBhcnJbMF0KCQl2YXIgc2IgPSAwCgkJdmFyIGxvID0gMQoJCXZhciBoaSA9IGFyci5zaXplIC0gMQoJCXZhciBjYSA9IGFyclswXQoJCXZhciBjYiA9IDAKCQl2YXIgYUVhdCA9IGZhbHNlCgkJd2hpbGUgKGxvIDw9IGhpKSB7CgkJCWlmIChhRWF0KSB7CgkJCQl2YXIgY3VyQSA9IDAKCQkJCXdoaWxlIChsbyA8PSBoaSkgewoJCQkJCQoJCQkJCWxvKysKCQkJCX0KCQkJfSBlbHNlIHsKCQkJCQoJCQl9CgkJfQoJCXByaW50bG4oIiRzYSAkc2IiKQo=</text>
+        <text encoding="base64">CWNsYXNzIFNvbHV0aW9uIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CXZhbCB0biA9IHJlYWRMaW5lKCkhIS50b0ludCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJdmFyIAo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl2YWwgbiA9IHJlYWRMaW5lKCkhIS50b0ludCgpCg==</text>
+        <text encoding="base64">CWZvciAodCBpbiAxLi50bikgewoJCXZhbCBhcnIgPSByZWFkTGluZSgpISEuc3BsaXQoIiAiKS5tYXAgeyBpdC50b0ludCgpIH0KCQl2YXIgc2EgPSBhcnJbMF0KCQl2YXIgc2IgPSAwCgkJdmFyIGxvID0gMQoJCXZhciBoaSA9IGFyci5zaXplIC0gMQoJCXZhciBjYSA9IGFyclswXQoJCXZhciBjYiA9IDAKCQl2YXIgYUVhdCA9IGZhbHNlCgkJd2hpbGUgKGxvIDw9IGhpKSB7CgkJCWlmIChhRWF0KSB7CgkJCQl2YXIgY3VyQSA9IDAKCQkJCXdoaWxlIChsbyA8PSBoaSkgewoJCQkJCQoJCQkJCWxvKysKCQkJCX0KCQkJfSBlbHNlIHsKCQkJCQoJCQl9CgkJfQoJCXByaW50bG4oIiRzYSAkc2IiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl2YXIgbiA9IHJlYWRMaW5lKCkhIS50b0ludCgpCgkJdmFsIHJvdW5kcyA9IEFycmF5TGlzdDxJbnQ+KCkKCQl2YXIgaSA9IDEKCQl3aGlsZSAobiA+IDApIHsKCQkJdmFsIHJlbSA9IG4gJSAxMAoJCQlpZiAocmVtICE9IDApIHsKCQkJCXJvdW5kcy5hZGQocmVtICogaSkKCQkJfQoJCQlpICo9IDEwCgkJCW4gLz0gMTAKCQl9CgkJcHJpbnRsbihyb3VuZHMuc2l6ZSkKCQlwcmludGxuKHJvdW5kcy5qb2luVG9TdHJpbmcoIiAiKSkK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJbiAvPSAxMGRkCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
