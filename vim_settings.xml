@@ -55,7 +55,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589330924250">
+      <file name="/Dummy.txt" timestamp="1590355922296">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/DS/proxy.py" timestamp="1588727025849">
@@ -64,11 +64,6 @@
         <mark key="." line="48" column="21" />
         <mark key="^" line="48" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/4/CMakeLists.txt" timestamp="1588024033283">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/BD/Yun/export/main.py" timestamp="1588354863497">
         <mark key="'" line="177" column="0" />
         <mark key="[" line="90" column="25" />
@@ -76,11 +71,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/LC/src/median/Sol16.kt" timestamp="1590354815403">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="19" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/LC/src/median/Sol16.kt" timestamp="1590355920109">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="38" column="5" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="30" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/DS/Makefile" timestamp="1588692058325">
         <mark key="[" line="9" column="0" />
@@ -101,6 +96,9 @@
         <mark key="]" line="109" column="35" />
         <mark key="." line="109" column="34" />
         <mark key="^" line="109" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/LC/src/median/Sol29.kt" timestamp="1590356044627">
+        <mark key="^" line="3" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/BD/Yun/config.py" timestamp="1588309553603">
         <mark key="[" line="15" column="23" />
@@ -229,10 +227,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQl2YWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGRvdXRcPg==</text>
@@ -241,31 +239,31 @@
         <text encoding="base64">CQl2YWwgKGExLCBiMSkgPSByZWFkTGluZSgpISEuc3BsaXQoIiAiKS5tYXAgeyBpdC50b0ludCgpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl2YWwK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CXZhbCBPVkVSRkxPVyA9IAo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">CmZ1biBtYWluKCkgewoKfQ==</text>
+        <text encoding="base64">CQkJcmV0dXJuIGNsb3Nlc3RTdW0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWNsYXNzIFNvbHV0aW9uIHsK</text>
+        <text encoding="base64">CQkJCQkJaWYgKGN1ckRpZmYgPT0gMCkgewoJCQkJCQkJCgkJCQkJCX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXZhbCB0biA9IHJlYWRMaW5lKCkhIS50b0ludCgpCg==</text>
+        <text encoding="base64">CQkJCX0gZWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJaWYgKGxvID09IHBpdm90IHx8IGhpID09IHBpdm90KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZvciAodCBpbiAxLi50bikgewoJCXZhbCBhcnIgPSByZWFkTGluZSgpISEuc3BsaXQoIiAiKS5tYXAgeyBpdC50b0ludCgpIH0KCQl2YXIgc2EgPSBhcnJbMF0KCQl2YXIgc2IgPSAwCgkJdmFyIGxvID0gMQoJCXZhciBoaSA9IGFyci5zaXplIC0gMQoJCXZhciBjYSA9IGFyclswXQoJCXZhciBjYiA9IDAKCQl2YXIgYUVhdCA9IGZhbHNlCgkJd2hpbGUgKGxvIDw9IGhpKSB7CgkJCWlmIChhRWF0KSB7CgkJCQl2YXIgY3VyQSA9IDAKCQkJCXdoaWxlIChsbyA8PSBoaSkgewoJCQkJCQoJCQkJCWxvKysKCQkJCX0KCQkJfSBlbHNlIHsKCQkJCQoJCQl9CgkJfQoJCXByaW50bG4oIiRzYSAkc2IiKQo=</text>
+        <text encoding="base64">CQl2YWwgbWFwID0gSGFzaE1hcDxJbnQsID4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQl2YWwK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
