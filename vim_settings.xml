@@ -27,7 +27,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -39,18 +39,26 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/DS/4/process.h" timestamp="1588516668694">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="32" column="4" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/Documents/LC/src/Main.kt" timestamp="1590533627638">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588521545672">
+      <file name="/[ ~/Desktop/untitled ]" timestamp="1591812018220">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591230085601">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/DS/proxy.py" timestamp="1588727025849">
@@ -59,24 +67,32 @@
         <mark key="." line="48" column="21" />
         <mark key="^" line="48" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/4/CMakeLists.txt" timestamp="1588024033283">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="/[ ~/Desktop/test ]" timestamp="1591635733075">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/BD/Yun/export/main.py" timestamp="1588354863497">
-        <mark key="'" line="177" column="0" />
-        <mark key="[" line="90" column="25" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/Documents/LC/src/median/Sol18.kt" timestamp="1590452289953">
+        <mark key="[" line="21" column="98" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="32" />
+        <mark key="^" line="21" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/4/process.cpp" timestamp="1587956236062">
-        <mark key="'" line="22" column="71" />
-        <mark key="[" line="41" column="12" />
-        <mark key="]" line="41" column="28" />
-        <mark key="^" line="41" column="28" />
-        <mark key="." line="41" column="27" />
+      <file name="$USER_HOME$/Documents/LC/src/easy/Sol1.kt" timestamp="1591230081350">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/Desktop/KH/src/Main.kt" timestamp="1590503828922">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="3" column="61" />
+        <mark key="." line="3" column="60" />
+        <mark key="^" line="3" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/LC/src/median/Sol16.kt" timestamp="1590451521347">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="33" />
+        <mark key="^" line="11" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/DS/Makefile" timestamp="1588692058325">
         <mark key="[" line="9" column="0" />
@@ -89,51 +105,48 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/4/process.hpp" timestamp="1587956094719">
-        <mark key="'" line="9" column="22" />
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/LC/src/easy/Sol21.kt" timestamp="1591486216639">
+        <mark key="[" line="13" column="78" />
       </file>
-      <file name="$USER_HOME$/Desktop/Sample/resources/application.conf" timestamp="1588534484174">
-        <mark key="[" line="6" column="33" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-core/1.3.2/2cb18eabd6793488a084ca92659198071c00f2b/ktor-server-core-1.3.2-sources.jar!/jvmMain/io/ktor/http/content/StaticContent.kt" timestamp="1593565575876">
+        <mark key="[" line="131" column="52" />
+        <mark key="]" line="131" column="52" />
+        <mark key="^" line="131" column="52" />
+        <mark key="." line="131" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/4/proxy.py" timestamp="1588462169079">
-        <mark key="[" line="209" column="32" />
-        <mark key="]" line="109" column="35" />
-        <mark key="." line="109" column="34" />
-        <mark key="^" line="109" column="35" />
+      <file name="$USER_HOME$/Desktop/test/main.rmd" timestamp="1591635776815">
+        <mark key="[" line="19" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/BD/Yun/config.py" timestamp="1588309553603">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="25" />
-        <mark key="." line="15" column="24" />
-        <mark key="^" line="15" column="25" />
+      <file name="$USER_HOME$/Documents/LC/src/median/Sol29.kt" timestamp="1590446640899">
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/Sample/src/Application.kt" timestamp="1588534494077">
+      <file name="$USER_HOME$/Desktop/KH/src/ProblemA.kt" timestamp="1589819336449">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1593610726883">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/4/dyad.c" timestamp="1588462479854">
-        <mark key="'" line="1163" column="43" />
+      <file name="$USER_HOME$/Documents/LC/src/hard/Sol10.kt" timestamp="1589330912734">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/DS/4/Makefile" timestamp="1588024043675">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="4" column="34" />
-        <mark key="^" line="4" column="34" />
-        <mark key="." line="4" column="33" />
+      <file name="$USER_HOME$/Desktop/untitled/Test.rmd" timestamp="1591812282799">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="14" column="90" />
+        <mark key="^" line="14" column="90" />
+        <mark key="." line="14" column="89" />
       </file>
-      <file name="/fragment.java" timestamp="1588534532944">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/DS/4/process.c" timestamp="1588521535036">
-        <mark key="'" line="35" column="50" />
-        <mark key="[" line="172" column="31" />
-        <mark key="]" line="55" column="14" />
-        <mark key="^" line="55" column="14" />
-        <mark key="." line="55" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/BD/Yun/util.py" timestamp="1588339082918">
-        <mark key="[" line="60" column="0" />
+      <file name="$USER_HOME$/Desktop/Demo/src/Application.kt" timestamp="1593610017046">
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -214,48 +227,55 @@
       <jump line="184" column="17" filename="$USER_HOME$/Documents/DS/4/process.c" />
       <jump line="35" column="50" filename="$USER_HOME$/Documents/DS/4/process.c" />
       <jump line="1" column="25" filename="$USER_HOME$/Desktop/Sample/src/Application.kt" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/LC/src/hard/Sol10.kt" />
+      <jump line="4" column="10" filename="$USER_HOME$/Documents/LC/src/median/Sol29.kt" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/LC/src/median/Sol29.kt" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/LC/src/median/Sol29.kt" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/LC/src/median/Sol29.kt" />
+      <jump line="45" column="9" filename="$USER_HOME$/Desktop/Demo/src/Application.kt" />
+      <jump line="58" column="0" filename="$USER_HOME$/Desktop/Demo/src/Application.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGRvdXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaW50ZigiU0VSVkVSIFNPQ0tGRDogJWRcbiIsIGUtPnJlbW90ZS0+c29ja2ZkKTsK</text>
+        <text encoding="base64">CQl2YWwgKGExLCBiMSkgPSByZWFkTGluZSgpISEuc3BsaXQoIiAiKS5tYXAgeyBpdC50b0ludCgpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXZlY3Rvcl9hZGQoJm1zZ3MsIG1zZy4pOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnVuIEZsb3dPck1ldGFEYXRhQ29udGVudC5zdHlsZUNzcyhidWlsZGVyOiBDU1NCdWlsZGVyLigpIC0+IFVuaXQpIHsKICAgIHN0eWxlKHR5cGUgPSBDb250ZW50VHlwZS5UZXh0LkNTUy50b1N0cmluZygpKSB7CiAgICAgICAgK0NTU0J1aWxkZXIoKS5hcHBseShidWlsZGVyKS50b1N0cmluZygpCiAgICB9Cn0KCmZ1biBDb21tb25BdHRyaWJ1dGVHcm91cEZhY2FkZS5zdHlsZShidWlsZGVyOiBDU1NCdWlsZGVyLigpIC0+IFVuaXQpIHsKICAgIHRoaXMuc3R5bGUgPSBDU1NCdWlsZGVyKCkuYXBwbHkoYnVpbGRlcikudG9TdHJpbmcoKS50cmltKCkKfQoKc3VzcGVuZCBpbmxpbmUgZnVuIEFwcGxpY2F0aW9uQ2FsbC5yZXNwb25kQ3NzKGJ1aWxkZXI6IENTU0J1aWxkZXIuKCkgLT4gVW5pdCkgewogICAgdGhpcy5yZXNwb25kVGV4dChDU1NCdWlsZGVyKCkuYXBwbHkoYnVpbGRlcikudG9TdHJpbmcoKSwgQ29udGVudFR5cGUuVGV4dC5DU1MpCn0K</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFja2FnZSBpby5naXRodWIueXhfego=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">ICAgICAgICAvKgogICAgICAgIGdldCgiL3N0eWxlcy5jc3MiKSB7CiAgICAgICAgICAgIGNhbGwucmVzcG9uZENzcyB7CiAgICAgICAgICAgICAgICBib2R5IHsKICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3IgPSBDb2xvci5yZWQKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHAgewogICAgICAgICAgICAgICAgICAgIGZvbnRTaXplID0gMi5lbQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcnVsZSgicC5teWNsYXNzIikgewogICAgICAgICAgICAgICAgICAgIGNvbG9yID0gQ29sb3IuYmx1ZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICAvLyBTdGF0aWMgZmVhdHVyZS4gVHJ5IHRvIGFjY2VzcyBgL3N0YXRpYy9rdG9yX2xvZ28uc3ZnYAogICAgICAgIHN0YXRpYygiL3N0YXRpYyIpIHsKICAgICAgICAgICAgcmVzb3VyY2VzKCJzdGF0aWMiKQogICAgICAgIH0KCiAgICAgICAgZ2V0KCIvanNvbi9nc29uIikgewogICAgICAgICAgICBjYWxsLnJlc3BvbmQobWFwT2YoImhlbGxvIiB0byAid29ybGQiKSkKICAgICAgICB9CiAgICAgICAgICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlzZWVOb25FbXB0eSA9IFRSVUU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJaWYgKGkgPiAwKSB7CgkJCQlzdHJjYXQobG9nLCAiLCIpOwoJCQl9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBjbGllbnQgPSBIdHRwQ2xpZW50KEpldHR5KSB7CiAgICAgICAgaW5zdGFsbChKc29uRmVhdHVyZSkgewogICAgICAgICAgICBzZXJpYWxpemVyID0gR3NvblNlcmlhbGl6ZXIoKQogICAgICAgIH0KICAgIH0KICAgIHJ1bkJsb2NraW5nIHsKICAgICAgICAvLyBTYW1wbGUgZm9yIG1ha2luZyBhIEhUVFAgQ2xpZW50IHJlcXVlc3QKICAgICAgICAvKgogICAgICAgIHZhbCBtZXNzYWdlID0gY2xpZW50LnBvc3Q8SnNvblNhbXBsZUNsYXNzPiB7CiAgICAgICAgICAgIHVybCgiaHR0cDovLzEyNy4wLjAuMTo4MDgwL3BhdGgvdG8vZW5kcG9pbnQiKQogICAgICAgICAgICBjb250ZW50VHlwZShDb250ZW50VHlwZS5BcHBsaWNhdGlvbi5Kc29uKQogICAgICAgICAgICBib2R5ID0gSnNvblNhbXBsZUNsYXNzKGhlbGxvID0gIndvcmxkIikKICAgICAgICB9CiAgICAgICAgKi8KICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJc3RyY2F0KGxvZywgbXNnc1tpXS5idWYpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJcHJpbnRmKCJDVVJSIExPRzogJXNcbiIsIGxvZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -274,7 +294,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="7" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
